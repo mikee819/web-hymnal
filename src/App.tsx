@@ -51,7 +51,7 @@ export default function App() {
   const [activeParts, setActiveParts] = useState<PartName[]>(['full']);
 
   useEffect(() => {
-    fetch('/data/hymns-index.json')
+    fetch(`${import.meta.env.BASE_URL}data/hymns-index.json`)
       .then((res) => res.json())
       .then((data) => {
         setCatalog(data);
@@ -72,7 +72,7 @@ export default function App() {
       return;
     }
 
-    fetch(`/data/hymns/${selectedHymnId}.json`)
+    fetch(`${import.meta.env.BASE_URL}data/hymns/${selectedHymnId}.json`)
       .then((res) => res.json())
       .then(async (data: HymnDetail) => {
         setHymnDetail(data);
