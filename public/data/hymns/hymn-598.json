@@ -1,0 +1,65 @@
+{
+  "id": "hymn-598",
+  "number": "598",
+  "numberDisplay": "598",
+  "title": "You Never Mentioned Him To Me 546 /",
+  "firstLine": "When in the better land before the bar we stand,",
+  "pitchInfo": {
+    "raw": "Ab-3-MI S-5",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "S-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When in the better land before the bar we stand,",
+        "How deeply grieved our souls my be;",
+        "If any lost one there should cry in deep despair,",
+        "\"You never mentioned Him to me.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O let us spread the word where'er it may be heard,",
+        "Help groping souls the light to see,",
+        "That yonder none may say, \"you showed me not the way,\"",
+        "\"You never mentioned Him to me.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "A few sweet words may guide a lost one to His side,",
+        "Or turn sad eyes on Calvary;",
+        "So work as days go by, that yonder none may cry,",
+        "\"You never mentioned Him to me.\""
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\"You never mentioned Him to me.",
+        "You helped me not the light to see;",
+        "You met me day by day and knew I was astray,",
+        "Yet never mentioned Him to me.\"",
+        "Copyright 1939. Renewal Stamps-Baxter Music, owners."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-598_full.mid",
+    "soprano": "/audio/midi/hymn-598_soprano.mid",
+    "alto": "/audio/midi/hymn-598_alto.mid",
+    "tenor": "/audio/midi/hymn-598_tenor.mid",
+    "bass": "/audio/midi/hymn-598_bass.mid"
+  }
+}

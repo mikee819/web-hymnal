@@ -1,0 +1,63 @@
+{
+  "id": "hymn-613",
+  "number": "613",
+  "numberDisplay": "613",
+  "title": "Come My Soul, your Plea Prepare * /",
+  "firstLine": "arr. Craig A. Roberts",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL P-3",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "arr. Craig A. Roberts"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Come your plea prepare;",
+        "God will answer prayer,",
+        "He has bid you pray,",
+        "Therefore will not turn away."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "You come to a King;",
+        "Large petitions bring;",
+        "For his pow'rs are such,",
+        "None can ever ask too much."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Lord, I come for rest;",
+        "Dwell within my breast;",
+        "There Thy right maintain,",
+        "And without a rival reign.",
+        "Copyright 1994 by Ron and Anne Calzone, Owners. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-613_full.mid",
+    "soprano": "/audio/midi/hymn-613_soprano.mid",
+    "alto": "/audio/midi/hymn-613_alto.mid",
+    "tenor": "/audio/midi/hymn-613_tenor.mid",
+    "bass": "/audio/midi/hymn-613_bass.mid"
+  }
+}

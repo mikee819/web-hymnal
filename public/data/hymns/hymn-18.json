@@ -1,0 +1,71 @@
+{
+  "id": "hymn-18",
+  "number": "18",
+  "numberDisplay": "18",
+  "title": "Let's Just Praise The Lord",
+  "firstLine": "Composer; William J. Gaither",
+  "pitchInfo": {
+    "raw": "F-3-SOL P-2 W-5",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-2 W-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; William J. Gaither"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O we thank you for your kindness,",
+        "We thank you for your love,",
+        "We have been in heavenly places,",
+        "Felt blessings from above;",
+        "We've been sharing all the good things,",
+        "The family can afford",
+        "Let's just turn our praise toward heaven",
+        "And praise the Lord."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Just the precious name of Jesus",
+        "Is worthy of our praise,",
+        "Let us bow our knees before him,",
+        "Our hearts to heaven raise;",
+        "When He comes in clouds of glory,",
+        "With Him to ever reign,",
+        "Let's just lift our happy voices,",
+        "And praise His name."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Let's just praise the Lord! Praise the Lord!",
+        "Let's just lift our hearts* to heaven and praise the Lord:",
+        "Let's just praise the Lord! Praise the Lord!",
+        "Let's just lift our hearts* to heaven and praise the Lord!",
+        "* Alternate lyrics, \"voices\", \"hands\".",
+        "Copyright 1972 by William J. Gaither (ASCAP). All rights reserved. international copyright secured. Used by permission of Gaither music Company."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-18_full.mid",
+    "soprano": "/audio/midi/hymn-18_soprano.mid",
+    "alto": "/audio/midi/hymn-18_alto.mid",
+    "tenor": "/audio/midi/hymn-18_tenor.mid",
+    "bass": "/audio/midi/hymn-18_bass.mid"
+  }
+}

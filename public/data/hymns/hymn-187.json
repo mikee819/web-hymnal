@@ -1,0 +1,65 @@
+{
+  "id": "hymn-187",
+  "number": "187",
+  "numberDisplay": "187",
+  "title": "Lord, Make Calvary Real To Me",
+  "firstLine": "Show me the cross of Calvary,",
+  "pitchInfo": {
+    "raw": "F-4-DO C-4 L-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-4 L-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Show me the cross of Calvary,",
+        "Open my eyes to see",
+        "Thy dying form in agony",
+        "Lord, make it real to me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Show me the cross of Calvary,",
+        "Open my ears to Thy plea:",
+        "\"Father, forgive them!\" can it be?",
+        "Lord, make it real to me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Low at the cross of Calvary,",
+        "Bowed is my heart as I see",
+        "Grace that can save eternally",
+        "Lord, make it real to me."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lord, make Calvary real to me!",
+        "Jesus, dying in agony,",
+        "thy great sacrifice let me see;",
+        "Lord, make Calvary real to me!",
+        "Copyright 1960 by Singspiration, Inc. All Rights Reserved. Used by permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-187_full.mid",
+    "soprano": "/audio/midi/hymn-187_soprano.mid",
+    "alto": "/audio/midi/hymn-187_alto.mid",
+    "tenor": "/audio/midi/hymn-187_tenor.mid",
+    "bass": "/audio/midi/hymn-187_bass.mid"
+  }
+}

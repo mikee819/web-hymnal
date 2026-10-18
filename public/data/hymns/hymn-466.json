@@ -1,0 +1,64 @@
+{
+  "id": "hymn-466",
+  "number": "466",
+  "numberDisplay": "466",
+  "title": "Does Jesus Care",
+  "firstLine": "Does Jesus care when my heart is pained",
+  "pitchInfo": {
+    "raw": "Db-2-SOL C-15 L-4",
+    "key": "Db",
+    "note": "Db",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-15 L-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Does Jesus care when my heart is pained",
+        "Too deeply for mirth or song,",
+        "As the burdens press, and the cares distress,",
+        "And the way grows weary and long?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Does Jesus care when my way is dark",
+        "With a nameless dread and fear?",
+        "As the daylight fades Into deep night shades,",
+        "Does He care enough to be near?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Does Jesus care when I've said \"good-by\"",
+        "To the dearest on earth to me,",
+        "And my sad heart aches Till it nearly breaks,",
+        "Is it aught to Him? Does He see?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, yes, He cares, I know He cares,",
+        "His heart is touched with my grief;",
+        "When the days are weary, The long night dreary,",
+        "I know my Savior cares."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-466_full.mid",
+    "soprano": "/audio/midi/hymn-466_soprano.mid",
+    "alto": "/audio/midi/hymn-466_alto.mid",
+    "tenor": "/audio/midi/hymn-466_tenor.mid",
+    "bass": "/audio/midi/hymn-466_bass.mid"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "hymn-681",
+  "number": "681",
+  "numberDisplay": "681",
+  "title": "Looking For A City 597 /",
+  "firstLine": "Scripture; Hebrews 11:10",
+  "pitchInfo": {
+    "raw": "Bb-4-DO H-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Hebrews 11:10"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Here among the shadows (living) in a lonely land",
+        "With strangers we're a band of pilgrims on the move;",
+        "Thru dangers burdened down with sorrows,",
+        "And we're shunned on ev'ry hand,",
+        "But we are looking for a city built above."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "In this land of dangers (we are) going here and there,",
+        "We're simply trusting in the blessed Savior's love;",
+        "And mercy tho' we may be strangers,",
+        "Living in this world of care,",
+        "We're always looking for a city built above."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O yes, we're looking for a city,",
+        "Where we'll never die",
+        "There the sainted millions",
+        "Never say goodby,",
+        "There we'll meet our Savior,",
+        "And the saved ones too,",
+        "Come O Lord my Savior",
+        "All our hopes renew.",
+        "(c) Copyright 1943. Hartford Music Company/SESAC. Renewed 1971 by Hartford. All rights Reserved. Used by permission of Integrated Copyright Group, Inc."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-681_full.mid",
+    "soprano": "/audio/midi/hymn-681_soprano.mid",
+    "alto": "/audio/midi/hymn-681_alto.mid",
+    "tenor": "/audio/midi/hymn-681_tenor.mid",
+    "bass": "/audio/midi/hymn-681_bass.mid"
+  }
+}

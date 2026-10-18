@@ -1,0 +1,64 @@
+{
+  "id": "hymn-71",
+  "number": "71",
+  "numberDisplay": "71",
+  "title": "God Answers Prayer Today",
+  "firstLine": "We pray for strength that our desires may be fulfilled,",
+  "pitchInfo": {
+    "raw": "A-4-MI P-3",
+    "key": "A",
+    "note": "A",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "P-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "We pray for strength that our desires may be fulfilled,",
+        "But weakness comes and humbles us to do God's will.",
+        "We pray for health that we can do some greater thing,",
+        "Yet burdens come; To Him we always cling."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "We thank our father for the blessings we've received,",
+        "O what a joy to know He hears when we believe.",
+        "We do not seek from Him earth's wealth or worldly fame,",
+        "We seek him first; in Jesus blessed name."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "As days grow short and life begins to fade away,",
+        "We see God's wisdom as He answers when we pray.",
+        "Our heavenly Father knows our every care and need,",
+        "He knows what's best;",
+        "His will we must give heed."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "God answers prayer today, But in the wisest way,",
+        "He knows what's best for us, from day to day.",
+        "Copyright 1972 by J. Brent Lewis. Arranged by R. J. Stevens in \"Hymns for Worship\", 1986. J. Brent Lewis, owner. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-71_full.mid",
+    "soprano": "/audio/midi/hymn-71_soprano.mid",
+    "alto": "/audio/midi/hymn-71_alto.mid",
+    "tenor": "/audio/midi/hymn-71_tenor.mid",
+    "bass": "/audio/midi/hymn-71_bass.mid"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "hymn-427",
+  "number": "427",
+  "numberDisplay": "427",
+  "title": "Sweet Will Of God",
+  "firstLine": "My stubborn will at last hath yielded;",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL C-16 D-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-16 D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "My stubborn will at last hath yielded;",
+        "I would be Thine and Thine alone;",
+        "And this the pray'r my lips are bringing,",
+        "\"Lord, let in me Thy will be done.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I'm tired of sin, footsore and weary,",
+        "The darksome path hath dreary grown,",
+        "But now a light has ris'n to cheer me;",
+        "I find in Thee my Star, my Sun."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Thy precious will, O, conquering Savior,",
+        "Doth now embrace and compass me;",
+        "All discords hushed, my peace a river,",
+        "My soul a prisoned bird set free."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Shut in with Thee, O, Lord for ever,",
+        "My wayward feet no more to roam;",
+        "What pow'r from Thee my soul can sever?",
+        "The center of God's will my home."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sweet will of God, still fold me closer,",
+        "Till I am wholly lost in Thee;",
+        "Sweet will of God still fold me closer,",
+        "Till I am wholly lost in Thee.",
+        "Arr. Copyright 1959, by ELLIS CRUM in \"Sacred Selections for the Church\" International copyright secured."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-427_full.mid",
+    "soprano": "/audio/midi/hymn-427_soprano.mid",
+    "alto": "/audio/midi/hymn-427_alto.mid",
+    "tenor": "/audio/midi/hymn-427_tenor.mid",
+    "bass": "/audio/midi/hymn-427_bass.mid"
+  }
+}

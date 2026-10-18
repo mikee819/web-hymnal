@@ -1,0 +1,69 @@
+{
+  "id": "hymn-303",
+  "number": "303",
+  "numberDisplay": "303",
+  "title": "Whiter Than Snow",
+  "firstLine": "Composer; Wm. G. Fischer, 1872",
+  "pitchInfo": {
+    "raw": "Ab-3-SOL C-16 I-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-16 I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Wm. G. Fischer, 1872"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Lord Jesus, I long to be perfectly whole;",
+        "I want Thee for ever to live in my soul;",
+        "Break down ev'ry idol, cast out ev'ry foe;",
+        "Now wash me, and I shall be whiter than snow."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Lord Jesus, look down from Thy throne in the skies,",
+        "And help me to make a complete sacrifice;",
+        "I give up myself, and what ever I know:",
+        "Now wash me, and I shall be whiter than snow."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Lord Jesus, Thou see-est I patiently wait:",
+        "Come now and within me a new heart create,",
+        "To those who have sought Thee, Thou never said'st no",
+        ": Now wash me, and I shall be whiter than snow."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Whiter than snow, yes, whiter than snow,",
+        "Now wash me, and I shall be whiter than snow."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-303_full.mid",
+    "soprano": "/audio/midi/hymn-303_soprano.mid",
+    "alto": "/audio/midi/hymn-303_alto.mid",
+    "tenor": "/audio/midi/hymn-303_tenor.mid",
+    "bass": "/audio/midi/hymn-303_bass.mid"
+  }
+}

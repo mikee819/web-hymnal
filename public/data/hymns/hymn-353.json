@@ -1,0 +1,67 @@
+{
+  "id": "hymn-353",
+  "number": "353",
+  "numberDisplay": "353",
+  "title": "He Lives",
+  "firstLine": "I serve a risen Savior, He's in the world today;",
+  "pitchInfo": {
+    "raw": "Bb-2-SOL F-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "F-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I serve a risen Savior, He's in the world today;",
+        "I know that He is living, whatever men may say;",
+        "I see His hand of mercy, I hear His voice of cheer,",
+        "And just the time I need Him, He's always near."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "In all the world around me I see His loving care,",
+        "And tho' my heart grows weary I never will despair;",
+        "I know that He is leading, thru all the stormy blast,",
+        "The day of his appearing will come at last."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Rejoice, rejoice, O Christian, lift up your voice and sing",
+        "Eternal hallelujahs to Jesus Christ the King!",
+        "The hope of all who seek Him, the help of all who find,",
+        "None other is so loving, so good and kind."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He lives, He lives, Christ Jesus lives today!",
+        "He walks with me and talks with me",
+        "Along life's narrow way.",
+        "He live, He lives, salvation to impart!",
+        "You ask me how I know He lives?",
+        "He lives within my heart.",
+        "Copyright, 1933, by Homer A. Rodeheaver. Renewed 1961 by The Rodeheaver Company. (A Div. of WORD, INC.) All Rights Reserved. . International copyright secured. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-353_full.mid",
+    "soprano": "/audio/midi/hymn-353_soprano.mid",
+    "alto": "/audio/midi/hymn-353_alto.mid",
+    "tenor": "/audio/midi/hymn-353_tenor.mid",
+    "bass": "/audio/midi/hymn-353_bass.mid"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "hymn-162",
+  "number": "162",
+  "numberDisplay": "162",
+  "title": "Night, With Ebon Pinion",
+  "firstLine": "Night, with ebon pinion, Brooded o'er the vale;",
+  "pitchInfo": {
+    "raw": "Eb-2-MI G-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "G-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Night, with ebon pinion, Brooded o'er the vale;",
+        "All around was silent, Save the night wind's wail,",
+        "When Christ, the man of sorrows,",
+        "In tears and sweat as blood,",
+        "Prostrate in the garden, Raised His voice to God."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Smitten for offenses Which were not His own,",
+        "He, for our transgressions, Had to weep alone,",
+        "No friend with words to comfort,",
+        "Nor hand to help was there,",
+        "When the Meek and Lowly Humbly bowed in pray'r."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Abba, Father, Father, If indeed it may,",
+        "Let this cup of anguish Pass from me, I pray;",
+        "Yet, if it must be suffer'd, by me, Thine only Son,",
+        "Abba, Father, Father, Let Thy will be done."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-162_full.mid",
+    "soprano": "/audio/midi/hymn-162_soprano.mid",
+    "alto": "/audio/midi/hymn-162_alto.mid",
+    "tenor": "/audio/midi/hymn-162_tenor.mid",
+    "bass": "/audio/midi/hymn-162_bass.mid"
+  }
+}

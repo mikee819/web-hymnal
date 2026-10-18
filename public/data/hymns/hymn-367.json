@@ -1,0 +1,64 @@
+{
+  "id": "hymn-367",
+  "number": "367",
+  "numberDisplay": "367",
+  "title": "The Rock That Is Higher Than I",
+  "firstLine": "O, sometimes the shadows are deep,",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL C-9",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-9",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O, sometimes the shadows are deep,",
+        "And rough seems the path to the goal;",
+        "And sorrows, sometimes how they sweep",
+        "Like tempests down over the soul."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O, sometimes how long seems the day,",
+        "And sometimes how weary my feet;",
+        "But toiling in life's dusty way,",
+        "The Rock's blessed shadow, how sweet!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O, near to the Rock let me keep,",
+        "If blessings or sorrows prevail;",
+        "Or climbing the mountain way steep,",
+        "Or walking the shadowy vale."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, then to the Rock let me fly,",
+        "To the Rock that is higher than I;",
+        "O then, to the Rock let me fly,",
+        "To the Rock that is higher than I."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-367_full.mid",
+    "soprano": "/audio/midi/hymn-367_soprano.mid",
+    "alto": "/audio/midi/hymn-367_alto.mid",
+    "tenor": "/audio/midi/hymn-367_tenor.mid",
+    "bass": "/audio/midi/hymn-367_bass.mid"
+  }
+}

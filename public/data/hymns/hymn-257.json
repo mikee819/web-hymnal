@@ -1,0 +1,61 @@
+{
+  "id": "hymn-257",
+  "number": "257",
+  "numberDisplay": "257",
+  "title": "How Sweet The Name Of Jesus Sounds",
+  "firstLine": "How sweet the name of Jesus sounds In a believer's ear!",
+  "pitchInfo": {
+    "raw": "Ab-2-SOL N-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "N-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "How sweet the name of Jesus sounds In a believer's ear!",
+        "It soothes his sorrows, heals the wounds,",
+        "And drives away his fear, And drives away his fear."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "It makes the wounded spirit whole, and calms the troubled breast;",
+        "'Tis manna to the hungry soul,",
+        "And to the weary rest. And to the weary, rest."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Weak is the effort of my heart, And cold my warmest tho't;",
+        "But when I see Thee as Thou art,",
+        "I'll praise Thee as I ought, I'll praise Thee as I ought."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Till then, I would Thy love proclaim With ev'ry fleeting breath;",
+        "And may the music of Thy name",
+        "Refresh my soul in death, Refresh my soul in death."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-257_full.mid",
+    "soprano": "/audio/midi/hymn-257_soprano.mid",
+    "alto": "/audio/midi/hymn-257_alto.mid",
+    "tenor": "/audio/midi/hymn-257_tenor.mid",
+    "bass": "/audio/midi/hymn-257_bass.mid"
+  }
+}

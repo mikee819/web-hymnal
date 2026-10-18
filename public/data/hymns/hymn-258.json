@@ -1,0 +1,66 @@
+{
+  "id": "hymn-258",
+  "number": "258",
+  "numberDisplay": "258",
+  "title": "Home Of The Soul",
+  "firstLine": "If for the prize we have striven,",
+  "pitchInfo": {
+    "raw": "G-2-MI H-2 R-3",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "H-2 R-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "If for the prize we have striven,",
+        "After our labors are o'er,",
+        "Rest to our souls will be given,",
+        "On the eternal shore."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Yes, a sweet rest is remaining",
+        "For the true children of God,",
+        "Where there will be no complaining",
+        "Never a chast'ning rod."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Soon, the bright homeland adorning,",
+        "We shall behold the glad dawn,",
+        "Lean on the Lord till the morning,",
+        "Trust till the night is gone."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Home of the soul, blessed kingdom of light,",
+        "Free from all care, and where falleth no night!",
+        "Oft, in thee storm, we are sighing for Thee",
+        "Beautiful home of the ransomed,",
+        "Beside the crystal sea.",
+        "Copyright 1912. Renewal. Stamps-Baxter Music, Owners."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-258_full.mid",
+    "soprano": "/audio/midi/hymn-258_soprano.mid",
+    "alto": "/audio/midi/hymn-258_alto.mid",
+    "tenor": "/audio/midi/hymn-258_tenor.mid",
+    "bass": "/audio/midi/hymn-258_bass.mid"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hymn-133",
+  "number": "133",
+  "numberDisplay": "133",
+  "title": "The Banner Of The Cross",
+  "firstLine": "There's a royal banner given for display",
+  "pitchInfo": {
+    "raw": "Bb-4-MI W-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "W-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There's a royal banner given for display",
+        "To the soldiers of the King;",
+        "As an ensign fair we lift it up today,",
+        "While as ransomed ones we sing."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Over land and sea, where ever man may dwell,",
+        "Make the glorious tidings known;",
+        "Of the crimson banner now the story tell,",
+        "While the Lord shall claim His own!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "When the Great Commander, from the vaulted sky,",
+        "Sounds the resurrection day,",
+        "Then before our King and the faint and foe shall die",
+        "And the saints shall march away!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Marching on, marching on",
+        "For Christ count everything but loss!",
+        "For the King of Kings, toil and sing",
+        "'Neath the banner of the cross!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-133_full.mid",
+    "soprano": "/audio/midi/hymn-133_soprano.mid",
+    "alto": "/audio/midi/hymn-133_alto.mid",
+    "tenor": "/audio/midi/hymn-133_tenor.mid",
+    "bass": "/audio/midi/hymn-133_bass.mid"
+  }
+}

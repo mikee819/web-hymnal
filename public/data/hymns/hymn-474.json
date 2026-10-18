@@ -1,0 +1,72 @@
+{
+  "id": "hymn-474",
+  "number": "474",
+  "numberDisplay": "474",
+  "title": "Grace Greater Than Our Sin",
+  "firstLine": "Composer; D. B. Towner",
+  "pitchInfo": {
+    "raw": "G-3-DO G-2",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "G-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; D. B. Towner"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Marvelous grace of our loving Lord,",
+        "Grace that exceeds our sin and our guilt,",
+        "Yonder on Calvary's mount out poured,",
+        "There where the blood of the Lamb was shed"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Dark is the stain that we cannot hide,",
+        "What can avail to wash it away?",
+        "Look! there is flowing a crimson tide;",
+        "Whiter than snow you may be today."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Marvelous, infinite, matchless grace,",
+        "Freely bestowed on all who believe;",
+        "You that are longing to see His face,",
+        "Will you this moment His grace receive?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Grace, Grace, God's grace,",
+        "Grace that will pardon and cleanse within;",
+        "Grace, grace, God's grace,",
+        "Grace that is greater than all our sin.",
+        "Copyright, 1910, Renewal 1938, by A. P. TOWNER. Assigned to Hope Pub. Co. Used by permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-474_full.mid",
+    "soprano": "/audio/midi/hymn-474_soprano.mid",
+    "alto": "/audio/midi/hymn-474_alto.mid",
+    "tenor": "/audio/midi/hymn-474_tenor.mid",
+    "bass": "/audio/midi/hymn-474_bass.mid"
+  }
+}

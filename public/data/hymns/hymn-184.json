@@ -1,0 +1,56 @@
+{
+  "id": "hymn-184",
+  "number": "184",
+  "numberDisplay": "184",
+  "title": "Without Him",
+  "firstLine": "Without Him I could do nothing",
+  "pitchInfo": {
+    "raw": "Ab-3-SOL C-10 T-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-10 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Without Him I could do nothing",
+        "Without Him I'd surely fail.",
+        "Without Him I would be drifting",
+        "Like a ship without a sail."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Without Him I would be dying;",
+        "Without Him, I'd be enslaved.",
+        "Without Him life would be hopeless,",
+        "But with Jesus, thank God, I'm saved."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus, Oh, Jesus,",
+        "Do you know Him today?",
+        "Don't turn Him away.",
+        "Oh, Jesus! Oh, Jesus!",
+        "Without Him how lost I would be!",
+        "(c) Copyright 1963 by LeFevre-Sing Publishing Company. Renewed 1991 by LeFevre Sing Publishing/BMI. All rights reserved. Used by permission of Integrated Copyright Group, Inc."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-184_full.mid",
+    "soprano": "/audio/midi/hymn-184_soprano.mid",
+    "alto": "/audio/midi/hymn-184_alto.mid",
+    "tenor": "/audio/midi/hymn-184_tenor.mid",
+    "bass": "/audio/midi/hymn-184_bass.mid"
+  }
+}

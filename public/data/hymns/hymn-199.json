@@ -1,0 +1,65 @@
+{
+  "id": "hymn-199",
+  "number": "199",
+  "numberDisplay": "199",
+  "title": "Where The Roses Never Fade",
+  "firstLine": "I am going to a city",
+  "pitchInfo": {
+    "raw": "F-4-MI H-2 R-3",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "H-2 R-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I am going to a city",
+        "Where the streets with gold are laid,",
+        "Where the tree of life is blooming,",
+        "And the roses never fade."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "In this world we have our troubles,",
+        "Satan's snares we must evade;",
+        "We'll be free from all temptations",
+        "Where the roses never fade."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Saved ones gone to be with Jesus,",
+        "In their robes of white arrayed,",
+        "Now are waiting for my coming",
+        "Where the roses never fade."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Here they bloom but for a season,",
+        "Soon their beauty is decayed;",
+        "I am going to a city",
+        "Where the roses never fade.",
+        "Copyright, 1942. Renewal 1970 by Stamps-Baxter Music."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-199_full.mid",
+    "soprano": "/audio/midi/hymn-199_soprano.mid",
+    "alto": "/audio/midi/hymn-199_alto.mid",
+    "tenor": "/audio/midi/hymn-199_tenor.mid",
+    "bass": "/audio/midi/hymn-199_bass.mid"
+  }
+}

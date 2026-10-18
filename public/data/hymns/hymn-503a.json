@@ -1,0 +1,32 @@
+{
+  "id": "hymn-503a",
+  "number": "503a",
+  "numberDisplay": "503a",
+  "title": "Teach Me Thy Way, O Lord",
+  "firstLine": "Teach me Thy way, O Lord, Teach me Thy way! Thy guiding grace afford - Teach me Thy way! Help me to walk aright, More by faith, less by sight; Lead me with heavenly light -- Teach me Thy way!",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "I Need Thee Every Hour",
+    "number": "63"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Teach me Thy way, O Lord, Teach me Thy way! Thy guiding grace afford - Teach me Thy way! Help me to walk aright, More by faith, less by sight; Lead me with heavenly light -- Teach me Thy way!",
+        "When I am sad at heart, Teach me Thy way!When earthly joys depart, Teach me Thy way! In hours of loneliness, In times of fire distress, In failure or success, Teach me thy way!",
+        "When doubts and fears arise, Teach me thy way! When storm clouds fill the skies, Teach me thy way! Shine through the wind and rain, Through sorrow, grief and pain; Make now my pathway plain - Teach me thy way!",
+        "Long as my life shall last, teach me thy way! Wher-e'er my lot be cast, Teach me thy way! Until the race is run, Until the journey's done, Until the crown is won, Teach me thy way!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-503a_full.mid",
+    "soprano": "/audio/midi/hymn-503a_soprano.mid",
+    "alto": "/audio/midi/hymn-503a_alto.mid",
+    "tenor": "/audio/midi/hymn-503a_tenor.mid",
+    "bass": "/audio/midi/hymn-503a_bass.mid"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "hymn-561",
+  "number": "561",
+  "numberDisplay": "561",
+  "title": "Praise God From Whom All Blessings * /",
+  "firstLine": "Praise God from whom all blessings flow;",
+  "pitchInfo": {
+    "raw": "G-4-DO P-2",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Praise God from whom all blessings flow;",
+        "Praise Him, all creatures here below;",
+        "Praise him above, ye heav'nly host;",
+        "Praise Father, Son, and Holy Ghost."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-561_full.mid",
+    "soprano": "/audio/midi/hymn-561_soprano.mid",
+    "alto": "/audio/midi/hymn-561_alto.mid",
+    "tenor": "/audio/midi/hymn-561_tenor.mid",
+    "bass": "/audio/midi/hymn-561_bass.mid"
+  }
+}

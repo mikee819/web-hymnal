@@ -1,0 +1,35 @@
+{
+  "id": "hymn-55",
+  "number": "55",
+  "numberDisplay": "55",
+  "title": "The Lord Is In His Holy Temple 55 /",
+  "firstLine": "The Lord is in His holy temple:",
+  "pitchInfo": {
+    "raw": "D-3-DO W-5",
+    "key": "D",
+    "note": "D",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "W-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "The Lord is in His holy temple:",
+        "Let all the earth keep silence before him:",
+        "Keep silence, keep silence,",
+        "Keep silence before Him"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-55_full.mid",
+    "soprano": "/audio/midi/hymn-55_soprano.mid",
+    "alto": "/audio/midi/hymn-55_alto.mid",
+    "tenor": "/audio/midi/hymn-55_tenor.mid",
+    "bass": "/audio/midi/hymn-55_bass.mid"
+  }
+}

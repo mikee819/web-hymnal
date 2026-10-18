@@ -1,0 +1,64 @@
+{
+  "id": "hymn-202",
+  "number": "202",
+  "numberDisplay": "202",
+  "title": "Beyond This Land Of Parting",
+  "firstLine": "Beyond this land of parting, losing and leaving,",
+  "pitchInfo": {
+    "raw": "G-4-SOL H-2",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Beyond this land of parting, losing and leaving,",
+        "Far beyond the losses, darkening this,",
+        "And far beyond the taking and the bereaving,",
+        "Lies the summer-land of bliss."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Beyond this land of toiling, sowing and reaping,",
+        "Far beyond the shadows darkening this,",
+        "And far beyond the sighing, moaning and weeping,",
+        "Lies the summer-land of bliss."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Beyond this land of waiting, seeking and sighing,",
+        "Far beyond the sorrows darkening this,",
+        "And far beyond the pain and sickness and dying,",
+        "Lies the sumer-land of bliss."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Land beyond, so fair and bright!",
+        "Land beyond, where is no night!",
+        "Summer-land, God is its Light,",
+        "O happy summer-land of bliss!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-202_full.mid",
+    "soprano": "/audio/midi/hymn-202_soprano.mid",
+    "alto": "/audio/midi/hymn-202_alto.mid",
+    "tenor": "/audio/midi/hymn-202_tenor.mid",
+    "bass": "/audio/midi/hymn-202_bass.mid"
+  }
+}

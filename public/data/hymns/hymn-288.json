@@ -1,0 +1,65 @@
+{
+  "id": "hymn-288",
+  "number": "288",
+  "numberDisplay": "288",
+  "title": "Lord, I'm Coming Home",
+  "firstLine": "I've wandered far away from God,",
+  "pitchInfo": {
+    "raw": "Ab-2-SOL C-16",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-16",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I've wandered far away from God,",
+        "Now I'm coming home;",
+        "The paths of sin too long I've trod,",
+        "Lord, I'm coming home."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I'm tired of sin and straying, Lord,",
+        "Now I'm coming home;",
+        "I'll trust Thy love, believe Thy Word,",
+        "Lord, I'm coming home."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I need His cleansing blood, I know,",
+        "Now I'm coming home;",
+        "O, wash me whiter than the snow.",
+        "Lord, I'm coming home."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Coming home, coming home,",
+        "Never more to roam;",
+        "Open wide Thine arms of love,",
+        "Lord, I'm coming home.",
+        "Arr. Copyright, 1986, by R. J. Stevens in \"Hymns for Worship.\" All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-288_full.mid",
+    "soprano": "/audio/midi/hymn-288_soprano.mid",
+    "alto": "/audio/midi/hymn-288_alto.mid",
+    "tenor": "/audio/midi/hymn-288_tenor.mid",
+    "bass": "/audio/midi/hymn-288_bass.mid"
+  }
+}

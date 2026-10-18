@@ -1,0 +1,66 @@
+{
+  "id": "hymn-218",
+  "number": "218",
+  "numberDisplay": "218",
+  "title": "Just Over In The Glory-Land",
+  "firstLine": "I've a home prepared where the saints abide,",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL H-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I've a home prepared where the saints abide,",
+        "Just over in the glory land;",
+        "And I long to be by my Savior's side,",
+        "Just over in the glory land."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I am on my way to those mansions fair,",
+        "Just over in the glory land;",
+        "There to sing God's praise, and His glory share,",
+        "Just over in the glory land."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "With the blood washed throng I will shout and sing,",
+        "Just over in the glory land;",
+        "Glad hosannas to Christ, the Lord and King,",
+        "Just over in the glory land."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Just over in the glory land,",
+        "I'll join the happy angel band,",
+        "Just over in the glory land;",
+        "Just over in the glory land,",
+        "There with the mighty host I'll stand,",
+        "Just over in the Glory land."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-218_full.mid",
+    "soprano": "/audio/midi/hymn-218_soprano.mid",
+    "alto": "/audio/midi/hymn-218_alto.mid",
+    "tenor": "/audio/midi/hymn-218_tenor.mid",
+    "bass": "/audio/midi/hymn-218_bass.mid"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "hymn-650",
+  "number": "650",
+  "numberDisplay": "650",
+  "title": "His Name Is Jesus * /",
+  "firstLine": "Scripture; Matthew 1:21",
+  "pitchInfo": {
+    "raw": "F-3-MI L-4 N-1",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "L-4 N-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Matthew 1:21"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "His name is Jesus, His name is Jesus,",
+        "Oh how He loves you and me,",
+        "Oh wonderful Savior sent from the Father,",
+        "Oh how He loves you and me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "His Name is Holy, His Name is Holy,",
+        "His Name is Holy to me,",
+        "Oh wonderful myst'ry, how He could love m,e",
+        "His name isHoly to me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Copyright 1991 by Max Wheeler. Assigned to Taylor Publications April 1992. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-650_full.mid",
+    "soprano": "/audio/midi/hymn-650_soprano.mid",
+    "alto": "/audio/midi/hymn-650_alto.mid",
+    "tenor": "/audio/midi/hymn-650_tenor.mid",
+    "bass": "/audio/midi/hymn-650_bass.mid"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hymn-640",
+  "number": "640",
+  "numberDisplay": "640",
+  "title": "Light And Life * /",
+  "firstLine": "Composer; D. N. Henderson",
+  "pitchInfo": {
+    "raw": "F-3-MI L-4",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "L-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; D. N. Henderson",
+        "Scripture; John 1:4"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Lamp of Life, come show me the way;",
+        "Light my night, oh Star of the Day;",
+        "Lest I fall on feet made of clay,",
+        "Lamp of Life, light up my heart."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Word of Life, please temper my tongue;",
+        "Give me words, Lord, grace ev'ry one;",
+        "Let my speech bring sorrow to none;",
+        "Word of Life, live in my heart."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Lord of Life, let my hands be Thine;",
+        "Help me now, forget they are mine;",
+        "Move my feet with Thy will divine;",
+        "Lord of Life, rule in my heart.",
+        "Copyright 1980 by D. N. Henderson in \"Majestic praise.\" All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-640_full.mid",
+    "soprano": "/audio/midi/hymn-640_soprano.mid",
+    "alto": "/audio/midi/hymn-640_alto.mid",
+    "tenor": "/audio/midi/hymn-640_tenor.mid",
+    "bass": "/audio/midi/hymn-640_bass.mid"
+  }
+}

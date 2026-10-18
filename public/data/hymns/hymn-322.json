@@ -1,0 +1,56 @@
+{
+  "id": "hymn-322",
+  "number": "322",
+  "numberDisplay": "322",
+  "title": "Bring Christ Your Broken Life",
+  "firstLine": "Bring Christ your broken life, So marred by sin,",
+  "pitchInfo": {
+    "raw": "F-3-SOL I-1",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Bring Christ your broken life, So marred by sin,",
+        "He will create anew, Make whole again;",
+        "Your empty, wasted years, He will restore,",
+        "And your iniquities Remember no more."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Bring Him your ev'ry care If great or small -",
+        "Whatever troubles you - O bring it all!",
+        "Bring Him the haunting fears, The nameless dread,",
+        "Thy heart He will relieve, and lift up thy head."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Blest Savior of us all! Almighty Friend!",
+        "His presence shall be our Unto the end;",
+        "Without Him life would be How dark, how drear!",
+        "But with Him morning breaks And heaven is near!",
+        "Copyright 1963, Renewal. Leon B. Sanderson, owner. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-322_full.mid",
+    "soprano": "/audio/midi/hymn-322_soprano.mid",
+    "alto": "/audio/midi/hymn-322_alto.mid",
+    "tenor": "/audio/midi/hymn-322_tenor.mid",
+    "bass": "/audio/midi/hymn-322_bass.mid"
+  }
+}

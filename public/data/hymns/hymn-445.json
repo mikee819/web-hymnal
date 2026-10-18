@@ -1,0 +1,64 @@
+{
+  "id": "hymn-445",
+  "number": "445",
+  "numberDisplay": "445",
+  "title": "Jesus, Rose Of Sharon",
+  "firstLine": "Jesus, Rose of Sharon, bloom within my heart;",
+  "pitchInfo": {
+    "raw": "E-3-MI D-1",
+    "key": "E",
+    "note": "E",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus, Rose of Sharon, bloom within my heart;",
+        "Beauties of Thy truth and holiness impart,",
+        "That where'er I go my life may shed abroad",
+        "Fragrance of the knowledge of the love of God."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Jesus, Rose of Sharon, sweeter far to see",
+        "Than the fairest flow'rs of earth could ever be,",
+        "Fill my life completely, adding more each day",
+        "Of Thy grace divine and purity, I pray."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Jesus, Rose of Sharon, bloom for evermore;",
+        "Be Thy glory seen on earth from shore to shore,",
+        "Til the nations own thy sov'reignty complete,",
+        "Lay their honors down and worship at Thy feet."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus, (Blessed Jesus)",
+        "Rose of Sharon, (Rose of Sharon)",
+        "Bloom in radiance and in love within my heart.",
+        "Copyright, 1922, Renewal, 1950, The Rodeheaver Company (A Div. of WORD, INC.). All Rights Reserved. International Copyright Secured. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-445_full.mid",
+    "soprano": "/audio/midi/hymn-445_soprano.mid",
+    "alto": "/audio/midi/hymn-445_alto.mid",
+    "tenor": "/audio/midi/hymn-445_tenor.mid",
+    "bass": "/audio/midi/hymn-445_bass.mid"
+  }
+}

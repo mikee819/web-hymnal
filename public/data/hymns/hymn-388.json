@@ -1,0 +1,76 @@
+{
+  "id": "hymn-388",
+  "number": "388",
+  "numberDisplay": "388",
+  "title": "Give Of Your Best To The Master",
+  "firstLine": "Give of your best to the Master:",
+  "pitchInfo": {
+    "raw": "Eb-3-MI E-1 W-4",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "E-1 W-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Give of your best to the Master:",
+        "Give of the strength of your youth;",
+        "Throw your soul's fresh, glowing ardor",
+        "Into the battle of truth.",
+        "Jesus has set the example;",
+        "Dauntless was He, young and brave;",
+        "Give Him your loyal devotion,",
+        "Give Him the best that you have."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Give of your best to the Master;",
+        "Give Him first place in your heart;",
+        "Give Him first place in your service,",
+        "Consecrate ev'ry part.",
+        "Give, and to you shall be given;",
+        "God His beloved Son gave;",
+        "Gratefully seeking to serve Him,",
+        "Give Him the best that you have."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Give of your best to the Master;",
+        "Naught else is worthy His love;",
+        "He gave Himself for your ransom,",
+        "Gave up His glory above;",
+        "Laid down His life without murmur,",
+        "You from sin's ruin to save;",
+        "Give Him your heart's adoration,",
+        "Give Him the best that you have."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Give of your best to the Master;",
+        "Give of the strength of your youth;",
+        "Clad in salvation's full armor,",
+        "Join in the battle for truth."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-388_full.mid",
+    "soprano": "/audio/midi/hymn-388_soprano.mid",
+    "alto": "/audio/midi/hymn-388_alto.mid",
+    "tenor": "/audio/midi/hymn-388_tenor.mid",
+    "bass": "/audio/midi/hymn-388_bass.mid"
+  }
+}

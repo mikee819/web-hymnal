@@ -1,0 +1,58 @@
+{
+  "id": "hymn-364",
+  "number": "364",
+  "numberDisplay": "364",
+  "title": "The Lord My Shepherd Is",
+  "firstLine": "The Lord my Shepherd is;",
+  "pitchInfo": {
+    "raw": "Eb-3-SOL C-4",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "The Lord my Shepherd is;",
+        "I shall be well supplied,",
+        "Since He is mine, and I am His,",
+        "What can I want beside?",
+        "What can I want beside?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "He leads me to the place",
+        "Where heav'nly pasture grows,",
+        "Where living waters gently pass,",
+        "And full salvation flows,",
+        "And full salvation flows."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "If e'er I go astray,",
+        "He doth my soul reclaim,",
+        "And guides me in His own right way",
+        "For His most holy name,",
+        "For His most holy name."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-364_full.mid",
+    "soprano": "/audio/midi/hymn-364_soprano.mid",
+    "alto": "/audio/midi/hymn-364_alto.mid",
+    "tenor": "/audio/midi/hymn-364_tenor.mid",
+    "bass": "/audio/midi/hymn-364_bass.mid"
+  }
+}

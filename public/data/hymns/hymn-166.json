@@ -1,0 +1,63 @@
+{
+  "id": "hymn-166",
+  "number": "166",
+  "numberDisplay": "166",
+  "title": "He Loved Me So",
+  "firstLine": "Why did my Savior come to earth,",
+  "pitchInfo": {
+    "raw": "F-4-SOL C-1 L-4",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-1 L-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Why did my Savior come to earth,",
+        "And to the humble go?",
+        "Why did He choose a lowly birth?",
+        "Because He loved me so!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Why did He drink the bitter cup",
+        "Of sorrow, pain and woe?",
+        "Why on the cross be lifted up?",
+        "Because He loved me so!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Till Jesus comes I'll sing His praise,",
+        "And then to glory go,",
+        "And live with Him thru endless days,",
+        "Because He loved me so!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He loved me so, He loved me so;",
+        "He gave His precious life for me, for me,",
+        "Because He loved me so."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-166_full.mid",
+    "soprano": "/audio/midi/hymn-166_soprano.mid",
+    "alto": "/audio/midi/hymn-166_alto.mid",
+    "tenor": "/audio/midi/hymn-166_tenor.mid",
+    "bass": "/audio/midi/hymn-166_bass.mid"
+  }
+}

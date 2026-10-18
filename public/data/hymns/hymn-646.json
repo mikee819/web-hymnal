@@ -1,0 +1,46 @@
+{
+  "id": "hymn-646",
+  "number": "646",
+  "numberDisplay": "646",
+  "title": "Father Of Heaven, Whose Love Profound 572a /",
+  "firstLine": "1st edition: Click here to play",
+  "pitchInfo": {
+    "raw": "E-3-MI D-1 W-4",
+    "key": "E",
+    "note": "E",
+    "beat": 3,
+    "solfege": "MI",
+    "inheritedFrom": "65"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "O Master, Let Me Walk With Thee",
+    "number": "65"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1st edition: Click here to play"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Father of heav'n, whose love profound a ransom for our souls hath found, before Thy throne we humbly bend; to us Thy pard'ning love extend.",
+        "Almighty Son, incarnate Word, Our Prophet, Priest, Redeemer, Lord, before Thy throne we humbly bend; to us Thy saving grace extend.",
+        "Eternal Spirit, by whose breath the soul is raised from sin and death, before Thy throne we humbly bend; to us Thy quick'ning pow'r extend.",
+        "Jehovah -- father, Spirit, Son -- Mysterious God-head, Three in One, before Thy throne we humbly bend; Grace, pardon, life to us extend. A-MEN."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-646_full.mid",
+    "soprano": "/audio/midi/hymn-646_soprano.mid",
+    "alto": "/audio/midi/hymn-646_alto.mid",
+    "tenor": "/audio/midi/hymn-646_tenor.mid",
+    "bass": "/audio/midi/hymn-646_bass.mid"
+  }
+}

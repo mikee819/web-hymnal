@@ -1,0 +1,61 @@
+{
+  "id": "hymn-593",
+  "number": "593",
+  "numberDisplay": "593",
+  "title": "Rejoice, The Lord Is King * /",
+  "firstLine": "Rejoice, the Lord is King;",
+  "pitchInfo": {
+    "raw": "Db-4-DO C-6 J-1",
+    "key": "Db",
+    "note": "Db",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-6 J-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Rejoice, the Lord is King;",
+        "Your Lord and King adore!",
+        "Rejoice, give thanks, and sing,",
+        "And trimph evermore;",
+        "Lift up your heart, lift up your voice!",
+        "Rejoice, again I say, rejoice!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Jesus the Savior reigns,",
+        "The God of truth and love;",
+        "When He had purged our stains",
+        "He took His seat above;",
+        "Lift up your heart, lift up your voice!",
+        "Rejoice, again I say, rejoice!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Rejoice in glorious hope!",
+        "Our God the Judge shall come,",
+        "And take his servants up",
+        "to their eternal home.",
+        "Lift up your heart, lift up your voice!",
+        "Rejoice, again I say, rejoice! AMEN"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-593_full.mid",
+    "soprano": "/audio/midi/hymn-593_soprano.mid",
+    "alto": "/audio/midi/hymn-593_alto.mid",
+    "tenor": "/audio/midi/hymn-593_tenor.mid",
+    "bass": "/audio/midi/hymn-593_bass.mid"
+  }
+}

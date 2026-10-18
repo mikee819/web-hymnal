@@ -1,0 +1,55 @@
+{
+  "id": "hymn-152",
+  "number": "152",
+  "numberDisplay": "152",
+  "title": "By Christ Redeemed",
+  "firstLine": "By Christ redeemed, in Christ restored,",
+  "pitchInfo": {
+    "raw": "Eb-4-MI L-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "L-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "By Christ redeemed, in Christ restored,",
+        "We keep the Supper of the Word,",
+        "And show the death of our dear Lord,",
+        "Until He come."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "His body given in our stead",
+        "Is seen in this memorial bread,",
+        "And as we drink we see the blood,",
+        "Until He come."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "And thus the dark betrayal night",
+        "With the last advent we unite,",
+        "By one bright chain of loving rite,",
+        "Until He come."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-152_full.mid",
+    "soprano": "/audio/midi/hymn-152_soprano.mid",
+    "alto": "/audio/midi/hymn-152_alto.mid",
+    "tenor": "/audio/midi/hymn-152_tenor.mid",
+    "bass": "/audio/midi/hymn-152_bass.mid"
+  }
+}

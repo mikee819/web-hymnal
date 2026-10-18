@@ -1,0 +1,65 @@
+{
+  "id": "hymn-58",
+  "number": "58",
+  "numberDisplay": "58",
+  "title": "Blessed Be The Lord",
+  "firstLine": "Blessed be the Lord forever,",
+  "pitchInfo": {
+    "raw": "E-2-DO P-2",
+    "key": "E",
+    "note": "E",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Blessed be the Lord forever,",
+        "Exalted be His name;",
+        "All the earth and highest heavens",
+        "His power and love proclaim."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Bless the Lord, for he is worthy",
+        "He reigns on heaven's throne;",
+        "Worship now in truth and spirit,",
+        "And honor Him alone."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Blessed be the Lord, our Savior:",
+        "The life, the truth, the way;",
+        "He's the risen King of glory,",
+        "He'll come again one day."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Praise the Lord, our King above,",
+        "Bless His name, proclaim His love;",
+        "Blessed be the Lord forever,",
+        "And ever more. Amen.",
+        "Copyright 1986, Shepard-Stevens Music, Inc. In \"Hymns for Worship,\" Dane K. Shepard, owner. All rights reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-58_full.mid",
+    "soprano": "/audio/midi/hymn-58_soprano.mid",
+    "alto": "/audio/midi/hymn-58_alto.mid",
+    "tenor": "/audio/midi/hymn-58_tenor.mid",
+    "bass": "/audio/midi/hymn-58_bass.mid"
+  }
+}

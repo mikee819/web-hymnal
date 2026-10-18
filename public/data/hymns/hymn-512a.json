@@ -1,0 +1,60 @@
+{
+  "id": "hymn-512a",
+  "number": "512a",
+  "numberDisplay": "512a",
+  "title": "Softly Now The LIght Of Day",
+  "firstLine": "Softly now the light of day",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL C-12 T-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL",
+    "inheritedFrom": "610"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Savior Teach Me -",
+    "number": "610"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Softly now the light of day",
+        "Fades upon our sight away;",
+        "Free from care, from labor free,",
+        "Lord we would commune with Thee!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Thou whose all pervaiding eye",
+        "Naught escapes, without, within,",
+        "Pardon each infirmity,",
+        "Open fault and secret sin!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Soon for us the light of day,",
+        "Shall forever pass away;",
+        "Then from sin and sorrow free,",
+        "Take us, Lord to dwell with Thee!",
+        "A-MEN"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-512a_full.mid",
+    "soprano": "/audio/midi/hymn-512a_soprano.mid",
+    "alto": "/audio/midi/hymn-512a_alto.mid",
+    "tenor": "/audio/midi/hymn-512a_tenor.mid",
+    "bass": "/audio/midi/hymn-512a_bass.mid"
+  }
+}

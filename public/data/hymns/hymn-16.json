@@ -1,0 +1,58 @@
+{
+  "id": "hymn-16",
+  "number": "16",
+  "numberDisplay": "16",
+  "title": "A Mighty Fortress",
+  "firstLine": "A mighty fortress is our God, A bulwark never failing;",
+  "pitchInfo": {
+    "raw": "D-2-DO P-2 W-1",
+    "key": "D",
+    "note": "D",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-2 W-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "A mighty fortress is our God, A bulwark never failing;",
+        "Our helper He, amid the flood Of mortal ills prevailing.",
+        "For still our ancient foe Doth seek to work us woe;",
+        "His craft and pow'r are great, And armed with cruel hate,",
+        "On earth is not his equal."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Did we in our own strength confide Our striving would be losing;",
+        "Were not the right One on our side The Man of God's own choosing.",
+        "Dost ask who that may be? Christ Jesus, it is He;",
+        "Lord Sabaoth His name, From age to age the same,",
+        "And He must win the battle."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "And tho' this world, with evil filled, Should threaten to undo us;",
+        "We will not fear, for God hath willed His truth to triumph thru us.",
+        "Let goods and kindred go, This mortal life also;",
+        "The body they may kill; God's truth abideth still,",
+        "His kingdom is forever."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-16_full.mid",
+    "soprano": "/audio/midi/hymn-16_soprano.mid",
+    "alto": "/audio/midi/hymn-16_alto.mid",
+    "tenor": "/audio/midi/hymn-16_tenor.mid",
+    "bass": "/audio/midi/hymn-16_bass.mid"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "hymn-537",
+  "number": "537",
+  "numberDisplay": "537",
+  "title": "Open Our Eyes * /",
+  "firstLine": "Scripture; Matthew 5:8",
+  "pitchInfo": {
+    "raw": "Eb-3-MI D-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Matthew 5:8"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Open our eyes, Lord, we want to see Jesus,",
+        "To reach out and touch Him",
+        "And say that we love Him.",
+        "Open our ears, Lord, and help us to listen.",
+        "Open our eyes, Lord,",
+        "we want to see Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Open our hearts, Lord,",
+        "We want to know Jesus.",
+        "to follow and trust him,",
+        "and show that we love Him,",
+        "Open our minds, Lord,",
+        "to think of His goodness,",
+        "Open our eyes Lord,",
+        "We want to see Jesus.",
+        "Copyright 1976 by Maranatha! Music. All Rights Reserved. International Copyrights Secured."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-537_full.mid",
+    "soprano": "/audio/midi/hymn-537_soprano.mid",
+    "alto": "/audio/midi/hymn-537_alto.mid",
+    "tenor": "/audio/midi/hymn-537_tenor.mid",
+    "bass": "/audio/midi/hymn-537_bass.mid"
+  }
+}

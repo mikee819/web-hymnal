@@ -1,0 +1,68 @@
+{
+  "id": "hymn-405",
+  "number": "405",
+  "numberDisplay": "405",
+  "title": "Wonderful Words of Life",
+  "firstLine": "Sing them over again to me,",
+  "pitchInfo": {
+    "raw": "G-2-MI S-4",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "S-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Sing them over again to me,",
+        "Wonderful words of Life;",
+        "Let me more of their beauty see,",
+        "Wonderful words of Life",
+        "Words of life and beauty,",
+        "Teach me faith and duty;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Christ, the blessed One, gives to all,",
+        "Wonderful words of Life;",
+        "Sinner, list to the loving call,",
+        "Wonderful words of Life.",
+        "All so freely given,",
+        "Wooing us to heaven;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Sweetly echo the gospel call,",
+        "Wonderful words of Life;",
+        "Offer pardon and peace to all,",
+        "Wonderful words of Life.",
+        "Jesus, only Savior,",
+        "Sanctify forever;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Beautiful words, Wonderful words,",
+        "Wonderful words of Life."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-405_full.mid",
+    "soprano": "/audio/midi/hymn-405_soprano.mid",
+    "alto": "/audio/midi/hymn-405_alto.mid",
+    "tenor": "/audio/midi/hymn-405_tenor.mid",
+    "bass": "/audio/midi/hymn-405_bass.mid"
+  }
+}

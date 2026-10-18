@@ -1,0 +1,57 @@
+{
+  "id": "hymn-370",
+  "number": "370",
+  "numberDisplay": "370",
+  "title": "Father, Take This Heart Of Mine",
+  "firstLine": "Father, take this heart of mine,",
+  "pitchInfo": {
+    "raw": "Eb-4-DO D-1 H-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "D-1 H-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Father, take this heart of mine,",
+        "Now to do Thy will divine;",
+        "Help me in the things I do,",
+        "Ever to my Lord be true."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Give me wisdom this same day,",
+        "So I'll teach someone Thy way;",
+        "Let me love as You command,",
+        "And in truth forever stand."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When this life on earth is o'er,",
+        "Take me to that peaceful shore;",
+        "Then I'll spend eternity,",
+        "With Thy children praising Thee.",
+        "Amen.",
+        "Copyright 1977 by Annette A. Jenkins. Arranged by Dane K. Shepard in \"Hymns For Worship, 1986. Annette A. Jenkins, owner. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-370_full.mid",
+    "soprano": "/audio/midi/hymn-370_soprano.mid",
+    "alto": "/audio/midi/hymn-370_alto.mid",
+    "tenor": "/audio/midi/hymn-370_tenor.mid",
+    "bass": "/audio/midi/hymn-370_bass.mid"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "hymn-261",
+  "number": "261",
+  "numberDisplay": "261",
+  "title": "Beautiful",
+  "firstLine": "Beautiful robes so white, Beautiful land of light,",
+  "pitchInfo": {
+    "raw": "Db-4-DO H-2 R-3",
+    "key": "Db",
+    "note": "Db",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "H-2 R-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Beautiful robes so white, Beautiful land of light,",
+        "Beautiful home so bright, Where there shall come no night;",
+        "Beautiful crown I'll wear, Shining and bright o'er there,",
+        "Yonder in mansions fair, Gather us there."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Beautiful tho't to me, We shall for ever be",
+        "Thine in eternity, When from this world we're free;",
+        "Free from its toil and care, Heavenly joys to share,",
+        "Let me cross over there; This is my pray'r."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Beautiful things on high, Over in yonder sky,",
+        "thus I shall leave this shore, Counting my treasures o'er;",
+        "Where we shall never die, Carry me by and by,",
+        "Never to sorrow more, Heavenly store."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Beautiful robes, Beautiful land,",
+        "Beautiful home, Beautiful band,",
+        "Beautiful crown, Shining so fair,",
+        "Beautiful mansion bright,",
+        "Gather us there.",
+        "Copyright, 1911, by J. A. Lee, R. E. Winsett, Owner."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-261_full.mid",
+    "soprano": "/audio/midi/hymn-261_soprano.mid",
+    "alto": "/audio/midi/hymn-261_alto.mid",
+    "tenor": "/audio/midi/hymn-261_tenor.mid",
+    "bass": "/audio/midi/hymn-261_bass.mid"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "hymn-502",
+  "number": "502",
+  "numberDisplay": "502",
+  "title": "True-Hearted, Whole-Hearted 498 /",
+  "firstLine": "True hearted, whole hearted, faithful and loyal,",
+  "pitchInfo": {
+    "raw": "F-2-DO C-16 L-6",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-16 L-6",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "True hearted, whole hearted, faithful and loyal,",
+        "King of our lives, by Thy grace we will be;",
+        "Under the standard exalted and royal,",
+        "Strong in Thy strength we will battle for Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "True hearted, whole hearted, fullest alleg'ance",
+        "Yielding hence-forth to our glorious King;",
+        "Valiant endeavor and loving obed'ence,",
+        "Freely and joyously now would we bring."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "True hearted, whole hearted, Savior all glor'ous!",
+        "Take Thy great power and reign there alone,",
+        "Over our wills and affections victor'ous,",
+        "Freely surrendered and wholly Thine own."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Peal out the watchword! Silence it never!",
+        "Song of our spirits, rejoicing and free;",
+        "Peal out the watchword! Loyal forever,",
+        "King of our lives, by The grace we will be."
+      ]
+    }
+  ],
+  "tracks": {}
+}

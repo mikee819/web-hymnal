@@ -1,0 +1,65 @@
+{
+  "id": "hymn-32",
+  "number": "32",
+  "numberDisplay": "32",
+  "title": "Awake, My Tongue",
+  "firstLine": "Awake, my tongue, thy tribute bring",
+  "pitchInfo": {
+    "raw": "Eb-2-DO P-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Awake, my tongue, thy tribute bring",
+        "To him who gave the power to sing;",
+        "Praise Him who is all praise above,",
+        "The source of wisdom and of love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "How vast his knowledge! how profound!",
+        "A deep where all our thoughts are drowned;",
+        "The stars He numbers and their names",
+        "He gives to all those heavenly flames."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Through each bright world above, behold,",
+        "Ten thousand thousand charms unfold;",
+        "Earth, air, and mighty seas combine",
+        "To speak His wisdom all divine."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "But in redemption, O what grace!",
+        "Its wonders, O what thought can trace!",
+        "Here wisdom shines forever bright:",
+        "Praise him, my soul, with sweet delight."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-32_full.mid",
+    "soprano": "/audio/midi/hymn-32_soprano.mid",
+    "alto": "/audio/midi/hymn-32_alto.mid",
+    "tenor": "/audio/midi/hymn-32_tenor.mid",
+    "bass": "/audio/midi/hymn-32_bass.mid"
+  }
+}

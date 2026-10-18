@@ -1,0 +1,74 @@
+{
+  "id": "hymn-5",
+  "number": "5",
+  "numberDisplay": "5",
+  "title": "How Great Thou Art",
+  "firstLine": "O, Lord, my God! When I in awesome wonder",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL P-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O, Lord, my God! When I in awesome wonder",
+        "Consider all the worlds Thy hands have made,",
+        "I see the stars, I hear th rolling thunder,",
+        "Thy power throughout the universe displayed"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When thru the woods and forest glades I wander",
+        "And hear the birds sing sweetly in the trees;",
+        "When I look down from lofty mountain grandeur",
+        "And hear the brook and feel the gentle breeze;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "And when I think, that God, His Son not sparing,",
+        "Sent Him to die, I scarce can take it in;",
+        "That on the cross, my burden gladly bearing,",
+        "He bled and died to take away my sin;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "When Christ shall come with shout of acclamation",
+        "And take me home, what joy shall fill my heart!",
+        "Then I shall bow in humble adoration",
+        "And there proclaim, my God, how great Thou art!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "s Then sings my soul, my Savior God to Thee;",
+        "How great Thou art, how great Thou art!",
+        "Then sings my soul, my Savior God to Thee;",
+        "How great Thou art! how great Thou art!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-5_full.mid",
+    "soprano": "/audio/midi/hymn-5_soprano.mid",
+    "alto": "/audio/midi/hymn-5_alto.mid",
+    "tenor": "/audio/midi/hymn-5_tenor.mid",
+    "bass": "/audio/midi/hymn-5_bass.mid"
+  }
+}

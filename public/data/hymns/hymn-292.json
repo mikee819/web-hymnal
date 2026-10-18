@@ -1,0 +1,75 @@
+{
+  "id": "hymn-292",
+  "number": "292",
+  "numberDisplay": "292",
+  "title": "The Lord's My Shepherd",
+  "firstLine": "The Lord's my Shepherd, I'll not want;",
+  "pitchInfo": {
+    "raw": "F-3-SOL C-11",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-11",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "The Lord's my Shepherd, I'll not want;",
+        "He makes me down to lie.",
+        "In pastures green; He leadeth me",
+        "The quiet waters by."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "My soul He doth restore again,",
+        "And me to walk doth make",
+        "Within the paths of righteousness",
+        "E'en for His own name's sake."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Yea, tho' I walk in death's dark vale,",
+        "Yet will I fear none ill;",
+        "For Thou art with me, and Thy rod,",
+        "And staff me comfort still."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "My table Thou hast furnished",
+        "In presence of my foes;",
+        "My head Thou dost with oil anoint,",
+        "And my cup over flows."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Goodness and mercy all my life",
+        "Shall surely follow me;",
+        "And in God's house for ever more,",
+        "My dwelling place shall be."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-292_full.mid",
+    "soprano": "/audio/midi/hymn-292_soprano.mid",
+    "alto": "/audio/midi/hymn-292_alto.mid",
+    "tenor": "/audio/midi/hymn-292_tenor.mid",
+    "bass": "/audio/midi/hymn-292_bass.mid"
+  }
+}

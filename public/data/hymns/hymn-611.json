@@ -1,0 +1,43 @@
+{
+  "id": "hymn-611",
+  "number": "611",
+  "numberDisplay": "611",
+  "title": "Father Of Mercy * /",
+  "firstLine": "Scripture; Daniel 9;19",
+  "pitchInfo": {
+    "raw": "Db-3-MI P-3",
+    "key": "Db",
+    "note": "Db",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "P-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Daniel 9;19"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Father of Mercy,",
+        "We bow before Thee;",
+        "Bless us, O bless us,",
+        "And hear our prayer.",
+        "Amen."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-611_full.mid",
+    "soprano": "/audio/midi/hymn-611_soprano.mid",
+    "alto": "/audio/midi/hymn-611_alto.mid",
+    "tenor": "/audio/midi/hymn-611_tenor.mid",
+    "bass": "/audio/midi/hymn-611_bass.mid"
+  }
+}

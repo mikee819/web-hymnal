@@ -1,0 +1,76 @@
+{
+  "id": "hymn-272",
+  "number": "272",
+  "numberDisplay": "272",
+  "title": "Jesus, The Loving Shepherd",
+  "firstLine": "Jesus, the loving Shepherd,",
+  "pitchInfo": {
+    "raw": "F-2-DO C-11",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-11",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus, the loving Shepherd,",
+        "Calleth thee now to come",
+        "Into the fold of safety,",
+        "Where there is rest and room;",
+        "Come in the strength of manhood",
+        "Come in the morn of youth,",
+        "Enter the fold of safety,",
+        "Enter the way of truth."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Jesus the loving Shepherd,",
+        "Gave HIs dear life for thee;",
+        "Tenderly now He's calling,",
+        "\"Wanderer, come to me.\"",
+        "Haste! for without is danger.",
+        "\"Come,\" cries the Shepherd blest;",
+        "Enter the fold of safety,",
+        "Enter the place of rest."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Lingering is but folly,",
+        "Wolves are abroad today",
+        "Seeking the sheep who're straying",
+        "Seeking the lambs to slay;",
+        "Jesus the loving Shepherd",
+        "Calleth thee now to come;",
+        "Enter the fold of safety,",
+        "Where there is rest and room."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lovingly, tenderly calling is He,",
+        "\"Wanderer, wanderer, come unto me.",
+        "Patiently waiting, there standing I see",
+        "Jesus, my Shepherd divine."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-272_full.mid",
+    "soprano": "/audio/midi/hymn-272_soprano.mid",
+    "alto": "/audio/midi/hymn-272_alto.mid",
+    "tenor": "/audio/midi/hymn-272_tenor.mid",
+    "bass": "/audio/midi/hymn-272_bass.mid"
+  }
+}

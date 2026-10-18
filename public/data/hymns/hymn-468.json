@@ -1,0 +1,66 @@
+{
+  "id": "hymn-468",
+  "number": "468",
+  "numberDisplay": "468",
+  "title": "Happiness Is The Lord",
+  "firstLine": "Composer; Ira F. Stanphill",
+  "pitchInfo": {
+    "raw": "Eb-4-MI C-12 J-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-12 J-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Ira F. Stanphill"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Happiness is to know the Savior,",
+        "Living a life within His favor,",
+        "Having a change in my behavior",
+        "Happiness is the Lord"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Happiness is a new creation,",
+        "\"Jesus and me\" in close relation,",
+        "Having a part in His salvation",
+        "Happiness is the Lord",
+        "Real joy is mine, no matter if teardrops start,",
+        "I've found the secret - it's Jesus in may heart!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Happiness is to be forgiven,",
+        "Living a life that's worth the living',",
+        "Taking a trip that leads to heaven",
+        "Happiness is the Lord.",
+        "Happiness is the Lord, Happiness is the Lord!",
+        "Copyright 1968 by Singspiration, Inc. all Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-468_full.mid",
+    "soprano": "/audio/midi/hymn-468_soprano.mid",
+    "alto": "/audio/midi/hymn-468_alto.mid",
+    "tenor": "/audio/midi/hymn-468_tenor.mid",
+    "bass": "/audio/midi/hymn-468_bass.mid"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "hymn-223",
+  "number": "223",
+  "numberDisplay": "223",
+  "title": "Peace, Perfect Peace",
+  "firstLine": "Peace, perfect peace, in this dark world of sin?",
+  "pitchInfo": {
+    "raw": "C-4-SOL C-15 P-1",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-15 P-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Peace, perfect peace, in this dark world of sin?",
+        "The blood of Jesus whispers peace within."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Peace, perfect peace, by thronging duties pressed?",
+        "To do the will of Jesus, this is rest."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Peace, perfect peace, with sorrows surging 'round?",
+        "On Jesus' bosom naught but calm is found."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-223_full.mid",
+    "soprano": "/audio/midi/hymn-223_soprano.mid",
+    "alto": "/audio/midi/hymn-223_alto.mid",
+    "tenor": "/audio/midi/hymn-223_tenor.mid",
+    "bass": "/audio/midi/hymn-223_bass.mid"
+  }
+}

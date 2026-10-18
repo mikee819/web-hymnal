@@ -1,0 +1,66 @@
+{
+  "id": "hymn-89",
+  "number": "89",
+  "numberDisplay": "89",
+  "title": "Jesus, Savior, Pilot Me",
+  "firstLine": "Jesus, Savior, pilot me",
+  "pitchInfo": {
+    "raw": "Bb-3-MI G-3",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "G-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus, Savior, pilot me",
+        "Over life’s tempestuous sea;",
+        "Unknown waves before me roll,",
+        "Hiding rocks and treacherous shoal;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "art and compass came from Thee,",
+        "Jesus, Savior, pilot me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "As a mother stills her child,",
+        "Thou canst hush the ocean wild;",
+        "Boisterous waves obey Thy will",
+        "When Thou say’st to them, \"Be Still!\"",
+        "Wondrous Sovereign of the sea,",
+        "Jesus, Savior, pilot me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When at last I near the shore,",
+        "And the fearful breakers roar",
+        "‘Twixt me and the peaceful rest,",
+        "Then, while leaning on Thy breast,",
+        "My I hear Thee say to me,",
+        "\"Fear not, I will pilot Thee.\""
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-89_full.mid",
+    "soprano": "/audio/midi/hymn-89_soprano.mid",
+    "alto": "/audio/midi/hymn-89_alto.mid",
+    "tenor": "/audio/midi/hymn-89_tenor.mid",
+    "bass": "/audio/midi/hymn-89_bass.mid"
+  }
+}

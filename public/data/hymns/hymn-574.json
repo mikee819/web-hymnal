@@ -1,0 +1,64 @@
+{
+  "id": "hymn-574",
+  "number": "574",
+  "numberDisplay": "574",
+  "title": "The Glory-Land Way 534 /",
+  "firstLine": "I'm in the way, the bright and shining way,",
+  "pitchInfo": {
+    "raw": "G-4-MI C-12",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-12",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I'm in the way, the bright and shining way,",
+        "I'm in the glory land way;",
+        "Telling the world that Jesus saves today,",
+        "Yes, I'm in the glory land way."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "List to the call, the gospel call today,",
+        "Get in the glory land way;",
+        "Wand'rers, come home, O, hasten to obey,",
+        "For I'm in the glory land way."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Onward I go, rejoicing in His love,",
+        "I'm in the glory land way;",
+        "Soon I shall see Him in that home above,",
+        "O, I'm in the glory land way."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "I'm in the glory land way,",
+        "I'm in the glory land way;",
+        "Heaven is nearer and the way groweth clearer,",
+        "For I'm in the glory land way."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-574_full.mid",
+    "soprano": "/audio/midi/hymn-574_soprano.mid",
+    "alto": "/audio/midi/hymn-574_alto.mid",
+    "tenor": "/audio/midi/hymn-574_tenor.mid",
+    "bass": "/audio/midi/hymn-574_bass.mid"
+  }
+}

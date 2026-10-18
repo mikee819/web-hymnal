@@ -1,0 +1,64 @@
+{
+  "id": "hymn-37",
+  "number": "37",
+  "numberDisplay": "37",
+  "title": "Revive Us Again",
+  "firstLine": "We praise Thee, o God!",
+  "pitchInfo": {
+    "raw": "G-3-SOL H-4 P-2",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-4 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "We praise Thee, o God!",
+        "For the Son of Thy love,",
+        "For Jesus who died,",
+        "And is now gone above"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "We praise Thee, O God!",
+        "For Thy Spirit of light,",
+        "Who has shown us our Savior,",
+        "And scattered our night."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "All glory and praise",
+        "To the Lamb that was slain,",
+        "Who has borne all our sins,",
+        "And has cleansed every stain,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hallelujah! Thine the glory,",
+        "Hallelujah! Amen!",
+        "Hallelujah! Thine the glory,",
+        "Revive us again."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-37_full.mid",
+    "soprano": "/audio/midi/hymn-37_soprano.mid",
+    "alto": "/audio/midi/hymn-37_alto.mid",
+    "tenor": "/audio/midi/hymn-37_tenor.mid",
+    "bass": "/audio/midi/hymn-37_bass.mid"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "hymn-430",
+  "number": "430",
+  "numberDisplay": "430",
+  "title": "Take The Name Of Jesus With You",
+  "firstLine": "Take the name of Jesus with you,",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL E-1 N-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1 N-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Take the name of Jesus with you,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ild of sorrow and of woe;",
+        "It will joy and comfort give you,",
+        "Take it then, where'er you go."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Take the name of Jesus ever",
+        "As a shield from ev'ry snare;",
+        "If temptations round you gather,",
+        "Breathe that holy name in pray'r."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O, the precious name of Jesus!",
+        "How it thrills our souls with joy.",
+        "When His loving arms receive us,",
+        "And His songs our tongues employ!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Precious name, O, how sweet!",
+        "Hope of earth and joy of heav'n;",
+        "Precious name, O, how sweet!",
+        "Hope of earth and joy of heav'n."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-430_full.mid",
+    "soprano": "/audio/midi/hymn-430_soprano.mid",
+    "alto": "/audio/midi/hymn-430_alto.mid",
+    "tenor": "/audio/midi/hymn-430_tenor.mid",
+    "bass": "/audio/midi/hymn-430_bass.mid"
+  }
+}

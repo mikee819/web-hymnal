@@ -1,0 +1,80 @@
+{
+  "id": "hymn-326",
+  "number": "326",
+  "numberDisplay": "326",
+  "title": "Trust And Obey",
+  "firstLine": "When we walk with the Lord",
+  "pitchInfo": {
+    "raw": "F-3-DO F-2",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "F-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When we walk with the Lord",
+        "In the light of His Word",
+        "What a glory He sheds on our way!",
+        "While we do His good will;",
+        "He abides with us still,",
+        "And with all who will trust and obey."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Not a burden we bear,",
+        "Not a sorrow we share,",
+        "But our toil He doth richly repay;",
+        "Not a grief or a loss,",
+        "Not a frown or a cross,",
+        "But is blest if we trust and obey."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "But we never can prove",
+        "The delights of His love",
+        "Until all on the altar we lay;",
+        "For the favor He shows",
+        "And the joy He bestows",
+        "Are for those who will trust and obey."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Then in fellowship sweet",
+        "We will sit at His feet",
+        "Or we'll walk by His side in the way;",
+        "What He says we will do,",
+        "Where He sends we will go;",
+        "Never fear, only trust and obey."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Trust and obey, for there's no other way",
+        "To be happy in Jesus, But to trust and obey"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-326_full.mid",
+    "soprano": "/audio/midi/hymn-326_soprano.mid",
+    "alto": "/audio/midi/hymn-326_alto.mid",
+    "tenor": "/audio/midi/hymn-326_tenor.mid",
+    "bass": "/audio/midi/hymn-326_bass.mid"
+  }
+}

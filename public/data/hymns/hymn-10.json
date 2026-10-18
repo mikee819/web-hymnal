@@ -1,0 +1,55 @@
+{
+  "id": "hymn-10",
+  "number": "10",
+  "numberDisplay": "10",
+  "title": "We Thank Thee, Lord",
+  "firstLine": "For all the blessings of the year,",
+  "pitchInfo": {
+    "raw": "G-3-MI H-5 T-2",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "H-5 T-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "For all the blessings of the year,",
+        "For all the friends we hold so dear,",
+        "For peace on earth, both far and near,",
+        "We thank Thee, Lord."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "For life and health, those common things,",
+        "Which every day and hour brings,",
+        "For home, where our affection clings,",
+        "We thank Thee, Lord."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "For love of Thine which never tires,",
+        "Which all our better thought inspires,",
+        "And warms our lives, with heavenly fires,",
+        "We thank Thee Lord."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-10_full.mid",
+    "soprano": "/audio/midi/hymn-10_soprano.mid",
+    "alto": "/audio/midi/hymn-10_alto.mid",
+    "tenor": "/audio/midi/hymn-10_tenor.mid",
+    "bass": "/audio/midi/hymn-10_bass.mid"
+  }
+}

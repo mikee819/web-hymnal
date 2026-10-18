@@ -1,0 +1,59 @@
+{
+  "id": "hymn-264",
+  "number": "264",
+  "numberDisplay": "264",
+  "title": "Whosoever Will",
+  "firstLine": "\"Whosoever heareth,\" shout, shout the sound!",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "\"Whosoever heareth,\" shout, shout the sound!",
+        "Spread the blessed tidings all the world around,",
+        "Tell the joyful news wherever an is found,",
+        "\"Whosoever will may come.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Whosoever cometh, need not delay,",
+        "Now the door is open, enter while you may;",
+        "Jesus is the true, the only Living Way;",
+        "\"Whosoever will may come.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "\"Whosoever will!\" the promise is secure,",
+        "\"Whosoever will,\" for ever must endure,",
+        "\"Whosoever will!\" 'tis life for evermore;",
+        "\"Whosoever will may come.\""
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\"Whosoever will, whosoever will!\"",
+        "Send the proclamation over vale and hill;",
+        "'Tis a loving Father calls the wand'rer home:",
+        "\"Whosoever will may come.\"",
+        "Arr. Copyright, 1946, by R. E. WINSETT, in Sacred Service Hymns\" Ellis J. Crum, Kendallville, Indiana 46755"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-264_full.mid",
+    "soprano": "/audio/midi/hymn-264_soprano.mid",
+    "alto": "/audio/midi/hymn-264_alto.mid",
+    "tenor": "/audio/midi/hymn-264_tenor.mid",
+    "bass": "/audio/midi/hymn-264_bass.mid"
+  }
+}

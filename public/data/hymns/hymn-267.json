@@ -1,0 +1,64 @@
+{
+  "id": "hymn-267",
+  "number": "267",
+  "numberDisplay": "267",
+  "title": "Jesus Loves Me",
+  "firstLine": "1 Jesus loves me! this I know,",
+  "pitchInfo": {
+    "raw": "Eb-2-SOL L-4",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "L-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1 Jesus loves me! this I know,",
+        "For the Bible tells me so;",
+        "Little ones to Him belong;",
+        "They are weak, but He is strong."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "2 Jesus loves me! He who died",
+        "Heaven's gates to open wide!",
+        "He will wash away my sin,",
+        "Let His little child come in."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "3 Jesus, take this heart of mine,",
+        "Make it pure and wholly Thine;",
+        "Thou hast bled and died for me;",
+        "I will hence-forth live for Thee."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yes, Jesus loves me,",
+        "Yes, Jesus loves me,",
+        "Yes, Jesus loves me,",
+        "The Bible tells me so."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-267_full.mid",
+    "soprano": "/audio/midi/hymn-267_soprano.mid",
+    "alto": "/audio/midi/hymn-267_alto.mid",
+    "tenor": "/audio/midi/hymn-267_tenor.mid",
+    "bass": "/audio/midi/hymn-267_bass.mid"
+  }
+}

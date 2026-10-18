@@ -1,0 +1,46 @@
+{
+  "id": "hymn-519",
+  "number": "519",
+  "numberDisplay": "519",
+  "title": "As We Partake * /",
+  "firstLine": "As we partake of the supper of Jesus,",
+  "pitchInfo": {
+    "raw": "F-4-DO L-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "L-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "As we partake of the supper of Jesus,",
+        "May we believe that He died on that tree.",
+        "He gave His life that we might have forgiveness.",
+        "He paid the price upon Mount Calvary."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "The son of God came to earth to bring freedom.",
+        "He saw us chained in the bondage of sin.",
+        "We had no hope unless He would save us.",
+        "He is our King, Redeemer and our Friend.",
+        "Copyright 1993 by Charles Willis. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-519_full.mid",
+    "soprano": "/audio/midi/hymn-519_soprano.mid",
+    "alto": "/audio/midi/hymn-519_alto.mid",
+    "tenor": "/audio/midi/hymn-519_tenor.mid",
+    "bass": "/audio/midi/hymn-519_bass.mid"
+  }
+}

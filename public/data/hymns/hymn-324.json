@@ -1,0 +1,67 @@
+{
+  "id": "hymn-324",
+  "number": "324",
+  "numberDisplay": "324",
+  "title": "Come, Sinner, Come",
+  "firstLine": "While thru His Word He calls you,",
+  "pitchInfo": {
+    "raw": "F-2-MI I-1",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "While thru His Word He calls you,",
+        "Come sinner, come!",
+        "While we are praying for you,",
+        "Come, sinner, come!",
+        "Now is the time to own Him,",
+        "Come, sinner, come!",
+        "Now is the time to know Him,",
+        "Come, sinner, come!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Are you too heavy laden?",
+        "Come, sinner, come!",
+        "Jesus will bear your burden,",
+        "Come, sinner, come!",
+        "Jesus will not deceive you,",
+        "Come, sinner, come!",
+        "Jesus can now redeem you,",
+        "Come, sinner, come!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O hear His tender pleading,",
+        "Come, sinner, come!",
+        "Come and receive the blessing,",
+        "Come, sinner, come!",
+        "While Jesus now invites you,",
+        "Come, sinner, come!",
+        "While we are praying for you,",
+        "Come, sinner, come!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-324_full.mid",
+    "soprano": "/audio/midi/hymn-324_soprano.mid",
+    "alto": "/audio/midi/hymn-324_alto.mid",
+    "tenor": "/audio/midi/hymn-324_tenor.mid",
+    "bass": "/audio/midi/hymn-324_bass.mid"
+  }
+}

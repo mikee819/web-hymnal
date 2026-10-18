@@ -1,0 +1,56 @@
+{
+  "id": "hymn-460",
+  "number": "460",
+  "numberDisplay": "460",
+  "title": "The World's Bible",
+  "firstLine": "Christ has no hands but our hands To do His work today,",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL C-12",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-12",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Christ has no hands but our hands To do His work today,",
+        "He has no feet but our feet To lead men in His way;",
+        "He has no tongue but our tongues, To tell men how He died,",
+        "He has no help but our help, To bring them to His side."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "We are the only Bible The careless world will read,",
+        "We are the sinner's gospel, We are the scoffers' creed;",
+        "We are the Lord's last message Given in deed and word,",
+        "What if the type is crooked? What if the print is blurred?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "What if our hands are busy With other things than His?",
+        "What if our feet are walking Where sin's allurement is?",
+        "What if our tongues are speaking Of things His life would spurn,",
+        "How can we hope to help Him And welcome His return?",
+        "Copyright, 1934. Renewal. Stamp-Baxter Music, owners."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-460_full.mid",
+    "soprano": "/audio/midi/hymn-460_soprano.mid",
+    "alto": "/audio/midi/hymn-460_alto.mid",
+    "tenor": "/audio/midi/hymn-460_tenor.mid",
+    "bass": "/audio/midi/hymn-460_bass.mid"
+  }
+}

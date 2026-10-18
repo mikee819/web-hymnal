@@ -1,0 +1,51 @@
+{
+  "id": "hymn-205",
+  "number": "205",
+  "numberDisplay": "205",
+  "title": "Amazing Grace",
+  "firstLine": "1 Amazing grace! how sweet the sound,",
+  "pitchInfo": {
+    "raw": "G-3-SOL G-2",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "G-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1 Amazing grace! how sweet the sound,",
+        "That saved a wretch like me!",
+        "I once was lost, but now am found,",
+        "Was blind, but now I see.",
+        "2 'Twas grace that taught my heart to fear,",
+        "And grace my fears relieved;",
+        "How precious did that grace appear",
+        "The hour I first believed.",
+        "3 Thru many dangers, toils, and snares,",
+        "I have already come;",
+        "'Tis grace hath bro't me safe thus far,",
+        "And grace will lead me home.",
+        "4 The Lord has promised good to me,",
+        "His Word my hope secures;",
+        "He will my shield and portion be",
+        "As long as life endures.",
+        "5 When we've been there ten thousand years,",
+        "Bright shining as the sun,",
+        "We've no less days to sing God's praise",
+        "Than when we'd first begun."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-205_full.mid",
+    "soprano": "/audio/midi/hymn-205_soprano.mid",
+    "alto": "/audio/midi/hymn-205_alto.mid",
+    "tenor": "/audio/midi/hymn-205_tenor.mid",
+    "bass": "/audio/midi/hymn-205_bass.mid"
+  }
+}

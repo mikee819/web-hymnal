@@ -1,0 +1,76 @@
+{
+  "id": "hymn-11",
+  "number": "11",
+  "numberDisplay": "11",
+  "title": "Our King Immanuel 579 /",
+  "firstLine": "See the Monarch of monarchs",
+  "pitchInfo": {
+    "raw": "F-4-SOL C-6 P-2",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-6 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "See the Monarch of monarchs",
+        "Come in majesty!",
+        "Let us bow down and worship Him",
+        "Who doeth all things well",
+        "He leads the nations out of sin",
+        "And causes foes to flee",
+        "All hail, Our King Immanuel!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Like the waves of the ocean",
+        "Rolls His praise today",
+        "For His wonderful love has helped",
+        "So many to excel;",
+        "He sends the captives free from chains,",
+        "All singing on their way;",
+        "All hail, Our King Immanuel!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O the joy that will thrill us",
+        "Some glad day on high,",
+        "When we see Him in glory,",
+        "Where Celestial praises swell;",
+        "Where cherubim and seraphim",
+        "Now join us when we cry;",
+        "All hail, Our King Immanuel!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O honor His name forever",
+        "For what His grace has done",
+        "His mighty love in ev'ry Heart should dwell",
+        "For He is the world's Redeemer,",
+        "Jehovah's only Son!",
+        "All hail, Our King Immanuel!",
+        "Copyright, 1915, Renewal, STAMPS-BAXTER, owners."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-11_full.mid",
+    "soprano": "/audio/midi/hymn-11_soprano.mid",
+    "alto": "/audio/midi/hymn-11_alto.mid",
+    "tenor": "/audio/midi/hymn-11_tenor.mid",
+    "bass": "/audio/midi/hymn-11_bass.mid"
+  }
+}

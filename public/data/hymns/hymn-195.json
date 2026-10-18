@@ -1,0 +1,67 @@
+{
+  "id": "hymn-195",
+  "number": "195",
+  "numberDisplay": "195",
+  "title": "Beyond The Sunset",
+  "firstLine": "Beyond the sunset, O, blissful morning,",
+  "pitchInfo": {
+    "raw": "Eb-4-SOL H-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Beyond the sunset, O, blissful morning,",
+        "When with our Savior heav'n is begun;",
+        "Earth's toiling ended, O, glorious dawning,",
+        "Beyond the sunset, when day is done."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Beyond the sunset no clouds will gather,",
+        "No storms will threaten, no fears annoy;",
+        "O, day of gladness, O, day unending,",
+        "Beyond the sunset, eternal joy!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Beyond the sunset a hand will guide me",
+        "To God, the Father, whom I adore;",
+        "His glorious presence, His words of welcome,",
+        "Will be my portion on that fair shore!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Beyond the sunset, O glad reunion",
+        "With our dear loved ones who've gone before;",
+        "In that fair homeland we'll know no parting;",
+        "Beyond the sunset forever-more",
+        "Amen.",
+        "Copyright, 1936, Renewed 1964 by The RodeHeaver Company. (A Div. of WORD, INC.)All Rights Reserved. International Copyright Secured. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-195_full.mid",
+    "soprano": "/audio/midi/hymn-195_soprano.mid",
+    "alto": "/audio/midi/hymn-195_alto.mid",
+    "tenor": "/audio/midi/hymn-195_tenor.mid",
+    "bass": "/audio/midi/hymn-195_bass.mid"
+  }
+}

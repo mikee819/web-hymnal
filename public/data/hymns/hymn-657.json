@@ -1,0 +1,72 @@
+{
+  "id": "hymn-657",
+  "number": "657",
+  "numberDisplay": "657",
+  "title": "Heaven's Jubilee 578 /",
+  "firstLine": "Key; A Starting Note: A",
+  "pitchInfo": {
+    "raw": "A-4-DO S-2",
+    "key": "A",
+    "note": "A",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "S-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Key; A Starting Note: A"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Some glad morning we shall see Jesus in the air,",
+        "Coming after you and me, joy is ours to share;",
+        "What rejoicing there will be when the saints shall rise,",
+        "Headed for that jubilee, yonder in the skies."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Seems that now I almost see all the sainted dead,",
+        "Rising for that jubilee, that is just ahead;",
+        "In the twinkling of an eye, changed with them to be,",
+        "All the living saints to fly to that jubilee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When with all that heav'nly host we begin to sing,",
+        "Singing in the Holy Ghost, how the heav'ns will ring;",
+        "Millions there will join the song, with them we shall be",
+        "Praising Christ thru ages long, heaven's jubilee."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Oh, what singing, Oh, what shouting,",
+        "On that happy morning when we all shall rise;",
+        "Oh, what glory, Hallelujah!",
+        "When we meet our blessed Savior in the skies.",
+        "Copyright 1939, Renewal 1967. Assigned to R. E. Winsett Music Co., Ellis J. Crum owner, Kendallville, Indiana 46755. All Rights Reserved. Used by permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-657_full.mid",
+    "soprano": "/audio/midi/hymn-657_soprano.mid",
+    "alto": "/audio/midi/hymn-657_alto.mid",
+    "tenor": "/audio/midi/hymn-657_tenor.mid",
+    "bass": "/audio/midi/hymn-657_bass.mid"
+  }
+}

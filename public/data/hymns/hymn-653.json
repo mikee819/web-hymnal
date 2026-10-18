@@ -1,0 +1,64 @@
+{
+  "id": "hymn-653",
+  "number": "653",
+  "numberDisplay": "653",
+  "title": "When Jesus Comes 576 /",
+  "firstLine": "When Jesus comes again to gather His own,",
+  "pitchInfo": {
+    "raw": "Bb-4-MI S-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "S-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When Jesus comes again to gather His own,",
+        "And to the true, a crown is giv'n,",
+        "I want to hear Him say, \"My servant, well done,",
+        "Thy soul shall know the joys of heav'n.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I want to tell to all the story of love,",
+        "That they may know His pardon free;",
+        "And there before His throne in glory above,",
+        "Receive a crown of victory."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I do not know the day my Savior will come,",
+        "But I must be prepared to go;",
+        "If I am ready He will call me his own,",
+        "And that's enough for me to know."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "I want to know that He will welcome me there,",
+        "I do not want to be denied;",
+        "i want to meet Him in that city so fair,",
+        "And ever there with him abide."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-653_full.mid",
+    "soprano": "/audio/midi/hymn-653_soprano.mid",
+    "alto": "/audio/midi/hymn-653_alto.mid",
+    "tenor": "/audio/midi/hymn-653_tenor.mid",
+    "bass": "/audio/midi/hymn-653_bass.mid"
+  }
+}

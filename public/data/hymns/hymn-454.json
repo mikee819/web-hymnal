@@ -1,0 +1,56 @@
+{
+  "id": "hymn-454",
+  "number": "454",
+  "numberDisplay": "454",
+  "title": "Let The Beauty Of Jesus Be Seen",
+  "firstLine": "Let the beauty of Jesus be seen in me,",
+  "pitchInfo": {
+    "raw": "Eb-2-MI C-12 C-13",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-12 C-13",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Let the beauty of Jesus be seen in me,",
+        "All His wonderful passion and purity,",
+        "May His spirit divine all my being refine,",
+        "Let the beauty of Jesus be seen in me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When somebody has been so unkind to you,",
+        "Some word spoken that pierces you thru, and thru,",
+        "Think how He was beguiled, spat upon and reviled,",
+        "Let the beauty of Jesus be seen in you."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "From the dawn of the morning to close of day,",
+        "In example in deeds and in all you say;",
+        "Lay your gifts at His feet, ever strive to keep sweet,",
+        "Let the beauty of Jesus be seen in you.",
+        "Copyright 1934. Renewal 1962 by Stamps-Baxter Music."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-454_full.mid",
+    "soprano": "/audio/midi/hymn-454_soprano.mid",
+    "alto": "/audio/midi/hymn-454_alto.mid",
+    "tenor": "/audio/midi/hymn-454_tenor.mid",
+    "bass": "/audio/midi/hymn-454_bass.mid"
+  }
+}

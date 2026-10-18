@@ -1,0 +1,74 @@
+{
+  "id": "hymn-260",
+  "number": "260",
+  "numberDisplay": "260",
+  "title": "Hand In Hand With Jesus",
+  "firstLine": "Once from my poor sin sick soul,",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Once from my poor sin sick soul,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist did ev'ry burden roll,",
+        "Now I walk redeemed and whole,",
+        "Hand in hand with Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "In my night of dark despair,",
+        "Jesus heard and answered pray'r,",
+        "Now I'm walking free as air,",
+        "Hand in hand with Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "From the straight and narrow way,",
+        "Praise the Lord, I must not stray,",
+        "For I'm walking ev'ry day,",
+        "Hand in hand with Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "When the stars are backward rolled",
+        "And His home I shall behold,",
+        "I will walk those streets of gold,",
+        "Hand in hand with Jesus."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hand in hand we walk each day,",
+        "Hand in hand along the way,",
+        "Walking thus I will not stray,",
+        "Hand in hand with Jesus.",
+        "Copyright, 1940. Renewal 1968 by Stamps-Baxter Music."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-260_full.mid",
+    "soprano": "/audio/midi/hymn-260_soprano.mid",
+    "alto": "/audio/midi/hymn-260_alto.mid",
+    "tenor": "/audio/midi/hymn-260_tenor.mid",
+    "bass": "/audio/midi/hymn-260_bass.mid"
+  }
+}

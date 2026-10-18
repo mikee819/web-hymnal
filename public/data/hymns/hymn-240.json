@@ -1,0 +1,65 @@
+{
+  "id": "hymn-240",
+  "number": "240",
+  "numberDisplay": "240",
+  "title": "My Home Above",
+  "firstLine": "There's a home beyond this body for the soul,",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL H-2",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There's a home beyond this body for the soul,",
+        "'Tis a mansion for the Blest,",
+        "Where from God eternal blessings ever flow",
+        "And the saved forever rest."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "'Tis a land some day my spirit shall behold",
+        "In a joy beyond compare;",
+        "How I long to see that city made of gold",
+        "And to meet my Savior there."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I will rise with Jesus evermore to stay",
+        "In the land beyond the sky,",
+        "When the angels gently carry me away",
+        "To the Father's home on high."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "In a house where glad hosannas ever ring,",
+        "I will make my home above",
+        "In immortal glory, ever more to sing",
+        "Of the Savior's matchless love.",
+        "Copyright 1986 Shepard-Stevens Music, Inc. in \"Hymns For Worship\". Harry Presley & R. J. Stevens, owners. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-240_full.mid",
+    "soprano": "/audio/midi/hymn-240_soprano.mid",
+    "alto": "/audio/midi/hymn-240_alto.mid",
+    "tenor": "/audio/midi/hymn-240_tenor.mid",
+    "bass": "/audio/midi/hymn-240_bass.mid"
+  }
+}

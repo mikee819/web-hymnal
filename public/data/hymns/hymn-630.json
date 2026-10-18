@@ -1,0 +1,64 @@
+{
+  "id": "hymn-630",
+  "number": "630",
+  "numberDisplay": "630",
+  "title": "Watch And Pray 562 /",
+  "firstLine": "Watch and pray, for the Lord is coming,",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL S-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "S-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Watch and pray, for the Lord is coming,",
+        "Coming in the clouds some day;",
+        "Wash your robes in the cleansing fountain,",
+        "Watch, O, Watch and pray."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "He may come in the early morning,",
+        "He may come at close of day;",
+        "Watch and pray, in His promise trusting,",
+        "Watch, O, Watch and pray."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When He comes He'll reward the faithful,",
+        "What a glorious day 'twill be.",
+        "Joy awaits those who have made ready,",
+        "Watch, O, Watch and pray."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Watch and pray, watch and pray,",
+        "For we know not the hour when the Lord shall come;",
+        "Watch and pray, watch and pray,",
+        "And be ready to enter the soul's bright home."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-630_full.mid",
+    "soprano": "/audio/midi/hymn-630_soprano.mid",
+    "alto": "/audio/midi/hymn-630_alto.mid",
+    "tenor": "/audio/midi/hymn-630_tenor.mid",
+    "bass": "/audio/midi/hymn-630_bass.mid"
+  }
+}

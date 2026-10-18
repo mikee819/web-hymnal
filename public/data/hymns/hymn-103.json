@@ -1,0 +1,67 @@
+{
+  "id": "hymn-103",
+  "number": "103",
+  "numberDisplay": "103",
+  "title": "O God Of Infinite Mercy 103 / *",
+  "firstLine": "O God of infinite mercy",
+  "pitchInfo": {
+    "raw": "C-2-SOL P-3",
+    "key": "C",
+    "note": "C",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O God of infinite mercy",
+        "We come before Thee now,",
+        "Incline our hearts to worship,",
+        "As all before Thee bow."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "We pray for those in sorrow,",
+        "For those in deep despair,",
+        "We plead for them Thy mercy,",
+        "Thy tender love and care."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Deliver us from evil,",
+        "Uphold us lest we fall;",
+        "Sustain us with Thy Presence,",
+        "O hear us when we call."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "We thank Thee, We praise Thee,",
+        "For Thy redeeming love",
+        "As we believe, may we receive",
+        "Thy mercy from above.",
+        "We laud Thee, adore Thee,",
+        "In Jesus' holy name. Amen.",
+        "Copyright 1948, by Tillit S. Teddlie. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-103_full.mid",
+    "soprano": "/audio/midi/hymn-103_soprano.mid",
+    "alto": "/audio/midi/hymn-103_alto.mid",
+    "tenor": "/audio/midi/hymn-103_tenor.mid",
+    "bass": "/audio/midi/hymn-103_bass.mid"
+  }
+}

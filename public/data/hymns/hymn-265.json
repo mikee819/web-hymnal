@@ -1,0 +1,62 @@
+{
+  "id": "hymn-265",
+  "number": "265",
+  "numberDisplay": "265",
+  "title": "Faith Of Our Fathers",
+  "firstLine": "Faith of our fathers! living still,",
+  "pitchInfo": {
+    "raw": "Ab-3-MI L-6 W-4",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "L-6 W-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Faith of our fathers! living still,",
+        "In spite of dungeon, fire and sword;",
+        "O how our hearts beat high with joy",
+        "When e'er we hear that glorious word:"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Our fathers, chained in prisons dark,",
+        "Were still in heart and conscience free;",
+        "How sweet would be their children's fate",
+        "If they, like them, could die for Thee!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Faith of our fathers! we will love",
+        "Both friend and foe in all our strife;",
+        "And preach Thee, too, as love knows how,",
+        "By kindly words and virtuous life:"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Faith of our fathers, holy faith!",
+        "We will be true to Thee till death!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-265_full.mid",
+    "soprano": "/audio/midi/hymn-265_soprano.mid",
+    "alto": "/audio/midi/hymn-265_alto.mid",
+    "tenor": "/audio/midi/hymn-265_tenor.mid",
+    "bass": "/audio/midi/hymn-265_bass.mid"
+  }
+}

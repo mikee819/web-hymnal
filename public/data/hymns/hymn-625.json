@@ -1,0 +1,73 @@
+{
+  "id": "hymn-625",
+  "number": "625",
+  "numberDisplay": "625",
+  "title": "One Sweetly Solemn Thought * /",
+  "firstLine": "Composer; R. S. Ambrose",
+  "pitchInfo": {
+    "raw": "D-4-SOL H-2 F-2",
+    "key": "D",
+    "note": "D",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2 F-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; R. S. Ambrose",
+        "Scripture; Romans 13:11"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "One sweetly solemn thought",
+        "Comes to me o'er and o'er;",
+        "Nearer my home today am I",
+        "Than e'er I've been before."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Nearer my Father's house,",
+        "Where many mansions be;",
+        "Nearer today, the great white throne,",
+        "Nearer the crystal sea."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Nearer the bound of life,",
+        "Where burdens are laid down;",
+        "Nearer to leave the heavy cross,",
+        "Nearer to gain the crown."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Father, perfect my trust,",
+        "Strengthen my pow'r of faith;",
+        "Nor let me stand, at last, alone",
+        "Upon the shore of death."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-625_full.mid",
+    "soprano": "/audio/midi/hymn-625_soprano.mid",
+    "alto": "/audio/midi/hymn-625_alto.mid",
+    "tenor": "/audio/midi/hymn-625_tenor.mid",
+    "bass": "/audio/midi/hymn-625_bass.mid"
+  }
+}

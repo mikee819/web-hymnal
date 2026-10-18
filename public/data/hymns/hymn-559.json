@@ -1,0 +1,32 @@
+{
+  "id": "hymn-559",
+  "number": "559",
+  "numberDisplay": "559",
+  "title": "Psalm 106:1-5 528a /",
+  "firstLine": "O praise the Lord! O thank the Lord! For bountiful is He; because His loving kindness lasts to all eternity.",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "I'm Not Ashamed To Own My Lord",
+    "number": "273"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O praise the Lord! O thank the Lord! For bountiful is He; because His loving kindness lasts to all eternity.",
+        "Who can express Jehovah's praise or tell His deeds of might? O blest are they who justice keep and ever do the right.",
+        "Regard me with the favor Lord, which Thou dost bear to Thine. O visit Thou my soul in love; make Thy salvation mine.",
+        "That I may see Thy people's good, and in their joy rejoice, and may with Thine inheritance exult with cheerful voice."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-559_full.mid",
+    "soprano": "/audio/midi/hymn-559_soprano.mid",
+    "alto": "/audio/midi/hymn-559_alto.mid",
+    "tenor": "/audio/midi/hymn-559_tenor.mid",
+    "bass": "/audio/midi/hymn-559_bass.mid"
+  }
+}

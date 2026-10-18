@@ -1,0 +1,75 @@
+{
+  "id": "hymn-415",
+  "number": "415",
+  "numberDisplay": "415",
+  "title": "To Christ Be True",
+  "firstLine": "C-4-MI??C-16 L-6",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "C-4-MI??C-16 L-6"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "?To Christ be loyal and be true;",
+        "?His banner be unfurled,",
+        "?And borne aloft till is secured",
+        "?The conquest of the world."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "?To Christ be loyal and be true;",
+        "?He needs brave volunteers",
+        "?To stand against the pow'rs of sin,",
+        "?Moved not by frowns or fears."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "?To Christ be loyal and be true;",
+        "?In noble service prove",
+        "?Your faith and your fidelity,",
+        "?The fervor of your love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "?To Christ be loyal and be true,",
+        "?And He will be your fired,",
+        "?Defending and protecting you",
+        "?To life's triumphant end."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "?To Christ, the Lord, be true,",
+        "?For He will go with you,",
+        "?And help you all your conflicts thru;",
+        "?To Christ, the Lord, be true."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-415_full.mid",
+    "soprano": "/audio/midi/hymn-415_soprano.mid",
+    "alto": "/audio/midi/hymn-415_alto.mid",
+    "tenor": "/audio/midi/hymn-415_tenor.mid",
+    "bass": "/audio/midi/hymn-415_bass.mid"
+  }
+}

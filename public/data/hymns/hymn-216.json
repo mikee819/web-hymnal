@@ -1,0 +1,64 @@
+{
+  "id": "hymn-216",
+  "number": "216",
+  "numberDisplay": "216",
+  "title": "O That Will Be Glory",
+  "firstLine": "When all my labors and trials are o'er,",
+  "pitchInfo": {
+    "raw": "Ab-2-SOL H-2",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When all my labors and trials are o'er,",
+        "And I am safe on that beautiful shore,",
+        "Just to be near the dear Lord I adore,",
+        "Will thru the ages be glory for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When, by the gift of His infinite grace,",
+        "I am accorded in heaven a place,",
+        "Just to be there and to look on His face,",
+        "Will thro' the ages be glory for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Friends will be there I have loved long ago;",
+        "Joy like a river around me will flow,",
+        "Yet, just a smile from my Savior, I know,",
+        "Will thru the ages be glory for me."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, that will be glory for me,",
+        "Glory for me, glory for me;",
+        "When by His grace I shall look on His face,",
+        "That will be glory, be glory for me."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-216_full.mid",
+    "soprano": "/audio/midi/hymn-216_soprano.mid",
+    "alto": "/audio/midi/hymn-216_alto.mid",
+    "tenor": "/audio/midi/hymn-216_tenor.mid",
+    "bass": "/audio/midi/hymn-216_bass.mid"
+  }
+}

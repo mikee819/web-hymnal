@@ -1,0 +1,63 @@
+{
+  "id": "hymn-93",
+  "number": "93",
+  "numberDisplay": "93",
+  "title": "My God And I",
+  "firstLine": "My God and I go in the fields together,",
+  "pitchInfo": {
+    "raw": "C-4-MI F-2",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "F-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "My God and I go in the fields together,",
+        "We walk and talk as good friends should and do;",
+        "We clasp our hands, our voices ring with laughter -",
+        "My God and I walk thru the meadow's hue;",
+        "We clasp our hands, our voices ring with laughter -",
+        "My God and I walk thru the meadow's hue."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "He tells me of the years that went before me,",
+        "When heavenly plans were made for me to be;",
+        "When all was but a dream of dim conception",
+        "To come to life, earth's verdant glory see;",
+        "When all was but a dream of dim conception",
+        "To come to life, earth's verdant glory see;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "My God and I will go for aye together,",
+        "We'll walk and talk as good friends should and do;",
+        "This earth will pass, and with it common trifles -",
+        "But God and I will go unendingly",
+        "This earth will pass, and with it common trifles -",
+        "But God and I will go unendingly",
+        "Copyright 1935, Renewal 1963, by Austris A. Whitol. Assigned to Singspiration, Inc. All Rights Reserved. Used by Permission.",
+        "Arr. @ 1970 by SINGSPIRATION, INC. All rights reserved. Used by permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-93_full.mid",
+    "soprano": "/audio/midi/hymn-93_soprano.mid",
+    "alto": "/audio/midi/hymn-93_alto.mid",
+    "tenor": "/audio/midi/hymn-93_tenor.mid",
+    "bass": "/audio/midi/hymn-93_bass.mid"
+  }
+}

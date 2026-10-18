@@ -1,0 +1,70 @@
+{
+  "id": "hymn-139",
+  "number": "139",
+  "numberDisplay": "139",
+  "title": "Deeper And Deeper",
+  "firstLine": "Into the heart of Jesus, deeper and deeper I go,",
+  "pitchInfo": {
+    "raw": "Eb-2-MI C-16 D-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-16 D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Into the heart of Jesus, deeper and deeper I go,",
+        "Seeking to know the reason why He should love me so,",
+        "Why He should stoop to lift me Up from the miry clay,",
+        "Saving my soul, making me whole,",
+        "Tho' I had wandered away."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Into the will of Jesus, deeper and deeper I go,",
+        "Praying for grace to follow, seeking His way to know,",
+        "Bowing in full surrender low at His blessed feet,",
+        "Bidding Him take, break me and make,",
+        "Till I am molded and meet."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Into the cross of Jesus, deeper and deeper I go,",
+        "Following through the garden facing the dreaded foe,",
+        "Drinking the cup of sorrow, sobbing with broken heart;",
+        "\"O Savior, help! Dear Savior help!",
+        "Grace for my weakness impart.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Into the joy of Jesus, deeper and deeper I go,",
+        "Rising with soul enraptured far from the world below,",
+        "Joy in the place of sorrow, peace in the midst of pain,",
+        "Jesus will give, Jesus will give;",
+        "He will uphold and sustain.",
+        "Copyright, 1914. by O. J. Smith. Assigned to Singspiration, Inc. All Rights Reserved. Used by permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-139_full.mid",
+    "soprano": "/audio/midi/hymn-139_soprano.mid",
+    "alto": "/audio/midi/hymn-139_alto.mid",
+    "tenor": "/audio/midi/hymn-139_tenor.mid",
+    "bass": "/audio/midi/hymn-139_bass.mid"
+  }
+}

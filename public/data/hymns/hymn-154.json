@@ -1,0 +1,74 @@
+{
+  "id": "hymn-154",
+  "number": "154",
+  "numberDisplay": "154",
+  "title": "Near The Cross",
+  "firstLine": "Jesus keep me near the cross,",
+  "pitchInfo": {
+    "raw": "F-2-MI C-17",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-17",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus keep me near the cross,",
+        "There a precious fountain",
+        "Free to all a healing stream,",
+        "Flows from Calv'ry's mountain."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Near the cross, a trembling soul,",
+        "Love and mercy found me;",
+        "There the bright and Morning Star",
+        "Sheds its beams around me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Near the cross! O Lamb of God,",
+        "Bring its scenes before me;",
+        "Help me walk from day to day,",
+        "With its shadows o'er me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Near the cross I'll watch and wait,",
+        "Hoping, trusting, ever,",
+        "Till I reach the golden strand,",
+        "Just beyond the river."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "In the cross, in the cross,",
+        "Be my glory ever;",
+        "Till my raptured soul shall find",
+        "Rest beyond the river."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-154_full.mid",
+    "soprano": "/audio/midi/hymn-154_soprano.mid",
+    "alto": "/audio/midi/hymn-154_alto.mid",
+    "tenor": "/audio/midi/hymn-154_tenor.mid",
+    "bass": "/audio/midi/hymn-154_bass.mid"
+  }
+}

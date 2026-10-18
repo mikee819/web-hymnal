@@ -1,0 +1,71 @@
+{
+  "id": "hymn-279",
+  "number": "279",
+  "numberDisplay": "279",
+  "title": "He Is Able To Deliver Thee",
+  "firstLine": "Composer; W. A. Ogden",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL I-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; W. A. Ogden"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "'Tis the grandest theme thru the ages rung;",
+        "'Tis the grandest theme for a mortal tongue;",
+        "'Tis the grandest theme that the world e'er sung,",
+        "\"Our God is able to deliver thee.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "'Tis the grandest theme in the earth or main;",
+        "'Tis the grandest theme for a mortal strain;",
+        "'Tis the grandest theme, tell the world again,",
+        "\"Our God is able to deliver thee.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "'Tis the grandest theme, let the tidings roll",
+        "To the guilty heart, to the sinful soul;",
+        "Look to God in faith, He will make thee whole,",
+        "\"Our God is able to deliver thee.\""
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He is able to deliver thee,",
+        "He is able to deliver thee,",
+        "Tho' by sin opprest, Go to Him for rest,",
+        "\"Our God is able to deliver thee.\""
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-279_full.mid",
+    "soprano": "/audio/midi/hymn-279_soprano.mid",
+    "alto": "/audio/midi/hymn-279_alto.mid",
+    "tenor": "/audio/midi/hymn-279_tenor.mid",
+    "bass": "/audio/midi/hymn-279_bass.mid"
+  }
+}

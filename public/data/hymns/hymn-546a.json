@@ -1,0 +1,38 @@
+{
+  "id": "hymn-546a",
+  "number": "546a",
+  "numberDisplay": "546a",
+  "title": "Psalm 139:17-20,23,24",
+  "firstLine": "Thy thoughts, O God, to me are dear; how great their sum! they more appear in number than the sand to me. When I awake, I'm still with Thee.",
+  "pitchInfo": {
+    "raw": "E-3-MI D-1 W-4",
+    "key": "E",
+    "note": "E",
+    "beat": 3,
+    "solfege": "MI",
+    "inheritedFrom": "65"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "O Master, Let Me Walk With Thee -",
+    "number": "65"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Thy thoughts, O God, to me are dear; how great their sum! they more appear in number than the sand to me. When I awake, I'm still with Thee.",
+        "The wicked Thou wilt slay, O God; depart from me, ye men of blood, They speak of Thee in words profane. The fores who take Thy name in vain.",
+        "Search me, O God, my heart discern; and try me, every thought to learn, and see if any sin holds sway. Lead in the everlasting way."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-546a_full.mid",
+    "soprano": "/audio/midi/hymn-546a_soprano.mid",
+    "alto": "/audio/midi/hymn-546a_alto.mid",
+    "tenor": "/audio/midi/hymn-546a_tenor.mid",
+    "bass": "/audio/midi/hymn-546a_bass.mid"
+  }
+}

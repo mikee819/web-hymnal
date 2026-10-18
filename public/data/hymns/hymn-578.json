@@ -1,0 +1,75 @@
+{
+  "id": "hymn-578",
+  "number": "578",
+  "numberDisplay": "578",
+  "title": "The Old Rugged Cross 536 /",
+  "firstLine": "On a hill far away stood an old rugged cross,",
+  "pitchInfo": {
+    "raw": "Bb-2-MI C-17",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-17",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "On a hill far away stood an old rugged cross,",
+        "The emblem of suff'ring and shame;",
+        "And I love that old cross where the dearest and best",
+        "For a world of lost sinners was slain."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O, that old rugged cross, so despised by the world,",
+        "Has a wondrous attraction for me;",
+        "For the dear Lamb of God left His glory above,",
+        "To bear it to dark Calvary."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "In the old rugged cross, stained with blood so divine,",
+        "A wondrous beauty I see;",
+        "For 'twas on that old cross Jesus suffered and died,",
+        "To pardon and sanctify me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "To the old rugged cross I will ever be true,",
+        "Its shame and reproach gladly bear;",
+        "Then He'll call me someday to my home far way,",
+        "Where His glory forever I'll share."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "So I'll cherish the old rugged cross,",
+        "Till my trophies at last I lay down;",
+        "I will cling to the old rugged cross",
+        "And exchange it someday for a crown",
+        "Copyright, 1913, by George Bennard. Renewal 1941, extended, by The Rodeheaver Company (a Div. of WORD, INC.) All Rights Reserved. International Copyright Secured. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-578_full.mid",
+    "soprano": "/audio/midi/hymn-578_soprano.mid",
+    "alto": "/audio/midi/hymn-578_alto.mid",
+    "tenor": "/audio/midi/hymn-578_tenor.mid",
+    "bass": "/audio/midi/hymn-578_bass.mid"
+  }
+}

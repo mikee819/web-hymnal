@@ -1,0 +1,54 @@
+{
+  "id": "hymn-543",
+  "number": "543",
+  "numberDisplay": "543",
+  "title": "Great God Of Nations 518a /",
+  "firstLine": "Originial Edition: Click Here To Play",
+  "pitchInfo": {
+    "raw": "E-3-MI D-1 W-4",
+    "key": "E",
+    "note": "E",
+    "beat": 3,
+    "solfege": "MI",
+    "inheritedFrom": "65"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "O Master Let Me Walk With Thee -",
+    "number": "65"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Originial Edition: Click Here To Play"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Eb-3-DO?T-2"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Great God of nations, now to Thee our hymn of gratitude we raise; with humble heart and bending knee we offer Thee our song of praise.",
+        "Thy Name we bless, Almighty God, for all the kindness Thou hast shown to this fair land the Pilgrims trod, this land we fondly call our own.",
+        "Here freedom spreads her banner wide and casts her soft and hallowed ray; here Thou our fathers' steps didst guide in safety through their dangerous way.",
+        "We pray Thee let the gospel light through all our land its radiance shed; Dispel the shades of error's night, and heav'nly blessings round us spread.",
+        "Great God, preserve us in Thy fear; in danger still our Guardian be; O spread Thy truth's bright precepts here; let all the people worship Thee. A-MEN"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-543_full.mid",
+    "soprano": "/audio/midi/hymn-543_soprano.mid",
+    "alto": "/audio/midi/hymn-543_alto.mid",
+    "tenor": "/audio/midi/hymn-543_tenor.mid",
+    "bass": "/audio/midi/hymn-543_bass.mid"
+  }
+}

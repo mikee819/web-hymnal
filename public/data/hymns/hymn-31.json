@@ -1,0 +1,66 @@
+{
+  "id": "hymn-31",
+  "number": "31",
+  "numberDisplay": "31",
+  "title": "What A Savior",
+  "firstLine": "Once I was straying in sin's dark valley,",
+  "pitchInfo": {
+    "raw": "Db-4-DO C-10 S-1",
+    "key": "Db",
+    "note": "Db",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-10 S-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Once I was straying in sin's dark valley,",
+        "No hope within could I see;",
+        "God sent from heaven a loving Savior",
+        "To save a poor lost soul like me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "He left the Father, with all His riches,",
+        "With calmness sweet and serene,",
+        "Came down from heaven and gave His life blood",
+        "To make the vilest sinner clean."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Death's chilly waters I'll soon be crossing,",
+        "His hand will lead me safe o'er;",
+        "I'll join the chorus in that great city,",
+        "And sing up there for ever more."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O what a Savior, O hallelujah,",
+        "His heart was broken on Calvary;",
+        "His hands were nail scarred,",
+        "His side was riven,",
+        "He gave His life blood for even me.",
+        "(c) Copyright 1948. Stamps Quartet Music, in \"Guiding Hand\". Renewal 1976 by Stamps Quartet Music. All rights reserved. Used by permission of Integrated Copyright Group, Inc."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-31_full.mid",
+    "soprano": "/audio/midi/hymn-31_soprano.mid",
+    "alto": "/audio/midi/hymn-31_alto.mid",
+    "tenor": "/audio/midi/hymn-31_tenor.mid",
+    "bass": "/audio/midi/hymn-31_bass.mid"
+  }
+}

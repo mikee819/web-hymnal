@@ -1,0 +1,56 @@
+{
+  "id": "hymn-695",
+  "number": "695",
+  "numberDisplay": "695",
+  "title": "Savior, Grant Me Rest And Peace 611 /",
+  "firstLine": "Savior, grant me rest and peace,",
+  "pitchInfo": {
+    "raw": "G-3-SOL D-1 P-1",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "D-1 P-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Savior, grant me rest and peace,",
+        "Let my troubled dreamings cease;",
+        "With the chiming midnight bell,",
+        "Teach my heart that \"all is well.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I would trust my all with Thee,",
+        "All my cares and sorrows flee,",
+        "Till the breaking light shall tell",
+        "Night is past and \"all is well.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I would seek Thy service, Lord,",
+        "Leaning on Thy promise word;",
+        "Let my hourly labors tell",
+        "I am Thine, and \"all is well.\"",
+        "Amen."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-695_full.mid",
+    "soprano": "/audio/midi/hymn-695_soprano.mid",
+    "alto": "/audio/midi/hymn-695_alto.mid",
+    "tenor": "/audio/midi/hymn-695_tenor.mid",
+    "bass": "/audio/midi/hymn-695_bass.mid"
+  }
+}

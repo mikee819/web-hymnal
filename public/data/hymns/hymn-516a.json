@@ -1,0 +1,38 @@
+{
+  "id": "hymn-516a",
+  "number": "516a",
+  "numberDisplay": "516a",
+  "title": "Jesus, Thy Boundless Love To Me",
+  "firstLine": "Jesus, Thy boundless love to me no thought can reach, no tongue declare; O knit my thankful heart to Thee, and reign without a rival there! Thine wholly, Thine alone, I'd live, myself to Thee entirely give.",
+  "pitchInfo": {
+    "raw": "Eb-4-MI G-3 H-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI",
+    "inheritedFrom": "256"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Faith Of Our Fathers",
+    "number": "256"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus, Thy boundless love to me no thought can reach, no tongue declare; O knit my thankful heart to Thee, and reign without a rival there! Thine wholly, Thine alone, I'd live, myself to Thee entirely give.",
+        "O Love, how cheering is Thy ray! All fear before Thy presence flies; care, anguish, sorrow, melt away, wher-e'er Thy healing beams arise: O Jesus, nothing may I see, nothing desire, or seek, but Thee!",
+        "In suffering by Thy love my peace; in weakness be Thy love my pow'r; and when the storms of life shall cease, O Jesus, in that solemn hour, in death as life be Thou my guide, and save me, who for me hast died. A-MEN"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-516a_full.mid",
+    "soprano": "/audio/midi/hymn-516a_soprano.mid",
+    "alto": "/audio/midi/hymn-516a_alto.mid",
+    "tenor": "/audio/midi/hymn-516a_tenor.mid",
+    "bass": "/audio/midi/hymn-516a_bass.mid"
+  }
+}

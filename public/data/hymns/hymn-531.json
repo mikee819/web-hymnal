@@ -1,0 +1,85 @@
+{
+  "id": "hymn-531",
+  "number": "531",
+  "numberDisplay": "531",
+  "title": "Love, Love * /",
+  "firstLine": "PLAY Soprano 1",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "PLAY Soprano 1"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "NOTE: This hymn is a 'round' - the melody is the same but different parts start at different times. They all sing the same thing."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Eminor-4-LA L-2 L-3"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Love, love, love, love,",
+        "The gospel in a word is love,",
+        "Love thy neighbor as thy brother,",
+        "Love, love, love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Peace, peace, peace, peace,",
+        "The gospel in a word is peace,",
+        "Peace that passes understanding,",
+        "Peace, peace, peace."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Joy, joy, joy, joy,",
+        "The gospel in a word is joy,",
+        "Joy that fills to ever flowing,",
+        "Joy, joy, joy."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Christ, Christ, Christ, Christ,",
+        "The gospel in a word is Christ,",
+        "Love Him, serve Him, and adore Him,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist, Christ, Christ."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-531_full.mid",
+    "soprano": "/audio/midi/hymn-531_soprano.mid",
+    "alto": "/audio/midi/hymn-531_alto.mid",
+    "tenor": "/audio/midi/hymn-531_tenor.mid",
+    "bass": "/audio/midi/hymn-531_bass.mid"
+  }
+}

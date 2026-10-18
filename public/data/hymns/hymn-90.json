@@ -1,0 +1,57 @@
+{
+  "id": "hymn-90",
+  "number": "90",
+  "numberDisplay": "90",
+  "title": "O Lord, Our Lord",
+  "firstLine": "O Lord, Our Lord, How excellent and mighty;",
+  "pitchInfo": {
+    "raw": "F-4-DO C-6 D-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-6 D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O Lord, Our Lord, How excellent and mighty;",
+        "How high and holy is Thy wondrous Name.",
+        "O how exalted is Thy mighty glory,",
+        "Far up above and over the earth's domain."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O Lord, Our Lord, Who dwelleth in the heaven;",
+        "Incline Thine ear and hear my feeble plea.",
+        "Help me to serve Thee till my work is finished,",
+        "Then take me home, O Lord, to live with Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O Lord, Our Lord, In mercy look upon me;",
+        "I am unworthy of Thy tender love.",
+        "O Holy One, forgive me of my sinning,",
+        "And help me daily look to Thee above.",
+        "Amen.",
+        "Copyright 1964 by M. Lynwood Smith Publications in \"New Songs No. 3.\" All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-90_full.mid",
+    "soprano": "/audio/midi/hymn-90_soprano.mid",
+    "alto": "/audio/midi/hymn-90_alto.mid",
+    "tenor": "/audio/midi/hymn-90_tenor.mid",
+    "bass": "/audio/midi/hymn-90_bass.mid"
+  }
+}

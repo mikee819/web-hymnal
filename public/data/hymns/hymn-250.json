@@ -1,0 +1,65 @@
+{
+  "id": "hymn-250",
+  "number": "250",
+  "numberDisplay": "250",
+  "title": "Wonderful City",
+  "firstLine": "Scriptures: Hebrews 11:10",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scriptures: Hebrews 11:10"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Over the river, shining for ever,",
+        "There is a city, I know,",
+        "wonderful story! mansions of glory",
+        "Waiting for pilgrims below."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Home of the sages, saints of the ages,",
+        "Martyrs and angels of light;",
+        "Free of all sadness, city of gladness,",
+        "Always so peaceful and bright!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Hasten tomorrow, end of all sorrow,",
+        "When this glad home I shall see;",
+        "When with my Savior, happy forever,",
+        "Resting above I shall be."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wonderful city; beautiful city,",
+        "Built without hands by our King;",
+        "Marvelous city, glorious city,",
+        "Where we forever shall sing."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-250_full.mid",
+    "soprano": "/audio/midi/hymn-250_soprano.mid",
+    "alto": "/audio/midi/hymn-250_alto.mid",
+    "tenor": "/audio/midi/hymn-250_tenor.mid",
+    "bass": "/audio/midi/hymn-250_bass.mid"
+  }
+}

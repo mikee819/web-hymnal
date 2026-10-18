@@ -1,0 +1,64 @@
+{
+  "id": "hymn-301",
+  "number": "301",
+  "numberDisplay": "301",
+  "title": "Soul, A Savior Thou Art Needing",
+  "firstLine": "Soul a Savior thou art needing !",
+  "pitchInfo": {
+    "raw": "F-3-SOL I-1",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Soul a Savior thou art needing !",
+        "Soul a Savior waits for thee!",
+        "Hear the words of tender pleading,",
+        "Hear His gracious, \"Come to Me.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "He has died for thy transgression,",
+        "If thou wilt, thou canst be free;",
+        "Soul, He waits for thy confession,",
+        "\"Savior, I will go to Thee.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Do not linger till the morrow,",
+        "Let thy loving answer be,",
+        "\"Savior in my joy or sorrow,",
+        "I will ever go to Thee.\""
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He is calling, softly calling,",
+        "On thine ear His voice is falling;",
+        "He is calling, softly calling,",
+        "\"Come to Me and be at rest.\""
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-301_full.mid",
+    "soprano": "/audio/midi/hymn-301_soprano.mid",
+    "alto": "/audio/midi/hymn-301_alto.mid",
+    "tenor": "/audio/midi/hymn-301_tenor.mid",
+    "bass": "/audio/midi/hymn-301_bass.mid"
+  }
+}

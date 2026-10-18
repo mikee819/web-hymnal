@@ -1,0 +1,66 @@
+{
+  "id": "hymn-0",
+  "number": "0",
+  "numberDisplay": "0",
+  "title": "Sing And Rejoice In The Savior's Birth * /",
+  "firstLine": "Glory! Glory! Sing alleluia!",
+  "pitchInfo": {
+    "raw": "Eb-2-DO C-1 P-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-1 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Glory! Glory! Sing alleluia!",
+        "Sing glory to God",
+        "Glory fills the earth -",
+        "Angels rejoice in the Savior's birth"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Shepherds, do not fear, I bring glad tidings:",
+        "A Savior is here,",
+        "Joy, joy for Christ the Lord!",
+        "Jesus, Immanuel, the Son of God."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Lowly manger bed, lowly the virgin",
+        "who cradles His head",
+        "Hail! Hail, King of kings!",
+        "Glory to God for the ransom He brings."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Have you heard? A child is born!",
+        "Welcome, star, that lights eternal morn.",
+        "Glory sent to earth;",
+        "Sing and rejoice in the Saviors birth.",
+        "Alleluia.",
+        "Copyright 1987 by C. E. Couchman. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-0_full.mid",
+    "soprano": "/audio/midi/hymn-0_soprano.mid",
+    "alto": "/audio/midi/hymn-0_alto.mid",
+    "tenor": "/audio/midi/hymn-0_tenor.mid",
+    "bass": "/audio/midi/hymn-0_bass.mid"
+  }
+}

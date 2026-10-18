@@ -1,0 +1,64 @@
+{
+  "id": "hymn-70",
+  "number": "70",
+  "numberDisplay": "70",
+  "title": "One Step At A Time",
+  "firstLine": "One step at a time, dear Savior,",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL C-1 F-3",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-1 F-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "One step at a time, dear Savior,",
+        "I cannot take any more;",
+        "The flesh is so weak and hopeless,",
+        "I know not what is before."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "One step at a time, dear Savior,",
+        "I am not walking by sight;",
+        "Keep step with my soul, dear Savior,",
+        "I walk by faith in Thy might."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "One step at a time, dear Savior,",
+        "Oh, guard my faltering feet!",
+        "Keep hold of my hand, dear Savior,",
+        "Till I my journey complete."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "One step at a time, dear Savior,",
+        "Till faith grows stronger in Thee;",
+        "One step at a time, dear Savior,",
+        "Till hope grows stronger in me."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-70_full.mid",
+    "soprano": "/audio/midi/hymn-70_soprano.mid",
+    "alto": "/audio/midi/hymn-70_alto.mid",
+    "tenor": "/audio/midi/hymn-70_tenor.mid",
+    "bass": "/audio/midi/hymn-70_bass.mid"
+  }
+}

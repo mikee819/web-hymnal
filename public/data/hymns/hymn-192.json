@@ -1,0 +1,64 @@
+{
+  "id": "hymn-192",
+  "number": "192",
+  "numberDisplay": "192",
+  "title": "Won't It Be Wonderful There",
+  "firstLine": "When with the Savior we enter the glory land,",
+  "pitchInfo": {
+    "raw": "Bb-2-MI H-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When with the Savior we enter the glory land,",
+        "Won't it be wonderful there?",
+        "Ended the troubles and cares of the story land,",
+        "Won't it be wonderful there?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Walking and talking with Christ, the supernal One,",
+        "Won't it be wonderful there?",
+        "Praising adoring the matchless eternal One,",
+        "Won't it be wonderful there?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "There where the tempest will never be sweeping us,",
+        "Won't it be wonderful there?",
+        "Sure that forever the Lord will be keeping us,",
+        "Won't it be wonderful there?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Won't it be wonderful there,",
+        "Having no burdens to bear?",
+        "Joyously singing with heart bells all ringing,",
+        "O, won't it be wonderful there?"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-192_full.mid",
+    "soprano": "/audio/midi/hymn-192_soprano.mid",
+    "alto": "/audio/midi/hymn-192_alto.mid",
+    "tenor": "/audio/midi/hymn-192_tenor.mid",
+    "bass": "/audio/midi/hymn-192_bass.mid"
+  }
+}

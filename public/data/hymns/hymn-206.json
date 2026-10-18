@@ -1,0 +1,67 @@
+{
+  "id": "hymn-206",
+  "number": "206",
+  "numberDisplay": "206",
+  "title": "O Think Of The Home Over There",
+  "firstLine": "O, think of a home over there,",
+  "pitchInfo": {
+    "raw": "A-4-SOL H-2",
+    "key": "A",
+    "note": "A",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O, think of a home over there,",
+        "By the side of the river of light,",
+        "Where the saints all immortal and fair,",
+        "Are robed in their garments of white.",
+        "Over there, over there,",
+        "O, think of the home over there,",
+        "Over there, over there, over there,",
+        "O, think of a home over there."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O, think of the saints over there,",
+        "Who before us the journey have trod,",
+        "Of the songs that they breathe on the air,",
+        "In their home in the palace of God.",
+        "Over there, over there,",
+        "O, think of the saints over there,",
+        "Over there, over there, over there,",
+        "O, think of a saints over there."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I'll soon be at home over there,",
+        "For the end of my journey I see;",
+        "All the saints and the angels up there.",
+        "Are watching and waiting for me.",
+        "Over there, over there,",
+        "I'll soon be at home over there,",
+        "Over there, over there, over there,",
+        "I'll soon be at home over there."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-206_full.mid",
+    "soprano": "/audio/midi/hymn-206_soprano.mid",
+    "alto": "/audio/midi/hymn-206_alto.mid",
+    "tenor": "/audio/midi/hymn-206_tenor.mid",
+    "bass": "/audio/midi/hymn-206_bass.mid"
+  }
+}

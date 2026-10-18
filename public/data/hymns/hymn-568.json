@@ -1,0 +1,67 @@
+{
+  "id": "hymn-568",
+  "number": "568",
+  "numberDisplay": "568",
+  "title": "A Soul Winner For Jesus 531 /",
+  "firstLine": "I want to be a soul winner for Jesus ev'ry day,",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL S-5",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "S-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I want to be a soul winner for Jesus ev'ry day,",
+        "He does so much for me;",
+        "I want to aid the lost",
+        "sinner to leave his erring way,",
+        "And be from bondage free."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I want to be a soul winner and bring the lost to Christ,",
+        "That they His grace may know;",
+        "I want to live for Christ",
+        "ever, and do His blessed will,",
+        "Because He loves me so."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I want to be a soul winner till Jesus calls for me,",
+        "To lay my burdens down;",
+        "I want to hear Him say,",
+        "servant, \"You've gathered many sheaves,",
+        "Receive a shining Crown.\""
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A soul winner for Jesus, A soul winner for Jesus,",
+        "O let me be each day;",
+        "A soul winner for Jesus, A soul winner for Jesus,",
+        "He's done so much for me."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-568_full.mid",
+    "soprano": "/audio/midi/hymn-568_soprano.mid",
+    "alto": "/audio/midi/hymn-568_alto.mid",
+    "tenor": "/audio/midi/hymn-568_tenor.mid",
+    "bass": "/audio/midi/hymn-568_bass.mid"
+  }
+}

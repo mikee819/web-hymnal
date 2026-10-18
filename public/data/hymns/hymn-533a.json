@@ -1,0 +1,51 @@
+{
+  "id": "hymn-533a",
+  "number": "533a",
+  "numberDisplay": "533a",
+  "title": "Ye Servants Of God, your Master Proclaim",
+  "firstLine": "Ye servants of God, your Master proclaim,",
+  "pitchInfo": {
+    "raw": "A-3-SOL C-6 P-2",
+    "key": "A",
+    "note": "A",
+    "beat": 3,
+    "solfege": "SOL",
+    "inheritedFrom": "35"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "O Worship The King",
+    "number": "35"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Ye servants of God, your Master proclaim,",
+        "And publish abroad his wonderful name;",
+        "The name all victorious of Jesus extol;",
+        "His kingdom is glorious, He rules over all.",
+        "God ruleth on high, almighty to save;",
+        "And still he is nigh - His presence we have;",
+        "The great congregation His triumph shall sing,",
+        "Ascribing salvation to Jesus our King.",
+        "Salvation to God who sits on the throne,",
+        "Let all cry aloud, and honor the Son;",
+        "The praises of Jesus the angels proclaim,",
+        "Fall down on their faces and worship the Lamb.",
+        "Then let us adore and give Him his right;",
+        "All glory and pow'r, all wisdom and might;",
+        "All honor and blessing, with angels above,",
+        "And thanks never ceasing, and infinite love."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-533a_full.mid",
+    "soprano": "/audio/midi/hymn-533a_soprano.mid",
+    "alto": "/audio/midi/hymn-533a_alto.mid",
+    "tenor": "/audio/midi/hymn-533a_tenor.mid",
+    "bass": "/audio/midi/hymn-533a_bass.mid"
+  }
+}

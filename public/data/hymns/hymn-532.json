@@ -1,0 +1,66 @@
+{
+  "id": "hymn-532",
+  "number": "532",
+  "numberDisplay": "532",
+  "title": "We Shall See The King Some Day 513 /",
+  "firstLine": "Tho' the way we journey may be often drear,",
+  "pitchInfo": {
+    "raw": "Db-4-SOL C-6 S-2",
+    "key": "Db",
+    "note": "Db",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-6 S-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Tho' the way we journey may be often drear,",
+        "We shall see the King some day;",
+        "On that blessed morning clouds will disappear",
+        "We shall see the King some day;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "After pain and anguish, after toil and care,",
+        "We shall see the King some day;",
+        "Thru the endless ages joy and blessing share,",
+        "We shall see the King some day;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "After foes are conquered, after battles won,",
+        "We shall see the King some day;",
+        "After strife is over, after set of sun;",
+        "We shall see the King some day;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "We shall see the King some day;",
+        "We shall see the King some day;",
+        "We shall shout and sing some day",
+        "Gathered 'round the throne,",
+        "when He shall call His own,",
+        "We shall see the King some day."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-532_full.mid",
+    "soprano": "/audio/midi/hymn-532_soprano.mid",
+    "alto": "/audio/midi/hymn-532_alto.mid",
+    "tenor": "/audio/midi/hymn-532_tenor.mid",
+    "bass": "/audio/midi/hymn-532_bass.mid"
+  }
+}

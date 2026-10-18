@@ -1,0 +1,64 @@
+{
+  "id": "hymn-208",
+  "number": "208",
+  "numberDisplay": "208",
+  "title": "Sing To Me Of Heaven 208 /",
+  "firstLine": "Sing to me of heaven, sing the song of peace,",
+  "pitchInfo": {
+    "raw": "G-4-SOL H-2 S-4",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2 S-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Sing to me of heaven, sing the song of peace,",
+        "From the toils that bind me it will bring release;",
+        "Burdens will be lifted that are pressing so,",
+        "Showers of great blessing o'er my heart will flow."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Sing to me of heaven, as I walk alone,",
+        "Dreaming of the comrades that so long have gone;",
+        "In a fairer region, 'mong the angel throng,",
+        "They are happy as they sing that old, sweet song."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Sing to me of heaven, tenderly and low,",
+        "Till the shadows o'er me rise and swiftly go",
+        "When my heart is weary, when the day is long,",
+        "Sing to me of heaven, sing that old, sweet song."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sing to me of heaven, let me fondly dream",
+        "Of its golden glory of its pearly gleam;",
+        "Sing to me when shadows of the ev'ning fall,",
+        "Sing to me of heaven, Sweetest song of all."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-208_full.mid",
+    "soprano": "/audio/midi/hymn-208_soprano.mid",
+    "alto": "/audio/midi/hymn-208_alto.mid",
+    "tenor": "/audio/midi/hymn-208_tenor.mid",
+    "bass": "/audio/midi/hymn-208_bass.mid"
+  }
+}

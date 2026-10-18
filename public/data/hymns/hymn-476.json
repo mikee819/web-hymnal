@@ -1,0 +1,82 @@
+{
+  "id": "hymn-476",
+  "number": "476",
+  "numberDisplay": "476",
+  "title": "Lead Me To Some Soul Today",
+  "firstLine": "vs. 2-4 by Ellis J. Crum",
+  "pitchInfo": {
+    "raw": "G-4-DO S-5",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "S-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "vs. 2-4 by Ellis J. Crum"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Lead me to some soul today;",
+        "O teach me, Lord, just what to say;",
+        "Friends of mine are lost in sin,",
+        "And cannot find their way."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Lead me to some wayward soul,",
+        "To one who's wandered from the fold,",
+        "Help me turn him unto Thee,",
+        "Thy blessings to behold."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Led me from self righteousness",
+        "May Christ always be seen in me;",
+        "How can I do any less",
+        "Than lead more souls to thee?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Open hearts of those I love,",
+        "To hear and heed the gospel call.",
+        "May they start to heav'n above,",
+        "And may they never fall."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Few there are who seem to care,",
+        "And few there are who pray;",
+        "Melt my heart and fill my life;",
+        "Give me one soul today.",
+        "Copyright 1936. Renewal 1964 by Hope Publishing co., Carol Stream, Illinois 60188. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-476_full.mid",
+    "soprano": "/audio/midi/hymn-476_soprano.mid",
+    "alto": "/audio/midi/hymn-476_alto.mid",
+    "tenor": "/audio/midi/hymn-476_tenor.mid",
+    "bass": "/audio/midi/hymn-476_bass.mid"
+  }
+}

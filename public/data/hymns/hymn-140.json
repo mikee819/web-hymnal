@@ -1,0 +1,65 @@
+{
+  "id": "hymn-140",
+  "number": "140",
+  "numberDisplay": "140",
+  "title": "Savior Divine, Dwell In My Heart",
+  "firstLine": "Lord, in Thy mercy, lend ear to my plea,",
+  "pitchInfo": {
+    "raw": "Eb-2-SOL C-13 D-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-13 D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Lord, in Thy mercy, lend ear to my plea,",
+        "Turn not away, nor deny;",
+        "My Thy word ever dwell richly in me,",
+        "Hear Thou and answer my cry."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Test me and try me, O Savior divine!",
+        "Let me be filled with Thy love;",
+        "Then from my heart shall Thy glory-light shine,",
+        "Lighting the pathway above."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Dwell in me, Savior, nor ever depart!",
+        "Fully Thine own I would be;",
+        "Naught but Thy wisdom shall rule in my heart,",
+        "Till Thy dear face I shall see."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lord, I would keep soul and body for Thee,",
+        "No room for self or for sin shall there be;",
+        "Fit for Thy dwelling, for Thee set apart",
+        "Savior divine, dwell in my heart.",
+        "Copyright 1948 by Gospel Advocate Company. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-140_full.mid",
+    "soprano": "/audio/midi/hymn-140_soprano.mid",
+    "alto": "/audio/midi/hymn-140_alto.mid",
+    "tenor": "/audio/midi/hymn-140_tenor.mid",
+    "bass": "/audio/midi/hymn-140_bass.mid"
+  }
+}

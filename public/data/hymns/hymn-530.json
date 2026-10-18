@@ -1,0 +1,70 @@
+{
+  "id": "hymn-530",
+  "number": "530",
+  "numberDisplay": "530",
+  "title": "Looking To Thee 512 /",
+  "firstLine": "Looking to Thee from day to day,",
+  "pitchInfo": {
+    "raw": "A-4-SOL D-1",
+    "key": "A",
+    "note": "A",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Looking to Thee from day to day,",
+        "Trusting thy grace along the way,",
+        "Knowing that Thou wilt safely keep all that is Thine;",
+        "Sure of Thy soul redeeming love,",
+        "Sure of a crown of life above,",
+        "Singing Thy praise I press along, Savior divine."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Looking to Thee for all I need,",
+        "Finding in Thee a friend indeed,",
+        "All of the burdens of the day meekly I bear;",
+        "Neither the foe nor storm I fear,",
+        "Savior divine, for thou are near,",
+        "Ready my cares and troubles all freely to share."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "After a while in heaven bright,",
+        "Where there is neither sin nor night,",
+        "I shall behold Thee, face to face, Jesus my own;",
+        "Then with the saved ones gone before,",
+        "I shall with rapture, more and more,",
+        "Praise thee forever, near the bright beautiful throne."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Looking to Thee, Trusting thy grace",
+        "I am as happy as a true soldier can be;",
+        "Nearing my own heavenly place,",
+        "Trusting Thy love I press along, looking to Thee."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-530_full.mid",
+    "soprano": "/audio/midi/hymn-530_soprano.mid",
+    "alto": "/audio/midi/hymn-530_alto.mid",
+    "tenor": "/audio/midi/hymn-530_tenor.mid",
+    "bass": "/audio/midi/hymn-530_bass.mid"
+  }
+}

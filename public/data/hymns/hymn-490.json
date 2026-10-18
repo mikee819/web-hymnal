@@ -1,0 +1,65 @@
+{
+  "id": "hymn-490",
+  "number": "490",
+  "numberDisplay": "490",
+  "title": "Give Me A Burning Heart",
+  "firstLine": "Give me, o Lord, a burning heart",
+  "pitchInfo": {
+    "raw": "Eb-2-MI C-16 H-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-16 H-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Give me, o Lord, a burning heart",
+        "With heav'nly love aflame,",
+        "An eager longing to impart",
+        "The wonders of Thy name."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Touch Thou my lips, dear Lord, today",
+        "With living coals of fire,",
+        "And cleanse my wayward heart,",
+        "I pray, from ev'ry vain desire."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Make me an instrument of praise,",
+        "Thy name to glorify",
+        "Now thru-out all my earthly days,",
+        "And evermore on high."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Rekindle daily in my soul",
+        "The flame of love divine,",
+        "That Thy blest name I may extol",
+        "And in thy likeness shine.",
+        "Copyright 1957 by Singspiration, Inc. All Rights reserved. Used by permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-490_full.mid",
+    "soprano": "/audio/midi/hymn-490_soprano.mid",
+    "alto": "/audio/midi/hymn-490_alto.mid",
+    "tenor": "/audio/midi/hymn-490_tenor.mid",
+    "bass": "/audio/midi/hymn-490_bass.mid"
+  }
+}

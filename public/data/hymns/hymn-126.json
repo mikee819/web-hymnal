@@ -1,0 +1,64 @@
+{
+  "id": "hymn-126",
+  "number": "126",
+  "numberDisplay": "126",
+  "title": "Open My eyes, That I May See",
+  "firstLine": "Open my eyes, that I may see",
+  "pitchInfo": {
+    "raw": "Ab-2-DO D-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Open my eyes, that I may see",
+        "Glimpses of truth Thou hast for me,",
+        "Place in my haNds the wonderful key",
+        "That shall unclasp and set me free."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Open my ears, that I may hear",
+        "Thy word of truth Thou sendest clear",
+        "And while the wave notes fall on my ear,",
+        "Every thing false will disappear."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Open my mouth, and let me bear",
+        "Gladly the warm truth everywhere",
+        "Open my heart, and let me prepare",
+        "Love with Thy children thus to share"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Silently now I wait for Thee",
+        "Ready, my God, Thy will to see;",
+        "Open my eyes (2 = ears, 3 = heart) illumine me,",
+        "Savior divine."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-126_full.mid",
+    "soprano": "/audio/midi/hymn-126_soprano.mid",
+    "alto": "/audio/midi/hymn-126_alto.mid",
+    "tenor": "/audio/midi/hymn-126_tenor.mid",
+    "bass": "/audio/midi/hymn-126_bass.mid"
+  }
+}

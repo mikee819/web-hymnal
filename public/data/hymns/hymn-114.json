@@ -1,0 +1,63 @@
+{
+  "id": "hymn-114",
+  "number": "114",
+  "numberDisplay": "114",
+  "title": "Close To Thee",
+  "firstLine": "Thou my everlasting portion,",
+  "pitchInfo": {
+    "raw": "G-3-SOL D-1",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Thou my everlasting portion,",
+        "More than friend or life to me:",
+        "All along my pilgrim journey,",
+        "Savior, let me walk with Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Not for ease or worldly pleasure,",
+        "Nor for fame my prayer shall be;",
+        "Gladly will I toil and suffer,",
+        "Only let me walk with Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Lead me thru the vale of shadows,",
+        "Bear me o'er life's fitful sea;",
+        "Then the gate of life eternal",
+        "My I enter, Lord with Thee"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Close to thee, close to thee,",
+        "Close to thee, close to thee,",
+        "(repeat last 2 lines of respective verse)"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-114_full.mid",
+    "soprano": "/audio/midi/hymn-114_soprano.mid",
+    "alto": "/audio/midi/hymn-114_alto.mid",
+    "tenor": "/audio/midi/hymn-114_tenor.mid",
+    "bass": "/audio/midi/hymn-114_bass.mid"
+  }
+}

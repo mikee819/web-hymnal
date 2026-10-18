@@ -1,0 +1,61 @@
+{
+  "id": "hymn-633",
+  "number": "633",
+  "numberDisplay": "633",
+  "title": "How Long Has It Been? * /",
+  "firstLine": "Composer; Mosie Lister",
+  "pitchInfo": {
+    "raw": "Ab-3-SOL E-1 P-3",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1 P-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Mosie Lister"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "How long has it been since you talked with the Lord",
+        "And told Him your heart's hidden secrets?",
+        "How long since you prayed? How long since you stayed",
+        "On your knees till the light shone Thru?",
+        "How long has it been since your mind felt at ease?",
+        "How long since your heart knew no burden?",
+        "Can you call Him your friend? How long has it been",
+        "Since you knew that He cared for You?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "How long has it been since you knelt by your bed",
+        "and prayed to the Lord up in heaven?",
+        "How long since you knew that He'd answer you",
+        "And would keep you the long night thru?",
+        "How long has it been since you woke with the dawn",
+        "And felt that the day's worth the living?",
+        "Can you call Him your friend? How long has it been",
+        "Since you knew that he cared for you?",
+        "Copyright 1956 Renewed 1984 Lillenas Publishing. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-633_full.mid",
+    "soprano": "/audio/midi/hymn-633_soprano.mid",
+    "alto": "/audio/midi/hymn-633_alto.mid",
+    "tenor": "/audio/midi/hymn-633_tenor.mid",
+    "bass": "/audio/midi/hymn-633_bass.mid"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "hymn-7",
+  "number": "7",
+  "numberDisplay": "7",
+  "title": "Saints Lift Your Voices",
+  "firstLine": "There is none like him; None can compare;",
+  "pitchInfo": {
+    "raw": "F-3-DO E-1",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "E-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There is none like him; None can compare;",
+        "No god his equal, No prince his heir!",
+        "Lift up your eyes and see His great might!",
+        "Soar like an eagle, on wings of flight!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Have you not known Him? have you not heard?",
+        "God is Creator of all the earth.",
+        "Lift up your eyes and see His great might!",
+        "Soar like an eagle, on wings of flight!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Some will grow weary; Sin they'll pursue,",
+        "Servants of God their power He'll renew.",
+        "Lift up your eyes and see His great might!",
+        "Soar like an eagle, on wings of flight!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "s. Saint, lift your voices, tho dark you days!",
+        "Lift up your spirits, sing out His praise!",
+        "Upward the calling, brighter the light!",
+        "Soaring like eagles, on wings of flight!",
+        "Copyright 1986, Shepard-Stevens Music, Inc. in \"Hymns For Worship\". Don Alexander and R.J. Stevens, owners. all Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-7_full.mid",
+    "soprano": "/audio/midi/hymn-7_soprano.mid",
+    "alto": "/audio/midi/hymn-7_alto.mid",
+    "tenor": "/audio/midi/hymn-7_tenor.mid",
+    "bass": "/audio/midi/hymn-7_bass.mid"
+  }
+}

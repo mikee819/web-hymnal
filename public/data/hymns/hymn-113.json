@@ -1,0 +1,56 @@
+{
+  "id": "hymn-113",
+  "number": "113",
+  "numberDisplay": "113",
+  "title": "Where No One Stands Alone",
+  "firstLine": "Once I stood in the night with my head bowed low,",
+  "pitchInfo": {
+    "raw": "Db-3-DO D-1",
+    "key": "Db",
+    "note": "Db",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Once I stood in the night with my head bowed low,",
+        "In the darkness as black as could be;",
+        "And my heart felt alone and I cried,",
+        "\"O Lord, Don't hide Your face from me.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Like a king I may live in a palace so tall,",
+        "With great riches to call my own;",
+        "But I don't know a thing in this whole wide world",
+        "That's worse than being alone."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\"Hold my hand all the way,",
+        "Every hour, every day,",
+        "From her to the great unknown.",
+        "Take my hand; let me stand",
+        "Where no one stands alone.\"",
+        "Copyright 1955. Renewal 1983 by Lillenas Publishing Company. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-113_full.mid",
+    "soprano": "/audio/midi/hymn-113_soprano.mid",
+    "alto": "/audio/midi/hymn-113_alto.mid",
+    "tenor": "/audio/midi/hymn-113_tenor.mid",
+    "bass": "/audio/midi/hymn-113_bass.mid"
+  }
+}

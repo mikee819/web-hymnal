@@ -1,0 +1,40 @@
+{
+  "id": "hymn-494a",
+  "number": "494a",
+  "numberDisplay": "494a",
+  "title": "Psalm 24",
+  "firstLine": "The earth and the riches with which it is stored, the world and its dwellers, belong to the Lord, for He on the seas its foundation has laid. And firm on the waters its pillars has stayed.",
+  "pitchInfo": {
+    "raw": "A-2-SOL                     A-1 P-4",
+    "key": "A",
+    "note": "A",
+    "beat": 2,
+    "solfege": "SOL",
+    "inheritedFrom": "296"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "How Firm A Foundation",
+    "number": "296"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "The earth and the riches with which it is stored, the world and its dwellers, belong to the Lord, for He on the seas its foundation has laid. And firm on the waters its pillars has stayed.",
+        "O who shall the mount of Jehovah ascend? Or who in the place of his holiness stand? The man of pure heart and of hands without stain, who has not sworn falsely not loved what is vain.",
+        "He shall from Jehovah a blessing receive; the God of salvation shall righteousness give. Thus looking to Him is a whole blessed race, all those who, like Jacob, are seeking your face.",
+        "O gates, lift your heads! Ageless doors, lift them high! The great King of glory to enter draws nigh! O who is the King that in glory draws near? The Lord, mighty Lord or the battle is here!",
+        "O gates, lift your heads! Ageless doors, lift them high! The great King of glory to enter draws nigh! This great King or glory, O Who can he be? Jehovah of hosts, King of glory is He!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-494a_full.mid",
+    "soprano": "/audio/midi/hymn-494a_soprano.mid",
+    "alto": "/audio/midi/hymn-494a_alto.mid",
+    "tenor": "/audio/midi/hymn-494a_tenor.mid",
+    "bass": "/audio/midi/hymn-494a_bass.mid"
+  }
+}

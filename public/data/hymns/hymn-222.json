@@ -1,0 +1,65 @@
+{
+  "id": "hymn-222",
+  "number": "222",
+  "numberDisplay": "222",
+  "title": "After The Shadows",
+  "firstLine": "After the midnight, morning will greet us;",
+  "pitchInfo": {
+    "raw": "Ab-3-MI A-1 C-15",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "A-1 C-15",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "After the midnight, morning will greet us;",
+        "After the sadness, joy will appear,",
+        "After the tempest, sunlight will meet us,",
+        "After the jeering, praise we shall hear."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "After the battle, peace will be given;",
+        "After the weeping, song there will be;",
+        "After the journey there will be heaven,",
+        "Burdens will fall and we shall be free."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Shadows and sunshine all thru the story,",
+        "Tear drops and pleasure, day after day,",
+        "But when we reach the kingdom of glory,",
+        "Trials of earth will vanish away."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "After the shadows, there will be sunshine;",
+        "After the frown, the soul cheering smile;",
+        "Cling to the Savior, love Him forever;",
+        "All will be well in a little while.",
+        "Copyright, 1915, Renewal 1943 by Stamps-Baxter Music."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-222_full.mid",
+    "soprano": "/audio/midi/hymn-222_soprano.mid",
+    "alto": "/audio/midi/hymn-222_alto.mid",
+    "tenor": "/audio/midi/hymn-222_tenor.mid",
+    "bass": "/audio/midi/hymn-222_bass.mid"
+  }
+}

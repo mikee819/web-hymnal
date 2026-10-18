@@ -1,0 +1,65 @@
+{
+  "id": "hymn-514",
+  "number": "514",
+  "numberDisplay": "514",
+  "title": "Singing Redemption'sSong 504 /",
+  "firstLine": "Angels are singing redemption's sweet song,",
+  "pitchInfo": {
+    "raw": "Ab-2-SOL R-1 S-4",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "R-1 S-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Angels are singing redemption's sweet song,",
+        "Wonderful theme, glorious theme!",
+        "Shout the glad message and join in the throng,",
+        "Singing redemption's song!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Over and over the melodies ring,",
+        "Wonderful theme, glorious theme!",
+        "Heaven resounds with the tribute they bring,",
+        "Singing redemption's song!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Joy beyond measure awaits us up there,",
+        "Wonderful theme, glorious theme!",
+        "Soon we shall join with the angels up there,",
+        "Singing redemption's song!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sing the sweet story - redemption's sweet song;",
+        "Over and over the chorus prolong;",
+        "Shout the glad message and join with the throng,",
+        "Ever we'll sing praise to the King",
+        "Singing redemption's song."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-514_full.mid",
+    "soprano": "/audio/midi/hymn-514_soprano.mid",
+    "alto": "/audio/midi/hymn-514_alto.mid",
+    "tenor": "/audio/midi/hymn-514_tenor.mid",
+    "bass": "/audio/midi/hymn-514_bass.mid"
+  }
+}

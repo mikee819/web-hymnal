@@ -1,0 +1,65 @@
+{
+  "id": "hymn-551",
+  "number": "551",
+  "numberDisplay": "551",
+  "title": "Walk In The Light * /",
+  "firstLine": "Walk in the light! and you shall know",
+  "pitchInfo": {
+    "raw": "G-3-DO F-2",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "F-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Walk in the light! and you shall know",
+        "That fellowship of love",
+        "His Spirit only can bestow",
+        "Who reigns in light above."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Walk in the light! and you shall find",
+        "Your heart made truly His,",
+        "Who dwells in cloudless light enshrined,",
+        "In whom no darkness is."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Walk in the light! and you shall see",
+        "Your darkness pass away,",
+        "Because the light has come to be,",
+        "In which is perfect day."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Walk in the light! aqnd you shall share",
+        "Your path, though thorny, bright;",
+        "For God in grace walks with you there,",
+        "And God Himself is light."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-551_full.mid",
+    "soprano": "/audio/midi/hymn-551_soprano.mid",
+    "alto": "/audio/midi/hymn-551_alto.mid",
+    "tenor": "/audio/midi/hymn-551_tenor.mid",
+    "bass": "/audio/midi/hymn-551_bass.mid"
+  }
+}

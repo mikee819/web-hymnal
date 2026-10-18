@@ -1,0 +1,68 @@
+{
+  "id": "hymn-87",
+  "number": "87",
+  "numberDisplay": "87",
+  "title": "Be Still My Soul",
+  "firstLine": "(Tr. by Jane L. Borthwick)",
+  "pitchInfo": {
+    "raw": "F-2-MI C-15",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-15",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "(Tr. by Jane L. Borthwick)"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Be still, my soul; the Lord is on thy side",
+        "Bear patiently the cross of grief or pain;",
+        "Leave to thy God to order and provide",
+        "In every change He faithful will remain.",
+        "Be still, my soul; thy best, thy heavenly Friend",
+        "Thru thorny ways leads to a joyful end."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Be still, my soul; thy God doth undertake",
+        "To guide the future as He has the past.",
+        "Thy hope, thy confidence let nothing shake;",
+        "All now mysterious shall be bright at last.",
+        "Be still, my soul; the waves and winds still know",
+        "His voice who ruled them while He dwelt below."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Be still, my soul. The hour is hastening on",
+        "When we shall be forever with the Lord;",
+        "When disappointment, grief, and fear are gone;",
+        "Sorrow forgot, love's purest joys restored.",
+        "Be still, my soul; when change and tears are past,",
+        "All safe and blessed O we shall meet at last."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-87_full.mid",
+    "soprano": "/audio/midi/hymn-87_soprano.mid",
+    "alto": "/audio/midi/hymn-87_alto.mid",
+    "tenor": "/audio/midi/hymn-87_tenor.mid",
+    "bass": "/audio/midi/hymn-87_bass.mid"
+  }
+}

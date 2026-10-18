@@ -1,0 +1,64 @@
+{
+  "id": "hymn-210",
+  "number": "210",
+  "numberDisplay": "210",
+  "title": "Alone At Eve",
+  "firstLine": "Walking alone at eve and viewing the skies afar,",
+  "pitchInfo": {
+    "raw": "Eb-4-SOL C-15 H-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-15 H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Walking alone at eve and viewing the skies afar,",
+        "Bidding the darkness come to welcome each silver star;",
+        "I have a great delight in the wonderful scenes above,",
+        "God in His pow'r and might is showing His truth and love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Sitting alone at eve and dreaming the hours away,",
+        "Watching the shadows falling now at the close of day;",
+        "God in His mercy comes with His Word He is drawing near,",
+        "Spreading His love and truth around me and ev'ry where."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Closing my eyes at eve and thinking of heaven's grace,",
+        "Longing to see my Lord, yes, meeting Him face to face;",
+        "Trusting Him as my all where so ever my footsteps roam,",
+        "Pleading with Him to guide me on to the spirit's home!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Oh, for a home with God, a place in His courts to rest,",
+        "Sure in a safe abode with Jesus and the blest;",
+        "Rest for a weary soul once redeemed by the Savior's love,",
+        "Where I'll be pure and whole and live with my God above!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-210_full.mid",
+    "soprano": "/audio/midi/hymn-210_soprano.mid",
+    "alto": "/audio/midi/hymn-210_alto.mid",
+    "tenor": "/audio/midi/hymn-210_tenor.mid",
+    "bass": "/audio/midi/hymn-210_bass.mid"
+  }
+}

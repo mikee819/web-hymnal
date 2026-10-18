@@ -1,0 +1,72 @@
+{
+  "id": "hymn-185",
+  "number": "185",
+  "numberDisplay": "185",
+  "title": "Jesus Is Lord Of All * /",
+  "firstLine": "Scripture; 1 Corinthians 8:6",
+  "pitchInfo": {
+    "raw": "F-2-MI C-6 T-1",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-6 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; 1 Corinthians 8:6"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "All my tomorrows, all my past",
+        "Jesus is Lord of all.",
+        "I've quit my struggles, contentment at last!",
+        "Jesus is Lord of all."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "All of my conflicts, all my thoughts",
+        "Jesus is Lord of all.",
+        "His love wins the battles I could not have fought;",
+        "Jesus is Lord of all."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "All of my longings, all my dreams",
+        "Jesus is Lord of all.",
+        "All of my failures His power redeems;",
+        "Jesus is Lord of all."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "King of kings, Lord of lords,",
+        "Jesus is Lord of all;",
+        "All my possessions and all my life,",
+        "Jesus is Lord of all.",
+        "Copyright 1973 by William J. Gaither. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-185_full.mid",
+    "soprano": "/audio/midi/hymn-185_soprano.mid",
+    "alto": "/audio/midi/hymn-185_alto.mid",
+    "tenor": "/audio/midi/hymn-185_tenor.mid",
+    "bass": "/audio/midi/hymn-185_bass.mid"
+  }
+}

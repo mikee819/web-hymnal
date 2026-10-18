@@ -1,0 +1,68 @@
+{
+  "id": "hymn-412",
+  "number": "412",
+  "numberDisplay": "412",
+  "title": "God Is Love",
+  "firstLine": "Come, let us all unite to sing, God is love;",
+  "pitchInfo": {
+    "raw": "D-4-DO L-5 S-4",
+    "key": "D",
+    "note": "D",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "L-5 S-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Come, let us all unite to sing, God is love;",
+        "Let heav'n and earth their praises bring, God is love;",
+        "Let ev'ry soul from sin awake,",
+        "Each in his heart sweet music make,",
+        "And sing with us for Jesus' sake,",
+        "For God is love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O, tell to earth's remotest bound, God is love;",
+        "In Christ we have redemption found, God is love;",
+        "His blood has washed our sins away,",
+        "His Spirit turned our night to day,",
+        "And now we can rejoice to say,",
+        "That God is love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "How happy is our portion here, God is love;",
+        "His promises our spirits cheer, God is love;",
+        "He is our sun and shield by day,",
+        "Our help, our hope, our strength and stay,",
+        "He will be with us all the way,",
+        "Our God is love."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "God is love! God is love!",
+        "Come let us all unite to sing that God is love."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-412_full.mid",
+    "soprano": "/audio/midi/hymn-412_soprano.mid",
+    "alto": "/audio/midi/hymn-412_alto.mid",
+    "tenor": "/audio/midi/hymn-412_tenor.mid",
+    "bass": "/audio/midi/hymn-412_bass.mid"
+  }
+}

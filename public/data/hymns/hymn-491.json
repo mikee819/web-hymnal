@@ -1,0 +1,62 @@
+{
+  "id": "hymn-491",
+  "number": "491",
+  "numberDisplay": "491",
+  "title": "Remember Me, O Mighty One",
+  "firstLine": "When storms around are sweeping,",
+  "pitchInfo": {
+    "raw": "C-4-SOL P-3",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When storms around are sweeping,",
+        "When lone my watch I'm keeping,",
+        "'Mid fires of evil falling,",
+        "'Mid tempters' voices calling,"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When walking on life's ocean,",
+        "Control its raging motion;",
+        "when from its dangers shrinking,",
+        "When in its dread deeps sinking,"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When weight of sin oppresses,",
+        "When dark despair distresses;",
+        "All through the life that's mortal,",
+        "And when Ii pass death's portal,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Remember me, O mighty One!",
+        "Remember me, O mighty One!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-491_full.mid",
+    "soprano": "/audio/midi/hymn-491_soprano.mid",
+    "alto": "/audio/midi/hymn-491_alto.mid",
+    "tenor": "/audio/midi/hymn-491_tenor.mid",
+    "bass": "/audio/midi/hymn-491_bass.mid"
+  }
+}

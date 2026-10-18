@@ -1,0 +1,72 @@
+{
+  "id": "hymn-319",
+  "number": "319",
+  "numberDisplay": "319",
+  "title": "Only A Step",
+  "firstLine": "Composer; Chas. H. Gabriel",
+  "pitchInfo": {
+    "raw": "Eb-3-MI I-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Chas. H. Gabriel",
+        "Key Eb Starting Note; G"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Hear the sweet voice of Jesus say,",
+        "\"Come unto me, I am the way;\"",
+        "Hearken, the loving call obey;",
+        "Come for He loves you so."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Casting your heavy burden down,",
+        "Come to the cross, the world may frown;",
+        "Yet you shall wear a glorious crown,",
+        "When He makes up His own."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Open, for you, the pearly gate;",
+        "Saved ones for you now watch and wait;",
+        "Terrible tho't, to cry, \"too late,\"",
+        "\"Jesus, I come to Thee.\""
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Only a step, only a step:",
+        "Come, for He bled for you and died;",
+        "He's the same loving Savior yet,",
+        "Jesus the Crucified."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-319_full.mid",
+    "soprano": "/audio/midi/hymn-319_soprano.mid",
+    "alto": "/audio/midi/hymn-319_alto.mid",
+    "tenor": "/audio/midi/hymn-319_tenor.mid",
+    "bass": "/audio/midi/hymn-319_bass.mid"
+  }
+}

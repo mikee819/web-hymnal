@@ -1,0 +1,71 @@
+{
+  "id": "hymn-686",
+  "number": "686",
+  "numberDisplay": "686",
+  "title": "Salvation Has Been Brought Down 602 /",
+  "firstLine": "Jesus gave His life a ransom yonder on Calvary,",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL S-5",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "S-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus gave His life a ransom yonder on Calvary,",
+        "On Mount Calvary, cruel Calvary;",
+        "Paved the way by blood that we might win a bright shining crown,",
+        "Praise His holy name, salvation has been brot' down"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "All alone without a friend He suffered to pay it all,",
+        "] Yes, He paid it all, Jesus paid it all;",
+        "In His blessed promises sweet victory can be found,",
+        "Praise His holy name, salvation has been brot' down"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "There's a blessed home prepared 'way over in glory-land,",
+        "In bright glory-land, blessed glory-land;",
+        "I have trusted in His love and now I am heaven bound,",
+        "Praise His holy name, salvation has been brot' down"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Praise the Lord, salvation has been bro't down",
+        "Go and shout and tell it the world around",
+        "Tell it today to people in sorrow,",
+        "Tell it today, and tell it tomorrow,",
+        "Preach the Word of God that we might win a crown",
+        "Tell the lost salvation is full and free,",
+        "Spread the news all over the land and sea,",
+        "Tell it afar in every nation,",
+        "Tell it afar all over creation,",
+        "Praise the Lord, salvation has been brot' down",
+        "Copyright 1940. renewal 1968 by Stamps-Baxter Music."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-686_full.mid",
+    "soprano": "/audio/midi/hymn-686_soprano.mid",
+    "alto": "/audio/midi/hymn-686_alto.mid",
+    "tenor": "/audio/midi/hymn-686_tenor.mid",
+    "bass": "/audio/midi/hymn-686_bass.mid"
+  }
+}

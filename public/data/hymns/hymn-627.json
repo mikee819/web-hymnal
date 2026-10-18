@@ -1,0 +1,66 @@
+{
+  "id": "hymn-627",
+  "number": "627",
+  "numberDisplay": "627",
+  "title": "Like A Little Child * /",
+  "firstLine": "Father, when my clumsy footsteps falter,",
+  "pitchInfo": {
+    "raw": "Eb-4-DO P-3 F-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-3 F-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Father, when my clumsy footsteps falter,",
+        "Patiently and with demeanor mild,",
+        "Stretching out thy hands along my pathway,",
+        "Thou hast led me like a little child."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When the fearful darkness overwhelms me,",
+        "When in pain I move forlorn, exiled,",
+        "Seeking me with words and arms of comfort,",
+        "Thou has held me like a little child."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When allurements beckon me to danger,",
+        "And be pleasant perils I'm beguiled,",
+        "Wisdom from Thee shows the way to safety,",
+        "Thou hast watched me like a little child."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Knowing thou wilt cherish and protect me,",
+        "Mend what's broken cleanse what I've defiled;",
+        "Trusting in thy goodness without doubting",
+        "I have loved Thee like a little child.",
+        "Copyright 1986 by Sherry Cecil & Steve Goff. All Rights Reserved. Dedicated to Billye Jo Roberds"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-627_full.mid",
+    "soprano": "/audio/midi/hymn-627_soprano.mid",
+    "alto": "/audio/midi/hymn-627_alto.mid",
+    "tenor": "/audio/midi/hymn-627_tenor.mid",
+    "bass": "/audio/midi/hymn-627_bass.mid"
+  }
+}

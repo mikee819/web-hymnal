@@ -1,0 +1,47 @@
+{
+  "id": "hymn-573",
+  "number": "573",
+  "numberDisplay": "573",
+  "title": "Can You Count The Stars? 529a /",
+  "firstLine": "Tr. Elmer L. Jorgenson, 1921",
+  "pitchInfo": {
+    "raw": "F-3-DO P-5",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Tr. Elmer L. Jorgenson, 1921",
+        "Can you count the stars of evening that are shining in the sky?",
+        "Can you count the clouds that daily over all the world go by?",
+        "God the Lord, who doth not slumber,",
+        "Keepeth all the boundless number:",
+        "But He careth more for thee, but He careth more for Thee.",
+        "Can you count the birds that warble in the sunshine all the day?",
+        "Can you count the little fishes that in sparkling waters play:",
+        "God the Lord their number knoweth,",
+        "For each one His care He showeth:",
+        "Shall He not remember thee? Shall He not remember Thee?",
+        "Can you count the many children in their little beds at night,",
+        "Who without a thought of sorrow rise again at morning light?",
+        "God the Lord, who dwells in heaven",
+        "Loving care to each has given:",
+        "He has not forgotten thee, He has not forgotten thee."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-573_full.mid",
+    "soprano": "/audio/midi/hymn-573_soprano.mid",
+    "alto": "/audio/midi/hymn-573_alto.mid",
+    "tenor": "/audio/midi/hymn-573_tenor.mid",
+    "bass": "/audio/midi/hymn-573_bass.mid"
+  }
+}

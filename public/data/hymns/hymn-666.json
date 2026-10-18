@@ -1,0 +1,65 @@
+{
+  "id": "hymn-666",
+  "number": "666",
+  "numberDisplay": "666",
+  "title": "He Bore It All 585 /",
+  "firstLine": "My precious Savior suffered pain and agony,",
+  "pitchInfo": {
+    "raw": "F-4-SOL C-3 C-4",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-3 C-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "My precious Savior suffered pain and agony,",
+        "He bore it all that I might live;",
+        "He broke the bonds of sin and set the captive free,",
+        "He bore it all that I might live."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "They placed a crown of thorns upon my Savior's head,",
+        "He bore it all that I might live;",
+        "By cruel man with spear His side was pierced an bled,",
+        "He bore it all that I might live."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Up Calv'ry's hill in shame the blessed Savior trod,",
+        "He bore it all that I might live;",
+        "Between two thieves they crucified the Son of God",
+        "He bore it all that I might live."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He bore it all that I might see His shining face,",
+        "He bore it all that I might live",
+        "I stood condemned to die but Jesus took my place,",
+        "He bore it all that I might live.",
+        "Copyright 1926. Renewal 1954 by Stamps-Baxter Music."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-666_full.mid",
+    "soprano": "/audio/midi/hymn-666_soprano.mid",
+    "alto": "/audio/midi/hymn-666_alto.mid",
+    "tenor": "/audio/midi/hymn-666_tenor.mid",
+    "bass": "/audio/midi/hymn-666_bass.mid"
+  }
+}

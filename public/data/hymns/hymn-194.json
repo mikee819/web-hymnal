@@ -1,0 +1,64 @@
+{
+  "id": "hymn-194",
+  "number": "194",
+  "numberDisplay": "194",
+  "title": "When We All Get To Heaven",
+  "firstLine": "Sing the wondrous love of Jesus,",
+  "pitchInfo": {
+    "raw": "C-4-SOL H-2 S-4",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2 S-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Sing the wondrous love of Jesus,",
+        "Sing His mercy and His grace;",
+        "In the mansion, bright and blessed,",
+        "He'll prepare for us a place."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "While we walk the pilgrim pathway,",
+        "Clouds will over spread the sky;",
+        "But when trav'ling days are over",
+        "Not a shadow, not a sigh."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Let us then be true and faithful,",
+        "Trusting, serving ev'ry day;",
+        "Just one glimpse of Him in glory",
+        "Will the toils of life repay."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "When we all get to heaven,",
+        "What a day of rejoicing that will be",
+        "When we all see Jesus,",
+        "We'll sing and shout the victory."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-194_full.mid",
+    "soprano": "/audio/midi/hymn-194_soprano.mid",
+    "alto": "/audio/midi/hymn-194_alto.mid",
+    "tenor": "/audio/midi/hymn-194_tenor.mid",
+    "bass": "/audio/midi/hymn-194_bass.mid"
+  }
+}

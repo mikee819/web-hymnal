@@ -1,0 +1,64 @@
+{
+  "id": "hymn-246",
+  "number": "246",
+  "numberDisplay": "246",
+  "title": "Gathering Home",
+  "firstLine": "Up to the bountiful Giver of life,",
+  "pitchInfo": {
+    "raw": "Eb-2-MI H-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Up to the bountiful Giver of life,",
+        "Gathering home! Gathering home!",
+        "Up to the dwelling where cometh no strife,",
+        "The saved ones are gathering home."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Up to the city where falleth no night,",
+        "Gathering home! Gathering home!",
+        "Up where the Savior's own face is the light",
+        "The saved ones are gathering home."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Up to the beautiful mansions above,",
+        "Gathering home! Gathering home!",
+        "Safe in the arms of His infinite love,",
+        "The saved ones are gathering home."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Gathering Home! Gathering Home!",
+        "Never to sorrow more, never to roam;",
+        "Gathering home! Gathering home!",
+        "God's children are gathering home!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-246_full.mid",
+    "soprano": "/audio/midi/hymn-246_soprano.mid",
+    "alto": "/audio/midi/hymn-246_alto.mid",
+    "tenor": "/audio/midi/hymn-246_tenor.mid",
+    "bass": "/audio/midi/hymn-246_bass.mid"
+  }
+}

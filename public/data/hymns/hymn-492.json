@@ -1,0 +1,55 @@
+{
+  "id": "hymn-492",
+  "number": "492",
+  "numberDisplay": "492",
+  "title": "Something Worth Living for",
+  "firstLine": "Life was shattered and hope was gone-",
+  "pitchInfo": {
+    "raw": "F-3-MI C-12",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-12",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Life was shattered and hope was gone-",
+        "Crushing the load that I bore;",
+        "Then out of the depths I cried,",
+        "O God, Please give me something worth living for.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O the joy of sins forgiv'n -",
+        "Nothing's the same as before;",
+        "My life overflows since Jesus came",
+        "And gave me something worth living for."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Something more than my yesterdays,",
+        "More than I had before,",
+        "Something more than wealth or fame -",
+        "He gave me something worth living for.",
+        "Copyright 1967 by William J. Gaither (ASCAP). All Rights Reserved. international copyright secured. Used by permission of Gaither Music Company."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-492_full.mid",
+    "soprano": "/audio/midi/hymn-492_soprano.mid",
+    "alto": "/audio/midi/hymn-492_alto.mid",
+    "tenor": "/audio/midi/hymn-492_tenor.mid",
+    "bass": "/audio/midi/hymn-492_bass.mid"
+  }
+}

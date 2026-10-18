@@ -1,0 +1,66 @@
+{
+  "id": "hymn-174",
+  "number": "174",
+  "numberDisplay": "174",
+  "title": "Christ Arose",
+  "firstLine": "1 Low in the grave He lay,",
+  "pitchInfo": {
+    "raw": "C-4-SOL C-4 C-8",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-4 C-8",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1 Low in the grave He lay,",
+        "Jesus, my Savior!",
+        "Waiting the coming day,",
+        "Jesus, my Lord!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "2 Vainly they watch His bed,",
+        "Jesus, my Savior!",
+        "Vainly they seal the dead,",
+        "Jesus my Lord!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "3 Death cannot keep his prey,",
+        "Jesus, my Savior!",
+        "He tore the bars away,",
+        "Jesus my Lord!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Up from the grave He arose,",
+        "With a mighty triumph o'er His foes;",
+        "He arose a victor from the dark domain,",
+        "And He lives forever With His saints to reign.",
+        "He arose! He arose!",
+        "Hallelujah! Christ arose!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-174_full.mid",
+    "soprano": "/audio/midi/hymn-174_soprano.mid",
+    "alto": "/audio/midi/hymn-174_alto.mid",
+    "tenor": "/audio/midi/hymn-174_tenor.mid",
+    "bass": "/audio/midi/hymn-174_bass.mid"
+  }
+}

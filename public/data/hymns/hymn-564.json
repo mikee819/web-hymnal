@@ -1,0 +1,75 @@
+{
+  "id": "hymn-564",
+  "number": "564",
+  "numberDisplay": "564",
+  "title": "Follow Me 529 /",
+  "firstLine": "Key; Eb Starting Note: G",
+  "pitchInfo": {
+    "raw": "Eb-4-MI C-13 F-3",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-13 F-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Key; Eb Starting Note: G"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I traveled down a lonely road And no one seeded to care,",
+        "The burden on my weary back Had bowed me to despair;",
+        "I oft complained to Jesus How folks were treating me,",
+        "And then I heard Him say so tenderly:",
+        "\"My feet were also weary, upon the Calv'ry road;",
+        "The cross became so heavy I fell beneath the load;",
+        "Be faithful weary pilgrim, The morning I can see,",
+        "Just lift your cross and follow close to Me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "\"I work so hard for Jesus\" I often boast and say,",
+        "\"I've sacrificed a lot of things To walk the narrow way,",
+        "I gave up fame and fortune; I'm worth a lot to Thee,\"",
+        "And then I hear Him gently say to me:",
+        "\"I left the throne of glory And counted it but loss,",
+        "My hands were nailed in anger Upon a cruel cross;",
+        "But now we'll make the journey With your hand safe in Mine,",
+        "So lift your cross and follow close to Me.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Oh, Jesus if I die upon A foreign field someday,",
+        "\"Twould be no more than love demands; No less could I repay;",
+        "\"No greater love hath mortal man Than for a friend to die,\"",
+        "These are the words He gently spoke to me:",
+        "\"If just a cup of water I place within your hand,",
+        "Then just a cup of water Is all that I demand;\"",
+        "But if be death to living They can Thy glory see,",
+        "I'll take my cross and follow close to Thee.",
+        "Copyright 1953. Renewal 1980 by Ira Stanphill. Assigned to Singspiration (ASCAP), Division of the Zondervan Corporation. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-564_full.mid",
+    "soprano": "/audio/midi/hymn-564_soprano.mid",
+    "alto": "/audio/midi/hymn-564_alto.mid",
+    "tenor": "/audio/midi/hymn-564_tenor.mid",
+    "bass": "/audio/midi/hymn-564_bass.mid"
+  }
+}

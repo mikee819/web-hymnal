@@ -1,0 +1,72 @@
+{
+  "id": "hymn-685",
+  "number": "685",
+  "numberDisplay": "685",
+  "title": "The Lord Our Rock 601 /",
+  "firstLine": "Composer; J. P. Lane",
+  "pitchInfo": {
+    "raw": "E-4-SOL C-9",
+    "key": "E",
+    "note": "E",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-9",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; J. P. Lane"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O the Rock! 'tis a cleft and a strong, sure defense",
+        "From the dark gath'ring tempest so threat'ning and dense;",
+        "In the Rock, we are safe, we will suffer no fear,",
+        "But in peace that is changeless, we rest sweetly here."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O the Rock safely shields from the foes that surround,",
+        "Tho' the perils are many, and tempters abound;",
+        "In the Rock, all secure, from all harm we abide;",
+        "Since He shields us and keeps us, no ill can betide."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O the Rock, blessed Rock, what a clam, blest retreat,",
+        "We will rest in the Shade all secure from the heat;",
+        "In the Rock we're contented, we're happy and free;",
+        "Sinner, flee for thy life, O to this Refuge flee."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "For the Lord is our Rock and is mighty and strong.",
+        "And in Him we are safe, He's our help and our song,",
+        "In the Rock we will rest till the storms all are past;",
+        "He will guide thro' the gloom, He will guide thro' the gloom",
+        "'Til the light dawns at last, dawns at last."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-685_full.mid",
+    "soprano": "/audio/midi/hymn-685_soprano.mid",
+    "alto": "/audio/midi/hymn-685_alto.mid",
+    "tenor": "/audio/midi/hymn-685_tenor.mid",
+    "bass": "/audio/midi/hymn-685_bass.mid"
+  }
+}

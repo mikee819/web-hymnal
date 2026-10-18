@@ -1,0 +1,64 @@
+{
+  "id": "hymn-550",
+  "number": "550",
+  "numberDisplay": "550",
+  "title": "For Christ And The Church 522 /",
+  "firstLine": "\"For Christ and the church\" let our voices ring,",
+  "pitchInfo": {
+    "raw": "D-4-SOL E-1 W-5",
+    "key": "D",
+    "note": "D",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1 W-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "\"For Christ and the church\" let our voices ring,",
+        "Let us honor the name of our own blessed King:",
+        "Let us work with a will in the strength of youth,",
+        "And loyally stand for the kingdom of truth."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "\"For Christ and the church\" be our earnest prayer,",
+        "Let us follow His banner, the cross daily bear;",
+        "Let us yield, wholly yield, to the gospel's pow'r,",
+        "And serve faithfully ev'ry day, ev'ry hour."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "\"For Christ and the church\" let us cast aside,",
+        "By His conquering grace, chains of self, fear, and pride;",
+        "May our lives be enriched by an aim so grand;",
+        "Then happy the call to the Savior's right hand."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "For Christ, our dear Redeemer,",
+        "For Christ, the crucified,",
+        "For the church.. His blood hath purchased;",
+        "The church, His holy bride."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-550_full.mid",
+    "soprano": "/audio/midi/hymn-550_soprano.mid",
+    "alto": "/audio/midi/hymn-550_alto.mid",
+    "tenor": "/audio/midi/hymn-550_tenor.mid",
+    "bass": "/audio/midi/hymn-550_bass.mid"
+  }
+}

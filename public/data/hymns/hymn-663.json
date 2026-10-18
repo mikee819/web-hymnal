@@ -1,0 +1,64 @@
+{
+  "id": "hymn-663",
+  "number": "663",
+  "numberDisplay": "663",
+  "title": "Just A Little While 582 /",
+  "firstLine": "Soon this life will all be over, and our pilgrimage will end,",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Soon this life will all be over, and our pilgrimage will end,",
+        "Soon we'll take our heav'nly journey,",
+        "Be at home with Christ our friend;",
+        "Heaven's gates are standing open, Waiting for our entrance there.",
+        "Some sweet day we're going over, All the beauties there to share."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Soon we'll see the light of morning, Then the new day will begin,",
+        "Soon we'll hear the Father calling, \"Come, my children enter in;\"",
+        "Then we'll hear a choir of angels, Singing out the vict'ry song.",
+        "All our troubles will be ended And we'll live with heaven's throng."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Soon we'll meet all the redeemed ones, And we'll take them by the hand,",
+        "Soon we'll press them to our bosom, Over in the promised land;",
+        "Then we'll be at home for ever, Thru out all eternity,",
+        "What a blessed, blessed morning That eternal morn will be!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Just a little while to say here,",
+        "Just a little while to wait,",
+        "Just a little while to labor",
+        "In the path that's always straight,",
+        "Just a little more of trouble",
+        "In this low and sinful state;",
+        "Then we'll enter heaven's portals,",
+        "Sweeping thru the pearly gates.",
+        "Copyright, 1938. Renewal. Stamps-Baxter Music, owners."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-663_full.mid",
+    "soprano": "/audio/midi/hymn-663_soprano.mid",
+    "alto": "/audio/midi/hymn-663_alto.mid",
+    "tenor": "/audio/midi/hymn-663_tenor.mid",
+    "bass": "/audio/midi/hymn-663_bass.mid"
+  }
+}

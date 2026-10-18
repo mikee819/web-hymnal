@@ -1,0 +1,64 @@
+{
+  "id": "hymn-661",
+  "number": "661",
+  "numberDisplay": "661",
+  "title": "Let Jesus Dwell Within Your Soul 580 /",
+  "firstLine": "O, will you now from sighing cease?",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL E-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O, will you now from sighing cease?",
+        "O, will you seek the path of peace?",
+        "Give Christ your heart, make heav'n your goal,",
+        "Let Jesus dwell within your soul."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Thro' trials oft your soul must go,",
+        "The Savior wills this to be so,",
+        "Trust Him with all, as they of old,",
+        "Let Jesus dwell within your soul."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "And when the hour of death draws near,",
+        "Trust Him to take away all fear,",
+        "The joys of heav'n will soon unfold,",
+        "Let Jesus dwell within your soul."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Let Jesus dwell within your soul,",
+        "Let Jesus dwell within your soul,",
+        "Let joys increase as ages roll,",
+        "Let Jesus dwell within your soul."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-661_full.mid",
+    "soprano": "/audio/midi/hymn-661_soprano.mid",
+    "alto": "/audio/midi/hymn-661_alto.mid",
+    "tenor": "/audio/midi/hymn-661_tenor.mid",
+    "bass": "/audio/midi/hymn-661_bass.mid"
+  }
+}

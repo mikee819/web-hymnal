@@ -1,0 +1,67 @@
+{
+  "id": "hymn-313",
+  "number": "313",
+  "numberDisplay": "313",
+  "title": "Though Your Sins Be As Scarlet",
+  "firstLine": "\"Tho' your sins be as scarlet,",
+  "pitchInfo": {
+    "raw": "Ab-3-SOL E-1 I-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1 I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "\"Tho' your sins be as scarlet,",
+        "They shall be as white as snow;",
+        "Tho' they be red like crimson,",
+        "They shall be as wool!\"",
+        "\"Tho' your sins be as scarlet,",
+        "Tho' your sins be as scarlet,",
+        "They shall be as white as snow,",
+        "They shall be as white as snow.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Hear the voice that entreats you,",
+        "Oh, return ye unto God!",
+        "He is of great compassion,",
+        "And of wondrous love;",
+        "Hear the voice that entreat you,",
+        "Hear the voice that entreat you,",
+        "Oh, return ye unto God!",
+        "Oh, return ye unto God!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "He'll forgive your transgressions,",
+        "And remember them no more;",
+        "\"Look unto Me ye people,\"",
+        "Saith the Lord, your God;",
+        "He'll forgive your transgressions,",
+        "He'll forgive your transgressions,",
+        "And remember them no more;",
+        "And remember them no more;"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-313_full.mid",
+    "soprano": "/audio/midi/hymn-313_soprano.mid",
+    "alto": "/audio/midi/hymn-313_alto.mid",
+    "tenor": "/audio/midi/hymn-313_tenor.mid",
+    "bass": "/audio/midi/hymn-313_bass.mid"
+  }
+}

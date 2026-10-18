@@ -1,0 +1,74 @@
+{
+  "id": "hymn-426",
+  "number": "426",
+  "numberDisplay": "426",
+  "title": "At Calvary",
+  "firstLine": "1 Years I spent in vanity and pride,",
+  "pitchInfo": {
+    "raw": "C-4-SOL T-1",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1 Years I spent in vanity and pride,",
+        "Caring not my Lord was crucified,",
+        "Knowing not it was for me He died",
+        "On Calvary."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "2 By God's Word at last my I learned;",
+        "Then I trembled at the law I'd spurned,",
+        "Till my guilty soul imploring turned",
+        "To Calvary."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "3 Now I've giv'n to Jesus ev'rything,",
+        "Now I gladly own Him as my King,",
+        "Now my raptured soul can only sing",
+        "Of Calvary."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "4 Oh, the love that drew salvation's plan!",
+        "Oh, the grace that brought it down to man!",
+        "Oh, the mighty gulf that God did span",
+        "At Calvary!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mercy there was great, and grace was free;",
+        "Pardon there was multiplied to me;",
+        "There my burdened soul found liberty",
+        "At Calvary."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-426_full.mid",
+    "soprano": "/audio/midi/hymn-426_soprano.mid",
+    "alto": "/audio/midi/hymn-426_alto.mid",
+    "tenor": "/audio/midi/hymn-426_tenor.mid",
+    "bass": "/audio/midi/hymn-426_bass.mid"
+  }
+}

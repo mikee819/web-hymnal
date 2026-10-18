@@ -1,0 +1,66 @@
+{
+  "id": "hymn-78",
+  "number": "78",
+  "numberDisplay": "78",
+  "title": "My God, My Father, Though I Stray",
+  "firstLine": "My God, my Father, Tho' I stray",
+  "pitchInfo": {
+    "raw": "D-4-SOL D-1",
+    "key": "D",
+    "note": "D",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "My God, my Father, Tho' I stray",
+        "Far from my home, on life's rough way,",
+        "O teach me from my hear to say,",
+        "\"Thy will be done!\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Tho dark my path, and sad my lot,",
+        "Let me be still and murmur not,",
+        "Or breathe the prayer divinely taught,",
+        "\"Thy will be done!\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Renew my will from day to day;",
+        "Blend it with thine, and take away,",
+        "All that now makes it hard to say,",
+        "\"Thy will be done!\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Then, when on earth I breathe no more",
+        "The prayer oft mixed with tears before,",
+        "I'll sing upon a happier shore,",
+        "\"Thy will be done!\"",
+        "Amen"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-78_full.mid",
+    "soprano": "/audio/midi/hymn-78_soprano.mid",
+    "alto": "/audio/midi/hymn-78_alto.mid",
+    "tenor": "/audio/midi/hymn-78_tenor.mid",
+    "bass": "/audio/midi/hymn-78_bass.mid"
+  }
+}

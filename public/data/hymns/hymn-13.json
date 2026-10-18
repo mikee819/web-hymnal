@@ -1,0 +1,71 @@
+{
+  "id": "hymn-13",
+  "number": "13",
+  "numberDisplay": "13",
+  "title": "Allelulia",
+  "firstLine": "Composer Traditional, arr. by Dane Shepard",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL P-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer Traditional, arr. by Dane Shepard"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Alleluia! Alleluia! Alleluia! Alleluia!",
+        "Alleluia! Alleluia! Alleluia! Alleluia!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Every day, Lord, Oh, I need You,",
+        "In my home, Lord, Alleluia!",
+        "Every day, Lord, Oh, I need You,",
+        "I am Yours, Lord, Alleluia!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "What a friend we have in Jesus,",
+        "All our sins and griefs to bear;",
+        "What a privilege to carry",
+        "Everything to God in prayer."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "He's my Savior, my redeemer,",
+        "How He loves me, How I love Him;",
+        "He is risen, He is coming,",
+        "Lord, come quickly, Alleluia!",
+        "Arr. Copyright, 1986, by Dane K. Shepard in \"Hymns for Worship\". All Rights reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-13_full.mid",
+    "soprano": "/audio/midi/hymn-13_soprano.mid",
+    "alto": "/audio/midi/hymn-13_alto.mid",
+    "tenor": "/audio/midi/hymn-13_tenor.mid",
+    "bass": "/audio/midi/hymn-13_bass.mid"
+  }
+}

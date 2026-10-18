@@ -1,0 +1,56 @@
+{
+  "id": "hymn-262",
+  "number": "262",
+  "numberDisplay": "262",
+  "title": "Some Blessed Day",
+  "firstLine": "Some day in Jesus' name, The sun will shine again,",
+  "pitchInfo": {
+    "raw": "Eb-2-MI H2 S-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "H2 S-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Some day in Jesus' name, The sun will shine again,",
+        "Hope on, nor hope in vain, 'Twill come some day!",
+        "Grief then shall change to joy, God's will our pow'rs employ,",
+        "And sin no more destroy, Some blessed day!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Some day we'll need no sun, 'Twill mean that heav'n's begun,",
+        "With all earth's battles won, When dawns that day!",
+        "With shadows past, and woe, All dark things clearer grow,",
+        "And we great joy shall know Some blessed day!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Perhaps it soon may be That shadows dark shall flee,",
+        "And from earth's fetters free, We'll greet that day!",
+        "Thro' grace from heaven's throne, Not merit of our own,",
+        "We'll find a better home Some blessed day!",
+        "Copyright 1948 by Gospel Advocate Company. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-262_full.mid",
+    "soprano": "/audio/midi/hymn-262_soprano.mid",
+    "alto": "/audio/midi/hymn-262_alto.mid",
+    "tenor": "/audio/midi/hymn-262_tenor.mid",
+    "bass": "/audio/midi/hymn-262_bass.mid"
+  }
+}

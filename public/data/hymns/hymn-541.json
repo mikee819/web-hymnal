@@ -1,0 +1,58 @@
+{
+  "id": "hymn-541",
+  "number": "541",
+  "numberDisplay": "541",
+  "title": "Draw Thou My Soul, O Christ * /",
+  "firstLine": "Draw Thou my soul, O Christ, closer to thine;",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL D-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Draw Thou my soul, O Christ, closer to thine;",
+        "Breathe into ev'ry wish thy will divine;",
+        "Raise my low self above",
+        "Won by Thy deathless love;",
+        "O Christ, Thro' min let thy life shine."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Lead forth my soul, O Christ, one with Thine own,",
+        "Joyful to follow thee thro' paths unknown;",
+        "In Thee my strength renew;",
+        "Give me thy work to do;",
+        "Thy truth be shown, Thy love made known."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Not for myself alone may my prayer be;",
+        "Lift Thou thy world, O Christ, closer to Thee;",
+        "Cleanse it from guilt and wrong;",
+        "Teach it salvation's song,",
+        "Till earth fulfill God's holy will."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-541_full.mid",
+    "soprano": "/audio/midi/hymn-541_soprano.mid",
+    "alto": "/audio/midi/hymn-541_alto.mid",
+    "tenor": "/audio/midi/hymn-541_tenor.mid",
+    "bass": "/audio/midi/hymn-541_bass.mid"
+  }
+}

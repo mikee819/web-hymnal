@@ -1,0 +1,38 @@
+{
+  "id": "hymn-505a",
+  "number": "505a",
+  "numberDisplay": "505a",
+  "title": "Psalm 67",
+  "firstLine": "O God, to us show mercy, and bless us in Thy grace; cause Thou to shine upon us the brightness of Thy face; that so Thy way most holy on earth may soon be known, and unto every people Thy saving grace be shown.",
+  "pitchInfo": {
+    "raw": "Eb-4-MI K-1 U-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI",
+    "inheritedFrom": "410"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "The Church's One Foundation",
+    "number": "410"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O God, to us show mercy, and bless us in Thy grace; cause Thou to shine upon us the brightness of Thy face; that so Thy way most holy on earth may soon be known, and unto every people Thy saving grace be shown.",
+        "O God, let peoples praise Thee; let all the peoples sing; let nations now be joyful; let songs of gladness ring; For Thou wilt judge the peoples in truth and righteousness; and o'er the earth the nations Thy leadership confess.",
+        "O God, let peoples praise Thee; let all the peoples sing; for earth in rich abundance to us her fruit will bring. God, our own God will bless us; Yea, God will blessing send; and all the earth shall fear Him to its remotest end."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-505a_full.mid",
+    "soprano": "/audio/midi/hymn-505a_soprano.mid",
+    "alto": "/audio/midi/hymn-505a_alto.mid",
+    "tenor": "/audio/midi/hymn-505a_tenor.mid",
+    "bass": "/audio/midi/hymn-505a_bass.mid"
+  }
+}

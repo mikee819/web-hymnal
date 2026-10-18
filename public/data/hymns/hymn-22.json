@@ -1,0 +1,55 @@
+{
+  "id": "hymn-22",
+  "number": "22",
+  "numberDisplay": "22",
+  "title": "He Is In Our Midst",
+  "firstLine": "Draw from the springs of salvation,",
+  "pitchInfo": {
+    "raw": "G-4-SOL J-1 P-2",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "J-1 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Draw from the springs of salvation,",
+        "Give thanks to His great and holy name.",
+        "Make known his deeds among the people,",
+        "Make known His exalted way."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Call on His name with thanksgiving,",
+        "Yes, joyously praise His name in song,",
+        "Thru love He Author:ed our salvation,",
+        "Thru love He did give His son."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Praise the Lord And shout for joy",
+        "For the Holy One is in our midst.",
+        "Praise the Lord and shout for joy",
+        "For He is in our midst.",
+        "Copyright 1982 by Glenda B. Schales. Arranged by Dane K. Shepard in \"Hymns For Worship\", 1986. Glenda B. Schales, owner."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-22_full.mid",
+    "soprano": "/audio/midi/hymn-22_soprano.mid",
+    "alto": "/audio/midi/hymn-22_alto.mid",
+    "tenor": "/audio/midi/hymn-22_tenor.mid",
+    "bass": "/audio/midi/hymn-22_bass.mid"
+  }
+}

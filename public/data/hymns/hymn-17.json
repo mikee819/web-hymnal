@@ -1,0 +1,65 @@
+{
+  "id": "hymn-17",
+  "number": "17",
+  "numberDisplay": "17",
+  "title": "Sun Of My Soul",
+  "firstLine": "Sun of my soul, Thou Savior dear,",
+  "pitchInfo": {
+    "raw": "F-3-DO F-2 P-5",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "F-2 P-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Sun of my soul, Thou Savior dear,",
+        "It is not night if Thou be near;",
+        "O may no earth born cloud arise",
+        "To hide Thee from Thy servant's eyes!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When the soft dews of kindly sleep",
+        "My wearied eyelids gently steep,",
+        "Be my last thought, how sweet to rest",
+        "Forever on my Savior's breast."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Abide with me from morn till eve,",
+        "For without Thee I can not live;",
+        "Abide with me when night is nigh,",
+        "For without Thee I dare not die."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Come near and bless us when we wake,",
+        "Ere thru the world our way we take;",
+        "Till in the ocean of Thy love,",
+        "We lose ourselves in heaven above."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-17_full.mid",
+    "soprano": "/audio/midi/hymn-17_soprano.mid",
+    "alto": "/audio/midi/hymn-17_alto.mid",
+    "tenor": "/audio/midi/hymn-17_tenor.mid",
+    "bass": "/audio/midi/hymn-17_bass.mid"
+  }
+}

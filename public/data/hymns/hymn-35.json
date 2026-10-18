@@ -1,0 +1,55 @@
+{
+  "id": "hymn-35",
+  "number": "35",
+  "numberDisplay": "35",
+  "title": "O Worship The King",
+  "firstLine": "1 O Worship the King, all glorious above,",
+  "pitchInfo": {
+    "raw": "A-3-SOL C-6 P-2",
+    "key": "A",
+    "note": "A",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-6 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1 O Worship the King, all glorious above,",
+        "And gratefully sing His wonderful love;",
+        "Our Shield and Defender, the Ancient of Days,",
+        "Pavilioned in splendor, and girded with praise."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "3 Thy bountiful care, what tongue can recite?",
+        "It breathes in the air, it shines in the light,",
+        "It streams from the hills, it descends to the plain,",
+        "And sweetly distills in the dew and the rain."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "4 Frail children of dust, and feeble as frail,",
+        "In Thee do we trust, nor find Thee to fail:",
+        "Thy mercies how tender, how firm to the end,",
+        "Our Maker, Defender, Redeemer, and Friend"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-35_full.mid",
+    "soprano": "/audio/midi/hymn-35_soprano.mid",
+    "alto": "/audio/midi/hymn-35_alto.mid",
+    "tenor": "/audio/midi/hymn-35_tenor.mid",
+    "bass": "/audio/midi/hymn-35_bass.mid"
+  }
+}

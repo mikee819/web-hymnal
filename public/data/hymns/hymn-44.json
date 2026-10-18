@@ -1,0 +1,66 @@
+{
+  "id": "hymn-44",
+  "number": "44",
+  "numberDisplay": "44",
+  "title": "To God Be The Glory",
+  "firstLine": "1 To God be the glory, great things He hath done;",
+  "pitchInfo": {
+    "raw": "Ab-3-SOL P-2",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1 To God be the glory, great things He hath done;",
+        "So loved He the world that He gave us His Son,",
+        "Who yielded His life an atonement for sin,",
+        "And opened the life gate that all may go in."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "2 O perfect redemption, the purchase of blood,",
+        "To every believer the promise of God;",
+        "The vilest offender who truly believes,",
+        "When buried with Jesus a pardon receives."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "3 Great things He hath taught us, great things He hath done,",
+        "And great our rejoicing through Jesus the Son;",
+        "But purer, and higher, and greater will be",
+        "Our wonder, our transport, when Jesus we see."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "s Praise the Lord, praise the Lord,",
+        "Let the earth hear His Voice!",
+        "Praise the Lord, praise the Lord,",
+        "Let the people rejoice!",
+        "O come to the Father thro\" Jesus the Son,",
+        "And give Him the glory, great things He hath done"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-44_full.mid",
+    "soprano": "/audio/midi/hymn-44_soprano.mid",
+    "alto": "/audio/midi/hymn-44_alto.mid",
+    "tenor": "/audio/midi/hymn-44_tenor.mid",
+    "bass": "/audio/midi/hymn-44_bass.mid"
+  }
+}

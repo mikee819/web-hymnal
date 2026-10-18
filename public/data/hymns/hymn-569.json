@@ -1,0 +1,82 @@
+{
+  "id": "hymn-569",
+  "number": "569",
+  "numberDisplay": "569",
+  "title": "May the Mind Of Christ My Savior * /",
+  "firstLine": "Scripture; Philippians 2:5",
+  "pitchInfo": {
+    "raw": "Eb-4-MI C-13",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-13",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Philippians 2:5"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "May the mind of Christ my Savior",
+        "Live in me from day to day,",
+        "By His love and pow'r controlling",
+        "All I do and say."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "May the Word of God dwell richly",
+        "In my heart from hour to hour,",
+        "So that all may see I triumph",
+        "Only through His pow'r."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "May the peace of God my Father",
+        "Rule my life in everything,",
+        "That I may be calm to comfort",
+        "Sick and sorrowing."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "May the love of Jesus fill me",
+        "As the waters fill the sea;",
+        "Him exalting, self abasing,",
+        "This is victory."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "May His beauty rest upon me",
+        "As I seek the lost to win,",
+        "And may they forget the channel",
+        "Seeing only Him. Amen."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-569_full.mid",
+    "soprano": "/audio/midi/hymn-569_soprano.mid",
+    "alto": "/audio/midi/hymn-569_alto.mid",
+    "tenor": "/audio/midi/hymn-569_tenor.mid",
+    "bass": "/audio/midi/hymn-569_bass.mid"
+  }
+}

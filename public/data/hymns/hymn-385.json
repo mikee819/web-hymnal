@@ -1,0 +1,65 @@
+{
+  "id": "hymn-385",
+  "number": "385",
+  "numberDisplay": "385",
+  "title": "What Did He Do",
+  "firstLine": "O listen to our wondrous story;",
+  "pitchInfo": {
+    "raw": "Db-2-DO C-4 C-10",
+    "key": "Db",
+    "note": "Db",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-4 C-10",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O listen to our wondrous story;",
+        "Once we dwelt among the lost,",
+        "Yet Jesus came from heaven's glory,",
+        "Saving us at awful cost."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "No angel could our place have taken,",
+        "Highest of the high tho' He,",
+        "Nailed to the cross, despised, forsaken,",
+        "Was one of the Godhead three!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Will you surrender to this Savior?",
+        "Now before Him humbly bow,",
+        "You, too, shall come to know His favor,",
+        "He will save and save you now."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Who saved us from eternal loss?",
+        "Who but God's Son upon the cross!",
+        "What did He do? He died for you!",
+        "Where is He now? Believe it thou,",
+        "In Heaven interceding!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-385_full.mid",
+    "soprano": "/audio/midi/hymn-385_soprano.mid",
+    "alto": "/audio/midi/hymn-385_alto.mid",
+    "tenor": "/audio/midi/hymn-385_tenor.mid",
+    "bass": "/audio/midi/hymn-385_bass.mid"
+  }
+}

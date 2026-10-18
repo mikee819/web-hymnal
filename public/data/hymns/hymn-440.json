@@ -1,0 +1,81 @@
+{
+  "id": "hymn-440",
+  "number": "440",
+  "numberDisplay": "440",
+  "title": "Silent Night, Holy Night",
+  "firstLine": "1 Silent night, holy night,",
+  "pitchInfo": {
+    "raw": "C-2-SOL C-1",
+    "key": "C",
+    "note": "C",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1 Silent night, holy night,",
+        "All is calm, all is bright",
+        "Round yon virgin mother and child!",
+        "Holy Infant so tender and mild,",
+        "Sleep in heavenly peace,",
+        "Sleep in heavenly peace."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "2 Silent night, holy night,",
+        "Shepherds quake at the sight,",
+        "Wise men ponder heaven's bright star,",
+        "Angels singing their \"Hallelujah!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist the Savior is born,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist the Savior is born.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "3 Silent night, holy night,",
+        "Son of God, lend thy light;",
+        "With the host we joyfully sing:",
+        "\"Glory, honor, to Jesus our King!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist the Savior was born,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist the Savior was born.\""
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-440_full.mid",
+    "soprano": "/audio/midi/hymn-440_soprano.mid",
+    "alto": "/audio/midi/hymn-440_alto.mid",
+    "tenor": "/audio/midi/hymn-440_tenor.mid",
+    "bass": "/audio/midi/hymn-440_bass.mid"
+  }
+}

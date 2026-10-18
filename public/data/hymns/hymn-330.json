@@ -1,0 +1,65 @@
+{
+  "id": "hymn-330",
+  "number": "330",
+  "numberDisplay": "330",
+  "title": "Just As I Am",
+  "firstLine": "1 Just as I am, without one plea,",
+  "pitchInfo": {
+    "raw": "Eb-2-DO C-4 I-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-4 I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1 Just as I am, without one plea,",
+        "But that Thy blood was shed for me,",
+        "And that Thou bidd'st me come to Thee,",
+        "O Lamb of God, I come, I come."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "2 Just as I am, and waiting not",
+        "To rid my soul of one dark blot,",
+        "To Thee whose blood can cleanse each spot,",
+        "O Lamb of God, I come, I come."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "3 Just as I am, tho toss'd about",
+        "With many a conflict, many a doubt,",
+        "Fightings and fears within, without,",
+        "O Lamb of God, I come, I come."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "4 Just as I am, Thou wilt receive,",
+        "Wilt welcome, pardon, cleanse, relieve,",
+        "Because Thy promise I believe,",
+        "O Lamb of God, I come! I come!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-330_full.mid",
+    "soprano": "/audio/midi/hymn-330_soprano.mid",
+    "alto": "/audio/midi/hymn-330_alto.mid",
+    "tenor": "/audio/midi/hymn-330_tenor.mid",
+    "bass": "/audio/midi/hymn-330_bass.mid"
+  }
+}

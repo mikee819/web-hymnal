@@ -1,0 +1,73 @@
+{
+  "id": "hymn-499",
+  "number": "499",
+  "numberDisplay": "499",
+  "title": "Loved Ones * /",
+  "firstLine": "Key; Ab Starting Note: Eb",
+  "pitchInfo": {
+    "raw": "Ab-3-SOL H-5 F-4",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-5 F-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Key; Ab Starting Note: Eb"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O Lord, help me maintain",
+        "An understanding heart,",
+        "So I can overcome the pain,",
+        "When those I love depart."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Lord, help me understand",
+        "That loved ones move away,",
+        "But carry into future lands,",
+        "Thy word, learned yesterday."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Help me remember, Lord,",
+        "When loved ones fall in sin,",
+        "With kindness, they can be restored,",
+        "And feel Thy love again."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "And Father, comfort me",
+        "When loved ones pass away;",
+        "Remind me, Lord,",
+        "Thy children see Their love another day.",
+        "Copyright 1993 by R. J. Stevens. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-499_full.mid",
+    "soprano": "/audio/midi/hymn-499_soprano.mid",
+    "alto": "/audio/midi/hymn-499_alto.mid",
+    "tenor": "/audio/midi/hymn-499_tenor.mid",
+    "bass": "/audio/midi/hymn-499_bass.mid"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hymn-536",
+  "number": "536",
+  "numberDisplay": "536",
+  "title": "Oh, The Things We May Do 515 /",
+  "firstLine": "Have you lifted a stone from your brother's way,",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL C-2 W-4",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-2 W-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Have you lifted a stone from your brother's way,",
+        "As he struggled along life's road?",
+        "Have you lovingly touched some frail, toil worn hand,",
+        "Shared with someone his heavy load?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Have you spoken a word full of hope and cheer?",
+        "Have you walked with a slower pace,",
+        "Till the weary of heart who were stumbling on,",
+        "Took new courage to run the race?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Have you held up your light thro' the shadows dark,",
+        "So that somebody else might see?",
+        "Have you lived with the Christ thro' the long, long day,",
+        "Gaining many a victory?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Oh, the things we may do, you and I, you and I;",
+        "Oh, the love we can give if we try;",
+        "Just a word or a song as we're passing along,",
+        "They will count in the great by and by."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-536_full.mid",
+    "soprano": "/audio/midi/hymn-536_soprano.mid",
+    "alto": "/audio/midi/hymn-536_alto.mid",
+    "tenor": "/audio/midi/hymn-536_tenor.mid",
+    "bass": "/audio/midi/hymn-536_bass.mid"
+  }
+}

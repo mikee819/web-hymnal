@@ -1,0 +1,74 @@
+{
+  "id": "hymn-334",
+  "number": "334",
+  "numberDisplay": "334",
+  "title": "Where He Leads Me",
+  "firstLine": "I can hear my Savior calling,",
+  "pitchInfo": {
+    "raw": "F-4-SOL I-1 T-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I can hear my Savior calling,",
+        "I can hear my Savior calling,",
+        "I can hear my Savior calling,",
+        "\"Take thy cross and follow, follow Me.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I'll go with Him thru the garden,",
+        "I'll go with Him thru the garden,",
+        "I'll go with Him thru the garden,",
+        "I'll go with Him, with Him all the way."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I'll go with Him thru the judgment,",
+        "I'll go with Him thru the judgment,",
+        "I'll go with Him thru the judgment,",
+        "I'll go with Him, with Him all the way."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "He will give me grace and glory,",
+        "He will give me grace and glory,",
+        "He will give me grace and glory,",
+        "And go with me, with me all the way."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Where He leads me I will follow,",
+        "Where He leads me I will follow,",
+        "Where He leads me I will follow,",
+        "I'll go with Him, with Him all the way."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-334_full.mid",
+    "soprano": "/audio/midi/hymn-334_soprano.mid",
+    "alto": "/audio/midi/hymn-334_alto.mid",
+    "tenor": "/audio/midi/hymn-334_tenor.mid",
+    "bass": "/audio/midi/hymn-334_bass.mid"
+  }
+}

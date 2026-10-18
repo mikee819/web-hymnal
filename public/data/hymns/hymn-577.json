@@ -1,0 +1,72 @@
+{
+  "id": "hymn-577",
+  "number": "577",
+  "numberDisplay": "577",
+  "title": "Soldiers, Who Are Christ's Below * /",
+  "firstLine": "Composer; Phoebe Palmer Knapp",
+  "pitchInfo": {
+    "raw": "C-3-MI W-1 R-3",
+    "key": "C",
+    "note": "C",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "W-1 R-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Phoebe Palmer Knapp"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Soldiers, who are Christ's below,",
+        "Strong in faith resist the foe;",
+        "Boundless is the pledged reward",
+        "Unto them who serve the Lord."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "'Tis no palm of fading leaves",
+        "That the conqu'ror's hand receives;",
+        "Joys are his, serene and pure,",
+        "Light that ever shall endure."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "passing soon and little worth",
+        "Are the things that tempt on earth;",
+        "Heav'nward lift your soul's regard;",
+        "God Himself is your reward."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Father, who the crown doth give,",
+        "Savior, by whose death we live,",
+        "Spirit, who our hearts doth raise,",
+        "Three in one, Thy name we praise."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-577_full.mid",
+    "soprano": "/audio/midi/hymn-577_soprano.mid",
+    "alto": "/audio/midi/hymn-577_alto.mid",
+    "tenor": "/audio/midi/hymn-577_tenor.mid",
+    "bass": "/audio/midi/hymn-577_bass.mid"
+  }
+}

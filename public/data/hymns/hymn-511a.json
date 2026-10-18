@@ -1,0 +1,40 @@
+{
+  "id": "hymn-511a",
+  "number": "511a",
+  "numberDisplay": "511a",
+  "title": "Psalm 22",
+  "firstLine": "My God, my God, O why hast Thou forsaken me? O why art Thou so far from giving help and from my groaning cry?",
+  "pitchInfo": {
+    "raw": "A-2-MI C-16 C-17",
+    "key": "A",
+    "note": "A",
+    "beat": 2,
+    "solfege": "MI",
+    "inheritedFrom": "286"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Must Jesus Bear the Cross Alone",
+    "number": "286"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "My God, my God, O why hast Thou forsaken me? O why art Thou so far from giving help and from my groaning cry?",
+        "All those who look on me will laugh and cast reproach at me. Their mouths they open wide; they wag their heads in mockery.",
+        "For lo the dogs encompass me! On every side they stand, these men of wicked cruelty; they pierce my feet and hands.",
+        "My bones are plain for me to number, men look on me and stare. My clothes among themselves divide, and gamble for their share.",
+        "Now hurry, O my Strength to help! O be not far, O Lord! But snatch my soul from raging dogs, and spare it from the sword!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-511a_full.mid",
+    "soprano": "/audio/midi/hymn-511a_soprano.mid",
+    "alto": "/audio/midi/hymn-511a_alto.mid",
+    "tenor": "/audio/midi/hymn-511a_tenor.mid",
+    "bass": "/audio/midi/hymn-511a_bass.mid"
+  }
+}

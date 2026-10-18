@@ -1,0 +1,79 @@
+{
+  "id": "hymn-295",
+  "number": "295",
+  "numberDisplay": "295",
+  "title": "Christ Receiveth Sinful Men",
+  "firstLine": "Sinners Jesus will receive:",
+  "pitchInfo": {
+    "raw": "D-3-MI E-1 I-1",
+    "key": "D",
+    "note": "D",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "E-1 I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Sinners Jesus will receive:",
+        "Sound this word of grace to all",
+        "Who the heav'nly pathway leave,",
+        "All who linger, all who fall."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Come, and He will give you rest;",
+        "Trust Him for His Word is plain;",
+        "He will take the sinfulest;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist receiveth sinful men."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Christ receiveth sinful men,",
+        "Even me with all my sin;",
+        "Purged from ev'ry spot and stain,",
+        "Heav'n with Him I enter in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sing it o'er and o'er again;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist receiveth sinful men;",
+        "Make the message clear and plain:"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist receiveth sinful men."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-295_full.mid",
+    "soprano": "/audio/midi/hymn-295_soprano.mid",
+    "alto": "/audio/midi/hymn-295_alto.mid",
+    "tenor": "/audio/midi/hymn-295_tenor.mid",
+    "bass": "/audio/midi/hymn-295_bass.mid"
+  }
+}

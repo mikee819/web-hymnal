@@ -1,0 +1,64 @@
+{
+  "id": "hymn-339",
+  "number": "339",
+  "numberDisplay": "339",
+  "title": "Ye Must Be Born Again",
+  "firstLine": "A ruler once came to Jesus by night,",
+  "pitchInfo": {
+    "raw": "Eb-2-DO B-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "B-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "A ruler once came to Jesus by night,",
+        "To ask Him the way of salvation and light;",
+        "The Master made answer in words true and plain:",
+        "\"Ye must be born again.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Ye children of men attend to the word",
+        "So solemnly uttered by Jesus, the Lord,",
+        "And let not this message to you be in vain:",
+        "\"Ye must be born again.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O, ye who would enter that glorious rest,",
+        "And sing with the ransomed the song of the blest!",
+        "The life ever lasting if ye would obtain:",
+        "\"Ye must be born again.\""
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\"Ye must be born again,\"",
+        "\"Ye must be born again,\"",
+        "I verily, verily, say unto thee:",
+        "\"Ye must be born again.\""
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-339_full.mid",
+    "soprano": "/audio/midi/hymn-339_soprano.mid",
+    "alto": "/audio/midi/hymn-339_alto.mid",
+    "tenor": "/audio/midi/hymn-339_tenor.mid",
+    "bass": "/audio/midi/hymn-339_bass.mid"
+  }
+}

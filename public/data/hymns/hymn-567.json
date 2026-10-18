@@ -1,0 +1,68 @@
+{
+  "id": "hymn-567",
+  "number": "567",
+  "numberDisplay": "567",
+  "title": "O Father, Let Us See His Death * /",
+  "firstLine": "Scripture; hebrews 2:9",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; hebrews 2:9",
+        "E minor-3-LA C-4 L-1"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O Father, bless this solemn day,",
+        "When we assemble, sing and pray,",
+        "To honor Christ, Thine only Son,",
+        "Who tasted death for ev'ry one."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "In fervent prayers and sacred hymns,",
+        "We all cry our, \"Remember Him\"",
+        "And cry within, \"For me He died,",
+        "And for my sins was crucified.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Then as we eat unleavened bread,",
+        "And drink the cup, we bow our heads,",
+        "And see the suff'ring death of Christ --",
+        "His blood! His body! sacrificed!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "O Father, let us see his death,",
+        "And hear \"forgive them\" on His breath,",
+        "And feel His grief, disgrace and pain;",
+        "O let us see His death again.",
+        "Copyright 1994 by Karl and Bonnie Hennecke. all Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-567_full.mid",
+    "soprano": "/audio/midi/hymn-567_soprano.mid",
+    "alto": "/audio/midi/hymn-567_alto.mid",
+    "tenor": "/audio/midi/hymn-567_tenor.mid",
+    "bass": "/audio/midi/hymn-567_bass.mid"
+  }
+}

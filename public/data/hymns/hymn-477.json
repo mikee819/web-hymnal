@@ -1,0 +1,67 @@
+{
+  "id": "hymn-477",
+  "number": "477",
+  "numberDisplay": "477",
+  "title": "My Task",
+  "firstLine": "F. H. Pickup, v. 3",
+  "pitchInfo": {
+    "raw": "Eb-4-MI L-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "L-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "F. H. Pickup, v. 3",
+        "Composer; E. L. Ashford"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "To love someone more dearly ev'ry day,",
+        "To help a wand'ring child to find his way,",
+        "To ponder o'er a noble tho't and pray,",
+        "And smile when evening falls,",
+        "And smile when evening falls: This is my task."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "To follow truth as blind men long for light,",
+        "To do my best from dawn of day till night,",
+        "To keep my heart fit for His holy sight,",
+        "And answer when He calls",
+        "And answer when He calls: This is my task."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "And then my Savior by and by to meet,",
+        "When faith hath made her task on earth complete,",
+        "And lay my homage at the Master's feet,",
+        "Within the jasper walls,",
+        "Within the jasper walls: This crowns my task.",
+        "Copyright 1903 by Lorenz Publishing Company. Third verse of words Copyright 1913, by Lorenz Publishing Company. renewal 1941. Used by Permission. Permit #00100."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-477_full.mid",
+    "soprano": "/audio/midi/hymn-477_soprano.mid",
+    "alto": "/audio/midi/hymn-477_alto.mid",
+    "tenor": "/audio/midi/hymn-477_tenor.mid",
+    "bass": "/audio/midi/hymn-477_bass.mid"
+  }
+}

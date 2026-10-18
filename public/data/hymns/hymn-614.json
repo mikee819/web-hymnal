@@ -1,0 +1,81 @@
+{
+  "id": "hymn-614",
+  "number": "614",
+  "numberDisplay": "614",
+  "title": "The Fruit Of The Spirit 554 /",
+  "firstLine": "arr. by R. J. Stevens and Margie Garrett",
+  "pitchInfo": {
+    "raw": "Eb-2-DO E-1 H-4",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "E-1 H-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "arr. by R. J. Stevens and Margie Garrett",
+        "Scripture; Galatians 5:22",
+        "Key; Eb Starting Note: Eb"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "We are the branches, the Lord is the vine;",
+        "We cannot stand alone.",
+        "Abide in His words and the strength we will find,",
+        "Glory to God is shown."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Follow the Spirit, the blessings will come,",
+        "Love, peace and righteousness.",
+        "True joy can be found if you're willing to shun",
+        "Works of the sinful flesh."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Satan is warring to pull us all down,",
+        "Wages of death to pay.",
+        "But follow the Spirit and you will have found",
+        "Life on Salvation's Day."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "The fruit of the Spirit brings joy to my soul.",
+        "The fruit of the Spirit how we kay know"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist is within us",
+        "He's showing the way",
+        "Eternal life He will give us,",
+        "We'll harvest the fruit on that day.",
+        "Copyright 1984 by Dusty Owens. Arranged by R. J. Stevens & Margie Garrett in \"Hymns for worship\", 1986. dusty Owens owner. All Rights reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-614_full.mid",
+    "soprano": "/audio/midi/hymn-614_soprano.mid",
+    "alto": "/audio/midi/hymn-614_alto.mid",
+    "tenor": "/audio/midi/hymn-614_tenor.mid",
+    "bass": "/audio/midi/hymn-614_bass.mid"
+  }
+}

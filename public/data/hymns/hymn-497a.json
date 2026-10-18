@@ -1,0 +1,39 @@
+{
+  "id": "hymn-497a",
+  "number": "497a",
+  "numberDisplay": "497a",
+  "title": "Psalm 91",
+  "firstLine": "Who with God Most High finds shelter in th' Almighty hides. To the Lord I'll say, \"My Refuge!\" In my God my trust abides, from the fowler's snare He'll save you, from the deadly pestilence; cover you with outspread pinions, make His wings your confidence.",
+  "pitchInfo": {
+    "raw": "F-4-SOL C-5",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "SOL",
+    "inheritedFrom": "69"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "What A Friend We Have In Jesus",
+    "number": "69"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Who with God Most High finds shelter in th' Almighty hides. To the Lord I'll say, \"My Refuge!\" In my God my trust abides, from the fowler's snare He'll save you, from the deadly pestilence; cover you with outspread pinions, make His wings your confidence.",
+        "God's own truth, your shield and buckler: You will fear no ill by night, nor the shafts in daylight flying nor disease that shuns the light, nor the plague that wastes at noon day, at your side ten thousand fall; you will only see this judgment which rewards the wicked all.",
+        "You have made the Lord your refuge, God Most High your dwelling place; Nothing evil shall befall you; in your tent no scourge you'll face. He will angels charge to keep you, guard you well in all your ways. In their hands they will uphold you lest your foot a stone should graze.",
+        "You shall trample serpents, lions, tread on all your deadly foes, for his love to me I'll save him, keep him for My name he knows; when he calls Me I will answer, save and honor him will I. I will show him my salvation, with long life will satisfy."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-497a_full.mid",
+    "soprano": "/audio/midi/hymn-497a_soprano.mid",
+    "alto": "/audio/midi/hymn-497a_alto.mid",
+    "tenor": "/audio/midi/hymn-497a_tenor.mid",
+    "bass": "/audio/midi/hymn-497a_bass.mid"
+  }
+}

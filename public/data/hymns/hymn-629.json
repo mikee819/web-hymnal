@@ -1,0 +1,66 @@
+{
+  "id": "hymn-629",
+  "number": "629",
+  "numberDisplay": "629",
+  "title": "Heaven, The Place I Long To Be * /",
+  "firstLine": "If heaven's a place where there'll be no pain,",
+  "pitchInfo": {
+    "raw": "Eb-2-DO H-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "If heaven's a place where there'll be no pain,",
+        "No sorrow nor crying ever again;",
+        "Where saints and angels sing refrain;",
+        "Then that's the place I long to be."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "If heaven's a place with its street of gold,",
+        "Where saved ones shall walk and never grow old;",
+        "There safe from harm in the Shepherd's fold;",
+        "Then that's the place I long to be."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "If heaven's a place with its beauty rare,",
+        "With pleasures and joys beyod all compare;",
+        "Eternal life with the father there;",
+        "Then that's the place I long to be."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "But most of all it's my Lord to see",
+        "Who shed His life's blood to set my soul free;",
+        "Oh heaven means so much to me;",
+        "Yes, that's the place I long to be.",
+        "Copyright 1994 by Sam Binkley, Jr. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-629_full.mid",
+    "soprano": "/audio/midi/hymn-629_soprano.mid",
+    "alto": "/audio/midi/hymn-629_alto.mid",
+    "tenor": "/audio/midi/hymn-629_tenor.mid",
+    "bass": "/audio/midi/hymn-629_bass.mid"
+  }
+}

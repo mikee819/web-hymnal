@@ -1,0 +1,66 @@
+{
+  "id": "hymn-505",
+  "number": "505",
+  "numberDisplay": "505",
+  "title": "Glorify Thy Name * /",
+  "firstLine": "Scripture; John 12:28",
+  "pitchInfo": {
+    "raw": "C-2-MI W-5 P-2",
+    "key": "C",
+    "note": "C",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "W-5 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; John 12:28"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Father, we love you,",
+        "We worship and adore You;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Jesus, we love You,",
+        "We worship and adore You;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Spirit, we love You,",
+        "We worship and adore You;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Glorify Thy name in all the earth.",
+        "Glorify thy name,",
+        "Glorify Thy name",
+        "Glorify Thy name in all the earth.",
+        "Copyright 1976 Maranatha! Music. Int'l Copyright Secured. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-505_full.mid",
+    "soprano": "/audio/midi/hymn-505_soprano.mid",
+    "alto": "/audio/midi/hymn-505_alto.mid",
+    "tenor": "/audio/midi/hymn-505_tenor.mid",
+    "bass": "/audio/midi/hymn-505_bass.mid"
+  }
+}

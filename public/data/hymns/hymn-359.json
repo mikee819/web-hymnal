@@ -1,0 +1,65 @@
+{
+  "id": "hymn-359",
+  "number": "359",
+  "numberDisplay": "359",
+  "title": "Victory In Jesus",
+  "firstLine": "I heard an old, old story, How a Savior came from glory,",
+  "pitchInfo": {
+    "raw": "Ab-4-DO S-1 V-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "S-1 V-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I heard an old, old story, How a Savior came from glory,",
+        "How He gave His life on Calvary To save a wretch like me;",
+        "I heard about His groaning, Of His precious blood's atoning,",
+        "Then I repented of my sins and won the victory."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I heard about His healing, Of His cleansing pow'r revealing,",
+        "How He made the lame to walk again And caused the blind to see;",
+        "And then I cried \"dear Jesus, Come and heal my broken spirit,\"",
+        "I then obeyed His blest commands And gained the victory."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I heard about a mansion He has built for me in glory,",
+        "And I heard about the street of gold Beyond the crystal sea;",
+        "About the angels singing, And the old redemption story,",
+        "And some sweet day I'll sing up there The song of victory."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O victory in Jesus, My Savior, forever,",
+        "He sought me and bo't me with His redeeming blood;",
+        "He loved me ere I knew Him, and all my love is due Him,",
+        "He plunged me to victory, beneath the cleansing flood.",
+        "(c) Copyright, 1939, by E. M. Bartlett. Copyright 1967 by Mrs. E. M. Bartlett, renewal. Assigned to Albert E. Brumley & Sons. All rights reserved. Administered by Integrated Copyright Group, Inc."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-359_full.mid",
+    "soprano": "/audio/midi/hymn-359_soprano.mid",
+    "alto": "/audio/midi/hymn-359_alto.mid",
+    "tenor": "/audio/midi/hymn-359_tenor.mid",
+    "bass": "/audio/midi/hymn-359_bass.mid"
+  }
+}

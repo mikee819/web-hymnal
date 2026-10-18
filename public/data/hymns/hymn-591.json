@@ -1,0 +1,88 @@
+{
+  "id": "hymn-591",
+  "number": "591",
+  "numberDisplay": "591",
+  "title": "Wonderful 591 / *",
+  "firstLine": "4th verse by P. J. Zondervan",
+  "pitchInfo": {
+    "raw": "Bb-4-MI P-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "4th verse by P. J. Zondervan"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Wonderful is Jesus our matchless King,",
+        "Wonderful the praise which to Him we sing;",
+        "Wonderful the Friend unto whom we cling,",
+        "On the way to glory land."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Wonderful is Jesus, who save by grace.",
+        "Wonderful the beauty of His dear face;",
+        "So we seek with Him an abiding place,",
+        "In the blessed glory land."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Wonderful is Jesus, who saves the soul,",
+        "Wonderful is He who can keep us whole;",
+        "That is why we seek the eternal goal,",
+        "In the wondrous glory land."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Wonderful is Jesus, our mighty King,",
+        "Humbly, at His feet, we our tribute bring:",
+        "\"Worthy is the Lamb\" we will ever sing!",
+        "When we enter glory land."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Our lord is leading us to glory,",
+        "O, so wonderful is He,",
+        "Wonderful is He, Wonderful is He,",
+        "Leading us to realms of glory,",
+        "Singing as we go,",
+        "Making known the love that made us free.",
+        "Wonderful salvation he is offering to all,",
+        "Offering to all, offering to all",
+        "Wonderful is He who leads us lovingly above,",
+        "Wonderful, Wonderful, Wonderful is He.",
+        "Copyright 1938, Renewal 1966 by Stamps-Baxter Music."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-591_full.mid",
+    "soprano": "/audio/midi/hymn-591_soprano.mid",
+    "alto": "/audio/midi/hymn-591_alto.mid",
+    "tenor": "/audio/midi/hymn-591_tenor.mid",
+    "bass": "/audio/midi/hymn-591_bass.mid"
+  }
+}

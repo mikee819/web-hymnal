@@ -1,0 +1,61 @@
+{
+  "id": "hymn-144",
+  "number": "144",
+  "numberDisplay": "144",
+  "title": "My Faith Looks Up To Thee",
+  "firstLine": "My faith looks up to Thee,",
+  "pitchInfo": {
+    "raw": "Eb-4-DO D-1 F-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "D-1 F-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "My faith looks up to Thee,",
+        "Thou lamb of Calvary,",
+        "Savior divine;",
+        "Now hear me while I pray,",
+        "Take all my sins away,",
+        "O let me from this day Be wholly Thine."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "May Thy rich grace impart",
+        "Strength to my fainting heart,",
+        "My zeal inspire;",
+        "As Thou hast died for me,",
+        "O may my love to Thee",
+        "Pure warm, and changeless be, a living fire!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "While life's dark maze I tread,",
+        "And griefs around me spread,",
+        "Be Thou my guide.",
+        "Bid darkness turn to day,",
+        "Wipe sorrow's tears away,",
+        "Nor let me ever stray From Thee aside."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-144_full.mid",
+    "soprano": "/audio/midi/hymn-144_soprano.mid",
+    "alto": "/audio/midi/hymn-144_alto.mid",
+    "tenor": "/audio/midi/hymn-144_tenor.mid",
+    "bass": "/audio/midi/hymn-144_bass.mid"
+  }
+}

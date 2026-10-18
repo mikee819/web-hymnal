@@ -1,0 +1,66 @@
+{
+  "id": "hymn-80",
+  "number": "80",
+  "numberDisplay": "80",
+  "title": "Father, Hear The Prayer We Offer",
+  "firstLine": "Father, hear the prayer we offer;",
+  "pitchInfo": {
+    "raw": "F-3-MI P-3 W-2",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "P-3 W-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Father, hear the prayer we offer;",
+        "Nor for ease that prayer shall be,",
+        "But for strength, that we may ever",
+        "Live our lives courageously."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Not forever by still waters",
+        "Would we idly, quiet stay;",
+        "But would smite the living fountains",
+        "From the rocks along our way."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Be our strength in hours of weakness,",
+        "In our wanderings be our guide;",
+        "Through endeavor, failure, danger,",
+        "Father, be Thou at our side."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Let our path be bright or dreary,",
+        "Storm or sunshine be our share;",
+        "May our souls in hope unweary",
+        "Make Thy work our ceaseless prayer.",
+        "Amen."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-80_full.mid",
+    "soprano": "/audio/midi/hymn-80_soprano.mid",
+    "alto": "/audio/midi/hymn-80_alto.mid",
+    "tenor": "/audio/midi/hymn-80_tenor.mid",
+    "bass": "/audio/midi/hymn-80_bass.mid"
+  }
+}

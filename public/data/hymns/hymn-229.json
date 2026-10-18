@@ -1,0 +1,71 @@
+{
+  "id": "hymn-229",
+  "number": "229",
+  "numberDisplay": "229",
+  "title": "No, Not One",
+  "firstLine": "Composer George C. Hugg",
+  "pitchInfo": {
+    "raw": "F-4-DO C-5",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer George C. Hugg"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There's not a friend like the lowly Jesus,",
+        "No, not one! no not one!",
+        "None else could heal all our soul's diseases",
+        "No, not one! no not one!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "No friend like Him is so high and holy,",
+        "No, not one! no not one!",
+        "And yet no friend is so meek and lowly,",
+        "No, not one! no not one!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "There's not an hour that He is not near us,",
+        "No, not one! no not one!",
+        "No night so dark but His love can cheer us,",
+        "No, not one! no not one!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus knows all about our struggles,",
+        "He will guide till the day is done;",
+        "There's not a friend like the lowly Jesus,",
+        "No, not one! no not one!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-229_full.mid",
+    "soprano": "/audio/midi/hymn-229_soprano.mid",
+    "alto": "/audio/midi/hymn-229_alto.mid",
+    "tenor": "/audio/midi/hymn-229_tenor.mid",
+    "bass": "/audio/midi/hymn-229_bass.mid"
+  }
+}

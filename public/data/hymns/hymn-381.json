@@ -1,0 +1,55 @@
+{
+  "id": "hymn-381",
+  "number": "381",
+  "numberDisplay": "381",
+  "title": "Work, For The Night Is Coming",
+  "firstLine": "Work for the night is coming, Work thru the morning hours;",
+  "pitchInfo": {
+    "raw": "F-4-SOL E-1 W-4",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1 W-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Work for the night is coming, Work thru the morning hours;",
+        "Work while the dew is sparkling, Work 'mid springing flow'rs;",
+        "Work when the day grows brighter, Work in the glowing sun;",
+        "Work, for the night is coming, When man's work is done."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Work for the night is coming, Work thru the sunny noon;",
+        "Fill brightest hours with labor, Rest come sure and soon;",
+        "Give ev'ry flying minute, Something to keep in store,",
+        "Work, for the night is coming, When man works no more."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Work for the night is coming, Under the sunset skies,",
+        "While their bright tints are glowing, Work for daylight flies;",
+        "Work till the last beam fadeth, Fadeth to shine no more;",
+        "Work, while the night is dark'ning, When man's work is o'er."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-381_full.mid",
+    "soprano": "/audio/midi/hymn-381_soprano.mid",
+    "alto": "/audio/midi/hymn-381_alto.mid",
+    "tenor": "/audio/midi/hymn-381_tenor.mid",
+    "bass": "/audio/midi/hymn-381_bass.mid"
+  }
+}

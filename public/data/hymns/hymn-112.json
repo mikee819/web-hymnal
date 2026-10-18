@@ -1,0 +1,65 @@
+{
+  "id": "hymn-112",
+  "number": "112",
+  "numberDisplay": "112",
+  "title": "Teach MeThy Way",
+  "firstLine": "Teach me Thy way, O Lord, Teach me Thy way!",
+  "pitchInfo": {
+    "raw": "F-3-MI D-1 G-3",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1 G-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Teach me Thy way, O Lord, Teach me Thy way!",
+        "Thy guiding grace afford - Teach me Thy way!",
+        "Help me to walk aright, more by faith, less by sight;",
+        "Lead me with heavenly light, Teach me Thy way!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When I am sad at heart, Teach me Thy way!",
+        "When earthly joys depart, Teach me Thy way!",
+        "In hours of loneliness, In times of dire distress,",
+        "In failure or success, Teach me Thy way!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When doubts and fears arise, Teach me Thy way!",
+        "When storms over spread the skies, Teach me Thy way!",
+        "Shine thru the cloud and rain, Thru sorrow, toil and pain;",
+        "Make Thou my pathway plain, Teach me Thy way!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Long as my life shall last, Teach me Thy way!",
+        "Wherever my lot be cast, Teach me Thy way!",
+        "Until the race is run, Until the journey's done,",
+        "Until the crown is won, Teach me Thy way!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-112_full.mid",
+    "soprano": "/audio/midi/hymn-112_soprano.mid",
+    "alto": "/audio/midi/hymn-112_alto.mid",
+    "tenor": "/audio/midi/hymn-112_tenor.mid",
+    "bass": "/audio/midi/hymn-112_bass.mid"
+  }
+}

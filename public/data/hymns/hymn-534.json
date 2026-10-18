@@ -1,0 +1,64 @@
+{
+  "id": "hymn-534",
+  "number": "534",
+  "numberDisplay": "534",
+  "title": "Tell Me The Old, Old Story 514 /",
+  "firstLine": "Tell me the old, old story Of unseen things above,",
+  "pitchInfo": {
+    "raw": "C-4-MI D-1",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Tell me the old, old story Of unseen things above,",
+        "Of Jesus and His glory, of Jesus and His love.",
+        "Tell me the story simply, As to a little child,",
+        "For I am weak and weary, And helpless and defiled."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Tell me the story slowly, That I may take it in,",
+        "That wonderful redemption, God's remedy for sin.",
+        "Tell me the story often, For I forget so soon;",
+        "The \"early dew\" of morning, Has passed away at noon."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Tell me the story softly, With earnest tones, and grave;",
+        "Remember, I'm the sinner Whom Jesus came to save.",
+        "Tell me the story always, If you would really be,",
+        "In any time of trouble, A comforter to me."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tell me the old, old story.",
+        "Tell me the old, old story,",
+        "Tell me the old, old story,",
+        "Of Jesus and His love."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-534_full.mid",
+    "soprano": "/audio/midi/hymn-534_soprano.mid",
+    "alto": "/audio/midi/hymn-534_alto.mid",
+    "tenor": "/audio/midi/hymn-534_tenor.mid",
+    "bass": "/audio/midi/hymn-534_bass.mid"
+  }
+}

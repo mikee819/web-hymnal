@@ -1,0 +1,74 @@
+{
+  "id": "hymn-274",
+  "number": "274",
+  "numberDisplay": "274",
+  "title": "Softly And Tenderly",
+  "firstLine": "Softly and tenderly Jesus is calling,",
+  "pitchInfo": {
+    "raw": "Ab-2-MI I-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Softly and tenderly Jesus is calling,",
+        "Calling for you and for me;",
+        "See, on the portals He's waiting and watching,",
+        "Watching for you and for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Why should we tarry when Jesus is pleading,",
+        "Pleading for you and for me?",
+        "Why should we linger and heed not His mercies,",
+        "Mercies for you and for me?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Times is now fleeting, the moments are passing,",
+        "Passing for you and for me;",
+        "Shadows are gathering, deathbeds are coming,",
+        "coming for you and for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "O! for the wonderful love He has promised,",
+        "Promised for you and for me;",
+        "To we have sinned, He has mercy and pardon,",
+        "Pardon for you and for me."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Come home, come home,",
+        "Ye who are weary, come home;",
+        "Earnestly, tenderly, Jesus is calling,",
+        "Calling, O sinner come home!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-274_full.mid",
+    "soprano": "/audio/midi/hymn-274_soprano.mid",
+    "alto": "/audio/midi/hymn-274_alto.mid",
+    "tenor": "/audio/midi/hymn-274_tenor.mid",
+    "bass": "/audio/midi/hymn-274_bass.mid"
+  }
+}

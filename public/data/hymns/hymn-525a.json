@@ -1,0 +1,47 @@
+{
+  "id": "hymn-525a",
+  "number": "525a",
+  "numberDisplay": "525a",
+  "title": "Psalm 145",
+  "firstLine": "Click Here to Play Alternate Tune in Original Edition:",
+  "pitchInfo": {
+    "raw": "Bb-3-MI C-12 E-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 3,
+    "solfege": "MI",
+    "inheritedFrom": "225"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Jesus Calls Us",
+    "number": "225"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Click Here to Play Alternate Tune in Original Edition:"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "God, my King, Thy might confessing, ever will I bless Thy name; Day by day Thy throne addressing, still will I Thy praise proclaim.",
+        "Honor great our God befitteth; Who His majesty can reach? Age to age His works transmitteth, age to age His pow'r shall teach.",
+        "Thy shall talk of all Thy glory, on Thy might and greatness dwell, Speak of Thy dread acts the story, and Thy deeds of wonder tell.",
+        "Full of kindness and compassion, slow to anger, vast in love, God is good to all creation; all His works His goodness prove.",
+        "All Thy works, O Lord, shall bless Thee; Thee shall all Thy saints adore; King supreme shall they confess Thee, and proclaim Thy sov'reign pow'r."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-525a_full.mid",
+    "soprano": "/audio/midi/hymn-525a_soprano.mid",
+    "alto": "/audio/midi/hymn-525a_alto.mid",
+    "tenor": "/audio/midi/hymn-525a_tenor.mid",
+    "bass": "/audio/midi/hymn-525a_bass.mid"
+  }
+}

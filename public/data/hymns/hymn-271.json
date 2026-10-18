@@ -1,0 +1,71 @@
+{
+  "id": "hymn-271",
+  "number": "271",
+  "numberDisplay": "271",
+  "title": "Near To The Heart Of God",
+  "firstLine": "Scripture Isaiah 41:1",
+  "pitchInfo": {
+    "raw": "D-4-MI F-2",
+    "key": "D",
+    "note": "D",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "F-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture Isaiah 41:1"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There is a place of quiet rest,",
+        "Near to the heart of God",
+        "A place where sin cannot molest,",
+        "Near to the heart of God."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "There is a place of comfort sweet,",
+        "Near to the heart of God.",
+        "A place where we our Savior meet,",
+        "Near to the heart of God."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "There is a place of full release,",
+        "Near to the heart of God,",
+        "A place where all is joy and peace,",
+        "Near to the heart of God."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O Jesus, blest Redeemer,",
+        "Sent from the heart of God,",
+        "Hold us, who wait before Thee,",
+        "Near to the heart of God."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-271_full.mid",
+    "soprano": "/audio/midi/hymn-271_soprano.mid",
+    "alto": "/audio/midi/hymn-271_alto.mid",
+    "tenor": "/audio/midi/hymn-271_tenor.mid",
+    "bass": "/audio/midi/hymn-271_bass.mid"
+  }
+}

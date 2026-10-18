@@ -1,0 +1,65 @@
+{
+  "id": "hymn-85",
+  "number": "85",
+  "numberDisplay": "85",
+  "title": "Sowing The Seed Of The Kingdom",
+  "firstLine": "Are you sowing the seed of the kingdom, brother,",
+  "pitchInfo": {
+    "raw": "D-4-DO S-5",
+    "key": "D",
+    "note": "D",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "S-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Are you sowing the seed of the kingdom, brother,",
+        "In the morning bright and fair?",
+        "Are you sowing the seed of the kingdom, brother,",
+        "In the heat of the noonday's glare."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Are you sowing the seed of the kingdom, brother,",
+        "In the still and solemn night?",
+        "Are you sowing the seed of the kingdom, brother,",
+        "For a harvest pure and white?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Are you sowing the seed of the kingdom, brother,",
+        "All along the fertile way?",
+        "Are you sowing the seed of the kingdom, brother,",
+        "You must reap at the last great day!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "For the harvest time is coming one,",
+        "And the reapers' work will soon be done;",
+        "Will your sheaves be many? will you garner any,",
+        "For the gathering at the harvest home?",
+        "Copyright, 1931, by Gospel Advocate Company. Gospel Advocate Company, Owner. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-85_full.mid",
+    "soprano": "/audio/midi/hymn-85_soprano.mid",
+    "alto": "/audio/midi/hymn-85_alto.mid",
+    "tenor": "/audio/midi/hymn-85_tenor.mid",
+    "bass": "/audio/midi/hymn-85_bass.mid"
+  }
+}

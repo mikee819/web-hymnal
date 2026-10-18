@@ -1,0 +1,71 @@
+{
+  "id": "hymn-86",
+  "number": "86",
+  "numberDisplay": "86",
+  "title": "Hear Now Our Prayers",
+  "firstLine": "O Lord, Divine and Holy,",
+  "pitchInfo": {
+    "raw": "Db-4-SOL P-3",
+    "key": "Db",
+    "note": "Db",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O Lord, Divine and Holy,",
+        "We praise Thy glorious name,",
+        "And worship thru the ages,",
+        "Thy mercy to proclaim."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Forgive our foolish follies",
+        "And fleshly lures to sin,",
+        "For we repent in sorrow",
+        "And strive Thy praise to win."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Let not our service falter",
+        "Or fail Thy counsel keep,",
+        "As we behold the future",
+        "And pray Thy will to meet."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hear now our prayers and pleadings,",
+        "O Lord in heaven above,",
+        "For we are weak and lonely",
+        "Without Thy help and love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Copyright 1986 Shepard-Stevens, Music. in \"Hymns For Worship\". R. J. Stevens, Owner. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-86_full.mid",
+    "soprano": "/audio/midi/hymn-86_soprano.mid",
+    "alto": "/audio/midi/hymn-86_alto.mid",
+    "tenor": "/audio/midi/hymn-86_tenor.mid",
+    "bass": "/audio/midi/hymn-86_bass.mid"
+  }
+}

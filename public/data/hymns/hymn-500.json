@@ -1,0 +1,74 @@
+{
+  "id": "hymn-500",
+  "number": "500",
+  "numberDisplay": "500",
+  "title": "Give Me The Bible 497 /",
+  "firstLine": "Give me the Bible, star of gladness gleaming,",
+  "pitchInfo": {
+    "raw": "Ab-4-MI W-3",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "W-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Give me the Bible, star of gladness gleaming,",
+        "To cheer the wand'rer lone and tempest tossed;",
+        "No storms can hide that radiance peaceful beaming",
+        "Since Jesus came to seek and save the lost."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Give me the Bible, when my heart is broken,",
+        "When sin and grief have filled my soul with fear;",
+        "Give me the precious words by Jesus spoken,",
+        "Hold up faith's lamp to show my Savior near."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Give me the Bible, all my steps enlighten,",
+        "Teach me the danger of these realms below;",
+        "That lamp of safety o'er the gloom shall brighten,",
+        "That light alone that path of peace can show."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Give me the Bile, lamp of life immortal,",
+        "Hold up that splendor by the open grave;",
+        "Show me the light from heaven's shining portals,",
+        "Show me the glory gilding Jordan's wave."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Give me the Bible, Holy message shining,",
+        "Thy light shall guide me in the narrow way;",
+        "Precept and promise, law and love combining,",
+        "Till night shall vanish in eternal day."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-500_full.mid",
+    "soprano": "/audio/midi/hymn-500_soprano.mid",
+    "alto": "/audio/midi/hymn-500_alto.mid",
+    "tenor": "/audio/midi/hymn-500_tenor.mid",
+    "bass": "/audio/midi/hymn-500_bass.mid"
+  }
+}

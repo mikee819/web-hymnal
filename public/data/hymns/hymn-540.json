@@ -1,0 +1,66 @@
+{
+  "id": "hymn-540",
+  "number": "540",
+  "numberDisplay": "540",
+  "title": "Come Unto Me 517 /",
+  "firstLine": "O, heart bowed down with sorrow!",
+  "pitchInfo": {
+    "raw": "C-3-SOL E-1 I-1",
+    "key": "C",
+    "note": "C",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1 I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O, heart bowed down with sorrow!",
+        "O, eyes that long for sight!",
+        "There's gladness in believing;",
+        "In Jesus there is light."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Divinest consolation",
+        "Doth Christ the Healer give;",
+        "Art Thou in condemnation?",
+        "Believe, repent and live."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "His peace is like a river,",
+        "His love is like a song;",
+        "His yoke's a burden never,",
+        "'Tis easy all day long."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\"Come unto Me, all ye that labor",
+        "And are heavy laden, And I will give you rest.",
+        "Take My yoke upon you,",
+        "And learn of Me;",
+        "For I am meek and lowly in heart:",
+        "And ye shall find rest unto your souls.\""
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-540_full.mid",
+    "soprano": "/audio/midi/hymn-540_soprano.mid",
+    "alto": "/audio/midi/hymn-540_alto.mid",
+    "tenor": "/audio/midi/hymn-540_tenor.mid",
+    "bass": "/audio/midi/hymn-540_bass.mid"
+  }
+}

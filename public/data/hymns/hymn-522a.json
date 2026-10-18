@@ -1,0 +1,39 @@
+{
+  "id": "hymn-522a",
+  "number": "522a",
+  "numberDisplay": "522a",
+  "title": "Before Jehovah's Awful Throne",
+  "firstLine": "Before Jehovah's awful throne, ye nations, bow with sacred joy; know that the Lord is God alone; He can create and He destroy.",
+  "pitchInfo": {
+    "raw": "G-2-DO P-2 T-2",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "DO",
+    "inheritedFrom": "57"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "All People That On Earth Do Dwell",
+    "number": "57"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Before Jehovah's awful throne, ye nations, bow with sacred joy; know that the Lord is God alone; He can create and He destroy.",
+        "His sov'reign pow'r, without our aid, made us of clay, and formed us men; and when like wand'ring sheep we strayed, he brought us to His fold again.",
+        "We'll crowd Thy gates with thankful songs, high as the heav'ns our voices raise; and earth, with her ten thousand tongues, shall fill Thy courts with sounding praise.",
+        "Wide as the world is Thy command, vast as eternity Thy love; Firm as a rock Thy truth shall stand when rolling years shall cease to move."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-522a_full.mid",
+    "soprano": "/audio/midi/hymn-522a_soprano.mid",
+    "alto": "/audio/midi/hymn-522a_alto.mid",
+    "tenor": "/audio/midi/hymn-522a_tenor.mid",
+    "bass": "/audio/midi/hymn-522a_bass.mid"
+  }
+}

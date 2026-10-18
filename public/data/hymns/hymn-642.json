@@ -1,0 +1,35 @@
+{
+  "id": "hymn-642",
+  "number": "642",
+  "numberDisplay": "642",
+  "title": "O Worship The Lord * /",
+  "firstLine": "O worship the Lord,",
+  "pitchInfo": {
+    "raw": "F-3-DO W-5",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "W-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O worship the Lord,",
+        "In the beauty of holiness.",
+        "Let us exalt His name together.",
+        "Amen, Amen."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-642_full.mid",
+    "soprano": "/audio/midi/hymn-642_soprano.mid",
+    "alto": "/audio/midi/hymn-642_alto.mid",
+    "tenor": "/audio/midi/hymn-642_tenor.mid",
+    "bass": "/audio/midi/hymn-642_bass.mid"
+  }
+}

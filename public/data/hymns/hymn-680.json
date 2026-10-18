@@ -1,0 +1,52 @@
+{
+  "id": "hymn-680",
+  "number": "680",
+  "numberDisplay": "680",
+  "title": "Anywhere is \"Home\" 596 /",
+  "firstLine": "Earthly wealth and fame May never come to me,",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Earthly wealth and fame May never come to me,",
+        "And a palace fair, Here mine may never be;",
+        "But let come what may, If Christ for me doth care,",
+        "Anywhere is home, If He is only there."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Oft I'm tossed about And driven by the foe,",
+        "Sad within, without Wherever I may go;",
+        "But I press along Still looking up in pray'r,",
+        "For it's home sweet home, If Christ is only there."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I will labor on Till I am called away,",
+        "'Till the morn shall dawn Of that eternal day;",
+        "Looking unto Him, Who keeps me in His care,",
+        "Anywhere is home, If Christ, my Lord is there."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Anywhere is home, Let come and go what may,",
+        "Anywhere I roam, He keeps me all the way;",
+        "So for His dear sake, My cross I'll meekly bear,",
+        "Anywhere is home, If Christ, my Lord is there."
+      ]
+    }
+  ],
+  "tracks": {}
+}

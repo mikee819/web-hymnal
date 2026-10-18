@@ -1,0 +1,68 @@
+{
+  "id": "hymn-310",
+  "number": "310",
+  "numberDisplay": "310",
+  "title": "Why Keep Jesus Waiting",
+  "firstLine": "Composer; C. C. Cline",
+  "pitchInfo": {
+    "raw": "D-2-SOL I-1",
+    "key": "D",
+    "note": "D",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; C. C. Cline"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Why keep Jesus waiting, Waiting in the cold?",
+        "He will bear you gently, Gently to His fold;",
+        "See Him, soul and open, Open I implore."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Why keep Jesus waiting, Waiting at the door?",
+        "Oft He knocketh softly, Softly o'er and o'er;",
+        "Hear Him, soul and open, Open I implore."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Why keep Jesus pleading, Pleading at the door?",
+        "He would be your Savior, Ever, evermore;",
+        "Love Him, soul and open, Open I implore."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Why keep Jesus waiting, Knocking at the door?",
+        "Soon He'll cease His pleading, Yes, for evermore;",
+        "Come, poor soul obey Him, Open I implore."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-310_full.mid",
+    "soprano": "/audio/midi/hymn-310_soprano.mid",
+    "alto": "/audio/midi/hymn-310_alto.mid",
+    "tenor": "/audio/midi/hymn-310_tenor.mid",
+    "bass": "/audio/midi/hymn-310_bass.mid"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "hymn-102",
+  "number": "102",
+  "numberDisplay": "102",
+  "title": "Dear Lord, Hear My Prayer",
+  "firstLine": "Dear Lord, grant me Thy loving care,",
+  "pitchInfo": {
+    "raw": "Db-2-DO P-3",
+    "key": "Db",
+    "note": "Db",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Dear Lord, grant me Thy loving care,",
+        "And listen to my earnest prayer.",
+        "O keep me in Thy perfect way,",
+        "In Jesus' Holy name, I pray."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Dear Lord, I pray on bended knee,",
+        "In mercy hear my humble plea.",
+        "My soul lift up from Satan's snare",
+        "To live for Christ whose name I wear."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Dear Lord, when my short life is over,",
+        "O take me home forever more,",
+        "To dwell with Thee in heaven above,",
+        "And share in praise Thy endless love.",
+        "Copyright 1986, Shepard-Stevens Music, Inc. in \"Hymns For Worship\". Arranged by R. J. Stevens. Tim P. Stevens, owner. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-102_full.mid",
+    "soprano": "/audio/midi/hymn-102_soprano.mid",
+    "alto": "/audio/midi/hymn-102_alto.mid",
+    "tenor": "/audio/midi/hymn-102_tenor.mid",
+    "bass": "/audio/midi/hymn-102_bass.mid"
+  }
+}

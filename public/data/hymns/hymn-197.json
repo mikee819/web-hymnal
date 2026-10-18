@@ -1,0 +1,65 @@
+{
+  "id": "hymn-197",
+  "number": "197",
+  "numberDisplay": "197",
+  "title": "Beautiful Isle Of Somewhere",
+  "firstLine": "Somewhere the sun is shining,",
+  "pitchInfo": {
+    "raw": "A-2-MI H-2",
+    "key": "A",
+    "note": "A",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Somewhere the sun is shining,",
+        "Somewhere the songbirds dwell;",
+        "Hush, then, thy sad repining,",
+        "God lives, and all is well."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Somewhere the day is longer,",
+        "Somewhere the task is done;",
+        "Somewhere the heart is stronger,",
+        "Somewhere the crown is won."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Somewhere the load is lifted,",
+        "Close by an open gate;",
+        "Somewhere the clouds are rifted,",
+        "Somewhere the angels wait."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Somewhere, Somewhere,",
+        "Beautiful Isle of Somewhere!",
+        "Land of the true,",
+        "Where we live anew,",
+        "Beautiful Isle of Somewhere!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-197_full.mid",
+    "soprano": "/audio/midi/hymn-197_soprano.mid",
+    "alto": "/audio/midi/hymn-197_alto.mid",
+    "tenor": "/audio/midi/hymn-197_tenor.mid",
+    "bass": "/audio/midi/hymn-197_bass.mid"
+  }
+}

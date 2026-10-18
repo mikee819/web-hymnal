@@ -1,0 +1,57 @@
+{
+  "id": "hymn-410",
+  "number": "410",
+  "numberDisplay": "410",
+  "title": "The Church's One Foundation",
+  "firstLine": "The church's one foundation is Jesus Christ her Lord",
+  "pitchInfo": {
+    "raw": "Eb-4-MI K-1 U-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "K-1 U-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "The church's one foundation is Jesus Christ her Lord",
+        "She is His new creation by water and the Word",
+        "From heav'n He came and sought her",
+        "To be His holy bride;",
+        "With His own blood He bought her,",
+        "And for her life He died."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Elect from ev'ry nation, Yet one o'er all the earth",
+        "Her charter of Salvation, On Lord, one faith, one birth;",
+        "One holy name she blesses, Partakes one holy food,",
+        "And to one hope she presses, With ev'ry grace endued."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "'Mid toil and tribulation, And tumult of her war,",
+        "She waits the consummation Of peace for ever more;",
+        "'Till, with the vision glorious, Her longing eyes are blest,",
+        "And the great church victorious Shall be the church at rest."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-410_full.mid",
+    "soprano": "/audio/midi/hymn-410_soprano.mid",
+    "alto": "/audio/midi/hymn-410_alto.mid",
+    "tenor": "/audio/midi/hymn-410_tenor.mid",
+    "bass": "/audio/midi/hymn-410_bass.mid"
+  }
+}

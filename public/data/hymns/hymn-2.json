@@ -1,0 +1,76 @@
+{
+  "id": "hymn-2",
+  "number": "2",
+  "numberDisplay": "2",
+  "title": "Hallelujah! Praise Jehovah!",
+  "firstLine": "Hallelujah, praise Jehovah!",
+  "pitchInfo": {
+    "raw": "G-4-SOL P-2",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Hallelujah, praise Jehovah!",
+        "From the heavens praise His name.",
+        "Praise Jehovah in the highest;",
+        "All His angels praise proclaim.",
+        "All His hosts together praise Him,",
+        "Sun and moon and stars on high",
+        "Praise Him, O ye heav'n of heavens,",
+        "And ye floods above the Sky."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Let them praises give Jehovah!",
+        "They were made at His command.",
+        "Them forever He established;",
+        "His decree shall ever stand.",
+        "From the earth, O praise Jehovah,",
+        "All ye floods, ye dragons all,",
+        "Fire and hail and snow and vapors,",
+        "Stormy winds that hear Him call."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "All ye fruitful trees and cedars,",
+        "All ye hills and mountains high,",
+        "Creeping things and beasts and cattle,",
+        "Birds that in the heavens fly,",
+        "Kings of earth, and all ye people,",
+        "Princes great, earth's judges all",
+        "Praise His name, young men and maidens,",
+        "Aged men, and children small."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Let them praises give Jehovah,",
+        "For His name alone is high",
+        "And His glory is exalted, and His glory is exalted,",
+        "And His glory is exalted, Far above the earth and sky."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-2_full.mid",
+    "soprano": "/audio/midi/hymn-2_soprano.mid",
+    "alto": "/audio/midi/hymn-2_alto.mid",
+    "tenor": "/audio/midi/hymn-2_tenor.mid",
+    "bass": "/audio/midi/hymn-2_bass.mid"
+  }
+}

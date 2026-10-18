@@ -1,0 +1,70 @@
+{
+  "id": "hymn-40",
+  "number": "40",
+  "numberDisplay": "40",
+  "title": "God's Love And Power",
+  "firstLine": "When I survey the world in all its splendor,",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL L-5 P-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "L-5 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When I survey the world in all its splendor,",
+        "The heavens declare a beautiful array.",
+        "Yes, we believe our God still rules in heaven;",
+        "The darkest night He changes back to day."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Creation speaks of God in all his glory:",
+        "The meadows, lakes and glowers of early spring.",
+        "Thru life God shows His care for every creature;",
+        "Such love and power inspires my heart to sing."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "The greatest gift God gave for our salvation;",
+        "He loved the world by giving His dear Son,",
+        "The sacrifice He gave for us on Calvary,",
+        "Brings life and peace, and hope to everyone."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "God's love and power are shown in every scene;",
+        "Adorning truth on which we can rely,",
+        "When time is over all earth will then proclaim"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist, Lord of lords and King most high.",
+        "Copyright 1986 Shepard-Stevens Music, Inc. in \"Hymns For Worship\", R.J. Stevens, owner. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-40_full.mid",
+    "soprano": "/audio/midi/hymn-40_soprano.mid",
+    "alto": "/audio/midi/hymn-40_alto.mid",
+    "tenor": "/audio/midi/hymn-40_tenor.mid",
+    "bass": "/audio/midi/hymn-40_bass.mid"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "hymn-289",
+  "number": "289",
+  "numberDisplay": "289",
+  "title": "When I See The Blood",
+  "firstLine": "Christ, our Redeemer, died on the cross,",
+  "pitchInfo": {
+    "raw": "C-4-SOL C-2",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Christ, our Redeemer, died on the cross,",
+        "Died for the sinner, paid all his due;",
+        "All who receive Him need never fear,",
+        "Yes, He will pass, will pass over you."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Chiefest of sinners Jesus can save,",
+        "As He has promised, so will He do;",
+        "O sinner, hear Him, trust in His Word,",
+        "Then He will pass, will pass over you."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Judgments is coming, all will be there,",
+        "Who have rejected, who have refused;",
+        "O sinner, hasten, let Jesus in,",
+        "Then God will pass, will pass over you."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "O what compassion, O boundless love,",
+        "Jesus hath power, Jesus is true;",
+        "All who obey are safe from the storm,",
+        "O He will pass, will pass over you."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "When I see the blood,",
+        "When I see the blood,",
+        "When I see the blood,",
+        "I will pass, I will pass over you."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-289_full.mid",
+    "soprano": "/audio/midi/hymn-289_soprano.mid",
+    "alto": "/audio/midi/hymn-289_alto.mid",
+    "tenor": "/audio/midi/hymn-289_tenor.mid",
+    "bass": "/audio/midi/hymn-289_bass.mid"
+  }
+}

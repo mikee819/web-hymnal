@@ -1,0 +1,66 @@
+{
+  "id": "hymn-675",
+  "number": "675",
+  "numberDisplay": "675",
+  "title": "The Blessed Life * /",
+  "firstLine": "Blessed, blessed, blessed are we,",
+  "pitchInfo": {
+    "raw": "D-2-DO J-1 C-16",
+    "key": "D",
+    "note": "D",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "J-1 C-16",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Blessed, blessed, blessed are we,",
+        "Whom God has blest with mercy,",
+        "comfort and peace when we have humbly",
+        "sought His name to confess,",
+        "hungered and sought His righteousness."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Pure in heart we see",
+        "That God is great",
+        "And pure in holiness."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Poor in spirit, meek",
+        "And gentle,",
+        "We are blest with happiness."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Pesecuted like our Lord",
+        "And like the prophets,",
+        "We'll be blest."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Rich in blessings from Our God",
+        "We humbly seek His righteousness.",
+        "Copyright 1992 by Glenda B. Schales. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {}
+}

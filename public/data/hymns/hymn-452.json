@@ -1,0 +1,64 @@
+{
+  "id": "hymn-452",
+  "number": "452",
+  "numberDisplay": "452",
+  "title": "He Keeps Me Singing",
+  "firstLine": "There's within my heart a melody",
+  "pitchInfo": {
+    "raw": "Ab-4-MI N-1 S-4",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "N-1 S-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There's within my heart a melody",
+        "Jesus whispers sweet and low,",
+        "Fear not, I am with thee, peace, be still,",
+        "In all of life's ebb and flow."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Feasting on the riches of His grace,",
+        "Resting neath His shelt'ring wing,",
+        "Always looking on His smiling face,",
+        "That is why I shout and sing."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Soon He's coming back to welcome me",
+        "Far beyond the starry sky;",
+        "I shall wing my flight to worlds unknown,",
+        "I shall live with Him on high."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus, Jesus, Jesus,",
+        "Sweetest name I know.",
+        "Fills my ev'ry longing,",
+        "Keeps me singing as I go."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-452_full.mid",
+    "soprano": "/audio/midi/hymn-452_soprano.mid",
+    "alto": "/audio/midi/hymn-452_alto.mid",
+    "tenor": "/audio/midi/hymn-452_tenor.mid",
+    "bass": "/audio/midi/hymn-452_bass.mid"
+  }
+}

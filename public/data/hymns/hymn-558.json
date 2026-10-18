@@ -1,0 +1,65 @@
+{
+  "id": "hymn-558",
+  "number": "558",
+  "numberDisplay": "558",
+  "title": "Sweeter As The Years Go By 526 /",
+  "firstLine": "Of Jesus' love that sought me, When I was lost in sin;",
+  "pitchInfo": {
+    "raw": "Bb-3-SOL L-4",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "L-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Of Jesus' love that sought me, When I was lost in sin;",
+        "Of wondrous grace that bro't me back to His fold again;",
+        "Of heights and depths of mercy, Far deeper than the sea;",
+        "And higher than the heavens, My theme shall ever be."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "He trod in old Judea Life's pathway long ago;",
+        "The people thronged about Him, His saving grace to know;",
+        "He healed the broken hearted, And caused the blind to see;",
+        "And still His great heart yearneth In love for even me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "T'was wondrous love which lead Him For us to suffer loss",
+        "To bear with out a murmur The anguish of the cross;",
+        "With saints redeemed in glory Let us our voices raise,",
+        "Till heav'n and earth reecho With our Redeemer's praise."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sweeter as the years go by,",
+        "Sweeter as the years go by;",
+        "Richer, fuller, deeper, Jesus' love is sweeter,",
+        "Sweeter as the years go by.",
+        "Copyright, 1912, Renewed, 1940, by Nazarene Publishing House. Used by permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-558_full.mid",
+    "soprano": "/audio/midi/hymn-558_soprano.mid",
+    "alto": "/audio/midi/hymn-558_alto.mid",
+    "tenor": "/audio/midi/hymn-558_tenor.mid",
+    "bass": "/audio/midi/hymn-558_bass.mid"
+  }
+}

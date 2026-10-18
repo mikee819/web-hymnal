@@ -1,0 +1,74 @@
+{
+  "id": "hymn-638",
+  "number": "638",
+  "numberDisplay": "638",
+  "title": "Wonderful Grace Of Jesus 568 /",
+  "firstLine": "Wonderful grace of Jesus, Greater than all my sin;",
+  "pitchInfo": {
+    "raw": "Db-4-SOL G-2",
+    "key": "Db",
+    "note": "Db",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "G-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Wonderful grace of Jesus, Greater than all my sin;",
+        "How shall my tongue describe it, Where shall its praise begin?",
+        "Taking away my burden, Setting my spirit free;",
+        "For the wonderful grace of Jesus reaches me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Wonderful grace of Jesus, Reaching to all the lost,",
+        "By it I have been pardoned, Saved to the uttermost,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ains have been torn asunder, Giving me liberty;",
+        "For the wonderful grace of Jesus reaches me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Wonderful grace of Jesus, Reaching the most defiled,",
+        "By its transforming power, Making him God's dear child,",
+        "Purchasing peace and heaven, For all eternity;",
+        "For the wonderful grace of Jesus reaches me."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wonderful the matchless grace of Jesus,",
+        "Deeper than the mighty rolling sea;",
+        "Higher than the mountain,",
+        "Sparkling like a fountain,",
+        "ALl sufficient grace for even me,",
+        "Broader than the scope of my transgressions,",
+        "Greater far than ll my sin and shame,",
+        "O, magnify the precious name of Jesus,",
+        "Praise His name!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-638_full.mid",
+    "soprano": "/audio/midi/hymn-638_soprano.mid",
+    "alto": "/audio/midi/hymn-638_alto.mid",
+    "tenor": "/audio/midi/hymn-638_tenor.mid",
+    "bass": "/audio/midi/hymn-638_bass.mid"
+  }
+}

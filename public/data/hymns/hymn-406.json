@@ -1,0 +1,74 @@
+{
+  "id": "hymn-406",
+  "number": "406",
+  "numberDisplay": "406",
+  "title": "More About Jesus",
+  "firstLine": "More about Jesus would I know,",
+  "pitchInfo": {
+    "raw": "Ab-2-SOL W-3",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "W-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "More about Jesus would I know,",
+        "More of His grace to others show;",
+        "More of His saving fullness see,",
+        "More of His love who died for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "More about Jesus let me learn,",
+        "More of His holy will discern;",
+        "Spirit of God my teacher be,",
+        "Showing the things of Christ to me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "More about Jesus in His word,",
+        "Holding communion with my Lord;",
+        "Hearing His voice in every line,",
+        "Making each faithful saying mine."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "More about Jesus on His throne,",
+        "Riches in glory all His own;",
+        "More of His kingdom's sure increase;",
+        "More of His coming, Prince of Peace."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "More, more about Jesus,",
+        "More, more about Jesus;",
+        "More of His saving fullness see,",
+        "More of His love who died for me."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-406_full.mid",
+    "soprano": "/audio/midi/hymn-406_soprano.mid",
+    "alto": "/audio/midi/hymn-406_alto.mid",
+    "tenor": "/audio/midi/hymn-406_tenor.mid",
+    "bass": "/audio/midi/hymn-406_bass.mid"
+  }
+}

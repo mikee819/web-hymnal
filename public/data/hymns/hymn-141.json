@@ -1,0 +1,74 @@
+{
+  "id": "hymn-141",
+  "number": "141",
+  "numberDisplay": "141",
+  "title": "His Yoke Is Easy",
+  "firstLine": "I've found my Lord and He is mine,",
+  "pitchInfo": {
+    "raw": "Db-2-SOL T-1",
+    "key": "Db",
+    "note": "Db",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I've found my Lord and He is mine,",
+        "He won me by His love;",
+        "I'll serve Him all my years of time,",
+        "And dwell with Him above."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "No other Lord but Christ I know,",
+        "I walk with Him alone;",
+        "His streams of love forever flow,",
+        "Within my heart, His throne."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "He's dearer to my heart than life,",
+        "He found me lost in sin;",
+        "He calmed the sea of inward strife,",
+        "And bid me come to Him."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "I've tried the road of sin and found",
+        "His prospects all deceive;",
+        "I've proved the Lord and joys abound,",
+        "More than I could believe."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "His yoke is easy, His burden is light,",
+        "I've found it so, I've found it so;",
+        "His service is my sweetest delight,",
+        "His blessings ever flow."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-141_full.mid",
+    "soprano": "/audio/midi/hymn-141_soprano.mid",
+    "alto": "/audio/midi/hymn-141_alto.mid",
+    "tenor": "/audio/midi/hymn-141_tenor.mid",
+    "bass": "/audio/midi/hymn-141_bass.mid"
+  }
+}

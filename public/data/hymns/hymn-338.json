@@ -1,0 +1,68 @@
+{
+  "id": "hymn-338",
+  "number": "338",
+  "numberDisplay": "338",
+  "title": "The Great Physician",
+  "firstLine": "The great Physician now is near,",
+  "pitchInfo": {
+    "raw": "Eb-2-SOL E-1 N-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1 N-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "The great Physician now is near,",
+        "The sympathizing Jesus;",
+        "He speaks the drooping heart to cheer,",
+        "O hear the voice of Jesus.",
+        "2 All glory to the dying Lamb!",
+        "I now believe in Jesus;",
+        "I love the blessed Savior's name,",
+        "I love the name of Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "His name dispels my guilt and fear,",
+        "No other name but Jesus;",
+        "O how my soul delights to hear",
+        "The charming name of Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "And when to that bright world above,",
+        "We rise to see our Jesus,",
+        "We'll sing around the throne of love",
+        "His name, the name of Jesus."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sweetest note in seraph song,",
+        "Sweetest name on mortal tongue;",
+        "Sweetest carol ever sung,",
+        "Jesus, blessed Jesus."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-338_full.mid",
+    "soprano": "/audio/midi/hymn-338_soprano.mid",
+    "alto": "/audio/midi/hymn-338_alto.mid",
+    "tenor": "/audio/midi/hymn-338_tenor.mid",
+    "bass": "/audio/midi/hymn-338_bass.mid"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "hymn-6",
+  "number": "6",
+  "numberDisplay": "6",
+  "title": "Awake, And Sing The Song",
+  "firstLine": "Awake, and sing the song",
+  "pitchInfo": {
+    "raw": "G-4-SOL P-2 S-4",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-2 S-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Awake, and sing the song",
+        "Of Moses and the Lamb;",
+        "Wake, every heart and every tongue,",
+        "To praise the Savior's name."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Sing of His dying love;",
+        "Sing of His rising power;",
+        "Sing how He intercedes above",
+        "For those whose sins He bore."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Sing on your heavenly way,",
+        "Ye ransomed sinners sing;",
+        "Sing on, rejoicing every day",
+        "In Christ, the glorious King."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Soon shall you hear Him say,",
+        "\"Ye blessed children, come!\"",
+        "Soon will He call you hence away,",
+        "And take His pilgrims home."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-6_full.mid",
+    "soprano": "/audio/midi/hymn-6_soprano.mid",
+    "alto": "/audio/midi/hymn-6_alto.mid",
+    "tenor": "/audio/midi/hymn-6_tenor.mid",
+    "bass": "/audio/midi/hymn-6_bass.mid"
+  }
+}

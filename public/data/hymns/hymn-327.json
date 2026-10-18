@@ -1,0 +1,64 @@
+{
+  "id": "hymn-327",
+  "number": "327",
+  "numberDisplay": "327",
+  "title": "What Shall It Be",
+  "firstLine": "What will you do with Jesus?",
+  "pitchInfo": {
+    "raw": "Db-2-SOL I-1",
+    "key": "Db",
+    "note": "Db",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "What will you do with Jesus?",
+        "The question comes to you!",
+        "And you must give an answer,",
+        "For something you must do."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "\"What will you do with Jesus?\"",
+        "It comes by night and day;",
+        "With pierced hands uplifted,",
+        "He waits - what will you say?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "What will you do with Jesus?",
+        "He's knocking at the door!",
+        "Refuse Him, soul, no longer,",
+        "Lest He should plead no more."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "What shall it be? what shall it be?",
+        "What shall your answer be?",
+        "What will you do with Jesus?",
+        "O what shall your answer be?"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-327_full.mid",
+    "soprano": "/audio/midi/hymn-327_soprano.mid",
+    "alto": "/audio/midi/hymn-327_alto.mid",
+    "tenor": "/audio/midi/hymn-327_tenor.mid",
+    "bass": "/audio/midi/hymn-327_bass.mid"
+  }
+}

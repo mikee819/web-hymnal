@@ -1,0 +1,68 @@
+{
+  "id": "hymn-420",
+  "number": "420",
+  "numberDisplay": "420",
+  "title": "O Thou Fount Of Every Blessings",
+  "firstLine": "O, Thou Fount of ev'ry blessing,",
+  "pitchInfo": {
+    "raw": "Eb-3-MI C-16 G-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-16 G-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O, Thou Fount of ev'ry blessing,",
+        "Tune my heart to sing Thy grace;",
+        "Streams of mercy, never ceasing,",
+        "Call for songs of loudest praise.",
+        "Teach me ever to adore Thee;",
+        "May I still Thy goodness prove;",
+        "While the hope of endless glory,",
+        "Fills my heart with joy and love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Here I raise my *Ebenezer:",
+        "Hither by Thy help I've come;",
+        "And I hope by Thy good pleasure",
+        "Safely to arrive at home.",
+        "Jesus sought me when a stranger,",
+        "Wand'ring from the fold of God;",
+        "He to rescue me from danger,",
+        "Interposed His precious blood."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O, to grace how great a debtor",
+        "Daily I'm constrained to be!",
+        "Let Thy goodness like a fetter",
+        "Bind my wand'ring heart to Thee.",
+        "Never let me wander from Thee,",
+        "Never leave the God I love;",
+        "Here's my heart, O, take and seal it,",
+        "Seal it for Thy courts above.",
+        "*\"The stone of help\", 1 Samuel 7:12"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-420_full.mid",
+    "soprano": "/audio/midi/hymn-420_soprano.mid",
+    "alto": "/audio/midi/hymn-420_alto.mid",
+    "tenor": "/audio/midi/hymn-420_tenor.mid",
+    "bass": "/audio/midi/hymn-420_bass.mid"
+  }
+}

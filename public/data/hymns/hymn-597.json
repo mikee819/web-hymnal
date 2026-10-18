@@ -1,0 +1,72 @@
+{
+  "id": "hymn-597",
+  "number": "597",
+  "numberDisplay": "597",
+  "title": "O For A Closer Walk With God * /",
+  "firstLine": "Scripture; Micah 6:8",
+  "pitchInfo": {
+    "raw": "F-3-DO F-2 D-1",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "F-2 D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Micah 6:8"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O for a closer walk with God,",
+        "A calm and heav'nly frame,",
+        "A light to shine upon the road",
+        "That leads me to the Lamb."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Where is the blessedness I knew",
+        "When first I saw the Lord?",
+        "Where is the soul refreshing view",
+        "Of Jesus and His word?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "The dearest idol I have known,",
+        "Whate'er that idol be,",
+        "Help me to tear it from Thy throne,",
+        "And worship only Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "So shall my walk be close with God,",
+        "Calm and serene my frame;",
+        "So purer light shall mark the road",
+        "That leads me to the Lamb."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-597_full.mid",
+    "soprano": "/audio/midi/hymn-597_soprano.mid",
+    "alto": "/audio/midi/hymn-597_alto.mid",
+    "tenor": "/audio/midi/hymn-597_tenor.mid",
+    "bass": "/audio/midi/hymn-597_bass.mid"
+  }
+}

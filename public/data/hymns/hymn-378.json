@@ -1,0 +1,73 @@
+{
+  "id": "hymn-378",
+  "number": "378",
+  "numberDisplay": "378",
+  "title": "The Solid rock",
+  "firstLine": "My hope is built on nothing less",
+  "pitchInfo": {
+    "raw": "G-3-SOL H-6",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-6",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "My hope is built on nothing less",
+        "Than Jesus' blood and righteousness;",
+        "I dare not trust the sweetest frame,",
+        "But wholly lean on Jesus' name."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When darkness veils His lovely face",
+        "I rest on His unchanging grace;",
+        "In ev'ry high and stormy gale,",
+        "My anchor holds within the veil."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "His oath, His covenant, His blood",
+        "Support me in the whelming flood;",
+        "When all around my soul gives way,",
+        "He then is all my hope and stay."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "When He shall come with trumpet sound,",
+        "O may I then in Him be found;",
+        "Dressed in His righteousness alone,",
+        "Faultless to stand before the throne."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "s. On Christ, the solid Rock I stand;",
+        "All other ground is sinking sand,",
+        "All other ground is sinking sand."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-378_full.mid",
+    "soprano": "/audio/midi/hymn-378_soprano.mid",
+    "alto": "/audio/midi/hymn-378_alto.mid",
+    "tenor": "/audio/midi/hymn-378_tenor.mid",
+    "bass": "/audio/midi/hymn-378_bass.mid"
+  }
+}

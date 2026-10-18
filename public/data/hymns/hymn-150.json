@@ -1,0 +1,58 @@
+{
+  "id": "hymn-150",
+  "number": "150",
+  "numberDisplay": "150",
+  "title": "Purer In Heart, O God",
+  "firstLine": "Purer in heart, O God, Help me to be;",
+  "pitchInfo": {
+    "raw": "G-4-MI D-1 H-3",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1 H-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Purer in heart, O God, Help me to be;",
+        "May I devote my life Wholly to thee.",
+        "Watch Thou my wayward feet,",
+        "Guide me with counsel sweet;",
+        "Purer in heart, Help me to be."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Purer in heart, O God, Help me to be;",
+        "Teach me to do Thy will Most lovingly.",
+        "Be thou my Friend and Guide,",
+        "Let me with Thee abide",
+        "Purer in heart, Help me to be."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Purer in heart, O God, Help me to be;",
+        "That I thy holy face One day may see.",
+        "Keep me from secret sin,",
+        "Reign Thou my soul within;",
+        "Purer in heart, Help me to be."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-150_full.mid",
+    "soprano": "/audio/midi/hymn-150_soprano.mid",
+    "alto": "/audio/midi/hymn-150_alto.mid",
+    "tenor": "/audio/midi/hymn-150_tenor.mid",
+    "bass": "/audio/midi/hymn-150_bass.mid"
+  }
+}

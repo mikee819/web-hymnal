@@ -1,0 +1,38 @@
+{
+  "id": "hymn-558a",
+  "number": "558a",
+  "numberDisplay": "558a",
+  "title": "Psalm 110",
+  "firstLine": "Jehovah to my Lord has said, \"Sit Thou at My right hand until I make Thy foes a stool where-on Thy feet may stand.\" Jehovah shall from Zion send the scepter of Thy power. In battle with Thine enemies be Thou the conqueror.",
+  "pitchInfo": {
+    "raw": "C-4-DO C-2",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "DO",
+    "inheritedFrom": "314"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "There Is A Fountain -",
+    "number": "314"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jehovah to my Lord has said, \"Sit Thou at My right hand until I make Thy foes a stool where-on Thy feet may stand.\" Jehovah shall from Zion send the scepter of Thy power. In battle with Thine enemies be Thou the conqueror.",
+        "A willing people in Thy day of power shall come Thee. thy youth arrayed in holiness like morning dew shall be. Jehovah swore, and from his oath He never will depart: \"Of th'order of Melchizedek a priest Thou ever art.'",
+        "The Lord at Thy right hand shall smite earth's rules in His wrath. Among the nations He shall judge; the slain shall fill His path. In many lands He'll over-throw their kings with ruin dread; and, marching, He'll drink from the brook and so lift up His head."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-558a_full.mid",
+    "soprano": "/audio/midi/hymn-558a_soprano.mid",
+    "alto": "/audio/midi/hymn-558a_alto.mid",
+    "tenor": "/audio/midi/hymn-558a_tenor.mid",
+    "bass": "/audio/midi/hymn-558a_bass.mid"
+  }
+}

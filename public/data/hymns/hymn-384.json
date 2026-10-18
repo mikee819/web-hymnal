@@ -1,0 +1,64 @@
+{
+  "id": "hymn-384",
+  "number": "384",
+  "numberDisplay": "384",
+  "title": "A Shelter In The Time Of Storm",
+  "firstLine": "The Lord's our Rock in Him we hide,",
+  "pitchInfo": {
+    "raw": "F-4-SOL C-9",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-9",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "The Lord's our Rock in Him we hide,",
+        "A shelter in the time of storm;",
+        "Secure whatever ill betide,",
+        "A shelter in the time of storm."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "A shade by day, defence by night,",
+        "A shelter in the time of storm;",
+        "No fears alarm, no foes affright,",
+        "A shelter in the time of storm."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "A Rock divine, O Refuge dear,",
+        "A shelter in the time of storm;",
+        "Be Thou our helper ever near,",
+        "A shelter in the time of storm."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O Jesus is a Rock in a weary land,",
+        "A weary land, a weary land;",
+        "O Jesus is a Rock in a weary land,",
+        "A shelter in the time of storm."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-384_full.mid",
+    "soprano": "/audio/midi/hymn-384_soprano.mid",
+    "alto": "/audio/midi/hymn-384_alto.mid",
+    "tenor": "/audio/midi/hymn-384_tenor.mid",
+    "bass": "/audio/midi/hymn-384_bass.mid"
+  }
+}

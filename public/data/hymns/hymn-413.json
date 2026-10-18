@@ -1,0 +1,64 @@
+{
+  "id": "hymn-413",
+  "number": "413",
+  "numberDisplay": "413",
+  "title": "Lift Him Up 413 / *",
+  "firstLine": "How to reach the masses, men of ev'ry birth?",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL S-5",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "S-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "How to reach the masses, men of ev'ry birth?",
+        "For an answer Jesus gave a key,",
+        "\"And I, if I be lifted up from the earth,",
+        "Will draw all men unto me.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O the world is hungry for the living bread,",
+        "Lift the Savior up for them to see,",
+        "Trust Him, and do not doubt the words that He said,",
+        "\"I'll draw all men unto me.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Lift Him up by living as a Christian ought,",
+        "Let the world in you the Savior see,",
+        "Then men will gladly follow Him who once taught,",
+        "\"I'll draw all men unto me.\""
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Left Him up, lift Him up,",
+        "Still He speaks from eternity,",
+        "\"And I, if I be lifted up from the earth,",
+        "Will draw all men unto me.\""
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-413_full.mid",
+    "soprano": "/audio/midi/hymn-413_soprano.mid",
+    "alto": "/audio/midi/hymn-413_alto.mid",
+    "tenor": "/audio/midi/hymn-413_tenor.mid",
+    "bass": "/audio/midi/hymn-413_bass.mid"
+  }
+}

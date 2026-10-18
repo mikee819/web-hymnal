@@ -1,0 +1,65 @@
+{
+  "id": "hymn-107",
+  "number": "107",
+  "numberDisplay": "107",
+  "title": "Blessed Redeemer * /",
+  "firstLine": "Up Calv'ry's mountain, one dreadful morn,",
+  "pitchInfo": {
+    "raw": "D-3-SOL R-1 C-17",
+    "key": "D",
+    "note": "D",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "R-1 C-17",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Up Calv'ry's mountain, one dreadful morn,",
+        "Walked Christ my Savior, weary and worn;",
+        "Facing for sinners death on the cross,",
+        "That He might save them from endless loss."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "\"Father, forgive them!\" thus did He pray,",
+        "E'en while His life blood flowed fast away;",
+        "Praying for sinners while in such woe",
+        "No one but Jesus ever loved so."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O how I love Him, Savior and Friend!",
+        "How can my praises ever find end!",
+        "Thro' years unnumbered on heaven's shore,",
+        "My tongue shall praise Him forevermore."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Blessed Redeemer, precious redeemer!",
+        "Seems now I see Him on Calvary's tree!",
+        "Wounded and bleeding, for sinners pleading",
+        "Blind and unheeding, dying for me!",
+        "Copyright 1921 by Singspiration Music?ASCAP. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-107_full.mid",
+    "soprano": "/audio/midi/hymn-107_soprano.mid",
+    "alto": "/audio/midi/hymn-107_alto.mid",
+    "tenor": "/audio/midi/hymn-107_tenor.mid",
+    "bass": "/audio/midi/hymn-107_bass.mid"
+  }
+}

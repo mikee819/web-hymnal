@@ -1,0 +1,67 @@
+{
+  "id": "hymn-700",
+  "number": "700",
+  "numberDisplay": "700",
+  "title": "Train your Children * /",
+  "firstLine": "Scripture;?Proverbs 22:6",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture;?Proverbs 22:6",
+        "F-4-MI??H-5"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "?Precious gifts that come from God,",
+        "?Our dear children whom we love.",
+        "?What a blessed privilege we have,",
+        "?Molding hearts for heav'n above."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "?Fathers you must lead the way,",
+        "?Daily teach and with them pray.",
+        "?And the mothers too with tender hand,",
+        "?Kindly guide them lest they stray."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "?Sweetest home Christ has prepared.",
+        "?Where no tear will dim our eye.",
+        "?And our faithful loved ones there can sing",
+        "?Grateful praise to God on high."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "?Teach your children! Love your children!",
+        "?Train them in the way of God.",
+        "?What a sweet reunion there will be",
+        "?In our home eternally."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Copyright 1987 by Huey Hartsell & R. J. Stevens. All Aights Aeserved.?"
+      ]
+    }
+  ],
+  "tracks": {}
+}

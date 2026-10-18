@@ -1,0 +1,75 @@
+{
+  "id": "hymn-377",
+  "number": "377",
+  "numberDisplay": "377",
+  "title": "Lord, I Believe",
+  "firstLine": "When we behold the wonders of creation,",
+  "pitchInfo": {
+    "raw": "Bb-4-MI F-1 T-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "F-1 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When we behold the wonders of creation,",
+        "The flow'rs that bloom the raindrops as they fall;",
+        "The spacious skies and life's perpetuation,",
+        "We cannot doubt that God controlled it all."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "No finite mind, by mortal calculation",
+        "Could frame the Truths revealed within His Word;",
+        "In ev'ry trace of nature's operation,",
+        "Thy voice, O, God, in myst'ry can be heard."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When we perceive the state of alienation",
+        "In which the soul, from Thee O, God, was lost;",
+        "We must believe, y heaven's ordination,",
+        "Our Lord redeemed and paid the bitter cost."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Some days are filled with joy and expectation,",
+        "Some days are dark, with cares we are beset;",
+        "In hours of joy or hours of tribulation,",
+        "Be with us, Lord, lest we, lest we forget."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lord, I believe, yes, I believe",
+        "I cannot doubt or be deceived:",
+        "The eye that sees each sparrow fall,",
+        "His unseen hand is in it all.",
+        "Copyright, 1970, by A W. Dicus. Assigned 1973 to Sacred Selections, Inc., Ellis J. Crum, owner, Kendallville, Indiana 46755. All rights reserved. Used by permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-377_full.mid",
+    "soprano": "/audio/midi/hymn-377_soprano.mid",
+    "alto": "/audio/midi/hymn-377_alto.mid",
+    "tenor": "/audio/midi/hymn-377_tenor.mid",
+    "bass": "/audio/midi/hymn-377_bass.mid"
+  }
+}

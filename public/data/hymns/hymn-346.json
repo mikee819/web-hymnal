@@ -1,0 +1,75 @@
+{
+  "id": "hymn-346",
+  "number": "346",
+  "numberDisplay": "346",
+  "title": "Shall I Crucify My Savior",
+  "firstLine": "Shall I crucify my Savior,",
+  "pitchInfo": {
+    "raw": "Eb-4-SOL C-3",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Shall I crucify my Savior,",
+        "When for me He bore such loss?",
+        "Shall I put to shame my Savior?",
+        "Can I nail Him to the cross?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Are temptations so alluring?",
+        "Do earth's pleasures so enthrall,",
+        "That I cannot love my Savior",
+        "Well enough to leave them all?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "'Twas man's sins that crucified Him,",
+        "Shall mine crucify Him yet?",
+        "Blackest day of nameless anguish,",
+        "Can my thankless soul forget?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "O, the kindly hands of Jesus,",
+        "Pouring blessings on all men,",
+        "Bleeding nail scarred hands of Jesus!",
+        "Can I nail them once again?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Shall I crucify my Savior?",
+        "Crucify my Lord again?",
+        "Once, O, once, I crucified Him:",
+        "Shall I crucify again?",
+        "Arr. Copyright, 1986, by R. J. Stevens in \"Hymns for Worship.\" All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-346_full.mid",
+    "soprano": "/audio/midi/hymn-346_soprano.mid",
+    "alto": "/audio/midi/hymn-346_alto.mid",
+    "tenor": "/audio/midi/hymn-346_tenor.mid",
+    "bass": "/audio/midi/hymn-346_bass.mid"
+  }
+}

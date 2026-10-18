@@ -1,0 +1,69 @@
+{
+  "id": "hymn-635",
+  "number": "635",
+  "numberDisplay": "635",
+  "title": "A Beautiful Prayer 565 /",
+  "firstLine": "In the Bible we read of a beautiful prayer,",
+  "pitchInfo": {
+    "raw": "C-2-SOL G-1 P-3",
+    "key": "C",
+    "note": "C",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "G-1 P-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "In the Bible we read of a beautiful prayer,",
+        "A prayer sent to heaven above;",
+        "It was prayed by heart that was laden with care",
+        "And filled with such wonderful love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "You can catch the sad tone of His voice as He said,",
+        "\"Thy will not my own must be done,\"",
+        "As a lamb to the slaughter He soon must be led",
+        "To die as the Crucified One."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "As He prayed there alone in such deep agony,",
+        "It was a most beautiful prayer;",
+        "Just to think His great heart was all broken for me,",
+        "That He my great sorrow must share."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "When the Savior was praying,",
+        "In the garden of Gethsemane,",
+        "He said \"loving Father,",
+        "Let this cup pass from me;\"",
+        "I know He was thinking",
+        "Of the anguish death would bring to His own,",
+        "How deep was His sorrow,",
+        "When Jesus was praying alone."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Copyright, 1937, Renewal 1965 by Stamps-Baxter Music."
+      ]
+    }
+  ],
+  "tracks": {}
+}

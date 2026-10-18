@@ -1,0 +1,65 @@
+{
+  "id": "hymn-169",
+  "number": "169",
+  "numberDisplay": "169",
+  "title": "O Lord, We Give Our Heart To Thee",
+  "firstLine": "O lord, we give our hearts to thee,",
+  "pitchInfo": {
+    "raw": "Eb-3-MI L-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "L-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O lord, we give our hearts to thee,",
+        "To do thy will we humbly seek",
+        "Together in thy memory,",
+        "Upon the first day of the week."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Lord, consecrate this bread we break",
+        "Thy body offered on the tree",
+        "As we by faith Thy body take,",
+        "And eat communing now with Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Bless Thou this cup, O precious vine,",
+        "Thy blood to wash our sins away.",
+        "Lord, wilt Thou grace this feast divine,",
+        "And drink anew with us today."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, Lord, that we might all discern",
+        "By faith Thy death to ever see,",
+        "And speak to all of Thy return,",
+        "In our remembrance, Lord, of Thee.",
+        "Copyright 1986, Shepard-Stevens Music, Inc. in \"Hymns For Worship\". Harry Presley & R. J. Stevens, owners. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-169_full.mid",
+    "soprano": "/audio/midi/hymn-169_soprano.mid",
+    "alto": "/audio/midi/hymn-169_alto.mid",
+    "tenor": "/audio/midi/hymn-169_tenor.mid",
+    "bass": "/audio/midi/hymn-169_bass.mid"
+  }
+}

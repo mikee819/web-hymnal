@@ -1,0 +1,67 @@
+{
+  "id": "hymn-620",
+  "number": "620",
+  "numberDisplay": "620",
+  "title": "Room In God's Kingdom 557 /",
+  "firstLine": "There is room in the kingdom of God, my brother,",
+  "pitchInfo": {
+    "raw": "Bb-4-MI K-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "K-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There is room in the kingdom of God, my brother,",
+        "For the small things that you can do;",
+        "Just a small, kindly deed that may cheer another",
+        "Is the work God has planned for you."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Just a cup of cold water in His name given",
+        "May the hope in some heart renew;",
+        "Do not wait to be told, nor by sorrow driven",
+        "To the work God has planned for you."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "There's a place in the service of God for workers",
+        "Who are loyal to Him and true;",
+        "Can't you say to Him now, \"I will leave the shirkers,",
+        "And the work Thou hast planned I'll do.\""
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "There is room (in the kingdom,)",
+        "There's a place (in the service)",
+        "In the kingdom of God for you",
+        "There is room (in the kingdom,)",
+        "There's a place (in the service,)",
+        "There is work that we all can do.",
+        "Copyright renewal, 1951, extended, Gospel Advocate Company. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-620_full.mid",
+    "soprano": "/audio/midi/hymn-620_soprano.mid",
+    "alto": "/audio/midi/hymn-620_alto.mid",
+    "tenor": "/audio/midi/hymn-620_tenor.mid",
+    "bass": "/audio/midi/hymn-620_bass.mid"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hymn-278",
+  "number": "278",
+  "numberDisplay": "278",
+  "title": "God Is Calling The Prodigal",
+  "firstLine": "God is calling the prodigal, come without delay",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL I-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "God is calling the prodigal, come without delay",
+        "Hear, O, hear Him calling, calling now for thee;",
+        "Tho' you've wandered so far from His presence, come today,",
+        "Hear His loving voice calling still."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Patient, loving and tenderly still the Father pleads,",
+        "Hear, O, hear Him calling, calling now for thee;",
+        "O, return while the Spirit in mercy intercedes,",
+        "Hear His loving voice calling still."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Come, there's bread in the house of thy Father, and to spare,",
+        "Hear, O, hear Him calling, calling now for thee;",
+        "Lo! the table is spread and the feast is waiting there,",
+        "Hear His loving voice calling still."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Calling now for thee,",
+        "O, weary prodigal, come;",
+        "Calling now for thee,",
+        "O, weary prodigal, come."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-278_full.mid",
+    "soprano": "/audio/midi/hymn-278_soprano.mid",
+    "alto": "/audio/midi/hymn-278_alto.mid",
+    "tenor": "/audio/midi/hymn-278_tenor.mid",
+    "bass": "/audio/midi/hymn-278_bass.mid"
+  }
+}

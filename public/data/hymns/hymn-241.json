@@ -1,0 +1,65 @@
+{
+  "id": "hymn-241",
+  "number": "241",
+  "numberDisplay": "241",
+  "title": "The Gates Swing Outward Never",
+  "firstLine": "Just a few more days to be filled with praise,",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL H-2",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Just a few more days to be filled with praise,",
+        "And to tell the old, old story;",
+        "Then, when twilight falls, and my Savior calls,",
+        "I shall go to Him in glory."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Just a few more years with their toil and tears,",
+        "And the journey will be ended;",
+        "Then I'll be with Him, where the tide of time",
+        "With eternity is blended."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "What a joy 'twill be when I wake to see",
+        "Him for whom my heart is burning!",
+        "Never more to sigh, never more to die",
+        "For that day my heart is yearning."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "I'll exchange my cross for a shining crown,",
+        "Where the gates swing outward never;",
+        "At His feet I'll lay every burden down,",
+        "And with Jesus live forever.",
+        "Copyright 1920 by Homer A. Rodeheaver. Renewed 1948 by The Rodeheaver Company (A Div. of WORD, INC.) All Rights Reserved. International Copyright Secured. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-241_full.mid",
+    "soprano": "/audio/midi/hymn-241_soprano.mid",
+    "alto": "/audio/midi/hymn-241_alto.mid",
+    "tenor": "/audio/midi/hymn-241_tenor.mid",
+    "bass": "/audio/midi/hymn-241_bass.mid"
+  }
+}

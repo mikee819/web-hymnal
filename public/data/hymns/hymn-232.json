@@ -1,0 +1,72 @@
+{
+  "id": "hymn-232",
+  "number": "232",
+  "numberDisplay": "232",
+  "title": "When All Of God's Singers Get Home",
+  "firstLine": "(Chorus V. O. Stamps)",
+  "pitchInfo": {
+    "raw": "F-2-SOL H-2 S-4",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2 S-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "(Chorus V. O. Stamps)"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "What a song of delight in that city so bright",
+        "Will be wafted 'neath heaven's fair dome,",
+        "How the ransomed will raise happy songs in His praise,",
+        "When all of God's singers get home."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "As we sing here on earth, songs of sadness of mirth,",
+        "'Tis a foretaste of rapture to come;",
+        "But our joy can't compare with the glory up there,",
+        "When all of God's singers get home."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Having overcome sin, \"Hallelujah, Amen\"",
+        "Will be heard in that land o'er the foam,",
+        "Ev'ry heart will be light and each face will be bright,",
+        "When all of God's singers get home."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "When all of God's singers get home,",
+        "Where never a sorrow will come;",
+        "There'll be \"no place like home,\"",
+        "When all of God's singers get home.",
+        "Copyright, 1937, Renewal 1965 by Stamps-Baxter Music."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-232_full.mid",
+    "soprano": "/audio/midi/hymn-232_soprano.mid",
+    "alto": "/audio/midi/hymn-232_alto.mid",
+    "tenor": "/audio/midi/hymn-232_tenor.mid",
+    "bass": "/audio/midi/hymn-232_bass.mid"
+  }
+}

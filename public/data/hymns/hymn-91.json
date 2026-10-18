@@ -1,0 +1,65 @@
+{
+  "id": "hymn-91",
+  "number": "91",
+  "numberDisplay": "91",
+  "title": "Lord, Help Me",
+  "firstLine": "Lord, help me lift my heart to Thee;",
+  "pitchInfo": {
+    "raw": "F-4-MI D-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Lord, help me lift my heart to Thee;",
+        "Lord, raise my eyes that I may see",
+        "Beyond this mount and vale of tears,",
+        "Far above all these clouds of fears."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Lord, help me yield my life to Thee;",
+        "Lord, break my will that I may be",
+        "Fully committed to Thy ways,",
+        "Serving gladly thru out my days."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Lord, help me have a patient heart;",
+        "Lord, grant me peace when far apart",
+        "From friends I love, with foes I stand;",
+        "Help me wait, and to understand."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lord, I surrender all to Thee!",
+        "Gladly Thy servant I will be!",
+        "Grant me, O Lord, a home above,",
+        "In that sweet paradise of love.",
+        "Copyright 1972, by Melvin Stanton. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-91_full.mid",
+    "soprano": "/audio/midi/hymn-91_soprano.mid",
+    "alto": "/audio/midi/hymn-91_alto.mid",
+    "tenor": "/audio/midi/hymn-91_tenor.mid",
+    "bass": "/audio/midi/hymn-91_bass.mid"
+  }
+}

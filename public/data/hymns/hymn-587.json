@@ -1,0 +1,70 @@
+{
+  "id": "hymn-587",
+  "number": "587",
+  "numberDisplay": "587",
+  "title": "When The Spirit Came Down 587 / *",
+  "firstLine": "Key; Bb Starting Note: F",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL E-1 H-4",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1 H-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Key; Bb Starting Note: F"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus died the world to save,",
+        "Then He rose up from the grave;",
+        "Forty days He spent to teach the kingdom's plan.",
+        "Told them how they'd have to wait",
+        "There inside the city's gate,",
+        "For the power God would send to save all me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Now we have the spirit's word,",
+        "Full salvation can be heard;",
+        "Sound the message loud and clear to sinners lost.",
+        "If we put our trust in Him,",
+        "He will wash away our sins,",
+        "Just the way He did for them on Pentecost."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Well, the Spirit came down",
+        "With a rushing sound",
+        "Yes, the Spirit came down to save the lost",
+        "And to guide the minds of faithful men",
+        "Now they spoke the word of god",
+        "They'd received from up above;",
+        "Just to save the souls of men;",
+        "When the Spirit came down.",
+        "Copyright 1984 by Dusty Owens. Arranged by Dane K. Shepard in \"Hymns For Worship\", 1986. Dusty Owens owner. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-587_full.mid",
+    "soprano": "/audio/midi/hymn-587_soprano.mid",
+    "alto": "/audio/midi/hymn-587_alto.mid",
+    "tenor": "/audio/midi/hymn-587_tenor.mid",
+    "bass": "/audio/midi/hymn-587_bass.mid"
+  }
+}

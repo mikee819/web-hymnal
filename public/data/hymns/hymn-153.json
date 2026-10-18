@@ -1,0 +1,46 @@
+{
+  "id": "hymn-153",
+  "number": "153",
+  "numberDisplay": "153",
+  "title": "'Tis Set, The Feast Divine",
+  "firstLine": "\"Tis set, the feast divine",
+  "pitchInfo": {
+    "raw": "Eb-3-DO L-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "L-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "\"Tis set, the feast divine",
+        "The bread, the fruit of the vine",
+        "And saints commune before the shrine,",
+        "In the supper of the Lord."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "May we the Lord discern,",
+        "His death our holy concern;",
+        "We feast in faith, His coming yearn,",
+        "In the supper of the Lord.",
+        "Copyright 1948. Leon B. Sanderson, owner. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-153_full.mid",
+    "soprano": "/audio/midi/hymn-153_soprano.mid",
+    "alto": "/audio/midi/hymn-153_alto.mid",
+    "tenor": "/audio/midi/hymn-153_tenor.mid",
+    "bass": "/audio/midi/hymn-153_bass.mid"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "hymn-514a",
+  "number": "514a",
+  "numberDisplay": "514a",
+  "title": "Psalm 16",
+  "firstLine": "Keep me, O God; I trust in Thee. Jehovah, I confess Thou art my Lord; apart from Thee no good do I possess.",
+  "pitchInfo": {
+    "raw": "Bb-3-DO D-1 R-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 3,
+    "solfege": "DO",
+    "inheritedFrom": "148"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Thou Art the Way -",
+    "number": "148"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Keep me, O God; I trust in Thee. Jehovah, I confess Thou art my Lord; apart from Thee no good do I possess.",
+        "I've set the Lord before my face, and Him I'll always see. Because He stands at my right hand I never moved shall be.",
+        "Because of this my heart is glad, and joy shall be express'd by all my glory, and my flesh in confidence shall rest.",
+        "Because my soul in nether realms shall not be left by Thee; corruption Thou wilt not permit Thy Holy one to see.",
+        "Thou wilt me show the path of life. Thy presence holds great store of lasting joy; at Thy right hand are pleasures evermore."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-514a_full.mid",
+    "soprano": "/audio/midi/hymn-514a_soprano.mid",
+    "alto": "/audio/midi/hymn-514a_alto.mid",
+    "tenor": "/audio/midi/hymn-514a_tenor.mid",
+    "bass": "/audio/midi/hymn-514a_bass.mid"
+  }
+}

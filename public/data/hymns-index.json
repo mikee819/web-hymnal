@@ -1,0 +1,4622 @@
+[
+  {
+    "id": "hymn-1",
+    "number": "1",
+    "title": "Holy, Holy, Holy",
+    "firstLine": "1 Holy, holy, holy! Lord God Almighty!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-2",
+    "number": "2",
+    "title": "Hallelujah! Praise Jehovah!",
+    "firstLine": "Hallelujah, praise Jehovah!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-3",
+    "number": "3",
+    "title": "Lift Your Voice In Praise 3 /",
+    "firstLine": "Lord, God of all the earth,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-4",
+    "number": "4",
+    "title": "Blessed Assurance",
+    "firstLine": "1 Blessed assurance, Jesus is mine!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-5",
+    "number": "5",
+    "title": "How Great Thou Art",
+    "firstLine": "O, Lord, my God! When I in awesome wonder",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-6",
+    "number": "6",
+    "title": "Awake, And Sing The Song",
+    "firstLine": "Awake, and sing the song",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-7",
+    "number": "7",
+    "title": "Saints Lift Your Voices",
+    "firstLine": "There is none like him; None can compare;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-8",
+    "number": "8",
+    "title": "Glory To His Name",
+    "firstLine": "Down at the cross where my Savior died,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-9",
+    "number": "9",
+    "title": "Our God, He Is Alive",
+    "firstLine": "There is beyond the azure blue,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-10",
+    "number": "10",
+    "title": "We Thank Thee, Lord",
+    "firstLine": "For all the blessings of the year,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-11",
+    "number": "11",
+    "title": "Our King Immanuel 579 /",
+    "firstLine": "See the Monarch of monarchs",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-12",
+    "number": "12",
+    "title": "He's My King",
+    "firstLine": "All day long of Jesus I am singing,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-13",
+    "number": "13",
+    "title": "Allelulia",
+    "firstLine": "Composer Traditional, arr. by Dane Shepard",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-14",
+    "number": "14",
+    "title": "O Spread The Tidings 'Round",
+    "firstLine": "O spread the tiding around, Wherever man is found,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-16",
+    "number": "16",
+    "title": "A Mighty Fortress",
+    "firstLine": "A mighty fortress is our God, A bulwark never failing;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-17",
+    "number": "17",
+    "title": "Sun Of My Soul",
+    "firstLine": "Sun of my soul, Thou Savior dear,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-18",
+    "number": "18",
+    "title": "Let's Just Praise The Lord",
+    "firstLine": "Composer; William J. Gaither",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-19",
+    "number": "19",
+    "title": "Heavenly Sunlight",
+    "firstLine": "Walking in sunlight, all of my journey;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-20",
+    "number": "20",
+    "title": "O God, Our Help In Ages Past",
+    "firstLine": "O God, our help in ages past,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-21",
+    "number": "21",
+    "title": "Praise The Lord",
+    "firstLine": "Praise the Lord; ye heavens adore Him,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-22",
+    "number": "22",
+    "title": "He Is In Our Midst",
+    "firstLine": "Draw from the springs of salvation,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-23",
+    "number": "23",
+    "title": "Great Is Thy Faithfulness",
+    "firstLine": "Scripture; Lamentations 3:22-23",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-24",
+    "number": "24",
+    "title": "For The Beauty Of The Earth",
+    "firstLine": "For the beauty of the earth,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-25",
+    "number": "25",
+    "title": "Wonderful Jesus",
+    "firstLine": "Wonderful Jesus! glorious friend!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-26",
+    "number": "26",
+    "title": "Jesus, Thou Joy Of Loving Hearts",
+    "firstLine": "Jesus, Thou joy of loving hearts,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-27",
+    "number": "27",
+    "title": "Joyful, Joyful We Adore Thee",
+    "firstLine": "Joyful, joyful, we adore Thee,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-29",
+    "number": "29",
+    "title": "How Good Is The God We Adore",
+    "firstLine": "How good is the God we adore,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-30",
+    "number": "30",
+    "title": "All Things Praise Thee",
+    "firstLine": "All things praise Thee, Lord most high,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-31",
+    "number": "31",
+    "title": "What A Savior",
+    "firstLine": "Once I was straying in sin's dark valley,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-32",
+    "number": "32",
+    "title": "Awake, My Tongue",
+    "firstLine": "Awake, my tongue, thy tribute bring",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-33",
+    "number": "33",
+    "title": "Mighty Is The Lord",
+    "firstLine": "Composer; Johnny Elmore",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-34",
+    "number": "34",
+    "title": "Worthy Art Thou",
+    "firstLine": "Bb-3-SOL?P-2",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-35",
+    "number": "35",
+    "title": "O Worship The King",
+    "firstLine": "1 O Worship the King, all glorious above,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-36",
+    "number": "36",
+    "title": "Each Step I Take",
+    "firstLine": "Each step I take my Savior goes before me,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-37",
+    "number": "37",
+    "title": "Revive Us Again",
+    "firstLine": "We praise Thee, o God!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-38",
+    "number": "38",
+    "title": "King Most High",
+    "firstLine": "From the earth from the sky",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-39",
+    "number": "39",
+    "title": "God Of Our Fathers",
+    "firstLine": "God of our fathers, whose almighty hand",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-40",
+    "number": "40",
+    "title": "God's Love And Power",
+    "firstLine": "When I survey the world in all its splendor,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-41",
+    "number": "41",
+    "title": "Fairest Lord Jesus",
+    "firstLine": "1 Fairest Lord Jesus,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-42",
+    "number": "42",
+    "title": "Blessed In Christ",
+    "firstLine": "Blessed in Christ, with blessings abundant,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-43",
+    "number": "43",
+    "title": "God Is The Fountain Whence",
+    "firstLine": "God is the fountain whence",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-44",
+    "number": "44",
+    "title": "To God Be The Glory",
+    "firstLine": "1 To God be the glory, great things He hath done;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-45",
+    "number": "45",
+    "title": "Come, Thou Almighty King",
+    "firstLine": "1 Come Thou Almighty King,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-46",
+    "number": "46",
+    "title": "Hark! The Herald Angels Sing",
+    "firstLine": "1 Hark! The herald angels sing",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-47",
+    "number": "47",
+    "title": "God Is So Good",
+    "firstLine": "Composer Unknown",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-48",
+    "number": "48",
+    "title": "On Zion's Glorious Summit",
+    "firstLine": "On Zion's glorious summit stood",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-49",
+    "number": "49",
+    "title": "Jesus, The Very Thought Of Thee",
+    "firstLine": "Jesus, the very thought of Thee",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-50",
+    "number": "50",
+    "title": "Jesus Is Wonderful",
+    "firstLine": "Jesus is wonderful Savior divine;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-51",
+    "number": "51",
+    "title": "Our Father And Our God",
+    "firstLine": "G-4-SOL?P-2",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-52",
+    "number": "52",
+    "title": "God Is Our Loving Father * /",
+    "firstLine": "Scripture; Psalm 24;1",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-53",
+    "number": "53",
+    "title": "Christ, The Lord, Is Risen Today",
+    "firstLine": "Db-4-DO?C-8 P-2",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-54",
+    "number": "54",
+    "title": "Praise Him! Praise Him!",
+    "firstLine": "Praise Him! Praise Him! Jesus our blessed Redeemer!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-55",
+    "number": "55",
+    "title": "The Lord Is In His Holy Temple 55 /",
+    "firstLine": "The Lord is in His holy temple:",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-56",
+    "number": "56",
+    "title": "All Creatures Of Our God And King",
+    "firstLine": "Paraphrased by William H. Draper, 1926",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-57",
+    "number": "57",
+    "title": "All People That On Earth Do Dwell",
+    "firstLine": "All people that on earth do dwell,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-58",
+    "number": "58",
+    "title": "Blessed Be The Lord",
+    "firstLine": "Blessed be the Lord forever,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-60",
+    "number": "60",
+    "title": "Lead Me Gently Home, Father",
+    "firstLine": "Lead me gently home, Father, lead me gently home,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-61",
+    "number": "61",
+    "title": "Dear Lord And Father Of Mankind",
+    "firstLine": "Dear Lord and Father of mankind,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-62",
+    "number": "62",
+    "title": "Did You Think To Pray",
+    "firstLine": "Ere you left your room this morning,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-64",
+    "number": "64",
+    "title": "Lead, Kindly Light 64 / *",
+    "firstLine": "Lead, kindly Light, amid the encircling gloom,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-65",
+    "number": "65",
+    "title": "O Master, Let Me Walk With Thee",
+    "firstLine": "O Master let me walk with Thee",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-66",
+    "number": "66",
+    "title": "God Bless You, Go With God",
+    "firstLine": "This is my daily prayer, God bless you, go with God,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-68",
+    "number": "68",
+    "title": "Lord, We Come Before Thee Now",
+    "firstLine": "Lord, we come before Thee now;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-69",
+    "number": "69",
+    "title": "What A Friend We Have In Jesus",
+    "firstLine": "1 What a friend we have in Jesus,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-70",
+    "number": "70",
+    "title": "One Step At A Time",
+    "firstLine": "One step at a time, dear Savior,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-71",
+    "number": "71",
+    "title": "God Answers Prayer Today",
+    "firstLine": "We pray for strength that our desires may be fulfilled,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-72",
+    "number": "72",
+    "title": "Be With Me, Lord",
+    "firstLine": "Be with me, Lord, I cannot live without Thee,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-73",
+    "number": "73",
+    "title": "Sweet Hour Of Prayer",
+    "firstLine": "Sweet hour of prayer! Sweet hour of prayer!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-74",
+    "number": "74",
+    "title": "Abide With Me",
+    "firstLine": "Abide with me! fast falls the even tide,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-76",
+    "number": "76",
+    "title": "Closer To Thee",
+    "firstLine": "Closer to Thee, near to Thy side,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-78",
+    "number": "78",
+    "title": "My God, My Father, Though I Stray",
+    "firstLine": "My God, my Father, Tho' I stray",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-79",
+    "number": "79",
+    "title": "The Garden Of Prayer",
+    "firstLine": "There's a garden where Jesus is waiting,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-80",
+    "number": "80",
+    "title": "Father, Hear The Prayer We Offer",
+    "firstLine": "Father, hear the prayer we offer;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-81",
+    "number": "81",
+    "title": "Jesus, Lover Of My Soul",
+    "firstLine": "Jesus, lover of my soul,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-82",
+    "number": "82",
+    "title": "Christ The King 82 / *",
+    "firstLine": "Come worship God with joy,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-84",
+    "number": "84",
+    "title": "Tarry With Me",
+    "firstLine": "Scripture; Psalms 23:4",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-85",
+    "number": "85",
+    "title": "Sowing The Seed Of The Kingdom",
+    "firstLine": "Are you sowing the seed of the kingdom, brother,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-86",
+    "number": "86",
+    "title": "Hear Now Our Prayers",
+    "firstLine": "O Lord, Divine and Holy,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-87",
+    "number": "87",
+    "title": "Be Still My Soul",
+    "firstLine": "(Tr. by Jane L. Borthwick)",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-88",
+    "number": "88",
+    "title": "O Savior, Let Me Walk With Thee * /",
+    "firstLine": "O Savior, let me walk with Thee",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-89",
+    "number": "89",
+    "title": "Jesus, Savior, Pilot Me",
+    "firstLine": "Jesus, Savior, pilot me",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-90",
+    "number": "90",
+    "title": "O Lord, Our Lord",
+    "firstLine": "O Lord, Our Lord, How excellent and mighty;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-91",
+    "number": "91",
+    "title": "Lord, Help Me",
+    "firstLine": "Lord, help me lift my heart to Thee;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-92",
+    "number": "92",
+    "title": "Others",
+    "firstLine": "Lord, help me live from day to day",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-93",
+    "number": "93",
+    "title": "My God And I",
+    "firstLine": "My God and I go in the fields together,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-94",
+    "number": "94",
+    "title": "Savior, Breathe And Evening Blessing",
+    "firstLine": "Savior, breathe an evening blessing",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-95",
+    "number": "95",
+    "title": "'Tis The Blessed Hour Of Prayer",
+    "firstLine": "'Tis the blessed hour of prayer,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-96",
+    "number": "96",
+    "title": "Our Heavenly Father Understands",
+    "firstLine": "I need the prayers of those who love me,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-97",
+    "number": "97",
+    "title": "O To Be Like Thee",
+    "firstLine": "O to be like Thee! blessed Redeemer:",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-98",
+    "number": "98",
+    "title": "Take My Life, And Let It Be",
+    "firstLine": "Take my life, and let it be",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-99",
+    "number": "99",
+    "title": "Savior, Lead Me Lest I Stray",
+    "firstLine": "Savior, lead me, lest I stray,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-100",
+    "number": "100",
+    "title": "Take My Life, O Father, Mould It",
+    "firstLine": "Take my life, O Father; mould it",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-101",
+    "number": "101",
+    "title": "My Savior, As Thou Wilt",
+    "firstLine": "tr. Jane Borthwick",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-102",
+    "number": "102",
+    "title": "Dear Lord, Hear My Prayer",
+    "firstLine": "Dear Lord, grant me Thy loving care,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-103",
+    "number": "103",
+    "title": "O God Of Infinite Mercy 103 / *",
+    "firstLine": "O God of infinite mercy",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-104",
+    "number": "104",
+    "title": "Take My Hand, Precious Lord",
+    "firstLine": "When my way groweth drear,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-106",
+    "number": "106",
+    "title": "An Evening Prayer",
+    "firstLine": "If I have wounded any soul today,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-107",
+    "number": "107",
+    "title": "Blessed Redeemer * /",
+    "firstLine": "Up Calv'ry's mountain, one dreadful morn,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-108",
+    "number": "108",
+    "title": "Something For Jesus 185 /",
+    "firstLine": "Savior, Thy dying love Thou gavest me,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-109",
+    "number": "109",
+    "title": "Higher Ground",
+    "firstLine": "I'm pressing on the upward way,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-110",
+    "number": "110",
+    "title": "My Jesus, I Love Thee",
+    "firstLine": "1 My Jesus, I love Thee, I know Thou art mine;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-111",
+    "number": "111",
+    "title": "Clay In The Potter's Hand",
+    "firstLine": "O Lord, you know my strength indeed is small,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-112",
+    "number": "112",
+    "title": "Teach MeThy Way",
+    "firstLine": "Teach me Thy way, O Lord, Teach me Thy way!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-113",
+    "number": "113",
+    "title": "Where No One Stands Alone",
+    "firstLine": "Once I stood in the night with my head bowed low,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-114",
+    "number": "114",
+    "title": "Close To Thee",
+    "firstLine": "Thou my everlasting portion,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-116",
+    "number": "116",
+    "title": "Gracious Spirit, Dwell With Me",
+    "firstLine": "Scripture; Romans 8:11",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-117",
+    "number": "117",
+    "title": "Guide Me, O Thou Great Jehovah",
+    "firstLine": "Guide me, O Thou great Jehovah,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-118",
+    "number": "118",
+    "title": "Take Time To Be Holy",
+    "firstLine": "Take time to be holy, Speak oft with thy Lord;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-119",
+    "number": "119",
+    "title": "Only In Thee",
+    "firstLine": "Only in Thee, O Savior mine,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-120",
+    "number": "120",
+    "title": "We Give Thee But Thine Own",
+    "firstLine": "We give Thee but Thine own,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-122",
+    "number": "122",
+    "title": "Now The Day Is Over",
+    "firstLine": "Now the day is over,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-123",
+    "number": "123",
+    "title": "The Ninety and Nine",
+    "firstLine": "There were ninety and nine that safely lay",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-124",
+    "number": "124",
+    "title": "Nearer My God To Thee",
+    "firstLine": "1 Nearer, my God, to Thee,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-125",
+    "number": "125",
+    "title": "Nearer, Still Nearer",
+    "firstLine": "Nearer, still nearer, close to Thy heart,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-126",
+    "number": "126",
+    "title": "Open My eyes, That I May See",
+    "firstLine": "Open my eyes, that I may see",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-127",
+    "number": "127",
+    "title": "This Is My Father's World",
+    "firstLine": "1 This is my Father's world,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-128",
+    "number": "128",
+    "title": "Take My Life, And Let It Be",
+    "firstLine": "Take my life, and let it be,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-129",
+    "number": "129",
+    "title": "All The Way My Savior Leads Me",
+    "firstLine": "All the way my Savior leads me;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-130",
+    "number": "130",
+    "title": "Purer Yet and Purer",
+    "firstLine": "Purer yet and purer I would be in mind,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-131",
+    "number": "131",
+    "title": "Jesus Is Mine",
+    "firstLine": "Fade, fade, each earthly joy,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-132",
+    "number": "132",
+    "title": "O Jesus, I Have Promised",
+    "firstLine": "O Jesus, I have promised",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-133",
+    "number": "133",
+    "title": "The Banner Of The Cross",
+    "firstLine": "There's a royal banner given for display",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-134",
+    "number": "134",
+    "title": "Father Of Mercies",
+    "firstLine": "Father of mercies, day by day",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-135",
+    "number": "135",
+    "title": "More Like Jesus",
+    "firstLine": "Composer; J. M. Stillman",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-136",
+    "number": "136",
+    "title": "O Sacred Head",
+    "firstLine": "(Tr. J. W. Alexander)",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-137",
+    "number": "137",
+    "title": "Safe In The Arms Of Jesus",
+    "firstLine": "Safe in the arms of Jesus, Safe on His gentle breast,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-138",
+    "number": "138",
+    "title": "Prince Of Peace! Control My Will",
+    "firstLine": "Prince of peace! control my will,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-139",
+    "number": "139",
+    "title": "Deeper And Deeper",
+    "firstLine": "Into the heart of Jesus, deeper and deeper I go,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-140",
+    "number": "140",
+    "title": "Savior Divine, Dwell In My Heart",
+    "firstLine": "Lord, in Thy mercy, lend ear to my plea,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-141",
+    "number": "141",
+    "title": "His Yoke Is Easy",
+    "firstLine": "I've found my Lord and He is mine,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-142",
+    "number": "142",
+    "title": "More Love To Thee, O Christ",
+    "firstLine": "1 More love to Thee, O Christ,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-143",
+    "number": "143",
+    "title": "Glorious Things Of Thee Are Spoken",
+    "firstLine": "Glorious things of thee are spoken,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-144",
+    "number": "144",
+    "title": "My Faith Looks Up To Thee",
+    "firstLine": "My faith looks up to Thee,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-145",
+    "number": "145",
+    "title": "Wondrous Grace For All",
+    "firstLine": "God's grace, His power, His might and His love,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-146",
+    "number": "146",
+    "title": "Have Thine Own Way Lord",
+    "firstLine": "Have Thine own way, Lord! Have Thine own way!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-147",
+    "number": "147",
+    "title": "Day By Day",
+    "firstLine": "Translated by A. L. Skoog",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-148",
+    "number": "148",
+    "title": "Thou Art The Way",
+    "firstLine": "Thou art the Way: to Thee alone",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-150",
+    "number": "150",
+    "title": "Purer In Heart, O God",
+    "firstLine": "Purer in heart, O God, Help me to be;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-151",
+    "number": "151",
+    "title": "Christ, We Do All Adore Thee",
+    "firstLine": "",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-152",
+    "number": "152",
+    "title": "By Christ Redeemed",
+    "firstLine": "By Christ redeemed, in Christ restored,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-153",
+    "number": "153",
+    "title": "'Tis Set, The Feast Divine",
+    "firstLine": "\"Tis set, the feast divine",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-154",
+    "number": "154",
+    "title": "Near The Cross",
+    "firstLine": "Jesus keep me near the cross,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-155",
+    "number": "155",
+    "title": "Wonderful Love Of Jesus",
+    "firstLine": "In vain in high and holy lays",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-156",
+    "number": "156",
+    "title": "Tell Me The Story Of Jesus",
+    "firstLine": "Tell me the story of Jesus, Write on my heart ev'ry word;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-157",
+    "number": "157",
+    "title": "At The Cross",
+    "firstLine": "Ref., R. E. H., 1885",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-158",
+    "number": "158",
+    "title": "Nailed To The Cross",
+    "firstLine": "There was One who was willing to die in my stead,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-159",
+    "number": "159",
+    "title": "When My Love To Christ Grows Weak",
+    "firstLine": "When my love to Christ grows weak,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-160",
+    "number": "160",
+    "title": "One Day",
+    "firstLine": "One day when heaven was filled with His praises,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-161",
+    "number": "161",
+    "title": "Hallelujah! What A Savior!",
+    "firstLine": "\"Man of sorrows,\" what a name",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-162",
+    "number": "162",
+    "title": "Night, With Ebon Pinion",
+    "firstLine": "Night, with ebon pinion, Brooded o'er the vale;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-164",
+    "number": "164",
+    "title": "The Depth Of God's Love",
+    "firstLine": "Oh, the depth and the riches of God's saving grace",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-165",
+    "number": "165",
+    "title": "Thus Remember Me",
+    "firstLine": "Jesus, on the night betrayed,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-166",
+    "number": "166",
+    "title": "He Loved Me So",
+    "firstLine": "Why did my Savior come to earth,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-167",
+    "number": "167",
+    "title": "We Saw Thee Not 167 /",
+    "firstLine": "We saw Thee not when Thou didst come",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-168",
+    "number": "168",
+    "title": "Beneath The Cross of Jesus",
+    "firstLine": "Scripture; Philippians 2:8",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-169",
+    "number": "169",
+    "title": "O Lord, We Give Our Heart To Thee",
+    "firstLine": "O lord, we give our hearts to thee,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-171",
+    "number": "171",
+    "title": "The Lord's Supper",
+    "firstLine": "Composer; Tillit S. Teddlie",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-172",
+    "number": "172",
+    "title": "Precious Communion",
+    "firstLine": "Precious Communion: The feast of our dear Lord,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-174",
+    "number": "174",
+    "title": "Christ Arose",
+    "firstLine": "1 Low in the grave He lay,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-175",
+    "number": "175",
+    "title": "The Breaking Of Bread",
+    "firstLine": "Dear Lord, we break the bread, In memory,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-177",
+    "number": "177",
+    "title": "Upon The First Day Of The Week",
+    "firstLine": "Upon the first day of the week,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-178",
+    "number": "178",
+    "title": "True Worship",
+    "firstLine": "Oft we come together,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-179",
+    "number": "179",
+    "title": "Lead Me To Calvary",
+    "firstLine": "King of my life, I crown Thee now,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-180",
+    "number": "180",
+    "title": "Wonderful Story Of Love",
+    "firstLine": "Wonderful story of love, Tell it to me again,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-183",
+    "number": "183",
+    "title": "'Tis Midnight; And On Olive's Brow",
+    "firstLine": "'Tis midnight; and on Olive's brow",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-184",
+    "number": "184",
+    "title": "Without Him",
+    "firstLine": "Without Him I could do nothing",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-185",
+    "number": "185",
+    "title": "Jesus Is Lord Of All * /",
+    "firstLine": "Scripture; 1 Corinthians 8:6",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-187",
+    "number": "187",
+    "title": "Lord, Make Calvary Real To Me",
+    "firstLine": "Show me the cross of Calvary,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-188",
+    "number": "188",
+    "title": "There Stands A Rock",
+    "firstLine": "There stands a Rock on shores of time,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-189",
+    "number": "189",
+    "title": "When I Survey The Wondrous Cross",
+    "firstLine": "When I survey the wondrous cross,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-190",
+    "number": "190",
+    "title": "We're Marching To Zion",
+    "firstLine": "Come we that love the Lord,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-191",
+    "number": "191",
+    "title": "Heaven Holds All To Me",
+    "firstLine": "Earth holds no treasures but perish with using",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-192",
+    "number": "192",
+    "title": "Won't It Be Wonderful There",
+    "firstLine": "When with the Savior we enter the glory land,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-194",
+    "number": "194",
+    "title": "When We All Get To Heaven",
+    "firstLine": "Sing the wondrous love of Jesus,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-195",
+    "number": "195",
+    "title": "Beyond The Sunset",
+    "firstLine": "Beyond the sunset, O, blissful morning,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-196",
+    "number": "196",
+    "title": "How Beautiful Heaven Must Be",
+    "firstLine": "We read of a place that's called heaven,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-197",
+    "number": "197",
+    "title": "Beautiful Isle Of Somewhere",
+    "firstLine": "Somewhere the sun is shining,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-198",
+    "number": "198",
+    "title": "An Empty Mansion",
+    "firstLine": "Here I labor and toil as I look for a home,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-199",
+    "number": "199",
+    "title": "Where The Roses Never Fade",
+    "firstLine": "I am going to a city",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-201",
+    "number": "201",
+    "title": "A Charge To Keep I Have",
+    "firstLine": "A charge to keep I have,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-202",
+    "number": "202",
+    "title": "Beyond This Land Of Parting",
+    "firstLine": "Beyond this land of parting, losing and leaving,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-203",
+    "number": "203",
+    "title": "Above The Bright Blue",
+    "firstLine": "There's a beautiful place called heaven,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-204",
+    "number": "204",
+    "title": "Never Grow Old",
+    "firstLine": "I have heard of a land",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-205",
+    "number": "205",
+    "title": "Amazing Grace",
+    "firstLine": "1 Amazing grace! how sweet the sound,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-206",
+    "number": "206",
+    "title": "O Think Of The Home Over There",
+    "firstLine": "O, think of a home over there,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-207",
+    "number": "207",
+    "title": "My Lord, My Truth, My Way",
+    "firstLine": "My Lord, my Truth, my Way,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-208",
+    "number": "208",
+    "title": "Sing To Me Of Heaven 208 /",
+    "firstLine": "Sing to me of heaven, sing the song of peace,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-209",
+    "number": "209",
+    "title": "Christ For The World We Sing",
+    "firstLine": "Christ for the world! we sing;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-210",
+    "number": "210",
+    "title": "Alone At Eve",
+    "firstLine": "Walking alone at eve and viewing the skies afar,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-211",
+    "number": "211",
+    "title": "Jesus, Meek and Gentle",
+    "firstLine": "Jesus, meek and gentle, Son of God most high,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-212",
+    "number": "212",
+    "title": "Sweet By And By",
+    "firstLine": "G-4-DO??H-2",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-213",
+    "number": "213",
+    "title": "Here We Are But Straying Pilgrims",
+    "firstLine": "Here we are but straying pilgrims;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-214",
+    "number": "214",
+    "title": "No Tears In Heaven",
+    "firstLine": "Composer; Robert S. Arnold",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-215",
+    "number": "215",
+    "title": "Lord, Dismiss Us In Thy Care",
+    "firstLine": "Original",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-216",
+    "number": "216",
+    "title": "O That Will Be Glory",
+    "firstLine": "When all my labors and trials are o'er,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-217",
+    "number": "217",
+    "title": "Happy The Home When God Is There",
+    "firstLine": "(Alt. Bryan J. Leech)",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-218",
+    "number": "218",
+    "title": "Just Over In The Glory-Land",
+    "firstLine": "I've a home prepared where the saints abide,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-219",
+    "number": "219",
+    "title": "How Sweet, How Heavenly",
+    "firstLine": "How sweet, how heav'nly, is the sight,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-220",
+    "number": "220",
+    "title": "No Night There",
+    "firstLine": "In the land of fadeless day,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-221",
+    "number": "221",
+    "title": "The Unclouded Day",
+    "firstLine": "O, they tell me of a home far beyond the skies,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-222",
+    "number": "222",
+    "title": "After The Shadows",
+    "firstLine": "After the midnight, morning will greet us;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-223",
+    "number": "223",
+    "title": "Peace, Perfect Peace",
+    "firstLine": "Peace, perfect peace, in this dark world of sin?",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-224",
+    "number": "224",
+    "title": "There's A Rainbow In The Cloud",
+    "firstLine": "Composer; Alton Howard (arr. by P. West)",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-225",
+    "number": "225",
+    "title": "Jesus Calls Us",
+    "firstLine": "Jesus calls us o'er the tumult",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-226",
+    "number": "226",
+    "title": "Beyond The Sunset's Radiant Glow",
+    "firstLine": "Beyond the sunset's radiant glow,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-227",
+    "number": "227",
+    "title": "There Is A Habitation",
+    "firstLine": "There is a habitation, built by the living God,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-228",
+    "number": "228",
+    "title": "The Christian's Welcome Home",
+    "firstLine": "How sweet will be the welcome home,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-229",
+    "number": "229",
+    "title": "No, Not One",
+    "firstLine": "Composer George C. Hugg",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-230",
+    "number": "230",
+    "title": "This World Is Not My Home",
+    "firstLine": "This world is not my home, I'm just a' passing thru,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-231",
+    "number": "231",
+    "title": "Soldiers Of Christ, Arise",
+    "firstLine": "Soldiers of Christ arise And put your armor on;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-232",
+    "number": "232",
+    "title": "When All Of God's Singers Get Home",
+    "firstLine": "(Chorus V. O. Stamps)",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-233",
+    "number": "233",
+    "title": "The Greatest Of All Is Love",
+    "firstLine": "Walking by faith and not by sight,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-234",
+    "number": "234",
+    "title": "The Sands Of Time",
+    "firstLine": "The sands of time are sinking,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-237",
+    "number": "237",
+    "title": "Let The Lower Lights Be Burning",
+    "firstLine": "Brightly beams our Father's mercy",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-238",
+    "number": "238",
+    "title": "God Shall Wipe Away All Tears",
+    "firstLine": "When we reach that home and lay our burdens down,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-239",
+    "number": "239",
+    "title": "Footprints Of Jesus",
+    "firstLine": "Sweetly, Lord, have we heard Thee calling,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-240",
+    "number": "240",
+    "title": "My Home Above",
+    "firstLine": "There's a home beyond this body for the soul,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-241",
+    "number": "241",
+    "title": "The Gates Swing Outward Never",
+    "firstLine": "Just a few more days to be filled with praise,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-242",
+    "number": "242",
+    "title": "Only A Shadow Between",
+    "firstLine": "I have a home in a fair summer land,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-244",
+    "number": "244",
+    "title": "Over The Sunset Sea",
+    "firstLine": "Darkness is falling, the night draweth nigh,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-245",
+    "number": "245",
+    "title": "Where The Soul Never Dies",
+    "firstLine": "To Canaan's land I'm on my way,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-246",
+    "number": "246",
+    "title": "Gathering Home",
+    "firstLine": "Up to the bountiful Giver of life,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-247",
+    "number": "247",
+    "title": "Wounded For Me",
+    "firstLine": "Gladys Watkin Roberts",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-248",
+    "number": "248",
+    "title": "Home On The Banks Of The River",
+    "firstLine": "There's a beautiful home beyond the dark river,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-249",
+    "number": "249",
+    "title": "Seek Ye First",
+    "firstLine": "arr. by D. Shepard",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-250",
+    "number": "250",
+    "title": "Wonderful City",
+    "firstLine": "Scriptures: Hebrews 11:10",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-252",
+    "number": "252",
+    "title": "The Home Up There",
+    "firstLine": "This is not our rest, this is not our home,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-253",
+    "number": "253",
+    "title": "Heaven Will Surely Be Worth It All",
+    "firstLine": "Often I'm hindered on my way;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-254",
+    "number": "254",
+    "title": "On Jordan's Stormy Banks",
+    "firstLine": "On Jordan's stormy banks I stand,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-255",
+    "number": "255",
+    "title": "O Love That Will Not Let Me Go",
+    "firstLine": "O Love that will not let me go,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-256",
+    "number": "256",
+    "title": "Each Step Of The Way",
+    "firstLine": "I walk with the Savior each step of the way,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-257",
+    "number": "257",
+    "title": "How Sweet The Name Of Jesus Sounds",
+    "firstLine": "How sweet the name of Jesus sounds In a believer's ear!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-258",
+    "number": "258",
+    "title": "Home Of The Soul",
+    "firstLine": "If for the prize we have striven,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-260",
+    "number": "260",
+    "title": "Hand In Hand With Jesus",
+    "firstLine": "Once from my poor sin sick soul,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-261",
+    "number": "261",
+    "title": "Beautiful",
+    "firstLine": "Beautiful robes so white, Beautiful land of light,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-262",
+    "number": "262",
+    "title": "Some Blessed Day",
+    "firstLine": "Some day in Jesus' name, The sun will shine again,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-264",
+    "number": "264",
+    "title": "Whosoever Will",
+    "firstLine": "\"Whosoever heareth,\" shout, shout the sound!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-265",
+    "number": "265",
+    "title": "Faith Of Our Fathers",
+    "firstLine": "Faith of our fathers! living still,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-266",
+    "number": "266",
+    "title": "Have You Counted The Cost",
+    "firstLine": "There's a line that is drawn by rejecting our Lord,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-267",
+    "number": "267",
+    "title": "Jesus Loves Me",
+    "firstLine": "1 Jesus loves me! this I know,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-268",
+    "number": "268",
+    "title": "Hark, The Gentle Voice",
+    "firstLine": "Hark! the gentle voice of Jesus falleth",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-269",
+    "number": "269",
+    "title": "Nothing But The Blood",
+    "firstLine": "What can wash away my sins?",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-270",
+    "number": "270",
+    "title": "Give Me Thy Heart",
+    "firstLine": "\"Give me thy heart,\" says the Father above,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-271",
+    "number": "271",
+    "title": "Near To The Heart Of God",
+    "firstLine": "Scripture Isaiah 41:1",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-272",
+    "number": "272",
+    "title": "Jesus, The Loving Shepherd",
+    "firstLine": "Jesus, the loving Shepherd,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-274",
+    "number": "274",
+    "title": "Softly And Tenderly",
+    "firstLine": "Softly and tenderly Jesus is calling,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-275",
+    "number": "275",
+    "title": "Am I A Soldier Of The Cross",
+    "firstLine": "Am I a soldier of the cross,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-276",
+    "number": "276",
+    "title": "There Is Power In The Blood",
+    "firstLine": "Would you be free from your burden of sin?",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-277",
+    "number": "277",
+    "title": "Precious Words",
+    "firstLine": "Precious for ever! O, wonderful words,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-278",
+    "number": "278",
+    "title": "God Is Calling The Prodigal",
+    "firstLine": "God is calling the prodigal, come without delay",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-279",
+    "number": "279",
+    "title": "He Is Able To Deliver Thee",
+    "firstLine": "Composer; W. A. Ogden",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-281",
+    "number": "281",
+    "title": "A Savior Is Waiting",
+    "firstLine": "The Savior is waiting to enter your heart",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-282",
+    "number": "282",
+    "title": "Love For All",
+    "firstLine": "Love for all and can it be?",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-283",
+    "number": "283",
+    "title": "There's A Great Day Coming",
+    "firstLine": "There's a great day coming, a great day coming,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-284",
+    "number": "284",
+    "title": "What Will Your Answer Be",
+    "firstLine": "Someday you'll stand at the bar on high,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-285",
+    "number": "285",
+    "title": "Zion's Call",
+    "firstLine": "Zion's call sweetly rings over land and sea,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-286",
+    "number": "286",
+    "title": "Must Jesus Bear The Cross Alone",
+    "firstLine": "Must Jesus bear the cross alone,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-287",
+    "number": "287",
+    "title": "There's A Fountain Free",
+    "firstLine": "There's a fountain free, 'tis for you and me;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-288",
+    "number": "288",
+    "title": "Lord, I'm Coming Home",
+    "firstLine": "I've wandered far away from God,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-289",
+    "number": "289",
+    "title": "When I See The Blood",
+    "firstLine": "Christ, our Redeemer, died on the cross,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-291",
+    "number": "291",
+    "title": "Let Him Make Your Heart His Own 291 / *",
+    "firstLine": "Scripture; Revelation 3:20",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-292",
+    "number": "292",
+    "title": "The Lord's My Shepherd",
+    "firstLine": "The Lord's my Shepherd, I'll not want;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-293",
+    "number": "293",
+    "title": "Come To Jesus Today",
+    "firstLine": "Come to Jesus! He will save you,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-294",
+    "number": "294",
+    "title": "Jesus Is Calling",
+    "firstLine": "Jesus is tenderly calling thee home",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-295",
+    "number": "295",
+    "title": "Christ Receiveth Sinful Men",
+    "firstLine": "Sinners Jesus will receive:",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-296",
+    "number": "296",
+    "title": "How Firm A Foundation",
+    "firstLine": "How firm a foundation, ye saints of the Lord,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-297",
+    "number": "297",
+    "title": "Prepare To Meet Thy God",
+    "firstLine": "Careless soul, why will you linger,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-298",
+    "number": "298",
+    "title": "O Perfect Love",
+    "firstLine": "O perfect Love, all human tho't transcending,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-299",
+    "number": "299",
+    "title": "Glory To God * /",
+    "firstLine": "Glory to God, yes, glory to You,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-301",
+    "number": "301",
+    "title": "Soul, A Savior Thou Art Needing",
+    "firstLine": "Soul a Savior thou art needing !",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-302",
+    "number": "302",
+    "title": "Blest Be The Tie",
+    "firstLine": "Blest be the tie that binds",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-303",
+    "number": "303",
+    "title": "Whiter Than Snow",
+    "firstLine": "Composer; Wm. G. Fischer, 1872",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-304",
+    "number": "304",
+    "title": "Why Do You Wait",
+    "firstLine": "Why do you wait, dear sinner?",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-305",
+    "number": "305",
+    "title": "Let Him In",
+    "firstLine": "There's a stranger at the door, Let Him in;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-306",
+    "number": "306",
+    "title": "Lord, Dismiss Us",
+    "firstLine": "Lord, dismiss us with Thy blessing,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-307",
+    "number": "307",
+    "title": "Are You Washed In The Blood",
+    "firstLine": "Composer; E. A. Hoffman",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-308",
+    "number": "308",
+    "title": "Where Love Is In The Home",
+    "firstLine": "Where love is in the home there's happiness,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-310",
+    "number": "310",
+    "title": "Why Keep Jesus Waiting",
+    "firstLine": "Composer; C. C. Cline",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-311",
+    "number": "311",
+    "title": "Why Not Now",
+    "firstLine": "While we pray, and while we plead,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-312",
+    "number": "312",
+    "title": "Are You Coming To Jesus Tonight",
+    "firstLine": "The voice of the Savior says, \"Come,\"",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-313",
+    "number": "313",
+    "title": "Though Your Sins Be As Scarlet",
+    "firstLine": "\"Tho' your sins be as scarlet,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-314",
+    "number": "314",
+    "title": "There Is A Fountain",
+    "firstLine": "There is a fountain filled with blood",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-315",
+    "number": "315",
+    "title": "O Why Not Tonight",
+    "firstLine": "O, do not let the word depart,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-317",
+    "number": "317",
+    "title": "All Things Are Ready",
+    "firstLine": "\"All things are ready,\" come to the feast!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-318",
+    "number": "318",
+    "title": "Where Livest Thou",
+    "firstLine": "Where livest thou? In pleasures of the world?",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-319",
+    "number": "319",
+    "title": "Only A Step",
+    "firstLine": "Composer; Chas. H. Gabriel",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-320",
+    "number": "320",
+    "title": "Will Jesus Find Us Watching",
+    "firstLine": "When Jesus comes to reward His servants,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-321",
+    "number": "321",
+    "title": "Jesus I Come",
+    "firstLine": "Scripture; John 8:36",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-322",
+    "number": "322",
+    "title": "Bring Christ Your Broken Life",
+    "firstLine": "Bring Christ your broken life, So marred by sin,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-323",
+    "number": "323",
+    "title": "Where Will You Spend Eternity",
+    "firstLine": "Where will you spend eternity?",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-324",
+    "number": "324",
+    "title": "Come, Sinner, Come",
+    "firstLine": "While thru His Word He calls you,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-326",
+    "number": "326",
+    "title": "Trust And Obey",
+    "firstLine": "When we walk with the Lord",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-327",
+    "number": "327",
+    "title": "What Shall It Be",
+    "firstLine": "What will you do with Jesus?",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-328",
+    "number": "328",
+    "title": "His Sheep Am I * /",
+    "firstLine": "st. 2, Dane K. Shepard",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-329",
+    "number": "329",
+    "title": "God Calling Yet",
+    "firstLine": "God calling yet! shall I not hear?",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-330",
+    "number": "330",
+    "title": "Just As I Am",
+    "firstLine": "1 Just as I am, without one plea,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-331",
+    "number": "331",
+    "title": "Kneel At The Cross",
+    "firstLine": "Kneel at the cross, Christ will meet you there,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-333",
+    "number": "333",
+    "title": "Jesus Will Give You Rest",
+    "firstLine": "Will you come, will you come,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-334",
+    "number": "334",
+    "title": "Where He Leads Me",
+    "firstLine": "I can hear my Savior calling,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-335",
+    "number": "335",
+    "title": "Live For Jesus",
+    "firstLine": "Live for Jesus, O my brother,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-336",
+    "number": "336",
+    "title": "The Only Way",
+    "firstLine": "Would you be freed from your burden of sin?",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-337",
+    "number": "337",
+    "title": "Once For All",
+    "firstLine": "Free from the law, O, happy condition,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-338",
+    "number": "338",
+    "title": "The Great Physician",
+    "firstLine": "The great Physician now is near,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-339",
+    "number": "339",
+    "title": "Ye Must Be Born Again",
+    "firstLine": "A ruler once came to Jesus by night,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-341",
+    "number": "341",
+    "title": "The Way Of The Cross Leads Home",
+    "firstLine": "I must needs go home by the way of the cross,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-343",
+    "number": "343",
+    "title": "Let Him Have His Way With Thee",
+    "firstLine": "Would you live for Jesus, and be always pure and good?",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-344",
+    "number": "344",
+    "title": "Who At My Door Is Standing",
+    "firstLine": "Who at my door is standing,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-345",
+    "number": "345",
+    "title": "Room At The Cross For You",
+    "firstLine": "The cross upon which Jesus died",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-346",
+    "number": "346",
+    "title": "Shall I Crucify My Savior",
+    "firstLine": "Shall I crucify my Savior,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-347",
+    "number": "347",
+    "title": "Who Will Follow Jesus",
+    "firstLine": "Who will follow Jesus, Standing for the right,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-348",
+    "number": "348",
+    "title": "Almost Persuaded",
+    "firstLine": "\"Almost persuaded\" now to believe;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-349",
+    "number": "349",
+    "title": "Are You Willing To Open The Door",
+    "firstLine": "Are you willing to open the door",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-351",
+    "number": "351",
+    "title": "Will You Not Tell It Today",
+    "firstLine": "If the name of the Savior is precious to you,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-352",
+    "number": "352",
+    "title": "More Holiness Give Me",
+    "firstLine": "More holiness give me, More strivings within;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-353",
+    "number": "353",
+    "title": "He Lives",
+    "firstLine": "I serve a risen Savior, He's in the world today;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-354",
+    "number": "354",
+    "title": "O How Love I Thy Law",
+    "firstLine": "Unspotted is the fear of God,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-355",
+    "number": "355",
+    "title": "Break Thou The Bread Of Life",
+    "firstLine": "Eb-2-MI??S-3 W-3",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-357",
+    "number": "357",
+    "title": "The Hollow Of God's Hand",
+    "firstLine": "I am safe, what ever may betide me;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-358",
+    "number": "358",
+    "title": "Asleep In Jesus",
+    "firstLine": "Key; D Starting Note: A",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-359",
+    "number": "359",
+    "title": "Victory In Jesus",
+    "firstLine": "I heard an old, old story, How a Savior came from glory,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-360",
+    "number": "360",
+    "title": "Standing On The Promises",
+    "firstLine": "Standing on the promises of Christ my King,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-363",
+    "number": "363",
+    "title": "He Hideth My Soul",
+    "firstLine": "A wonderful Savior is Jesus my Lord,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-364",
+    "number": "364",
+    "title": "The Lord My Shepherd Is",
+    "firstLine": "The Lord my Shepherd is;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-365",
+    "number": "365",
+    "title": "The Haven Of Rest",
+    "firstLine": "My soul in sad exile was out on life's sea,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-366",
+    "number": "366",
+    "title": "Rescue The Perishing",
+    "firstLine": "Rescue the perishing, Care for the dying,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-367",
+    "number": "367",
+    "title": "The Rock That Is Higher Than I",
+    "firstLine": "O, sometimes the shadows are deep,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-368",
+    "number": "368",
+    "title": "Rock Of Ages",
+    "firstLine": "Rock of Ages, cleft for me,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-369",
+    "number": "369",
+    "title": "Mended And Whole",
+    "firstLine": "Oh how great the salvation in Jesus,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-370",
+    "number": "370",
+    "title": "Father, Take This Heart Of Mine",
+    "firstLine": "Father, take this heart of mine,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-371",
+    "number": "371",
+    "title": "Christ's Love Is All I Need",
+    "firstLine": "Tho' dark and dreary be life's way and burdens hard to bear;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-372",
+    "number": "372",
+    "title": "We Thank Thee, O Father",
+    "firstLine": "Trans. by Jane M. Campbell, 1861",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-373",
+    "number": "373",
+    "title": "Hold Thou My Hand",
+    "firstLine": "Hold Thou my hand, so weak I am, and helpless,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-374",
+    "number": "374",
+    "title": "Ring Out The Message",
+    "firstLine": "There's a message true and glad for the sinful and the sad,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-375",
+    "number": "375",
+    "title": "The Lord's My Shepherd, I'll Not Want",
+    "firstLine": "The Lord's my Shepherd, I'll not want;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-376",
+    "number": "376",
+    "title": "Onward, Christian Soldiers",
+    "firstLine": "Onward, Christian soldiers, Marching as to war,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-377",
+    "number": "377",
+    "title": "Lord, I Believe",
+    "firstLine": "When we behold the wonders of creation,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-378",
+    "number": "378",
+    "title": "The Solid rock",
+    "firstLine": "My hope is built on nothing less",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-379",
+    "number": "379",
+    "title": "Hiding In Thee",
+    "firstLine": "O safe to the Rock that is higher than I.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-381",
+    "number": "381",
+    "title": "Work, For The Night Is Coming",
+    "firstLine": "Work for the night is coming, Work thru the morning hours;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-383",
+    "number": "383",
+    "title": "Whispering Hope",
+    "firstLine": "2nd Soprano - for 1st part",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-384",
+    "number": "384",
+    "title": "A Shelter In The Time Of Storm",
+    "firstLine": "The Lord's our Rock in Him we hide,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-385",
+    "number": "385",
+    "title": "What Did He Do",
+    "firstLine": "O listen to our wondrous story;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-386",
+    "number": "386",
+    "title": "Jesus Is Coming Soon",
+    "firstLine": "Troublesome times are her, filling men's hearts with fear,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-387",
+    "number": "387",
+    "title": "Far And Near",
+    "firstLine": "Far and near the fields are teeming",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-388",
+    "number": "388",
+    "title": "Give Of Your Best To The Master",
+    "firstLine": "Give of your best to the Master:",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-389",
+    "number": "389",
+    "title": "Sing On, Ye Joyful Pilgrims",
+    "firstLine": "Sing on, ye joyful pilgrims, Nor think the moments long;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-390",
+    "number": "390",
+    "title": "Anywhere With Jesus",
+    "firstLine": "Anywhere With Jesus 390",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-391",
+    "number": "391",
+    "title": "Savior, Like A Shepherd Lead Us",
+    "firstLine": "Savior, like a shepherd lead us,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-392",
+    "number": "392",
+    "title": "Count Your Blessings",
+    "firstLine": "When upon life's billows you are tempest tossed,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-393",
+    "number": "393",
+    "title": "Love Divine",
+    "firstLine": "1 Love divine, all love excelling,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-394",
+    "number": "394",
+    "title": "Love One Another",
+    "firstLine": "Angry words! O let them never",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-395",
+    "number": "395",
+    "title": "A Beautiful Life",
+    "firstLine": "Each day I'll do a golden deed,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-396",
+    "number": "396",
+    "title": "We'll Work Till Jesus Comes",
+    "firstLine": "O land of rest for thee I sigh!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-397",
+    "number": "397",
+    "title": "Stand Up, Stand Up For Jesus!",
+    "firstLine": "Stand up, stand up for Jesus! Ye soldiers of the cross;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-398",
+    "number": "398",
+    "title": "My Redeemer",
+    "firstLine": "I will sing of my Redeemer,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-399",
+    "number": "399",
+    "title": "Face To Face",
+    "firstLine": "Face to face with Christ my Savior,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-400",
+    "number": "400",
+    "title": "When I Get To The End Of The Way",
+    "firstLine": "The sands have been washed in the footprints",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-402",
+    "number": "402",
+    "title": "Leaning On The Everlasting Arms",
+    "firstLine": "Scriptures: Deuteronomy 33:27",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-404",
+    "number": "404",
+    "title": "Harvest Time",
+    "firstLine": "Arise the Master calls for thee, The harvest days are here!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-405",
+    "number": "405",
+    "title": "Wonderful Words of Life",
+    "firstLine": "Sing them over again to me,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-406",
+    "number": "406",
+    "title": "More About Jesus",
+    "firstLine": "More about Jesus would I know,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-407",
+    "number": "407",
+    "title": "He Leadeth me",
+    "firstLine": "He leadeth me! O blessed thought!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-408",
+    "number": "408",
+    "title": "Cleanse Me",
+    "firstLine": "Composer; Maori Melody arr. Otis L. McCoy",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-409",
+    "number": "409",
+    "title": "The Church's One Foundation",
+    "firstLine": "The church's one foundation is Jesus Christ her Lord",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-410",
+    "number": "410",
+    "title": "The Church's One Foundation",
+    "firstLine": "The church's one foundation is Jesus Christ her Lord",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-411",
+    "number": "411",
+    "title": "Redeemed",
+    "firstLine": "Redeemed, how I love to proclaim it!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-412",
+    "number": "412",
+    "title": "God Is Love",
+    "firstLine": "Come, let us all unite to sing, God is love;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-413",
+    "number": "413",
+    "title": "Lift Him Up 413 / *",
+    "firstLine": "How to reach the masses, men of ev'ry birth?",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-414",
+    "number": "414",
+    "title": "O How I Love Jesus",
+    "firstLine": "There is a name I love to hear,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-415",
+    "number": "415",
+    "title": "To Christ Be True",
+    "firstLine": "C-4-MI??C-16 L-6",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-416",
+    "number": "416",
+    "title": "Do All In The Name Of The Lord",
+    "firstLine": "Whate'er you do in word or deed,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-417",
+    "number": "417",
+    "title": "Under His Wings",
+    "firstLine": "Under His wings I am safely abiding;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-418",
+    "number": "418",
+    "title": "Sweet Peace, The Gift Of God's Love",
+    "firstLine": "Scripture; Philippians 4:7",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-419",
+    "number": "419",
+    "title": "Thou Thinkest, Lord, Of Me",
+    "firstLine": "Amid the trials which I meet,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-420",
+    "number": "420",
+    "title": "O Thou Fount Of Every Blessings",
+    "firstLine": "O, Thou Fount of ev'ry blessing,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-421",
+    "number": "421",
+    "title": "Sweeter Than All",
+    "firstLine": "Christ will me His aid afford,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-422",
+    "number": "422",
+    "title": "Jesus Saves",
+    "firstLine": "We have heard the joyful sound;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-423",
+    "number": "423",
+    "title": "'Tis So Sweet To Trust In Jesus",
+    "firstLine": "1 'Tis so sweet to trust in Jesus,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-424",
+    "number": "424",
+    "title": "The Gospel Is For All",
+    "firstLine": "Of one the Lord has made the race,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-425",
+    "number": "425",
+    "title": "Sunshine In My Soul",
+    "firstLine": "There's sunshine in my soul today,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-426",
+    "number": "426",
+    "title": "At Calvary",
+    "firstLine": "1 Years I spent in vanity and pride,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-427",
+    "number": "427",
+    "title": "Sweet Will Of God",
+    "firstLine": "My stubborn will at last hath yielded;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-428",
+    "number": "428",
+    "title": "O Happy day",
+    "firstLine": "O, happy day that fixed my choice,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-429",
+    "number": "429",
+    "title": "Sunlight",
+    "firstLine": "I wandered in the shades of night,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-430",
+    "number": "430",
+    "title": "Take The Name Of Jesus With You",
+    "firstLine": "Take the name of Jesus with you,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-431",
+    "number": "431",
+    "title": "None Of Self And All Of Thee",
+    "firstLine": "O, the bitter pain and sorrow That a time could ever be,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-434",
+    "number": "434",
+    "title": "All Hail The Power Of Jesus' Name",
+    "firstLine": "All hail the power of Jesus' name!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-435",
+    "number": "435",
+    "title": "How Shall The Young Secure",
+    "firstLine": "How shall the young secure their hearts,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-436",
+    "number": "436",
+    "title": "Unto The Hills 436 / *",
+    "firstLine": "Unto the hills around do I lift up",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-437",
+    "number": "437",
+    "title": "Thy Will Be Done",
+    "firstLine": "Lord, we sing unto Thy glory,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-438",
+    "number": "438",
+    "title": "We Walk By Faith",
+    "firstLine": "We look at things we cannot see,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-439",
+    "number": "439",
+    "title": "Psalm 19",
+    "firstLine": "The law of the Lord is perfect,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-440",
+    "number": "440",
+    "title": "Silent Night, Holy Night",
+    "firstLine": "1 Silent night, holy night,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-441",
+    "number": "441",
+    "title": "Christ Liveth in Me",
+    "firstLine": "Once far from God and dead in sin,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-442",
+    "number": "442",
+    "title": "Yield Not To Temptation",
+    "firstLine": "Yield not to temptation, For yielding is sin;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-443",
+    "number": "443",
+    "title": "Come, Ye Thankful People, Come",
+    "firstLine": "Key; G Starting Note: B",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-444",
+    "number": "444",
+    "title": "Set Your Mind",
+    "firstLine": "Composer; Dusty Owens, arr. by M. Garrett",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-445",
+    "number": "445",
+    "title": "Jesus, Rose Of Sharon",
+    "firstLine": "Jesus, Rose of Sharon, bloom within my heart;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-446",
+    "number": "446",
+    "title": "Jesus, My Precious Savior",
+    "firstLine": "Jesus, my precious Savior,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-448",
+    "number": "448",
+    "title": "To Love The Lord",
+    "firstLine": "R. J. Stevens",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-449",
+    "number": "449",
+    "title": "Now I Believe In Jesus",
+    "firstLine": "Jesus came down from heaven,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-450",
+    "number": "450",
+    "title": "Yes, For Me He Careth",
+    "firstLine": "Key; Bb Starting Note: F",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-451",
+    "number": "451",
+    "title": "Jesus Is All The World To Me",
+    "firstLine": "Jesus is all the world to me,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-452",
+    "number": "452",
+    "title": "He Keeps Me Singing",
+    "firstLine": "There's within my heart a melody",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-453",
+    "number": "453",
+    "title": "Ye Are The Light Of The World",
+    "firstLine": "O, Christian, do not hide your light!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-454",
+    "number": "454",
+    "title": "Let The Beauty Of Jesus Be Seen",
+    "firstLine": "Let the beauty of Jesus be seen in me,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-455",
+    "number": "455",
+    "title": "Take My Hand And Lead Me",
+    "firstLine": "I want to live, dear Lord for Thee,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-456",
+    "number": "456",
+    "title": "Hold His Nail-Scarred Hand",
+    "firstLine": "3rd Verse - R. J. Stevens",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-457",
+    "number": "457",
+    "title": "The Last Mile Of The Way",
+    "firstLine": "If I walk in the pathway of duty,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-459",
+    "number": "459",
+    "title": "The Precious Book Divine",
+    "firstLine": "Composer; L. O. Sanderson",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-460",
+    "number": "460",
+    "title": "The World's Bible",
+    "firstLine": "Christ has no hands but our hands To do His work today,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-461",
+    "number": "461",
+    "title": "He Changes Not",
+    "firstLine": "Amid the changing scenes below,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-462",
+    "number": "462",
+    "title": "God Will Take Care Of You",
+    "firstLine": "Be not dismayed what e'er betide,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-463",
+    "number": "463",
+    "title": "Hold To God's Unchanging Hand",
+    "firstLine": "Time is filled with swift transition,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-464",
+    "number": "464",
+    "title": "Precious Memories",
+    "firstLine": "Precious mem'ries, unseen angels,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-465",
+    "number": "465",
+    "title": "Jesus Knows And Cares",
+    "firstLine": "Composer; Paul H. Epps",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-466",
+    "number": "466",
+    "title": "Does Jesus Care",
+    "firstLine": "Does Jesus care when my heart is pained",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-467",
+    "number": "467",
+    "title": "Turn Your Eyes Upon Jesus",
+    "firstLine": "O soul, are you weary and troubled?",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-468",
+    "number": "468",
+    "title": "Happiness Is The Lord",
+    "firstLine": "Composer; Ira F. Stanphill",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-469",
+    "number": "469",
+    "title": "Why Do I Sing About Jesus",
+    "firstLine": "Deep in my heart there's a gladness,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-470",
+    "number": "470",
+    "title": "Do You Know My Jesus",
+    "firstLine": "Have you a heart that's weary,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-471",
+    "number": "471",
+    "title": "Why Can't We See",
+    "firstLine": "This life's too short and filled with pain,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-472",
+    "number": "472",
+    "title": "God Give Us Christian Homes",
+    "firstLine": "God, give us Christian homes!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-473",
+    "number": "473",
+    "title": "When He Comes In Glory By And By",
+    "firstLine": "O, how sweet 'twill be to meet the Lord,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-474",
+    "number": "474",
+    "title": "Grace Greater Than Our Sin",
+    "firstLine": "Composer; D. B. Towner",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-475",
+    "number": "475",
+    "title": "One Holy Church",
+    "firstLine": "2-3 stanzas and chorus by T. S. T.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-476",
+    "number": "476",
+    "title": "Lead Me To Some Soul Today",
+    "firstLine": "vs. 2-4 by Ellis J. Crum",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-477",
+    "number": "477",
+    "title": "My Task",
+    "firstLine": "F. H. Pickup, v. 3",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-478",
+    "number": "478",
+    "title": "The Lord Has Been Mindful Of Me",
+    "firstLine": "Though I, thro' the valley of shadow,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-480",
+    "number": "480",
+    "title": "Dare To Stand Like Joshua",
+    "firstLine": "Key; Bb Starting Note: Bb",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-481",
+    "number": "481",
+    "title": "Give Me A Love Like Thine",
+    "firstLine": "Composer; Merrill Dunlop",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-482",
+    "number": "482",
+    "title": "Just A Closer Walk With Thee",
+    "firstLine": "I am weak but Thou art strong,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-483",
+    "number": "483",
+    "title": "Now I Belong To Jesus",
+    "firstLine": "Key; Ab Starting Note: Ab",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-486",
+    "number": "486",
+    "title": "What Shall It Profit",
+    "firstLine": "Not all earth's gold and silver",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-487",
+    "number": "487",
+    "title": "A New Creature",
+    "firstLine": "Buried with Christ, my blessed Redeemer,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-488",
+    "number": "488",
+    "title": "Jesus Paid It All",
+    "firstLine": "1 I hear the Savior say,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-489",
+    "number": "489",
+    "title": "Blessed Are They",
+    "firstLine": "Blessed are they who do His commandments,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-490",
+    "number": "490",
+    "title": "Give Me A Burning Heart",
+    "firstLine": "Give me, o Lord, a burning heart",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-491",
+    "number": "491",
+    "title": "Remember Me, O Mighty One",
+    "firstLine": "When storms around are sweeping,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-492",
+    "number": "492",
+    "title": "Something Worth Living for",
+    "firstLine": "Life was shattered and hope was gone-",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-493",
+    "number": "493",
+    "title": "Heaven Came Down",
+    "firstLine": "Oh, what a wonderful, wonderful day -",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-494",
+    "number": "494",
+    "title": "Lead On, O King Eternal",
+    "firstLine": "Key; D Starting Note: A",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-494a",
+    "number": "494a",
+    "title": "Psalm 24",
+    "firstLine": "The earth and the riches with which it is stored, the world and its dwellers, belong to the Lord, for He on the seas its foundation has laid. And firm on the waters its pillars has stayed.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-495",
+    "number": "495",
+    "title": "Joy To The World * /",
+    "firstLine": "Composer; Arr. from George F. Handel",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-496",
+    "number": "496",
+    "title": "We Have An Anchor 495 /",
+    "firstLine": "Will your anchor hold in the storms of life,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-496a",
+    "number": "496a",
+    "title": "Psalm 46:1-7",
+    "firstLine": "God is our refuge and our strength, in straits a present aid; and, therefore, tho' the earth remove we will not be afraid; Tho' hills amidst the seas be cast, Tho' troubled waters roar, Yea, tho' the swelling billows shake the mountains on the shore.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-497a",
+    "number": "497a",
+    "title": "Psalm 91",
+    "firstLine": "Who with God Most High finds shelter in th' Almighty hides. To the Lord I'll say, \"My Refuge!\" In my God my trust abides, from the fowler's snare He'll save you, from the deadly pestilence; cover you with outspread pinions, make His wings your confidence.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-498",
+    "number": "498",
+    "title": "Where He Leads I'll Follow 496 /",
+    "firstLine": "Composer; W. A. Ogden",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-499",
+    "number": "499",
+    "title": "Loved Ones * /",
+    "firstLine": "Key; Ab Starting Note: Eb",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-500",
+    "number": "500",
+    "title": "Give Me The Bible 497 /",
+    "firstLine": "Give me the Bible, star of gladness gleaming,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-501",
+    "number": "501",
+    "title": "Psalm 51:1-4,9-15 501a /",
+    "firstLine": "God be merciful to me; on Thy grace I rest my plea; in Thy vast abounding grace, my transgressions all erase. Wash me wholly from my sin; cleanse from every ill within.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-502",
+    "number": "502",
+    "title": "True-Hearted, Whole-Hearted 498 /",
+    "firstLine": "True hearted, whole hearted, faithful and loyal,",
+    "hasAudio": false
+  },
+  {
+    "id": "hymn-503",
+    "number": "503",
+    "title": "Enter Into His Gates * /",
+    "firstLine": "Key; Eb Starting Note: Bb",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-503a",
+    "number": "503a",
+    "title": "Teach Me Thy Way, O Lord",
+    "firstLine": "Teach me Thy way, O Lord, Teach me Thy way! Thy guiding grace afford - Teach me Thy way! Help me to walk aright, More by faith, less by sight; Lead me with heavenly light -- Teach me Thy way!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-504a",
+    "number": "504a",
+    "title": "Adoration And Praise",
+    "firstLine": "Come, sound His praise abroad, and hymns of glory sing; Jehovah is the sovereign God, the universal King.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-505",
+    "number": "505",
+    "title": "Glorify Thy Name * /",
+    "firstLine": "Scripture; John 12:28",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-505a",
+    "number": "505a",
+    "title": "Psalm 67",
+    "firstLine": "O God, to us show mercy, and bless us in Thy grace; cause Thou to shine upon us the brightness of Thy face; that so Thy way most holy on earth may soon be known, and unto every people Thy saving grace be shown.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-506",
+    "number": "506",
+    "title": "The Kingdoms Of Earth Pass Away 500 /",
+    "firstLine": "The kingdoms of earth pass away one by one,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-506a",
+    "number": "506a",
+    "title": "Psalm 2",
+    "firstLine": "Why do the heathen nations rage? Why do peoples folly mind? Kings of earth in plots engage, rulers are in league combined; Then against Jehovah high, and against Messiah's sway, \"Let us break their band,\" they cry, \"Let us cast their cords away.\"",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-508",
+    "number": "508",
+    "title": "To The Work 501 /",
+    "firstLine": "To the work! to the work! We are servants of God,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-508a",
+    "number": "508a",
+    "title": "My Song Shall Be Of Jesus",
+    "firstLine": "My song shall be of Jesus, His mercy crowns my days, He fills my cup with blessings, and tunes my heart to praise; my song shall be of Jesus, the precious Lamb of God, who gave Himself my ransom, and bought me with His blood.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-509",
+    "number": "509",
+    "title": "We Shall Stand Before The Throne * /",
+    "firstLine": "D minor-4-LA?I-1 J-2",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-510a",
+    "number": "510a",
+    "title": "Psalm 8",
+    "firstLine": "O Lord, our Lord, in all the earth how excellent Thy name! Thou hast Thy glory spread afar upon the starry frame.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-511",
+    "number": "511",
+    "title": "Visions Of Calvary * /",
+    "firstLine": "arr. by R. J. Stevens",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-511a",
+    "number": "511a",
+    "title": "Psalm 22",
+    "firstLine": "My God, my God, O why hast Thou forsaken me? O why art Thou so far from giving help and from my groaning cry?",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-512",
+    "number": "512",
+    "title": "God Be With You 503 /",
+    "firstLine": "God Be With You 503 / 512",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-512a",
+    "number": "512a",
+    "title": "Softly Now The LIght Of Day",
+    "firstLine": "Softly now the light of day",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-513",
+    "number": "513",
+    "title": "Psalm 104:31-35 509a /",
+    "firstLine": "Forever O may the Lord's glory stand! The Lord shall enjoy each work of his hadn. He looks on the earth and it trembles in fear; when He touches mountains, the smoke will appear.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-514",
+    "number": "514",
+    "title": "Singing Redemption'sSong 504 /",
+    "firstLine": "Angels are singing redemption's sweet song,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-514a",
+    "number": "514a",
+    "title": "Psalm 16",
+    "firstLine": "Keep me, O God; I trust in Thee. Jehovah, I confess Thou art my Lord; apart from Thee no good do I possess.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-515",
+    "number": "515",
+    "title": "With One Accord * /",
+    "firstLine": "arr. by R. J. Stevens",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-515a",
+    "number": "515a",
+    "title": "\"Take Up Your Cross,\" the Savior Said",
+    "firstLine": "\"Take up your cross,\" the Savior said, \"If you would My disciple be; take up your cross with willing heart, and humbly follow after Me.\"",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-516",
+    "number": "516",
+    "title": "We Are Going Down The Valley 516 / *",
+    "firstLine": "We are going down the valley one by one,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-516a",
+    "number": "516a",
+    "title": "Jesus, Thy Boundless Love To Me",
+    "firstLine": "Jesus, Thy boundless love to me no thought can reach, no tongue declare; O knit my thankful heart to Thee, and reign without a rival there! Thine wholly, Thine alone, I'd live, myself to Thee entirely give.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-517",
+    "number": "517",
+    "title": "Quiet Joy * /",
+    "firstLine": "arr. by G.B.S. & R. J. Stevens",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-517a",
+    "number": "517a",
+    "title": "Praise The Lord! Ye Heavens, Adore Him",
+    "firstLine": "Praise the Lord; ye heavens adore Him,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-518",
+    "number": "518",
+    "title": "Stepping In The Light 506 /",
+    "firstLine": "Trying to walk in the steps of the Savior,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-519",
+    "number": "519",
+    "title": "As We Partake * /",
+    "firstLine": "As we partake of the supper of Jesus,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-519a",
+    "number": "519a",
+    "title": "Hark, The Voice Of Jesus Calling",
+    "firstLine": "Hark, the voice of Jesus calling, \"Who will go and work today? Fields are white, and harvests waiting, Who will bear the sheaves away?\" Loud and long the Master calleth, rich reward He offers free; who will answer, gladly saying, \"Here am I, send me, send me\"?",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-520",
+    "number": "520",
+    "title": "Seeking The Lost 507 /",
+    "firstLine": "Seeking the lost, yes, kindly entreating",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-520a",
+    "number": "520a",
+    "title": "Psalm 136",
+    "firstLine": "Give to our God immortal praise; mercy and truth are all His ways; Wonders of grace to God belong; repeat His mercies in your song.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-521",
+    "number": "521",
+    "title": "Jesus My Savior, Look On Me * /",
+    "firstLine": "Jesus, my Savior, look on me,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-522",
+    "number": "522",
+    "title": "When The Roll Is Called Up Yonder 508 /",
+    "firstLine": "When the trumpet of the Lord shall sound,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-522a",
+    "number": "522a",
+    "title": "Before Jehovah's Awful Throne",
+    "firstLine": "Before Jehovah's awful throne, ye nations, bow with sacred joy; know that the Lord is God alone; He can create and He destroy.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-523",
+    "number": "523",
+    "title": "Take Up Your Cross * /",
+    "firstLine": "\"Take up your cross,\" the Savior said, \"If you would My disciple be; take up your cross with willing heart, and humbly follow after Me.\"",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-524",
+    "number": "524",
+    "title": "Fear Not, Little Flock 509 /",
+    "firstLine": "Fear not, little flock says the Savior divine,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-524a",
+    "number": "524a",
+    "title": "Psalm 1",
+    "firstLine": "O greatly blessed is the man, who walketh not astray in counsel of ungodly men, nor stands in sinners way.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-525",
+    "number": "525",
+    "title": "To Be Like Jesus * /",
+    "firstLine": "Scripture; Philippians 2:5",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-525a",
+    "number": "525a",
+    "title": "Psalm 145",
+    "firstLine": "Click Here to Play Alternate Tune in Original Edition:",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-526",
+    "number": "526",
+    "title": "Wonderful, Wonderful Jesus 510 /",
+    "firstLine": "There is never a day so dreary,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-526a",
+    "number": "526a",
+    "title": "Sweet Is The Solemn Voice That Calls",
+    "firstLine": "Sweet is the solemn voice that calls the Christian to the house of prayer; I love to stand within its walls, For Thou, O Lord, art present there.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-527",
+    "number": "527",
+    "title": "By Faith I See * /",
+    "firstLine": "arr. by Dane K. Shepard",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-527a",
+    "number": "527a",
+    "title": "Psalm 15",
+    "firstLine": "Lord, in Thy net who will abide with Thee, and on Thy Holy Hill a dweller be? Who walks in uprightness, who worketh righteousness, Who doth the truth express unfeignedly.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-529",
+    "number": "529",
+    "title": "Prayer Is The Soul's Sincere Desire * /",
+    "firstLine": "Composer; Traditional American Melody",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-530",
+    "number": "530",
+    "title": "Looking To Thee 512 /",
+    "firstLine": "Looking to Thee from day to day,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-530a",
+    "number": "530a",
+    "title": "Psalm 29",
+    "firstLine": "O give to Jehovah, you sons of the Mighty, both glory and strength to Jehovah accord! O give to Jehovah His greatness of glory! In splendor of holiness worship the Lord!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-531",
+    "number": "531",
+    "title": "Love, Love * /",
+    "firstLine": "PLAY Soprano 1",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-532",
+    "number": "532",
+    "title": "We Shall See The King Some Day 513 /",
+    "firstLine": "Tho' the way we journey may be often drear,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-533",
+    "number": "533",
+    "title": "Fight The Good Fight 536a /",
+    "firstLine": "Original edition Click here to play",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-533a",
+    "number": "533a",
+    "title": "Ye Servants Of God, your Master Proclaim",
+    "firstLine": "Ye servants of God, your Master proclaim,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-534",
+    "number": "534",
+    "title": "Tell Me The Old, Old Story 514 /",
+    "firstLine": "Tell me the old, old story Of unseen things above,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-535",
+    "number": "535",
+    "title": "Savior, Mine, I Remember Thee * /",
+    "firstLine": "St. 4 by Dane K. Shepard",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-535a",
+    "number": "535a",
+    "title": "We Are Living, We Are Dwelling",
+    "firstLine": "We are living, we are dwelling in a grand and awful time, in an age on ages telling; to be living is sublime. Hark! the waking up of nations, Hosts advancing to the fray; Hark! what soundeth is creation's groaning for the latter day.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-536",
+    "number": "536",
+    "title": "Oh, The Things We May Do 515 /",
+    "firstLine": "Have you lifted a stone from your brother's way,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-537",
+    "number": "537",
+    "title": "Open Our Eyes * /",
+    "firstLine": "Scripture; Matthew 5:8",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-538",
+    "number": "538",
+    "title": "Majesty * /",
+    "firstLine": "Copyright 1981 by Rocksmith Music, c/o Trust Music Management. All rights reserved. Used By Permission.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-539",
+    "number": "539",
+    "title": "Share My Burdens, Lord * /",
+    "firstLine": "Dear Lord, I pray that Thou wilt help me bear my heavy load;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-540",
+    "number": "540",
+    "title": "Come Unto Me 517 /",
+    "firstLine": "O, heart bowed down with sorrow!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-540a",
+    "number": "540a",
+    "title": "Psalm 133",
+    "firstLine": "Behold how good a thing it is, and how becoming well, when those that brethren are delight in unity to dwell.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-541",
+    "number": "541",
+    "title": "Draw Thou My Soul, O Christ * /",
+    "firstLine": "Draw Thou my soul, O Christ, closer to thine;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-541a",
+    "number": "541a",
+    "title": "God, Our Father, We Adore Thee",
+    "firstLine": "God, our Father, we adore Thee! We Thy children, bless Thy name! Chosen in the Christ before Thee, we are 'holy without blame'. We adore Thee! we adore Thee! Abba's praises we proclaim! We adore Thee! we adore Thee! Abba's praises we proclaim!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-542",
+    "number": "542",
+    "title": "He Lifted Me 518 /",
+    "firstLine": "In loving kindness, Jesus came",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-543",
+    "number": "543",
+    "title": "Great God Of Nations 518a /",
+    "firstLine": "Originial Edition: Click Here To Play",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-543a",
+    "number": "543a",
+    "title": "When This Passing World Is Done",
+    "firstLine": "When this passing world is done, when has sunk yon glaring sun, when I stand with Christ on high, looking o'er life's history -- then Lord, shall I fully know, not till then, how much I owe. Then Lord, shall I fully know, not till then how much I owe.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-544",
+    "number": "544",
+    "title": "Send The Light 519 /",
+    "firstLine": "There's a call come ringing o'er the restless waves,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-544a",
+    "number": "544a",
+    "title": "Just As I Am, Thine Own To Be",
+    "firstLine": "Just as I am, Thine own to be, friend of the young, who lovest me, To consecrate myself to Thee, O Jesus Christ, i come. I come.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-545",
+    "number": "545",
+    "title": "Rise Up, O Child Of God! * /",
+    "firstLine": "Rise up, O child of God!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-546a",
+    "number": "546a",
+    "title": "Psalm 139:17-20,23,24",
+    "firstLine": "Thy thoughts, O God, to me are dear; how great their sum! they more appear in number than the sand to me. When I awake, I'm still with Thee.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-547",
+    "number": "547",
+    "title": "Give To Our God Immortal Praise 520a /",
+    "firstLine": "Give to our God immortal praise; mercy and truth are all His ways; Wonders of grace to God belong; repeat His mercies in your song.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-548",
+    "number": "548",
+    "title": "Let Your Light Shine 548 / *",
+    "firstLine": "Key; G Starting Note: G",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-549",
+    "number": "549",
+    "title": "May The Grace Of Christ Our Savior * /",
+    "firstLine": "May the grace of Christ our Savior",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-550",
+    "number": "550",
+    "title": "For Christ And The Church 522 /",
+    "firstLine": "\"For Christ and the church\" let our voices ring,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-550a",
+    "number": "550a",
+    "title": "Psalm 146",
+    "firstLine": "Hallelujah! Praise Jehovah! O my soul, Jehovah praise! while I live I'll praise Jehovah, praise my God through all my days. Put not confidence in princes, nor for help on man depend; He shall die, to dust returning, and his purposes shall end.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-551",
+    "number": "551",
+    "title": "Walk In The Light * /",
+    "firstLine": "Walk in the light! and you shall know",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-552",
+    "number": "552",
+    "title": "Living For Jesus 523 /",
+    "firstLine": "Living for Jesus a life that is true,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-552a",
+    "number": "552a",
+    "title": "Psalm 148",
+    "firstLine": "Click Here to Play Alternate tune suggested in original edition:",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-553",
+    "number": "553",
+    "title": "Hear Our Prayer, O Lord * /",
+    "firstLine": "Scripture; Proverbs 15:29",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-553a",
+    "number": "553a",
+    "title": "Psalm 23",
+    "firstLine": "The Lord is my shepherd; no want shall come nigh. Within the green pastures He makes me to lie. Beside the still waters He leads me to rest; My soul He revives when I'm faint and oppressed.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-554",
+    "number": "554",
+    "title": "The King's Business 524 /",
+    "firstLine": "I am a stranger here, Within a foreign land;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-554a",
+    "number": "554a",
+    "title": "Psalm 113",
+    "firstLine": "Praise Jehovah; praise the Lord; Ye His servants, praise accord; Blessed by Jehovah's name; evermore his praise proclaim, ever more His praise proclaim.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-555",
+    "number": "555",
+    "title": "Psalm 119:9-16 531a /",
+    "firstLine": "Click Here To Play 1st Edition",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-555a",
+    "number": "555a",
+    "title": "O Come, All Ye Faithful",
+    "firstLine": "1 O come all ye faithful, joyful, and triumphant,",
+    "hasAudio": false
+  },
+  {
+    "id": "hymn-556",
+    "number": "556",
+    "title": "O I Want To See Him 525 /",
+    "firstLine": "As I journey thru the land singing as I go,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-556a",
+    "number": "556a",
+    "title": "'Tis My Happiness Below",
+    "firstLine": "'Tis my happiness below, not to live without the cross; but the Savior's pow'r to know, sanctifying ev'ry loss.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-557",
+    "number": "557",
+    "title": "Resurrection * /",
+    "firstLine": "Composer; Richard L. Morrison",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-558",
+    "number": "558",
+    "title": "Sweeter As The Years Go By 526 /",
+    "firstLine": "Of Jesus' love that sought me, When I was lost in sin;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-558a",
+    "number": "558a",
+    "title": "Psalm 110",
+    "firstLine": "Jehovah to my Lord has said, \"Sit Thou at My right hand until I make Thy foes a stool where-on Thy feet may stand.\" Jehovah shall from Zion send the scepter of Thy power. In battle with Thine enemies be Thou the conqueror.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-559",
+    "number": "559",
+    "title": "Psalm 106:1-5 528a /",
+    "firstLine": "O praise the Lord! O thank the Lord! For bountiful is He; because His loving kindness lasts to all eternity.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-559a",
+    "number": "559a",
+    "title": "Come, My Soul, Your Plea Prepare",
+    "firstLine": "Come, my soul, your plea prepare, Jesus loves to answer prayer; He Himself has bid you pray, therefore will not turn away.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-560",
+    "number": "560",
+    "title": "More Like The Master 527 /",
+    "firstLine": "More like the Master I would ever be",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-561",
+    "number": "561",
+    "title": "Praise God From Whom All Blessings * /",
+    "firstLine": "Praise God from whom all blessings flow;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-562",
+    "number": "562",
+    "title": "No One Ever Cared For Me Like Jesus 528 /",
+    "firstLine": "I would love to tell you what I think of Jesus,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-562a",
+    "number": "562a",
+    "title": "Great God, We Sing That Mighty Hand",
+    "firstLine": "Great God, we sing that mighty hand by which supported still we stand; the opening year Thy mercy shows; that mercy crown it till it close.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-563",
+    "number": "563",
+    "title": "Jesus, Name Above All Names * /",
+    "firstLine": "Scripture; 1 Thessalonians 1:12",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-564",
+    "number": "564",
+    "title": "Follow Me 529 /",
+    "firstLine": "Key; Eb Starting Note: G",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-565",
+    "number": "565",
+    "title": "He Is Lord * /",
+    "firstLine": "Composer; American Foly Melody",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-566",
+    "number": "566",
+    "title": "Christ Returneth 530 /",
+    "firstLine": "Db-3,4-DO S-2",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-567",
+    "number": "567",
+    "title": "O Father, Let Us See His Death * /",
+    "firstLine": "Scripture; hebrews 2:9",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-568",
+    "number": "568",
+    "title": "A Soul Winner For Jesus 531 /",
+    "firstLine": "I want to be a soul winner for Jesus ev'ry day,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-569",
+    "number": "569",
+    "title": "May the Mind Of Christ My Savior * /",
+    "firstLine": "Scripture; Philippians 2:5",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-570",
+    "number": "570",
+    "title": "As The Life Of A Flower 532 /",
+    "firstLine": "As the life of a flow'r, As a breath or a sigh,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-571",
+    "number": "571",
+    "title": "Glory! Glory! Hallelujah! 571 / *",
+    "firstLine": "Composer; William Steffe",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-572",
+    "number": "572",
+    "title": "Wonderful Peace 533 /",
+    "firstLine": "Coming to Jesus my Savior I found,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-573",
+    "number": "573",
+    "title": "Can You Count The Stars? 529a /",
+    "firstLine": "Tr. Elmer L. Jorgenson, 1921",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-574",
+    "number": "574",
+    "title": "The Glory-Land Way 534 /",
+    "firstLine": "I'm in the way, the bright and shining way,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-574a",
+    "number": "574a",
+    "title": "Jesus, My Savior, Look On Me",
+    "firstLine": "Jesus, my Savior, look on me, for I am weary and oppressed; I come to cast myself on Thee: Thou art my Rest.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-575",
+    "number": "575",
+    "title": "O Lord, Help Us remember * /",
+    "firstLine": "Scripture; Luke 22:19",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-576",
+    "number": "576",
+    "title": "Faith Is The Victory 535 /",
+    "firstLine": "1 Encamped along the hills of light,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-576a",
+    "number": "576a",
+    "title": "Take My Life And Let It Be",
+    "firstLine": "Take my life and let it be consecrated, Lord, to Thee; Take my hands and let them move at the impulse of thy love, at the impulse of Thy love.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-577",
+    "number": "577",
+    "title": "Soldiers, Who Are Christ's Below * /",
+    "firstLine": "Composer; Phoebe Palmer Knapp",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-578",
+    "number": "578",
+    "title": "The Old Rugged Cross 536 /",
+    "firstLine": "On a hill far away stood an old rugged cross,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-580",
+    "number": "580",
+    "title": "Ten Thousand Angels 537 /",
+    "firstLine": "Composer; Ray Overholt",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-581",
+    "number": "581",
+    "title": "O For A Faith That Will Not Shrink 545a /",
+    "firstLine": "Composer; Arr. from Carl Glaser, 1828",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-583",
+    "number": "583",
+    "title": "Take Thou Our Minds, Dear Lord 538a /",
+    "firstLine": "Scripture; Romans 8:9",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-585",
+    "number": "585",
+    "title": "Christ Is My Savior * /",
+    "firstLine": "I am not skilled to understand",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-587",
+    "number": "587",
+    "title": "When The Spirit Came Down 587 / *",
+    "firstLine": "Key; Bb Starting Note: F",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-589",
+    "number": "589",
+    "title": "As The Deer * /",
+    "firstLine": "arr. by R. J. Stevens",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-590",
+    "number": "590",
+    "title": "He Will Pilot Me 542 /",
+    "firstLine": "Key; Ab Starting Note: Eb",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-591",
+    "number": "591",
+    "title": "Wonderful 591 / *",
+    "firstLine": "4th verse by P. J. Zondervan",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-593",
+    "number": "593",
+    "title": "Rejoice, The Lord Is King * /",
+    "firstLine": "Rejoice, the Lord is King;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-594",
+    "number": "594",
+    "title": "The Lily Of The Valley 544 /",
+    "firstLine": "I have found a friend in Jesus, He's ev'rything to me,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-595",
+    "number": "595",
+    "title": "Cross Of Jesus, Cross Of Sorrow * /",
+    "firstLine": "Composer; John B. Dykes, 1862",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-596",
+    "number": "596",
+    "title": "His Grace Reaches Me 545 /",
+    "firstLine": "Composer; Whitey Gleason",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-597",
+    "number": "597",
+    "title": "O For A Closer Walk With God * /",
+    "firstLine": "Scripture; Micah 6:8",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-598",
+    "number": "598",
+    "title": "You Never Mentioned Him To Me 546 /",
+    "firstLine": "When in the better land before the bar we stand,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-599",
+    "number": "599",
+    "title": "We Bow Down In Reverence * /",
+    "firstLine": "arr. by R. J. Stevens",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-602",
+    "number": "602",
+    "title": "O For A Child-like Heart * /",
+    "firstLine": "Composer; R. J. Stevens",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-603",
+    "number": "603",
+    "title": "Burdens Are Lifted At Calvary * /",
+    "firstLine": "Compser: John M. Moore, 1952",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-605",
+    "number": "605",
+    "title": "This Is The Day * /",
+    "firstLine": "This is the day the Lord has made.",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-606",
+    "number": "606",
+    "title": "The Longer I Serve Him 550 /",
+    "firstLine": "Composer; william J. Gaither",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-607",
+    "number": "607",
+    "title": "Psalm 25:1-7 551a /",
+    "firstLine": "Alternate tune in Original Edition:",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-608",
+    "number": "608",
+    "title": "The Love Of God 551 /",
+    "firstLine": "Composer F. M. Lehman, arr. by Claudia Lehman Mays",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-610",
+    "number": "610",
+    "title": "Because He Lives 552 /",
+    "firstLine": "Scripture; John 14:19",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-611",
+    "number": "611",
+    "title": "Father Of Mercy * /",
+    "firstLine": "Scripture; Daniel 9;19",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-612",
+    "number": "612",
+    "title": "Love Lifted Me 553 /",
+    "firstLine": "Scripture?Matthew 14:30-31",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-613",
+    "number": "613",
+    "title": "Come My Soul, your Plea Prepare * /",
+    "firstLine": "arr. Craig A. Roberts",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-614",
+    "number": "614",
+    "title": "The Fruit Of The Spirit 554 /",
+    "firstLine": "arr. by R. J. Stevens and Margie Garrett",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-615",
+    "number": "615",
+    "title": "Father, I Adore You 108 /",
+    "firstLine": "Composer; Terrye Coelho (arr. by D. Shepard)",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-618",
+    "number": "618",
+    "title": "Let Me Live Close To Thee 556 /",
+    "firstLine": "In Thy field I would wield sickles brave and true,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-619",
+    "number": "619",
+    "title": "Speak, Lord, In The Stillness 570a /",
+    "firstLine": "New Edition",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-620",
+    "number": "620",
+    "title": "Room In God's Kingdom 557 /",
+    "firstLine": "There is room in the kingdom of God, my brother,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-621",
+    "number": "621",
+    "title": "God, Who Touches Earth With Beauty * /",
+    "firstLine": "Scripture; Eccl. 3:11",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-624",
+    "number": "624",
+    "title": "We'll Be Like Him 559 /",
+    "firstLine": "When the Savior comes for His chosen ones",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-625",
+    "number": "625",
+    "title": "One Sweetly Solemn Thought * /",
+    "firstLine": "Composer; R. S. Ambrose",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-627",
+    "number": "627",
+    "title": "Like A Little Child * /",
+    "firstLine": "Father, when my clumsy footsteps falter,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-628",
+    "number": "628",
+    "title": "Grant Me Peace And Hope 561 /",
+    "firstLine": "Composer; Anne Finley Stevens",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-629",
+    "number": "629",
+    "title": "Heaven, The Place I Long To Be * /",
+    "firstLine": "If heaven's a place where there'll be no pain,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-630",
+    "number": "630",
+    "title": "Watch And Pray 562 /",
+    "firstLine": "Watch and pray, for the Lord is coming,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-631",
+    "number": "631",
+    "title": "Lord, Thy Word Abideth * /",
+    "firstLine": "Arr. by William H. Monk, 1861",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-632",
+    "number": "632",
+    "title": "Come Unto Me 563 /",
+    "firstLine": "Hear the blessed Savior calling the oppressed,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-633",
+    "number": "633",
+    "title": "How Long Has It Been? * /",
+    "firstLine": "Composer; Mosie Lister",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-635",
+    "number": "635",
+    "title": "A Beautiful Prayer 565 /",
+    "firstLine": "In the Bible we read of a beautiful prayer,",
+    "hasAudio": false
+  },
+  {
+    "id": "hymn-636",
+    "number": "636",
+    "title": "The Love Of God 566 /",
+    "firstLine": "Since the love of God has shed",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-637",
+    "number": "637",
+    "title": "Wonderful City Of God 567 /",
+    "firstLine": "There's a wonderful place we call home,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-638",
+    "number": "638",
+    "title": "Wonderful Grace Of Jesus 568 /",
+    "firstLine": "Wonderful grace of Jesus, Greater than all my sin;",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-639",
+    "number": "639",
+    "title": "He's A Wonderful Savior to Me 569 /",
+    "firstLine": "Eb-4-MI??C-10",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-640",
+    "number": "640",
+    "title": "Light And Life * /",
+    "firstLine": "Composer; D. N. Henderson",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-641",
+    "number": "641",
+    "title": "There Is A Sea 570 /",
+    "firstLine": "There is a sea which day by day",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-642",
+    "number": "642",
+    "title": "O Worship The Lord * /",
+    "firstLine": "O worship the Lord,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-643",
+    "number": "643",
+    "title": "God's Family * /",
+    "firstLine": "Scripture; Romans 12:10",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-644",
+    "number": "644",
+    "title": "Psalm 118:22-29 571a /",
+    "firstLine": "Click Here To Play Originial Edition:",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-645",
+    "number": "645",
+    "title": "Hallelujah! We Shall Rise 572 /",
+    "firstLine": "Key; Bb Starting Note: F",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-646",
+    "number": "646",
+    "title": "Father Of Heaven, Whose Love Profound 572a /",
+    "firstLine": "1st edition: Click here to play",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-647",
+    "number": "647",
+    "title": "The Way That He Loves 573 /",
+    "firstLine": "The way that He loves is as fair as the day,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-648",
+    "number": "648",
+    "title": "Unto The Hills * /",
+    "firstLine": "(arr. by Craig Roberts & R. J. Stevens)",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-649",
+    "number": "649",
+    "title": "All Hail The Power 574 /",
+    "firstLine": "All hail the power of Jesus' name!",
+    "hasAudio": false
+  },
+  {
+    "id": "hymn-650",
+    "number": "650",
+    "title": "His Name Is Jesus * /",
+    "firstLine": "Scripture; Matthew 1:21",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-651",
+    "number": "651",
+    "title": "Hide Me, Rock Of Ages 575 /",
+    "firstLine": "Key; G Starting Note: D",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-652",
+    "number": "652",
+    "title": "There Is A Green Hill * /",
+    "firstLine": "Scripture; Hebrews 13:12",
+    "hasAudio": false
+  },
+  {
+    "id": "hymn-653",
+    "number": "653",
+    "title": "When Jesus Comes 576 /",
+    "firstLine": "When Jesus comes again to gather His own,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-654",
+    "number": "654",
+    "title": "Are You Weighed Down? * /",
+    "firstLine": "Are you weighed down with cares of life?",
+    "hasAudio": false
+  },
+  {
+    "id": "hymn-655",
+    "number": "655",
+    "title": "The Walls Came Tumbling Down 577 /",
+    "firstLine": "Key; F Starting Note: C",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-656",
+    "number": "656",
+    "title": "All Life Comes From Thee * /",
+    "firstLine": "Scripture; Job 12:10",
+    "hasAudio": false
+  },
+  {
+    "id": "hymn-657",
+    "number": "657",
+    "title": "Heaven's Jubilee 578 /",
+    "firstLine": "Key; A Starting Note: A",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-659",
+    "number": "659",
+    "title": "Channels Only * /",
+    "firstLine": "Composer; Ada R. Gibbs, 1910, arr. by R. J. Stevens",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-661",
+    "number": "661",
+    "title": "Let Jesus Dwell Within Your Soul 580 /",
+    "firstLine": "O, will you now from sighing cease?",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-663",
+    "number": "663",
+    "title": "Just A Little While 582 /",
+    "firstLine": "Soon this life will all be over, and our pilgrimage will end,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-664",
+    "number": "664",
+    "title": "He Gave Me A Song 583 /",
+    "firstLine": "Composer; Alton H. Howard",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-665",
+    "number": "665",
+    "title": "Walk With Me 584 /",
+    "firstLine": "2nd verse by p. J. Zondervan",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-666",
+    "number": "666",
+    "title": "He Bore It All 585 /",
+    "firstLine": "My precious Savior suffered pain and agony,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-668",
+    "number": "668",
+    "title": "The Greater Light * /",
+    "firstLine": "Composer; R. J. Stevens",
+    "hasAudio": false
+  },
+  {
+    "id": "hymn-669",
+    "number": "669",
+    "title": "Holy Is The Lord * /",
+    "firstLine": "Scripture; Lev. 19:2",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-670",
+    "number": "670",
+    "title": "The Lord Bless You And Keep You 588 /",
+    "firstLine": "Composer; Peter C. Lutkin",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-671",
+    "number": "671",
+    "title": "He Carried My Sorrows * /",
+    "firstLine": "Scripture; Isaiah 53:4",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-672",
+    "number": "672",
+    "title": "Above All, Love * /",
+    "firstLine": "Key; D Starting Note: F#",
+    "hasAudio": false
+  },
+  {
+    "id": "hymn-673",
+    "number": "673",
+    "title": "Sing Me A Song About Jesus 590 /",
+    "firstLine": "Sing me a song about Jesus,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-675",
+    "number": "675",
+    "title": "The Blessed Life * /",
+    "firstLine": "Blessed, blessed, blessed are we,",
+    "hasAudio": false
+  },
+  {
+    "id": "hymn-676",
+    "number": "676",
+    "title": "Resurrection 592 /",
+    "firstLine": "They crucified my Lord,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-677",
+    "number": "677",
+    "title": "Jesus Paid It All 593 /",
+    "firstLine": "Gone is all my debt of sin, A great change is bro't within,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-679",
+    "number": "679",
+    "title": "Jesus, Hold My Hand 595 /",
+    "firstLine": "As I travel thru this pilgrim land",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-680",
+    "number": "680",
+    "title": "Anywhere is \"Home\" 596 /",
+    "firstLine": "Earthly wealth and fame May never come to me,",
+    "hasAudio": false
+  },
+  {
+    "id": "hymn-681",
+    "number": "681",
+    "title": "Looking For A City 597 /",
+    "firstLine": "Scripture; Hebrews 11:10",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-682",
+    "number": "682",
+    "title": "The New Song 598 /",
+    "firstLine": "It thrills my soul to hear the songs of praise,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-683",
+    "number": "683",
+    "title": "Sing And Be Happy 599 /",
+    "firstLine": "If the skies above you are gray, You are feeling so blue,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-685",
+    "number": "685",
+    "title": "The Lord Our Rock 601 /",
+    "firstLine": "Composer; J. P. Lane",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-686",
+    "number": "686",
+    "title": "Salvation Has Been Brought Down 602 /",
+    "firstLine": "Jesus gave His life a ransom yonder on Calvary,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-687",
+    "number": "687",
+    "title": "Did You Repent, Fully repent? 603 /",
+    "firstLine": "Christ the dear Lord, glorious Lord, speaks to us gently,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-688",
+    "number": "688",
+    "title": "Paradise Valley 604 /",
+    "firstLine": "As I travel thru life, with its trouble and strife,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-689",
+    "number": "689",
+    "title": "Master, The Tempest Is Raging 605 /",
+    "firstLine": "Master, the tempest is raging!",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-690",
+    "number": "690",
+    "title": "Matchless Love 606 /",
+    "firstLine": "It was matchless love that found me,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-693",
+    "number": "693",
+    "title": "Were You There? 609 /",
+    "firstLine": "Scripture; Mark 15:22-24",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-694",
+    "number": "694",
+    "title": "Savior, Teach Me 610 /",
+    "firstLine": "Savior, teach me day by day,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-695",
+    "number": "695",
+    "title": "Savior, Grant Me Rest And Peace 611 /",
+    "firstLine": "Savior, grant me rest and peace,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-696",
+    "number": "696",
+    "title": "He Loves Me 612 /",
+    "firstLine": "Why did the Savior heaven leave",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-698",
+    "number": "698",
+    "title": "Dear Savior Of My Soul * /",
+    "firstLine": "Scripture; 1 Peter 2:25",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-699",
+    "number": "699",
+    "title": "Will You Forgive Me? * /",
+    "firstLine": "Scripture; Matthew 5:23-24",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-700",
+    "number": "700",
+    "title": "Train your Children * /",
+    "firstLine": "Scripture;?Proverbs 22:6",
+    "hasAudio": false
+  },
+  {
+    "id": "hymn-701",
+    "number": "701",
+    "title": "Walk Beside Me * /",
+    "firstLine": "Walk beside me, O my Savior,",
+    "hasAudio": true
+  },
+  {
+    "id": "hymn-702",
+    "number": "702",
+    "title": "Thank You, Lord, For Homes * /",
+    "firstLine": "Compose; R. J. Stevens",
+    "hasAudio": false
+  },
+  {
+    "id": "hymn-0",
+    "number": "0",
+    "title": "Sing And Rejoice In The Savior's Birth * /",
+    "firstLine": "Glory! Glory! Sing alleluia!",
+    "hasAudio": true
+  }
+]

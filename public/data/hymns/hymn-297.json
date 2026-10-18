@@ -1,0 +1,64 @@
+{
+  "id": "hymn-297",
+  "number": "297",
+  "numberDisplay": "297",
+  "title": "Prepare To Meet Thy God",
+  "firstLine": "Careless soul, why will you linger,",
+  "pitchInfo": {
+    "raw": "Bb-3-MI I-1 J-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "I-1 J-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Careless soul, why will you linger,",
+        "Wand'ring from the fold of God?",
+        "Hear you not the invitation?",
+        "O prepare to meet thy God."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Why so tho'tless are you standing",
+        "While the fleeting years go by,",
+        "And your life is spent in folly?",
+        "O prepare to meet thy God."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "If you spurn the invitation",
+        "Till the Spirit shall depart,",
+        "Then you'll see your sad condition,",
+        "Unprepared to meet thy God."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Careless soul, O heed the warning,",
+        "For your life will soon be gone;",
+        "O how sad to face the judgment,",
+        "Unprepared to meet thy God."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-297_full.mid",
+    "soprano": "/audio/midi/hymn-297_soprano.mid",
+    "alto": "/audio/midi/hymn-297_alto.mid",
+    "tenor": "/audio/midi/hymn-297_tenor.mid",
+    "bass": "/audio/midi/hymn-297_bass.mid"
+  }
+}

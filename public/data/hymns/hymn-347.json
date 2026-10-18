@@ -1,0 +1,64 @@
+{
+  "id": "hymn-347",
+  "number": "347",
+  "numberDisplay": "347",
+  "title": "Who Will Follow Jesus",
+  "firstLine": "Who will follow Jesus, Standing for the right,",
+  "pitchInfo": {
+    "raw": "D-4-SOL F-3 W-1",
+    "key": "D",
+    "note": "D",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "F-3 W-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Who will follow Jesus, Standing for the right,",
+        "Holding up His banner, In the thickest flight?",
+        "List’ning for His orders, Ready to obey,",
+        "Who will follow Jesus, Serving Him today?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Who will follow Jesus, In life’s busy ways,",
+        "Working for the Master, Giving Him the praise;",
+        "Earnest in His vineyard, Honoring His laws,",
+        "Faithful to His counsel, Watchful for His cause?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Who will follow Jesus, In His work of love,",
+        "Leading others to Him, Lifting prayers above?",
+        "Courage, faithful servant! In His word we see,",
+        "On our side forever Will this Savior be."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Who will follow Jesus? Who will make reply,",
+        "\"I am on the Lord’s side; Master, here am I?\"",
+        "Who will follow Jesus? Who will make reply,",
+        "\"I am on the Lord’s side; Master, here am I?"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-347_full.mid",
+    "soprano": "/audio/midi/hymn-347_soprano.mid",
+    "alto": "/audio/midi/hymn-347_alto.mid",
+    "tenor": "/audio/midi/hymn-347_tenor.mid",
+    "bass": "/audio/midi/hymn-347_bass.mid"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "hymn-496a",
+  "number": "496a",
+  "numberDisplay": "496a",
+  "title": "Psalm 46:1-7",
+  "firstLine": "God is our refuge and our strength, in straits a present aid; and, therefore, tho' the earth remove we will not be afraid; Tho' hills amidst the seas be cast, Tho' troubled waters roar, Yea, tho' the swelling billows shake the mountains on the shore.",
+  "pitchInfo": {
+    "raw": "C-4-DO C-2",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "DO",
+    "inheritedFrom": "314"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "There Is A Fountain",
+    "number": "314"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "God is our refuge and our strength, in straits a present aid; and, therefore, tho' the earth remove we will not be afraid; Tho' hills amidst the seas be cast, Tho' troubled waters roar, Yea, tho' the swelling billows shake the mountains on the shore.",
+        "A river is whose streams make glad the city of our God, the holy place, where-in the Lord Most High as His abode. yea, God, is in the midst of her; unmoved she stands for aye; and God will surely grant her help before the break of day.",
+        "The nations raged; the kingdoms moved; and when the earth had heard the mighty voice He sent abroad it melted at His word! The Lord of hosts is on our side our safety to secure; the God of Jacob is for us a refuge strong and sure!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-496a_full.mid",
+    "soprano": "/audio/midi/hymn-496a_soprano.mid",
+    "alto": "/audio/midi/hymn-496a_alto.mid",
+    "tenor": "/audio/midi/hymn-496a_tenor.mid",
+    "bass": "/audio/midi/hymn-496a_bass.mid"
+  }
+}

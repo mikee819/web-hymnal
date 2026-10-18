@@ -1,0 +1,65 @@
+{
+  "id": "hymn-213",
+  "number": "213",
+  "numberDisplay": "213",
+  "title": "Here We Are But Straying Pilgrims",
+  "firstLine": "Here we are but straying pilgrims;",
+  "pitchInfo": {
+    "raw": "G-4-DO C-12 H-2",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-12 H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Here we are but straying pilgrims;",
+        "Here our path is often dim;",
+        "But to cheer us on our journey,",
+        "Still we sing this wayside hymn:"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Here our feet are often weary",
+        "On the hills that throng our way;",
+        "Here the tempest darkling gathers",
+        "But our hearts within us say;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Here our souls are often fearful",
+        "Of the pilgrims lurking foe;",
+        "But the Lord is our defender,",
+        "And He tells us we may know;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yonder over the rolling river,",
+        "Where the shining mansions rise,",
+        "Soon will be our home for ever,",
+        "And the smile of the blessed Giver",
+        "Gladdens all our longing eyes."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-213_full.mid",
+    "soprano": "/audio/midi/hymn-213_soprano.mid",
+    "alto": "/audio/midi/hymn-213_alto.mid",
+    "tenor": "/audio/midi/hymn-213_tenor.mid",
+    "bass": "/audio/midi/hymn-213_bass.mid"
+  }
+}

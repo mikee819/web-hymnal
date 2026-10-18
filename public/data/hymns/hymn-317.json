@@ -1,0 +1,74 @@
+{
+  "id": "hymn-317",
+  "number": "317",
+  "numberDisplay": "317",
+  "title": "All Things Are Ready",
+  "firstLine": "\"All things are ready,\" come to the feast!",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL I-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "\"All things are ready,\" come to the feast!",
+        "Come for the table now is spread;",
+        "Ye famishing, ye weary, come,",
+        "And thou shalt be richly fed."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "\"All things are ready,\" come to the feast!",
+        "Come for the door is open wide;",
+        "A place of honor is reserved,",
+        "For you at the Master's side."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "\"All things are ready,\" come to the feast!",
+        "Come, while He waits to welcome thee;",
+        "Delay not while this day is thine,",
+        "Tomorrow may never be."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "\"All things are ready,\" come to the feast!",
+        "Leave ev'ry care and worldly strife,",
+        "Come, feast upon the love of God,",
+        "And drink everlasting life."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hear the invitation,",
+        "Come \"whosoever will;\"",
+        "Praise God for full salvation",
+        "For \"whosoever will.\""
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-317_full.mid",
+    "soprano": "/audio/midi/hymn-317_soprano.mid",
+    "alto": "/audio/midi/hymn-317_alto.mid",
+    "tenor": "/audio/midi/hymn-317_tenor.mid",
+    "bass": "/audio/midi/hymn-317_bass.mid"
+  }
+}

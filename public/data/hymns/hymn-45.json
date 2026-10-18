@@ -1,0 +1,64 @@
+{
+  "id": "hymn-45",
+  "number": "45",
+  "numberDisplay": "45",
+  "title": "Come, Thou Almighty King",
+  "firstLine": "1 Come Thou Almighty King,",
+  "pitchInfo": {
+    "raw": "G-3-SOL D-2 V-1",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "D-2 V-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1 Come Thou Almighty King,",
+        "Help us Thy name to sing,",
+        "Help us to praise:",
+        "Father, all-glorious,",
+        "O'er all victorious,",
+        "Come and reign over us,",
+        "Ancient of Days."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "2 Come, Thou Incarnate Word,",
+        "Gird on Thy mighty sword,",
+        "Our prayer attend!",
+        "Come, and Thy people bless,",
+        "And give Thy word success:",
+        "Spirit of holiness,",
+        "On us descend."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "3 O Lord, our God to Thee,",
+        "The highest praises be,",
+        "Hence evermore;",
+        "Thy sovereign majesty",
+        "May we in glory see,",
+        "And to eternity",
+        "Love and adore."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-45_full.mid",
+    "soprano": "/audio/midi/hymn-45_soprano.mid",
+    "alto": "/audio/midi/hymn-45_alto.mid",
+    "tenor": "/audio/midi/hymn-45_tenor.mid",
+    "bass": "/audio/midi/hymn-45_bass.mid"
+  }
+}

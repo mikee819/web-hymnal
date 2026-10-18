@@ -1,0 +1,64 @@
+{
+  "id": "hymn-239",
+  "number": "239",
+  "numberDisplay": "239",
+  "title": "Footprints Of Jesus",
+  "firstLine": "Sweetly, Lord, have we heard Thee calling,",
+  "pitchInfo": {
+    "raw": "Eb-4-MI F-3",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "F-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Sweetly, Lord, have we heard Thee calling,",
+        "Come, follow Me!",
+        "And we see where Thy footprints falling",
+        "Lead us to Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "If they lead thru the temple holy,",
+        "Preaching the word;",
+        "Or in homes of the poor and lowly,",
+        "Serving the Lord."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Then at last, when on high He sees us,",
+        "Our journey done,",
+        "We will rest where the steps of Jesus",
+        "End at His throne."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Footprints of Jesus,",
+        "That make the pathway glow;",
+        "We will follow the steps of Jesus",
+        "Where'er they go."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-239_full.mid",
+    "soprano": "/audio/midi/hymn-239_soprano.mid",
+    "alto": "/audio/midi/hymn-239_alto.mid",
+    "tenor": "/audio/midi/hymn-239_tenor.mid",
+    "bass": "/audio/midi/hymn-239_bass.mid"
+  }
+}

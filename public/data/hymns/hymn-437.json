@@ -1,0 +1,75 @@
+{
+  "id": "hymn-437",
+  "number": "437",
+  "numberDisplay": "437",
+  "title": "Thy Will Be Done",
+  "firstLine": "Lord, we sing unto Thy glory,",
+  "pitchInfo": {
+    "raw": "Eb-4-MI W-5",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "W-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Lord, we sing unto Thy glory,",
+        "With our songs we sing Thy praise;",
+        "My our tongues give rev'rence to Thee,",
+        "May we praise Thee all our days."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Lord, we pray for Thy rich blessings,",
+        "Humbly now we come to Thee;",
+        "Help our hearts Thy name to honor,",
+        "Thy will done is all our plea."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Lord, we love and worship Thee,",
+        "With our lives in service give;",
+        "Bless each day unto Thy glory,",
+        "Give us hope while here we live."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Lord, we pray for Thy forgiveness,",
+        "With our tongues we oft offend;",
+        "Bless our lives to magnify Thee,",
+        "May we love Thee till the end."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "With Thy help we'll do Thy will;",
+        "With Thy blessings we're not alone.",
+        "To Thy name be all the glory,",
+        "Bless us Lord, Thy will be done.",
+        "Copyright 1986, Shepard-Stevens Music, Inc. in \"Hymns For Worship\", Larry Dickens & R. J. Stevens, owners. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-437_full.mid",
+    "soprano": "/audio/midi/hymn-437_soprano.mid",
+    "alto": "/audio/midi/hymn-437_alto.mid",
+    "tenor": "/audio/midi/hymn-437_tenor.mid",
+    "bass": "/audio/midi/hymn-437_bass.mid"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "hymn-435",
+  "number": "435",
+  "numberDisplay": "435",
+  "title": "How Shall The Young Secure",
+  "firstLine": "How shall the young secure their hearts,",
+  "pitchInfo": {
+    "raw": "E-4-SOL E-1 W-3",
+    "key": "E",
+    "note": "E",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1 W-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "How shall the young secure their hearts,",
+        "And guard their lives from sin?",
+        "Thy word the choicest rules imparts",
+        "To keep the conscience clean,",
+        "To keep the conscience clean."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "'Tis like the sun, a heav'nly light,",
+        "That guides us all the day;",
+        "And, thro' the dangers of the night,",
+        "A lamp to lead our way,",
+        "A lamp to lead our way."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Thy word is everlasting truth;",
+        "How pure is ev'ry page!",
+        "That holy book shall guide our youth,",
+        "And well support our age,",
+        "And well support our age."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-435_full.mid",
+    "soprano": "/audio/midi/hymn-435_soprano.mid",
+    "alto": "/audio/midi/hymn-435_alto.mid",
+    "tenor": "/audio/midi/hymn-435_tenor.mid",
+    "bass": "/audio/midi/hymn-435_bass.mid"
+  }
+}

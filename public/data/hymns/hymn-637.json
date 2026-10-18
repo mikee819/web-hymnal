@@ -1,0 +1,80 @@
+{
+  "id": "hymn-637",
+  "number": "637",
+  "numberDisplay": "637",
+  "title": "Wonderful City Of God 567 /",
+  "firstLine": "There's a wonderful place we call home,",
+  "pitchInfo": {
+    "raw": "Ab-2-SOL H-2 R-3",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2 R-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There's a wonderful place we call home,",
+        "'Tis a city of glory divine,",
+        "It is built in the garden of rest,",
+        "and that beautiful home shall be mine,",
+        "O, that wonderful Eden, so blest,",
+        "Where Jesus the Master has gone",
+        "To prepare us this glorious home,",
+        "There He bids us welcome to come."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O, how sweet it will be there to dwell",
+        "With the Savior and Father of all,",
+        "In a palace of diamond and gold,",
+        "Where no evil to us can befall;",
+        "There no sorrow that home shall invade,",
+        "And our loved ones no more there shall die;",
+        "One celestial, unbroken, sweet day,",
+        "While eternity's ages roll by."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When the jewels of Jesus are brought,",
+        "There to shine in that land of sweet song.",
+        "What a beautiful, beautiful tho't",
+        "That I shall be there in that throng;",
+        "Sweetest peace to my soul it will be,",
+        "To behold such a glorious sight,",
+        "Where the sun and the moon neither shine,",
+        "But the glory of God is the light."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, wonderful city of God,",
+        "Just across in that beautiful clime,",
+        "Where the angels' sweet echo of song",
+        "In musical cadencies chime,",
+        "O, wonderful city of God,",
+        "By faith in the distance I see,",
+        "There's a mansion prepared over there,",
+        "Yes, a place in that city for me."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-637_full.mid",
+    "soprano": "/audio/midi/hymn-637_soprano.mid",
+    "alto": "/audio/midi/hymn-637_alto.mid",
+    "tenor": "/audio/midi/hymn-637_tenor.mid",
+    "bass": "/audio/midi/hymn-637_bass.mid"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "hymn-167",
+  "number": "167",
+  "numberDisplay": "167",
+  "title": "We Saw Thee Not 167 /",
+  "firstLine": "We saw Thee not when Thou didst come",
+  "pitchInfo": {
+    "raw": "E-3-DO C-8 F-1",
+    "key": "E",
+    "note": "E",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-8 F-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "We saw Thee not when Thou didst come",
+        "To this poor world of sin and death;",
+        "Nor yet beheld Thy cottage home,",
+        "In that despised Nazareth;",
+        "But we believe Thy footsteps trod",
+        "Its streets and plains, Thou Son of God;",
+        "But we believe Thy footsteps trod",
+        "Its streets and plains, Thou Son of God."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "We saw Thee not when lifted high,",
+        "Amid that wild and savage crew;",
+        "Nor heard we that imploring cry,",
+        "\"Forgive, they know not what they do!\"",
+        "But we believe the deed was done,",
+        "That shook the earth and veiled the sin;",
+        "But we believe the deed was done,",
+        "That shook the earth and veiled the sin."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "We gazed not in the open tomb,",
+        "Where once Thy mangled body lay;",
+        "Nor saw Thee in that \"Upper room,\"",
+        "Nor met Thee on the open way;",
+        "But we believe that angels said,",
+        "\"Why seek the living with the dead?\"",
+        "But we believe that angels said,",
+        "\"Why seek the living with the dead?\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "We walked not with the chosen few,",
+        "Who saw Thee from the earth ascend;",
+        "Who raised to heav'n their wond'ring view,",
+        "Then low to earth all prostrate bend;",
+        "But we believe that human eyes",
+        "Beheld that journey to the skies;",
+        "But we believe that human eyes",
+        "Beheld that journey to the skies."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-167_full.mid",
+    "soprano": "/audio/midi/hymn-167_soprano.mid",
+    "alto": "/audio/midi/hymn-167_alto.mid",
+    "tenor": "/audio/midi/hymn-167_tenor.mid",
+    "bass": "/audio/midi/hymn-167_bass.mid"
+  }
+}

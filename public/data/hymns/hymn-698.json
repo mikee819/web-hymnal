@@ -1,0 +1,73 @@
+{
+  "id": "hymn-698",
+  "number": "698",
+  "numberDisplay": "698",
+  "title": "Dear Savior Of My Soul * /",
+  "firstLine": "Scripture; 1 Peter 2:25",
+  "pitchInfo": {
+    "raw": "F-4-DO C-10 C-17",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-10 C-17",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; 1 Peter 2:25"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Dear Savior of my soul,",
+        "When I see dawn's early light,",
+        "I recognize Thy might,",
+        "Dear Savior of my soul."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Dear Savior of my soul,",
+        "I do pray this day I'll be",
+        "Acceptable to Thee,",
+        "Dear Savior of my soul.'"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Dear Savior of my soul,",
+        "In the darkness of the night",
+        "Protect me by Thy light,",
+        "Dear Savior of my soul."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "In agony, dear Jesus,",
+        "Thou hast paid the price for me",
+        "Upon the cross of calv'ry,",
+        "Dear Savior of my soul.",
+        "Copyright 1987 by R. J. Stevens. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-698_full.mid",
+    "soprano": "/audio/midi/hymn-698_soprano.mid",
+    "alto": "/audio/midi/hymn-698_alto.mid",
+    "tenor": "/audio/midi/hymn-698_tenor.mid",
+    "bass": "/audio/midi/hymn-698_bass.mid"
+  }
+}

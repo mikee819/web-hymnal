@@ -1,0 +1,64 @@
+{
+  "id": "hymn-311",
+  "number": "311",
+  "numberDisplay": "311",
+  "title": "Why Not Now",
+  "firstLine": "While we pray, and while we plead,",
+  "pitchInfo": {
+    "raw": "D-3-SOL I-1",
+    "key": "D",
+    "note": "D",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "While we pray, and while we plead,",
+        "While you see your soul's deep need,",
+        "While your Father calls you home,",
+        "Will you not, dear sinner, come?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "You have wandered far away;",
+        "Do not risk another day",
+        "Do not turn from God your face,",
+        "But today accept His grace."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Come to Christ, confession make;",
+        "Come to Christ and pardon take;",
+        "Trust in Him from day to day,",
+        "He will keep you all the way."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Why not now? why not now?",
+        "Why not come to Jesus now?",
+        "Why not now? Why not now?",
+        "Why not come to Jesus now?"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-311_full.mid",
+    "soprano": "/audio/midi/hymn-311_soprano.mid",
+    "alto": "/audio/midi/hymn-311_alto.mid",
+    "tenor": "/audio/midi/hymn-311_tenor.mid",
+    "bass": "/audio/midi/hymn-311_bass.mid"
+  }
+}

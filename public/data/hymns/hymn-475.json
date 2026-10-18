@@ -1,0 +1,71 @@
+{
+  "id": "hymn-475",
+  "number": "475",
+  "numberDisplay": "475",
+  "title": "One Holy Church",
+  "firstLine": "2-3 stanzas and chorus by T. S. T.",
+  "pitchInfo": {
+    "raw": "G-4-DO E-1 V-1",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "E-1 V-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "2-3 stanzas and chorus by T. S. T."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "One holy church of God appears,",
+        "Through ev'ry age and race,",
+        "Unwasted by the lapse of years,",
+        "Unchanged by changing place."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "One book to guide the pilgrim's feet,",
+        "Unerring counsel give;",
+        "' Instructions so divine, complete,",
+        "How God would have us live."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "One name by which each one is known",
+        "From heav'n divinely giv'n;",
+        "One way that leads the saints of God",
+        "To joys and bliss in Heav'n."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\"There shall be one fold; one shepherd.\" (John 10:17)",
+        "\"One Lord, one hope, one faith.\" (Ephesians 4:1-4)",
+        "There shall be One fold, One shepherd, One plan of saving grace!",
+        "Copyright 1974 by M. Lynwood Smith Publications in \"New Songs No. 12\". All Rights reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-475_full.mid",
+    "soprano": "/audio/midi/hymn-475_soprano.mid",
+    "alto": "/audio/midi/hymn-475_alto.mid",
+    "tenor": "/audio/midi/hymn-475_tenor.mid",
+    "bass": "/audio/midi/hymn-475_bass.mid"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hymn-411",
+  "number": "411",
+  "numberDisplay": "411",
+  "title": "Redeemed",
+  "firstLine": "Redeemed, how I love to proclaim it!",
+  "pitchInfo": {
+    "raw": "Ab-2-SOL R-1 S-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "R-1 S-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Redeemed, how I love to proclaim it!",
+        "Redeemed by the blood of the Lamb;",
+        "Redeemed thru His infinite mercy,",
+        "His child, and forever I am."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Redeemed, and so happy in Jesus,",
+        "No language my rapture can tell;",
+        "I know that the light of His presence",
+        "With me doth continually dwell."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I know I shall see in His beauty,",
+        "The King in whose law I delight;",
+        "Who lovingly guardeth my footsteps,",
+        "And giveth me songs in the night."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Redeemed, redeemed,",
+        "Redeemed by the blood of the Lamb;",
+        "Redeemed, how I love to proclaim it!",
+        "His child and forever I am"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-411_full.mid",
+    "soprano": "/audio/midi/hymn-411_soprano.mid",
+    "alto": "/audio/midi/hymn-411_alto.mid",
+    "tenor": "/audio/midi/hymn-411_tenor.mid",
+    "bass": "/audio/midi/hymn-411_bass.mid"
+  }
+}

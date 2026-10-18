@@ -1,0 +1,72 @@
+{
+  "id": "hymn-481",
+  "number": "481",
+  "numberDisplay": "481",
+  "title": "Give Me A Love Like Thine",
+  "firstLine": "Composer; Merrill Dunlop",
+  "pitchInfo": {
+    "raw": "Ab-2-SOL L-1 S-5",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "L-1 S-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Merrill Dunlop"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Give me a love like Thine, Lord,",
+        "A love that all may see,",
+        "And I will glorify Thee",
+        "Wherever I may be."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Give me a love like Thine, Lord.",
+        "That I may follow thee.",
+        "And I will show to others",
+        "Thy wondrous love to me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Give me a love like thine, Lord,",
+        "For those who go astray,",
+        "That I may seek to win them",
+        "Back to the narrow way."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Give me a love like Thine, Lord,",
+        "Give me a love like Thine;",
+        "That I may win the lost ones,",
+        "O give me a love like Thine.",
+        "Copyright 1963 by Singspiration, Inc. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-481_full.mid",
+    "soprano": "/audio/midi/hymn-481_soprano.mid",
+    "alto": "/audio/midi/hymn-481_alto.mid",
+    "tenor": "/audio/midi/hymn-481_tenor.mid",
+    "bass": "/audio/midi/hymn-481_bass.mid"
+  }
+}

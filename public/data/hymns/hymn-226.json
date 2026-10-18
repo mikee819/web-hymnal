@@ -1,0 +1,64 @@
+{
+  "id": "hymn-226",
+  "number": "226",
+  "numberDisplay": "226",
+  "title": "Beyond The Sunset's Radiant Glow",
+  "firstLine": "Beyond the sunset's radiant glow,",
+  "pitchInfo": {
+    "raw": "Eb-4-DO H-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Beyond the sunset's radiant glow,",
+        "There is a brighter world, I know,",
+        "Where golden glories ever shine,",
+        "Beyond the tho't of day's decline."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Beyond the sunset's purple rim,",
+        "Beyond the twilight deep and dim,",
+        "Where clouds and darkness never come,",
+        "My soul shall find its heav'nly home."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Beyond this desert dark and drear,",
+        "The golden city will appear,",
+        "And morning's lovely beams arise",
+        "Up on my mansion in the skies."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Beyond the sunset's radiant glow,",
+        "There is a brighter world I know;",
+        "Beyond the sunset I may spend,",
+        "Delightful days that never end."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-226_full.mid",
+    "soprano": "/audio/midi/hymn-226_soprano.mid",
+    "alto": "/audio/midi/hymn-226_alto.mid",
+    "tenor": "/audio/midi/hymn-226_tenor.mid",
+    "bass": "/audio/midi/hymn-226_bass.mid"
+  }
+}

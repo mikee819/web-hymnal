@@ -1,0 +1,72 @@
+{
+  "id": "hymn-643",
+  "number": "643",
+  "numberDisplay": "643",
+  "title": "God's Family * /",
+  "firstLine": "Scripture; Romans 12:10",
+  "pitchInfo": {
+    "raw": "F-3-MI F-2 L-2",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "F-2 L-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Romans 12:10"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "We're part of the family that's been born again;",
+        "Part of the family whose love knows no end;",
+        "For Jesus has saved us, and made us His own,",
+        "Now we're part of the family that's on its way home."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When a brother meets sorrow we all feel his grief;",
+        "When he's passed thru the valley we all feel relief;",
+        "Together in sunshine, together in rain,",
+        "Together in vict'ry thru His precious name."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "And tho' some go before us, we'll all meet again;",
+        "Just inside the city as we enter in;",
+        "There'll be no more parting, with Jesus we'll be",
+        "Together forever, God's family."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "And sometimes we laugh together, sometimes we cry;",
+        "Sometimes we share together, heartaches and sighs;",
+        "Sometimes we dream together of how it will be",
+        "When we all get to Heaven, God's family.",
+        "(c) Copyright 1974. Lanny Wolfe Music/ASCAP. All rights reserved. Administered by Integrated Copyright Group, Inc."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-643_full.mid",
+    "soprano": "/audio/midi/hymn-643_soprano.mid",
+    "alto": "/audio/midi/hymn-643_alto.mid",
+    "tenor": "/audio/midi/hymn-643_tenor.mid",
+    "bass": "/audio/midi/hymn-643_bass.mid"
+  }
+}

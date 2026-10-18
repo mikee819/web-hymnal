@@ -1,0 +1,64 @@
+{
+  "id": "hymn-526",
+  "number": "526",
+  "numberDisplay": "526",
+  "title": "Wonderful, Wonderful Jesus 510 /",
+  "firstLine": "There is never a day so dreary,",
+  "pitchInfo": {
+    "raw": "Bb-2-SOL P-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There is never a day so dreary,",
+        "There is never a night so long",
+        "But the soul that is trusting Jesus",
+        "Will somewhere find a song."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "There is never a care or burden,",
+        "There is never a grief or loss,",
+        "But that Jesus in love will lighten",
+        "When carried to the cross."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "There is never a guilty sinner,",
+        "There is never a wand'ring one",
+        "But that God can in mercy pardon",
+        "Thru Jesus Christ, his Son."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wonderful, wonderful Jesus,",
+        "In the heart He implanteth a song;",
+        "A song of deliverance, of courage, of strength,",
+        "In the heart He implanteth a song."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-526_full.mid",
+    "soprano": "/audio/midi/hymn-526_soprano.mid",
+    "alto": "/audio/midi/hymn-526_alto.mid",
+    "tenor": "/audio/midi/hymn-526_tenor.mid",
+    "bass": "/audio/midi/hymn-526_bass.mid"
+  }
+}

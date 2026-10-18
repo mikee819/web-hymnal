@@ -1,0 +1,38 @@
+{
+  "id": "hymn-543a",
+  "number": "543a",
+  "numberDisplay": "543a",
+  "title": "When This Passing World Is Done",
+  "firstLine": "When this passing world is done, when has sunk yon glaring sun, when I stand with Christ on high, looking o'er life's history -- then Lord, shall I fully know, not till then, how much I owe. Then Lord, shall I fully know, not till then how much I owe.",
+  "pitchInfo": {
+    "raw": "F-2-MI L-4",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "MI",
+    "inheritedFrom": "81"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Jesus, Lover Of My Soul -",
+    "number": "81"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When this passing world is done, when has sunk yon glaring sun, when I stand with Christ on high, looking o'er life's history -- then Lord, shall I fully know, not till then, how much I owe. Then Lord, shall I fully know, not till then how much I owe.",
+        "When I stand before the throne, dressed in beauty not my own, when I see Thee as Thou art, love Thee with unsinning heart - then, Lord, shall I fully know, not till then, how much I owe. Then Lord, shall I fully know, not till then, how much I owe.",
+        "When the praise of heav'n I hear, loud as thunder to the ear, loud as many waters' noise, sweet as harp's melodious voice -- then Lord, shall I fully know, not till then, how much I owe. Then, Lord, shall I fully know, not till then, how much I owe."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-543a_full.mid",
+    "soprano": "/audio/midi/hymn-543a_soprano.mid",
+    "alto": "/audio/midi/hymn-543a_alto.mid",
+    "tenor": "/audio/midi/hymn-543a_tenor.mid",
+    "bass": "/audio/midi/hymn-543a_bass.mid"
+  }
+}

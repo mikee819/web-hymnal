@@ -1,0 +1,63 @@
+{
+  "id": "hymn-331",
+  "number": "331",
+  "numberDisplay": "331",
+  "title": "Kneel At The Cross",
+  "firstLine": "Kneel at the cross, Christ will meet you there,",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL D-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Kneel at the cross, Christ will meet you there,",
+        "He intercedes for you;",
+        "Lift up your voice, Leave with Him your care",
+        "And begin life anew."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Kneel at the cross, There is room for all",
+        "Who would His glory share;",
+        "Bliss there awaits, Harm can ne'er befall",
+        "Those who are anchored there."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Kneel at the cross, Give your idols up,",
+        "Look unto realms above;",
+        "Turn not again To life's sparkling cup;",
+        "Trust always in His love."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kneel at the cross, Leave every care",
+        "Kneel at the cross, Jesus will meet you there.",
+        "Copyright 1938. Renewal 1966 by Stamps-Baxter Music."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-331_full.mid",
+    "soprano": "/audio/midi/hymn-331_soprano.mid",
+    "alto": "/audio/midi/hymn-331_alto.mid",
+    "tenor": "/audio/midi/hymn-331_tenor.mid",
+    "bass": "/audio/midi/hymn-331_bass.mid"
+  }
+}

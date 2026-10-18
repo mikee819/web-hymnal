@@ -1,0 +1,64 @@
+{
+  "id": "hymn-496",
+  "number": "496",
+  "numberDisplay": "496",
+  "title": "We Have An Anchor 495 /",
+  "firstLine": "Will your anchor hold in the storms of life,",
+  "pitchInfo": {
+    "raw": "F-4-DO A-1 E-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "A-1 E-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Will your anchor hold in the storms of life,",
+        "When the clouds unfold their wings of strife?",
+        "When the strong tides lift, and the cables strain,",
+        "Will your anchor drift, or firm remain?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "It is safely moored, 'twill the storm withstand,",
+        "For 'tis well secured by the Savior's hand;",
+        "And the cables passed from His heart to mine,",
+        "Can defy the blast, thru strength divine."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When our eyes behold thru the gath'ring night",
+        "The city of gold, our harbor bright,",
+        "We shall anchor fast by the heav'nly shore,",
+        "With the storms all past forever more."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "We have an anchor that keeps the soul",
+        "Steadfast and sure while the billows roll,",
+        "Fastened to the Rock which cannot move,",
+        "Grounded firm and deep in the Savior's love."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-496_full.mid",
+    "soprano": "/audio/midi/hymn-496_soprano.mid",
+    "alto": "/audio/midi/hymn-496_alto.mid",
+    "tenor": "/audio/midi/hymn-496_tenor.mid",
+    "bass": "/audio/midi/hymn-496_bass.mid"
+  }
+}

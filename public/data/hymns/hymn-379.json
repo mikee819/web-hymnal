@@ -1,0 +1,62 @@
+{
+  "id": "hymn-379",
+  "number": "379",
+  "numberDisplay": "379",
+  "title": "Hiding In Thee",
+  "firstLine": "O safe to the Rock that is higher than I.",
+  "pitchInfo": {
+    "raw": "F-4-SOL C-9",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-9",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O safe to the Rock that is higher than I.",
+        "My soul in its conflicts and sorrows would fly;",
+        "So sinful, so weary, Thine, Thine would I be;",
+        "Thou blest Rock of Ages, I'm hiding in Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "In calm of the noon-tide, in sorrow's lone hour,",
+        "In times when temptations cast o'er me its pow'r;",
+        "In tempest of life, on its wide heaving sea,",
+        "Thou blest Rock of Ages, I'm hiding in Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "How often in the conflict, when pressed by the foe,",
+        "I've fled to my Refuge and breathed out my woe;",
+        "How often, when trials like sea billows roll,",
+        "I've hidden in Thee, O Thou Rock of my Soul."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hiding in Tee, Hiding in Thee,",
+        "Thou blest Rock of Ages, I'm hiding in Thee."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-379_full.mid",
+    "soprano": "/audio/midi/hymn-379_soprano.mid",
+    "alto": "/audio/midi/hymn-379_alto.mid",
+    "tenor": "/audio/midi/hymn-379_tenor.mid",
+    "bass": "/audio/midi/hymn-379_bass.mid"
+  }
+}

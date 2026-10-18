@@ -1,0 +1,71 @@
+{
+  "id": "hymn-224",
+  "number": "224",
+  "numberDisplay": "224",
+  "title": "There's A Rainbow In The Cloud",
+  "firstLine": "Composer; Alton Howard (arr. by P. West)",
+  "pitchInfo": {
+    "raw": "F-4-MI H-2 H-6",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "H-2 H-6",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Alton Howard (arr. by P. West)"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "As I journey here mid the toil and tears,",
+        "There's a rainbow in the cloud;",
+        "He will safely lead, I must have no fear,",
+        "There's a rainbow in the cloud."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "After storm and rain, fields of golden grain,",
+        "There's a rainbow in the cloud;",
+        "Winter's cold and pain, summer's harvest grain,",
+        "There's a rainbow in the cloud;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When the storms all pass, comes a brighter day,",
+        "There's a rainbow in the cloud;",
+        "In that City fair there's a crown to wear,",
+        "There's a rainbow in the cloud;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "There's a rainbow that is shining,",
+        "There's a rainbow in the cloud;",
+        "When life's race is run, and the vict'ry's won,",
+        "There's a rainbow in the cloud;"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-224_full.mid",
+    "soprano": "/audio/midi/hymn-224_soprano.mid",
+    "alto": "/audio/midi/hymn-224_alto.mid",
+    "tenor": "/audio/midi/hymn-224_tenor.mid",
+    "bass": "/audio/midi/hymn-224_bass.mid"
+  }
+}

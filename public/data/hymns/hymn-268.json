@@ -1,0 +1,64 @@
+{
+  "id": "hymn-268",
+  "number": "268",
+  "numberDisplay": "268",
+  "title": "Hark, The Gentle Voice",
+  "firstLine": "Hark! the gentle voice of Jesus falleth",
+  "pitchInfo": {
+    "raw": "D-4-MI I-1",
+    "key": "D",
+    "note": "D",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Hark! the gentle voice of Jesus falleth",
+        "Tenderly upon your ear;",
+        "Sweet His cry of love and pity calleth;",
+        "Turn and listen, stay and hear."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Take His yoke, for He is meek and lowly;",
+        "Bear His burden, to Him turn;",
+        "He who calleth is the Master holy;",
+        "He will teach if you will learn."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Then, His loving, tender voice obeying,",
+        "Bear His yoke, His burden take;",
+        "Find the yoke His hand is on you laying,",
+        "Light and easy for your sake."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ye that labor and are heavy laden,",
+        "Lean upon your dear Lord's breast",
+        "Ye that labor and are heavy laden,",
+        "Come and I will give you rest."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-268_full.mid",
+    "soprano": "/audio/midi/hymn-268_soprano.mid",
+    "alto": "/audio/midi/hymn-268_alto.mid",
+    "tenor": "/audio/midi/hymn-268_tenor.mid",
+    "bass": "/audio/midi/hymn-268_bass.mid"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "hymn-53",
+  "number": "53",
+  "numberDisplay": "53",
+  "title": "Christ, The Lord, Is Risen Today",
+  "firstLine": "Db-4-DO?C-8 P-2",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Db-4-DO?C-8 P-2"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "1?Christ the Lord is risen today, Hallelujah!",
+        "?Sons of men and angels say, Hallelujah!",
+        "?Raise your joys and triumphs high, Hallelujah!",
+        "?Sing ye heavens, thou earth, reply, Hallelujah!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "2?Vain the stone, the watch, the seal, Hallelujah!",
+        "?Christ hath burst the gates of hell, Hallelujah!",
+        "?Death in vain forbids His rise, Hallelujah!",
+        "?Christ hath opened paradise, Hallelujah!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "3?Lives again our glorious King, Hallelujah!",
+        "?Where, O Death is now thy sting? Hallelujah!",
+        "?Once He died our souls to save, Hallelujah!",
+        "?Where's thy victory, boasting grave? Hallelujah!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-53_full.mid",
+    "soprano": "/audio/midi/hymn-53_soprano.mid",
+    "alto": "/audio/midi/hymn-53_alto.mid",
+    "tenor": "/audio/midi/hymn-53_tenor.mid",
+    "bass": "/audio/midi/hymn-53_bass.mid"
+  }
+}

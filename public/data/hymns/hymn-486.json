@@ -1,0 +1,64 @@
+{
+  "id": "hymn-486",
+  "number": "486",
+  "numberDisplay": "486",
+  "title": "What Shall It Profit",
+  "firstLine": "Not all earth's gold and silver",
+  "pitchInfo": {
+    "raw": "Bb-2-SOL E-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Not all earth's gold and silver",
+        "Can make a sinner whole;",
+        "What shall it profit thee, O man,",
+        "If thou should'st lose thy soul?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "The heaping up of riches",
+        "To many seems life's goal;",
+        "But in the eager rush for wealth,",
+        "Forgotten is the soul."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "This solemn question answer;",
+        "Is worldly gain thy goal?",
+        "Can fleeting riches be compared",
+        "To an immortal soul?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "What shall it profit a man,",
+        "What shall it profit a man,",
+        "If He gain the whole world,",
+        "And lose His own soul?"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-486_full.mid",
+    "soprano": "/audio/midi/hymn-486_soprano.mid",
+    "alto": "/audio/midi/hymn-486_alto.mid",
+    "tenor": "/audio/midi/hymn-486_tenor.mid",
+    "bass": "/audio/midi/hymn-486_bass.mid"
+  }
+}

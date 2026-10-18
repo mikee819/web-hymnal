@@ -1,0 +1,63 @@
+{
+  "id": "hymn-456",
+  "number": "456",
+  "numberDisplay": "456",
+  "title": "Hold His Nail-Scarred Hand",
+  "firstLine": "3rd Verse - R. J. Stevens",
+  "pitchInfo": {
+    "raw": "Db-4-SOL E-1",
+    "key": "Db",
+    "note": "Db",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "3rd Verse - R. J. Stevens"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I was not on the journey up to golgotha's hill,",
+        "Nor was I in the garden that night when time stood still.",
+        "I did not sell the Savior unto the angry crowd,",
+        "Nor hear the words as Simon denied the Lord aloud."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I did not see the lightning as it flashed on that sad day;",
+        "Nor help the woman, Mary, place spices where He lay,",
+        "I live my life much later and in a diff'rent land,",
+        "But as I sin, I drive again a nail into His hand."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I know my Savior loves me, He gave HIs life so free;",
+        "Upon the cross of calv'ry He died for you and me.",
+        "Let's live our lives for Jesus, don't crucify again,",
+        "Give praise and honor to the Lord, and hold His nail-scarred hand.",
+        "Copyright 1986 Shepard Stevens Music, Inc. in \"Hymns For Worship\". R. J. Stevens, owner. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-456_full.mid",
+    "soprano": "/audio/midi/hymn-456_soprano.mid",
+    "alto": "/audio/midi/hymn-456_alto.mid",
+    "tenor": "/audio/midi/hymn-456_tenor.mid",
+    "bass": "/audio/midi/hymn-456_bass.mid"
+  }
+}

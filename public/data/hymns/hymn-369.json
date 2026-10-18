@@ -1,0 +1,66 @@
+{
+  "id": "hymn-369",
+  "number": "369",
+  "numberDisplay": "369",
+  "title": "Mended And Whole",
+  "firstLine": "Oh how great the salvation in Jesus,",
+  "pitchInfo": {
+    "raw": "F-2-SOL C-17 T-1",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-17 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Oh how great the salvation in Jesus,",
+        "That the prophets of old testified!",
+        "Even angels desire its revealing.",
+        "Praise and glory to Christ crucified!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "As a lamb that was led to the slaughter,",
+        "Not a threat, not a word did you say.",
+        "Help me, Lord when my heart fills with anger.",
+        "Your example I will not betray."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I've been saved by Your Word that is living,",
+        "To a love that is fervently pure.",
+        "Precious blood from Your cross brings redemption",
+        "With a hope that is living and sure."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "You were threatened for me,",
+        "You were slandered for me.",
+        "Ev'ry thorn, ev'ry nail, ev'ry tear was for me.",
+        "Sweet the tho't that my soul may be mended and whole",
+        "By the Lord who was broken for me.",
+        "Copyright 1986. Shepard-Stevens Music, Inc. in \"Hymns for Worship.\" Don M. Alexander, owner. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-369_full.mid",
+    "soprano": "/audio/midi/hymn-369_soprano.mid",
+    "alto": "/audio/midi/hymn-369_alto.mid",
+    "tenor": "/audio/midi/hymn-369_tenor.mid",
+    "bass": "/audio/midi/hymn-369_bass.mid"
+  }
+}

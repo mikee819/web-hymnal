@@ -1,0 +1,65 @@
+{
+  "id": "hymn-242",
+  "number": "242",
+  "numberDisplay": "242",
+  "title": "Only A Shadow Between",
+  "firstLine": "I have a home in a fair summer land,",
+  "pitchInfo": {
+    "raw": "F-2-MI C-15 H-2",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-15 H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I have a home in a fair summer land,",
+        "Its beauties I never have seen,",
+        "I have a place on an evergreen strand,",
+        "There's only a shadow between."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Jesus has promised a home to prepare,",
+        "Thru faith on this promise I lean,",
+        "I have a mansion that's wondrously fair,",
+        "There's only a shadow between."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When I have finished my task here below,",
+        "I pass thru this shadowy screen,",
+        "Be with the ransomed forever I know,",
+        "There's only a shadow between."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Only a shadow, a shadow between,",
+        "Only a shadow between",
+        "One step to go, O the way's all aglow,",
+        "There's only a shadow between.",
+        "Copyright, 1927, by The Standard Publishing Company, Cincinnati, Ohio. division of Standex International Corporation. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-242_full.mid",
+    "soprano": "/audio/midi/hymn-242_soprano.mid",
+    "alto": "/audio/midi/hymn-242_alto.mid",
+    "tenor": "/audio/midi/hymn-242_tenor.mid",
+    "bass": "/audio/midi/hymn-242_bass.mid"
+  }
+}

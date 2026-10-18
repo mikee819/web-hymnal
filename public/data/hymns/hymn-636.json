@@ -1,0 +1,89 @@
+{
+  "id": "hymn-636",
+  "number": "636",
+  "numberDisplay": "636",
+  "title": "The Love Of God 566 /",
+  "firstLine": "Since the love of God has shed",
+  "pitchInfo": {
+    "raw": "D-4-MI L-2 L-5",
+    "key": "D",
+    "note": "D",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "L-2 L-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Since the love of God has shed",
+        "Priceless blessings on my head,",
+        "I have made it my own;",
+        "I will hide it in my heart,",
+        "That it never may depart,",
+        "It shall rule there alone."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Since the Son of God came down",
+        "With His love our lives to crown,",
+        "He with us would remain;",
+        "Greater love there could not be,",
+        "Jesus died for you and me,",
+        "In our hearts, he would reign."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "He who gave His love to me,",
+        "That I might from sin be free,",
+        "Bids me share it today;",
+        "\"As I loved you,\" He has said,",
+        "\"You must serve men in my stead,",
+        "As you go on your way.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "While His love burns true and bright,",
+        "We are walking in the light,",
+        "He has shown us the road;",
+        "We His glory must reflect,",
+        "Lest our dimness and neglect",
+        "Keep some soul from its God."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "The love of God within the heart,",
+        "Will kindliness and warmth impart",
+        "The soul will glow like Jesus",
+        "In His tender mercy,",
+        "If the heart is made His dwelling place;",
+        "The love of God glows like a flame,",
+        "Thru endless years it is the same,",
+        "The love of God will never",
+        "Fail nor lose its glory",
+        "Till we see Him face to face.",
+        "Copyright, 1944. Renewal 1977 by Stamps-Baxter."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-636_full.mid",
+    "soprano": "/audio/midi/hymn-636_soprano.mid",
+    "alto": "/audio/midi/hymn-636_alto.mid",
+    "tenor": "/audio/midi/hymn-636_tenor.mid",
+    "bass": "/audio/midi/hymn-636_bass.mid"
+  }
+}

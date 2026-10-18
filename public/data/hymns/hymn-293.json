@@ -1,0 +1,64 @@
+{
+  "id": "hymn-293",
+  "number": "293",
+  "numberDisplay": "293",
+  "title": "Come To Jesus Today",
+  "firstLine": "Come to Jesus! He will save you,",
+  "pitchInfo": {
+    "raw": "D-4-MI I-1",
+    "key": "D",
+    "note": "D",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Come to Jesus! He will save you,",
+        "Tho' your sins as crimson glow;",
+        "If you give your hearts to Jesus,",
+        "He will make them white as snow."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Come to Jesus! do not tarry,",
+        "Enter in at mercy's gate;",
+        "O, delay not till the morrow,",
+        "Lest thy coming be too late."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Come to Jesus! dying sinner!",
+        "Other Savior there is none;",
+        "He will share with you His glory,",
+        "When your pilgrimage is done."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Come to Jesus! Come to Jesus!",
+        "Come to Jesus! come today,",
+        "Come to Jesus! Come to Jesus!",
+        "Come to Jesus! come, come today!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-293_full.mid",
+    "soprano": "/audio/midi/hymn-293_soprano.mid",
+    "alto": "/audio/midi/hymn-293_alto.mid",
+    "tenor": "/audio/midi/hymn-293_tenor.mid",
+    "bass": "/audio/midi/hymn-293_bass.mid"
+  }
+}

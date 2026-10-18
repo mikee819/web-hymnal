@@ -1,0 +1,59 @@
+{
+  "id": "hymn-308",
+  "number": "308",
+  "numberDisplay": "308",
+  "title": "Where Love Is In The Home",
+  "firstLine": "Where love is in the home there's happiness,",
+  "pitchInfo": {
+    "raw": "F-3-SOL H-5 L-2",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-5 L-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Where love is in the home there's happiness,",
+        "Where love is in the home there's joy;",
+        "Tho' the fare may simple be,",
+        "Still it's very plain to see",
+        "Where love is in the home, there's joy."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Where love is in the home there's harmony,",
+        "Where love is in the home there's bliss;",
+        "If advanced in age you be,",
+        "You may call to memory",
+        "Where love is in the home, there's bliss."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Where love is in the home contentment reigns,",
+        "Where love is in the home there's peace;",
+        "Gold and silver cannot buy",
+        "What it takes to satisfy",
+        "Where love is in the home, there's peace.",
+        "Copyright 1977 by Zondervan Fiesta Corporation. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-308_full.mid",
+    "soprano": "/audio/midi/hymn-308_soprano.mid",
+    "alto": "/audio/midi/hymn-308_alto.mid",
+    "tenor": "/audio/midi/hymn-308_tenor.mid",
+    "bass": "/audio/midi/hymn-308_bass.mid"
+  }
+}

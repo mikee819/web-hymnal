@@ -1,0 +1,82 @@
+{
+  "id": "hymn-659",
+  "number": "659",
+  "numberDisplay": "659",
+  "title": "Channels Only * /",
+  "firstLine": "Composer; Ada R. Gibbs, 1910, arr. by R. J. Stevens",
+  "pitchInfo": {
+    "raw": "Ab-3-SOL C-16 W-4",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-16 W-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Ada R. Gibbs, 1910, arr. by R. J. Stevens",
+        "Scripture; 2 Timothy 2:21"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "How I praise Thee, precious Savior,",
+        "That thy love laid hold of me;",
+        "Thou hast saved and cleansed and filled me",
+        "That I might thy channel be."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Emptied that Thou shouldest fill me,",
+        "A clean vessel in Thy hadn;",
+        "With no pow'r but as Thou givest",
+        "Graciously with each command."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Witnessing Thy pw'r to save me,",
+        "Setting free from self and sin;",
+        "Thou who bought me to possess me,",
+        "In Thy fullness, Lord, come in."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Jesus, fill now with Thy Spirit",
+        "Hearts that full surrender know;",
+        "That the streams of living water",
+        "From our inner man may flow."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Channels only, blessed master,",
+        "But with all Thy wondrous pow'r",
+        "Flowing through us, thou canst use us",
+        "Ev'ry day and ev'ry hour."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-659_full.mid",
+    "soprano": "/audio/midi/hymn-659_soprano.mid",
+    "alto": "/audio/midi/hymn-659_alto.mid",
+    "tenor": "/audio/midi/hymn-659_tenor.mid",
+    "bass": "/audio/midi/hymn-659_bass.mid"
+  }
+}

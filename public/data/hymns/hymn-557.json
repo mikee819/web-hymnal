@@ -1,0 +1,63 @@
+{
+  "id": "hymn-557",
+  "number": "557",
+  "numberDisplay": "557",
+  "title": "Resurrection * /",
+  "firstLine": "Composer; Richard L. Morrison",
+  "pitchInfo": {
+    "raw": "Bb-2-SOL C-8 R-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-8 R-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Richard L. Morrison"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When Jesus stood at Lazarus' tomb",
+        "An none believed he had the pow'r,",
+        "Despite their grief and their disbelief,",
+        "He commanded, \"Take away the stone.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When Jesus lay in Joseph's tomb",
+        "And none believed He had the pow'r,",
+        "True Love spoke forth in a Father's voice,",
+        "And the angel took away the stone."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When I shall lie within my tomb",
+        "and none believe He has the pow'r,",
+        "The Lord Himself will descend from heav'n",
+        "With a shout to take away the stone.",
+        "Copyright 1995 by R. L. Morrison, Owner. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-557_full.mid",
+    "soprano": "/audio/midi/hymn-557_soprano.mid",
+    "alto": "/audio/midi/hymn-557_alto.mid",
+    "tenor": "/audio/midi/hymn-557_tenor.mid",
+    "bass": "/audio/midi/hymn-557_bass.mid"
+  }
+}

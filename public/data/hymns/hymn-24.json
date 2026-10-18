@@ -1,0 +1,62 @@
+{
+  "id": "hymn-24",
+  "number": "24",
+  "numberDisplay": "24",
+  "title": "For The Beauty Of The Earth",
+  "firstLine": "For the beauty of the earth,",
+  "pitchInfo": {
+    "raw": "Ab-4-DO P-2 T-2",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-2 T-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "For the beauty of the earth,",
+        "For the glory of the skies,",
+        "For the love which from our birth",
+        "Over and around us lies."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "For the joy of human love,",
+        "Brother, sister, parent, child,",
+        "Friends on earth, and friends above,",
+        "For all gentle thoughts and mild,"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "For Thy church that evermore",
+        "Lifteth holy hands above,",
+        "Offering up on every shore",
+        "Her pure sacrifice of love."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lord of all, to Thee we raise",
+        "This our hymn of grateful praise."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-24_full.mid",
+    "soprano": "/audio/midi/hymn-24_soprano.mid",
+    "alto": "/audio/midi/hymn-24_alto.mid",
+    "tenor": "/audio/midi/hymn-24_tenor.mid",
+    "bass": "/audio/midi/hymn-24_bass.mid"
+  }
+}

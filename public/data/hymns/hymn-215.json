@@ -1,0 +1,71 @@
+{
+  "id": "hymn-215",
+  "number": "215",
+  "numberDisplay": "215",
+  "title": "Lord, Dismiss Us In Thy Care",
+  "firstLine": "Original",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Original"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "New Edition"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "G-4-DO??C-14"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "?Lord, dismiss us in Thy care,",
+        "?Help us all Thy love to share.",
+        "?Bless us now, O gracious Lord,",
+        "?Having fed upon Thy word."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "?Send us forth into the world,",
+        "?With the flag of truth unfurled.",
+        "?Help us now Thy light to give,",
+        "?That the lost with Thee might live."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "?Bless us as we leave this place,",
+        "?We all thank Thee for thy grace.",
+        "?Bring us back, we pray O lord,",
+        "?Keep us all in one accord.",
+        "Copyright 1986 by David Tant. Arranged by R. J. Stevens in \"Hymns For Worship\", 1986. J. David Tant, owner. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-215_full.mid",
+    "soprano": "/audio/midi/hymn-215_soprano.mid",
+    "alto": "/audio/midi/hymn-215_alto.mid",
+    "tenor": "/audio/midi/hymn-215_tenor.mid",
+    "bass": "/audio/midi/hymn-215_bass.mid"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "hymn-553a",
+  "number": "553a",
+  "numberDisplay": "553a",
+  "title": "Psalm 23",
+  "firstLine": "The Lord is my shepherd; no want shall come nigh. Within the green pastures He makes me to lie. Beside the still waters He leads me to rest; My soul He revives when I'm faint and oppressed.",
+  "pitchInfo": {
+    "raw": "Eb-4-MI D-1 H-3",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI",
+    "inheritedFrom": "352"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "More Holiness Give Me",
+    "number": "352"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "The Lord is my shepherd; no want shall come nigh. Within the green pastures He makes me to lie. Beside the still waters He leads me to rest; My soul He revives when I'm faint and oppressed.",
+        "In right ways He leads me for His own name's sake. although through the vale of death's shadow I walk, since Thou art there with me, no evil i fear; thy rod and thy staff give me comfort and cheer.",
+        "Thou hast me a table before all my foes. My head Thou anointest, my cup overflows. thy goodness and mercy attend my life's ways; I'll dwell in the house of the Lord endless days."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-553a_full.mid",
+    "soprano": "/audio/midi/hymn-553a_soprano.mid",
+    "alto": "/audio/midi/hymn-553a_alto.mid",
+    "tenor": "/audio/midi/hymn-553a_tenor.mid",
+    "bass": "/audio/midi/hymn-553a_bass.mid"
+  }
+}

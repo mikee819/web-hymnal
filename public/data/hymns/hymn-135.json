@@ -1,0 +1,71 @@
+{
+  "id": "hymn-135",
+  "number": "135",
+  "numberDisplay": "135",
+  "title": "More Like Jesus",
+  "firstLine": "Composer; J. M. Stillman",
+  "pitchInfo": {
+    "raw": "F-2-SOL C-13 D-1",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-13 D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; J. M. Stillman"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I want to be more like Jesus,",
+        "And follow Him day by day;",
+        "I want to be true and faithful,",
+        "And every command obey."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I want to be kind and gentle",
+        "To those who are in distress;",
+        "To comfort the broken hearted",
+        "With sweet words of tenderness."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I want to be meek and lowly,",
+        "Like Jesus, our Friend and King;",
+        "I want to be strong and earnest,",
+        "And souls to the Savior bring."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "More and more like Jesus,",
+        "I would ever be;",
+        "More and more like Jesus,",
+        "My Savior who died for me."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-135_full.mid",
+    "soprano": "/audio/midi/hymn-135_soprano.mid",
+    "alto": "/audio/midi/hymn-135_alto.mid",
+    "tenor": "/audio/midi/hymn-135_tenor.mid",
+    "bass": "/audio/midi/hymn-135_bass.mid"
+  }
+}

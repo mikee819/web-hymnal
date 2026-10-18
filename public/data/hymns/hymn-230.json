@@ -1,0 +1,66 @@
+{
+  "id": "hymn-230",
+  "number": "230",
+  "numberDisplay": "230",
+  "title": "This World Is Not My Home",
+  "firstLine": "This world is not my home, I'm just a' passing thru,",
+  "pitchInfo": {
+    "raw": "G-4-DO H-2",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "This world is not my home, I'm just a' passing thru,",
+        "My treasures are laid up somewhere beyond the blue;",
+        "The angels beckon me from heaven's open door,",
+        "And I can't feel at home in the world any more."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "They're all expecting me, and that's one thing I know,",
+        "My Savior pardoned me and now I onward go;",
+        "I know He'll take me thru tho' I am weak and poor",
+        "And I can't feel at home in the world any more."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Just up in glory land we'll live eternally,",
+        "The saints on ev'ry hand are shouting victory,",
+        "Their song of sweetest praise drift back from heaven's shore",
+        "And I can't feel at home in the world any more."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, Lord, You know I have no friend like You,",
+        "If heaven's not my home then Lord, what will I do;",
+        "The angels beckon me from heaven's open door,",
+        "And I can't feel at home in the world any more.",
+        "\"This World Is Not My Home(I'm Just Passing Thru)\" by Albert E. Brumley",
+        "(c) Arr. Copyright 1936. Renewed 1964 by Albert E. Brumley & Sons/SESAC. All rights reserved. used by permission of Integrated Copyright Group, Inc."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-230_full.mid",
+    "soprano": "/audio/midi/hymn-230_soprano.mid",
+    "alto": "/audio/midi/hymn-230_alto.mid",
+    "tenor": "/audio/midi/hymn-230_tenor.mid",
+    "bass": "/audio/midi/hymn-230_bass.mid"
+  }
+}

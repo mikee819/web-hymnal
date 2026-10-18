@@ -1,0 +1,67 @@
+{
+  "id": "hymn-509",
+  "number": "509",
+  "numberDisplay": "509",
+  "title": "We Shall Stand Before The Throne * /",
+  "firstLine": "D minor-4-LA?I-1 J-2",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "D minor-4-LA?I-1 J-2"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "?We shall stand before the throne,",
+        "?Stand with all, but stand alone,",
+        "?Face, at last, the Aged One,",
+        "?God is holy; bow before Him."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "?See the vindicated Son,",
+        "?Hear him say, \"Depart, Well done,\"",
+        "?Judgment sure for ev'ryone",
+        "?Christ is holy; listen to Him."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "?On His left, the doomed implore,",
+        "?But are locked beneath a door,",
+        "?There they burn forevermore.",
+        "?God is holy; love and fear Him."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "?But the faithful on His right,",
+        "?Wearing crowns and garments white,",
+        "?Sing forever in His sight,",
+        "?\"Holy, holy, thou art holy.\"",
+        "Copyright 1992 by Curt and Debbie Roberts, owners. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-509_full.mid",
+    "soprano": "/audio/midi/hymn-509_soprano.mid",
+    "alto": "/audio/midi/hymn-509_alto.mid",
+    "tenor": "/audio/midi/hymn-509_tenor.mid",
+    "bass": "/audio/midi/hymn-509_bass.mid"
+  }
+}

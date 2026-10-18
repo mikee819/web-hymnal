@@ -1,0 +1,97 @@
+{
+  "id": "hymn-56",
+  "number": "56",
+  "numberDisplay": "56",
+  "title": "All Creatures Of Our God And King",
+  "firstLine": "Paraphrased by William H. Draper, 1926",
+  "pitchInfo": {
+    "raw": "Eb-3-DO P-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Paraphrased by William H. Draper, 1926"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "All creature of our God and King,",
+        "Lift up your voice and with us sing",
+        "Alleluia! Alleluia!",
+        "Thou burning sun with golden beam",
+        "Thou silver moon with softer gleam,",
+        "O praise Him, O Praise Him!",
+        "Alleluia! Alleluia! Alleluia!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Thou rushing wind that art so strong,",
+        "Ye clouds that sail in Heaven along,",
+        "O praise him! Alleluia!",
+        "Thou rising morn, in praise rejoice;",
+        "Ye lights of evening find a voice,",
+        "O praise Him, O Praise Him!",
+        "Alleluia! Alleluia! Alleluia!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Thou flowing water, pure and clear,",
+        "Make music for thy Lord to hear.",
+        "Alleluia! Alleluia!",
+        "Thou fire so masterful and bright,",
+        "That givest man both warmth and light,",
+        "O praise Him, O Praise Him!",
+        "Alleluia! Alleluia! Alleluia!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "And all ye men of tender heart,",
+        "Forgiving others take your part.",
+        "O sing ye! Alleluia!",
+        "Ye who long pain and sorrow bear,",
+        "Praise God and on Him cast your care!",
+        "O praise Him, O Praise Him!",
+        "Alleluia! Alleluia! Alleluia!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Let all things their Creator bless,",
+        "And worship Him in humbleness.",
+        "O praise Him! Alleluia!",
+        "Praise, praise the Father, Praise the Son,",
+        "And praise the Spirit, Three in One!",
+        "O praise Him, O Praise Him!",
+        "Alleluia! Alleluia! Alleluia!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-56_full.mid",
+    "soprano": "/audio/midi/hymn-56_soprano.mid",
+    "alto": "/audio/midi/hymn-56_alto.mid",
+    "tenor": "/audio/midi/hymn-56_tenor.mid",
+    "bass": "/audio/midi/hymn-56_bass.mid"
+  }
+}

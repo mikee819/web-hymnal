@@ -1,0 +1,64 @@
+{
+  "id": "hymn-398",
+  "number": "398",
+  "numberDisplay": "398",
+  "title": "My Redeemer",
+  "firstLine": "I will sing of my Redeemer,",
+  "pitchInfo": {
+    "raw": "Ab-3-SOL C-7 S-4",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-7 S-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I will sing of my Redeemer,",
+        "And His wondrous love to me;",
+        "On the cruel cross He suffered,",
+        "From the curse to set me free."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I will tell the wondrous story,",
+        "How my lost estate to save,",
+        "In His boundless love and mercy,",
+        "He the ransom freely gave."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I will sing of my Redeemer,",
+        "And His heav'nly love to me;",
+        "He from death to life hath brought me,",
+        "Son of God with Him to be."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sing, O, Sing of my Redeemer,",
+        "With His blood He purchased me,",
+        "On the cross He sealed my pardon,",
+        "Paid the debt and made me free."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-398_full.mid",
+    "soprano": "/audio/midi/hymn-398_soprano.mid",
+    "alto": "/audio/midi/hymn-398_alto.mid",
+    "tenor": "/audio/midi/hymn-398_tenor.mid",
+    "bass": "/audio/midi/hymn-398_bass.mid"
+  }
+}

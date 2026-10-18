@@ -1,0 +1,62 @@
+{
+  "id": "hymn-64",
+  "number": "64",
+  "numberDisplay": "64",
+  "title": "Lead, Kindly Light 64 / *",
+  "firstLine": "Lead, kindly Light, amid the encircling gloom,",
+  "pitchInfo": {
+    "raw": "Ab-3-SOL G-3",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "G-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Lead, kindly Light, amid the encircling gloom,",
+        "Lead Thou me on;",
+        "The night is dark, and I am far from home;",
+        "Lead Thou me on.",
+        "Keep Thou my feet; I do not ask to see",
+        "The distant scene - one step enough for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I was not ever thus, nor prayed that Thou",
+        "Shouldst lead me on;",
+        "I loved to choose and see my path but now",
+        "Lead Thou me on.",
+        "I loved the garish day, and spite of fears,",
+        "Pride ruled my will: remember not past years."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "So long Thy power has blest me sure it still",
+        "Will lead me on;",
+        "Over moor and fen, over crag and torrent, till",
+        "The night is gone.",
+        "And with the morn, those angel faces smile,",
+        "Which I have loved long since, and lost awhile.",
+        "Amen."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-64_full.mid",
+    "soprano": "/audio/midi/hymn-64_soprano.mid",
+    "alto": "/audio/midi/hymn-64_alto.mid",
+    "tenor": "/audio/midi/hymn-64_tenor.mid",
+    "bass": "/audio/midi/hymn-64_bass.mid"
+  }
+}

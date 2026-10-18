@@ -1,0 +1,88 @@
+{
+  "id": "hymn-702",
+  "number": "702",
+  "numberDisplay": "702",
+  "title": "Thank You, Lord, For Homes * /",
+  "firstLine": "Compose; R. J. Stevens",
+  "pitchInfo": {
+    "raw": "C-4-MI H-5",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "H-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Compose; R. J. Stevens",
+        "Scripture; Gen. 2;24"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Thank You, Lord, for in creation",
+        "Man was lonely, incomplete;",
+        "From his rib You made a helper",
+        "Suited for him kind and sweet,",
+        "\"Leave your father and your mother,",
+        "Go and cleave unto your wife.\"",
+        "What a beautiful relation; two becoming one for life."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Thank You, Lord, for faithful fathers,",
+        "Loving, giving, strong and brace,",
+        "Leading happy households onward,",
+        "Praying for their homes to save,",
+        "For their daily needs providing,",
+        "Willing to correct and stand.",
+        "Oh how precious are our fathers!",
+        "How we need them in the land!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Thank You, Lord, for loving mothers,",
+        "Godly hearts and hands to serve,",
+        "Priced above the precious rubies,",
+        "Having virtues all observe."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ildren rise and call them blessed;",
+        "Husbands give them praises due.",
+        "Who can tell of their adornment,",
+        "Inward beauty, pure and true?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Thank You, Lord, for little children,",
+        "How they fill our hearts with love!",
+        "Humble, innocent, and tusting,",
+        "Like your children up above.",
+        "In our hands, as clay they're molded,",
+        "Ever learning morn and eve.",
+        "What a heritage we're leaving;",
+        "Precious children who believe!",
+        "Copyright 1992 by Huey P. Hartsell and R. J. Stevens. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hymn-155",
+  "number": "155",
+  "numberDisplay": "155",
+  "title": "Wonderful Love Of Jesus",
+  "firstLine": "In vain in high and holy lays",
+  "pitchInfo": {
+    "raw": "C-2-SOL L-4",
+    "key": "C",
+    "note": "C",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "L-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "In vain in high and holy lays",
+        "My soul her grateful voice would raise;",
+        "For who can sing the worthy praise",
+        "Of the wonderful love of Jesus!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "A joy by day, a peace by night,",
+        "In storms a calm, in darkness light;",
+        "In pain a balm, in weakness might",
+        "Is the wonderful love of Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "My hope for pardon when I call,",
+        "My trust for lifting when I fall;",
+        "In life, in death, my all in all,",
+        "Is the wonderful love of Jesus."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wonderful love! wonderful love!",
+        "Wonderful love of Jesus!",
+        "Wonderful love! wonderful love!",
+        "Wonderful love of Jesus!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-155_full.mid",
+    "soprano": "/audio/midi/hymn-155_soprano.mid",
+    "alto": "/audio/midi/hymn-155_alto.mid",
+    "tenor": "/audio/midi/hymn-155_tenor.mid",
+    "bass": "/audio/midi/hymn-155_bass.mid"
+  }
+}

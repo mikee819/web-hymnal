@@ -1,0 +1,68 @@
+{
+  "id": "hymn-621",
+  "number": "621",
+  "numberDisplay": "621",
+  "title": "God, Who Touches Earth With Beauty * /",
+  "firstLine": "Scripture; Eccl. 3:11",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Eccl. 3:11",
+        "F-2-ME C-16 P-3"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "God who touches earth with beauty,",
+        "Make my heart anew;",
+        "With your Spirit recreate me,",
+        "Pure and strong and true."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Like your springs and running waters",
+        "Make me crystal pure,",
+        "Like your rocks of tow'ring grandeur",
+        "Make me strong and sure."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Like the arching of the heavens",
+        "Lift my thoughts above",
+        "Turn my dreams to noble action,",
+        "Ministries of love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "God who touches earth with beauty,",
+        "Make my heart anew;",
+        "Keep me ever, by Your Spirit,",
+        "Pure and strong and true. Amen",
+        "Copyright 1955 by Clarke, Irwin & Company. Ltd. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-621_full.mid",
+    "soprano": "/audio/midi/hymn-621_soprano.mid",
+    "alto": "/audio/midi/hymn-621_alto.mid",
+    "tenor": "/audio/midi/hymn-621_tenor.mid",
+    "bass": "/audio/midi/hymn-621_bass.mid"
+  }
+}

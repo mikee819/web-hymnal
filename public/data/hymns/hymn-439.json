@@ -1,0 +1,64 @@
+{
+  "id": "hymn-439",
+  "number": "439",
+  "numberDisplay": "439",
+  "title": "Psalm 19",
+  "firstLine": "The law of the Lord is perfect,",
+  "pitchInfo": {
+    "raw": "Eb-4-DO W-3",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "W-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "The law of the Lord is perfect,",
+        "Converting the soul",
+        "The testimony of the Lord is sure,",
+        "Making wise the simple,"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "The statutes of the Lord are right,",
+        "Rejoicing the heart,",
+        "The commandment of the Lord is pure,",
+        "Enlight'ning the eyes,"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "The fear of the Lord is clean,",
+        "Enduring forever,",
+        "The judgments of the Lord are true,",
+        "And righteous altogether,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "More to be desired are they than gold,",
+        "Yea than much fine gold,",
+        "Sweeter also than honey",
+        "And the honey comb."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-439_full.mid",
+    "soprano": "/audio/midi/hymn-439_soprano.mid",
+    "alto": "/audio/midi/hymn-439_alto.mid",
+    "tenor": "/audio/midi/hymn-439_tenor.mid",
+    "bass": "/audio/midi/hymn-439_bass.mid"
+  }
+}

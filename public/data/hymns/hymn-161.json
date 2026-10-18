@@ -1,0 +1,75 @@
+{
+  "id": "hymn-161",
+  "number": "161",
+  "numberDisplay": "161",
+  "title": "Hallelujah! What A Savior!",
+  "firstLine": "\"Man of sorrows,\" what a name",
+  "pitchInfo": {
+    "raw": "C-4-SOL L-1 P-2",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "L-1 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "\"Man of sorrows,\" what a name",
+        "For the son of God who came",
+        "Ruined sinner to reclaim!",
+        "Hallelujah! what a Savior!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Bearing shame and scoffing rude,",
+        "In my place condemned He stood,",
+        "Sealed my pardon with His blood;",
+        "Hallelujah! what a Savior!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Guilty, vile and helpless we;",
+        "Spotless Lamb of God was He;",
+        "\"Full atonement!\" can it be?",
+        "Hallelujah! what a Savior!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Lifted up was He to die,",
+        "\"It is finished,\" was His cry;",
+        "Now in heaven exalted high,",
+        "Hallelujah! what a Savior!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "When He comes, our glorious King,",
+        "All His ransomed home to bring,",
+        "Then anew this song we'll sing,",
+        "Hallelujah! What a Savior!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-161_full.mid",
+    "soprano": "/audio/midi/hymn-161_soprano.mid",
+    "alto": "/audio/midi/hymn-161_alto.mid",
+    "tenor": "/audio/midi/hymn-161_tenor.mid",
+    "bass": "/audio/midi/hymn-161_bass.mid"
+  }
+}

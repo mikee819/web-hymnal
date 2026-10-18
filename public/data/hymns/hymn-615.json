@@ -1,0 +1,60 @@
+{
+  "id": "hymn-615",
+  "number": "615",
+  "numberDisplay": "615",
+  "title": "Father, I Adore You 108 /",
+  "firstLine": "Composer; Terrye Coelho (arr. by D. Shepard)",
+  "pitchInfo": {
+    "raw": "F-4-DO H-2 P-2",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "H-2 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Terrye Coelho (arr. by D. Shepard)"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Father, I adore You,",
+        "Lay my life before You,",
+        "How I love You!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Jesus, I adore You,",
+        "Lay my life before You,",
+        "How I love You!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Spirit, I adore You,",
+        "Lay my life before You,",
+        "How I love You!",
+        "Copyright 1972 Maranatha! Music. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-615_full.mid",
+    "soprano": "/audio/midi/hymn-615_soprano.mid",
+    "alto": "/audio/midi/hymn-615_alto.mid",
+    "tenor": "/audio/midi/hymn-615_tenor.mid",
+    "bass": "/audio/midi/hymn-615_bass.mid"
+  }
+}

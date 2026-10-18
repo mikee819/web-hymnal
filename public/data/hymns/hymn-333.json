@@ -1,0 +1,67 @@
+{
+  "id": "hymn-333",
+  "number": "333",
+  "numberDisplay": "333",
+  "title": "Jesus Will Give You Rest",
+  "firstLine": "Will you come, will you come,",
+  "pitchInfo": {
+    "raw": "G-4-SOL I-1",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Will you come, will you come,",
+        "With your poor broken heart,",
+        "Burdened and sin oppressed?",
+        "Lay it down at the feet of your Savior and Lord,",
+        "Jesus will give you rest."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Will you come, will you come,",
+        "There is mercy for you,",
+        "Balm for your aching breast;",
+        "Obey Jesus your Lord, heed His ev'ry command,",
+        "Jesus will give you rest."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "3 Will you come, will you come,",
+        "How He pleads with you now;",
+        "Fly to His loving breast,",
+        "And what ever your sin or your sorrow may be,",
+        "Jesus will give you rest."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, happy rest, sweet happy rest,",
+        "Jesus will give you rest,",
+        "O, why won't you come in simple, trusting faith?",
+        "Jesus will give you rest."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-333_full.mid",
+    "soprano": "/audio/midi/hymn-333_soprano.mid",
+    "alto": "/audio/midi/hymn-333_alto.mid",
+    "tenor": "/audio/midi/hymn-333_tenor.mid",
+    "bass": "/audio/midi/hymn-333_bass.mid"
+  }
+}

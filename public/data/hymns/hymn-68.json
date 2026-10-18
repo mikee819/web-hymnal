@@ -1,0 +1,58 @@
+{
+  "id": "hymn-68",
+  "number": "68",
+  "numberDisplay": "68",
+  "title": "Lord, We Come Before Thee Now",
+  "firstLine": "Lord, we come before Thee now;",
+  "pitchInfo": {
+    "raw": "G-2-DO W-5",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "W-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Lord, we come before Thee now;",
+        "At Thy feet we humbly bow:",
+        "O do not our suit disdain;",
+        "Shall we seek Thee, Lord in vain?",
+        "Shall we seek Thee, Lord in vain?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Lord, on Thee our souls depend:",
+        "In compassion now descend;",
+        "Fill our hearts with Thy rich grace,",
+        "Tune our lips to sing Thy praise,",
+        "Tune our lips to sing Thy praise."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Grant that all may seek and find",
+        "Thee a God supremely kind;",
+        "Heal the sick, the captive free;",
+        "Let us all rejoice in Thee,",
+        "Let us all rejoice in Thee."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-68_full.mid",
+    "soprano": "/audio/midi/hymn-68_soprano.mid",
+    "alto": "/audio/midi/hymn-68_alto.mid",
+    "tenor": "/audio/midi/hymn-68_tenor.mid",
+    "bass": "/audio/midi/hymn-68_bass.mid"
+  }
+}

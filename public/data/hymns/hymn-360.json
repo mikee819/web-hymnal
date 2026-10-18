@@ -1,0 +1,64 @@
+{
+  "id": "hymn-360",
+  "number": "360",
+  "numberDisplay": "360",
+  "title": "Standing On The Promises",
+  "firstLine": "Standing on the promises of Christ my King,",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL P-4 W-3",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-4 W-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Standing on the promises of Christ my King,",
+        "Thru eternal ages let His praises ring;",
+        "Glory in the highest, I will shout and sing,",
+        "Standing on the promises of God."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Standing on the promises that cannot fail,",
+        "When the howling storms of doubt assail,",
+        "By the living Word of God I shall prevail,",
+        "Standing on the promises of God."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Standing on the promises of Christ the Lord,",
+        "Bound to Him eternally by love's strong cord,",
+        "Overcoming daily with the Spirit's sword,",
+        "Standing on the promises of God."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Standing, standing,",
+        "Standing on the promises of God my Savior;",
+        "Standing, standing,",
+        "I'm standing on the promises of God"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-360_full.mid",
+    "soprano": "/audio/midi/hymn-360_soprano.mid",
+    "alto": "/audio/midi/hymn-360_alto.mid",
+    "tenor": "/audio/midi/hymn-360_tenor.mid",
+    "bass": "/audio/midi/hymn-360_bass.mid"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "hymn-286",
+  "number": "286",
+  "numberDisplay": "286",
+  "title": "Must Jesus Bear The Cross Alone",
+  "firstLine": "Must Jesus bear the cross alone,",
+  "pitchInfo": {
+    "raw": "A-2-MI C-16 C-17",
+    "key": "A",
+    "note": "A",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-16 C-17",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Must Jesus bear the cross alone,",
+        "And all the world go free?",
+        "No, there's a cross for ev'ry one,",
+        "And there's a cross for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "The consecrated cross I'll bear,",
+        "Till death shall set me free,",
+        "And then go home my crown to wear,",
+        "For there's a crown for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O precious cross! O glorious crown!",
+        "O resurrection day!",
+        "Ye angels from the stars come down,",
+        "And bear my soul away."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-286_full.mid",
+    "soprano": "/audio/midi/hymn-286_soprano.mid",
+    "alto": "/audio/midi/hymn-286_alto.mid",
+    "tenor": "/audio/midi/hymn-286_tenor.mid",
+    "bass": "/audio/midi/hymn-286_bass.mid"
+  }
+}

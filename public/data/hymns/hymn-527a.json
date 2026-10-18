@@ -1,0 +1,38 @@
+{
+  "id": "hymn-527a",
+  "number": "527a",
+  "numberDisplay": "527a",
+  "title": "Psalm 15",
+  "firstLine": "Lord, in Thy net who will abide with Thee, and on Thy Holy Hill a dweller be? Who walks in uprightness, who worketh righteousness, Who doth the truth express unfeignedly.",
+  "pitchInfo": {
+    "raw": "F-2-MI C-6 T-1",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "MI",
+    "inheritedFrom": "185"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Something For Jesus",
+    "number": "185"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Lord, in Thy net who will abide with Thee, and on Thy Holy Hill a dweller be? Who walks in uprightness, who worketh righteousness, Who doth the truth express unfeignedly.",
+        "Whose tongue doth not defame nor harm his friend, who to his neighbor's shame no ear doth lend, who has the vile abhorred but honor doth accord to those who fear the Lord and Him attend.",
+        "When to his hurt he swears naught changes he; his gold no increase bears from usury; His hands no bribes receive the guiltless to aggrieve. Lo, he who thus doth live unmoved shall be."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-527a_full.mid",
+    "soprano": "/audio/midi/hymn-527a_soprano.mid",
+    "alto": "/audio/midi/hymn-527a_alto.mid",
+    "tenor": "/audio/midi/hymn-527a_tenor.mid",
+    "bass": "/audio/midi/hymn-527a_bass.mid"
+  }
+}

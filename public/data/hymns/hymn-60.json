@@ -1,0 +1,62 @@
+{
+  "id": "hymn-60",
+  "number": "60",
+  "numberDisplay": "60",
+  "title": "Lead Me Gently Home, Father",
+  "firstLine": "Lead me gently home, Father, lead me gently home,",
+  "pitchInfo": {
+    "raw": "D-4-MI D-1",
+    "key": "D",
+    "note": "D",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Lead me gently home, Father, lead me gently home,",
+        "When life's toils are ended, And parting days have come;",
+        "Sin no more shall tempt me, Ne'er from Thee I'll roam,",
+        "If Thou'lt only lead me, Father, Lead me gently home."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Lead me gently home, Father, lead me gently home,",
+        "In life's darkest hours, Father, When life's troubles come;",
+        "Keep my feet from wande'ring, Lest from Thee I'll roam,",
+        "Lest I fall upon the wayside, Lead me gently home."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Lead me gently home, Father, lead me gently home,",
+        "In temptation's hour, Father, when sore trials come;",
+        "Be Thou near to keep me, Take me as Thine own,",
+        "For I cannot live without Thee, Lead me gently home."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lead me gently home, Father, lead me gently home,",
+        "Lest I fall upon the wayside, Lead me gently home."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-60_full.mid",
+    "soprano": "/audio/midi/hymn-60_soprano.mid",
+    "alto": "/audio/midi/hymn-60_alto.mid",
+    "tenor": "/audio/midi/hymn-60_tenor.mid",
+    "bass": "/audio/midi/hymn-60_bass.mid"
+  }
+}

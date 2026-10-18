@@ -1,0 +1,61 @@
+{
+  "id": "hymn-399",
+  "number": "399",
+  "numberDisplay": "399",
+  "title": "Face To Face",
+  "firstLine": "Face to face with Christ my Savior,",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL S-2 T-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "S-2 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Face to face with Christ my Savior,",
+        "Face to face, what will it be,",
+        "When with rapture I behold Him,",
+        "Jesus Christ, who died for me?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Only faintly now I see Him,",
+        "With the darkling veil between,",
+        "But a blessed day is coming,",
+        "When His glory shall be seen."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Face to face! O, blissful moment!",
+        "Face to face to see and know;",
+        "Face to face with my Redeemer,",
+        "Jesus Christ, who love me so."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Face to face shall I behold Him,",
+        "Far beyond the starry sky;",
+        "Face to face in all His glory,",
+        "I shall see Him by and by!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-399_full.mid",
+    "soprano": "/audio/midi/hymn-399_soprano.mid"
+  }
+}

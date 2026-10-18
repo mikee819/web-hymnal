@@ -1,0 +1,65 @@
+{
+  "id": "hymn-238",
+  "number": "238",
+  "numberDisplay": "238",
+  "title": "God Shall Wipe Away All Tears",
+  "firstLine": "When we reach that home and lay our burdens down,",
+  "pitchInfo": {
+    "raw": "F-2-MI C-15 H-2",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-15 H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When we reach that home and lay our burdens down,",
+        "God shall wipe away all tears;",
+        "When we join the saints and wear a robe and crown,",
+        "God shall wipe away all tears."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When the pearly gates unfold for you and me,",
+        "God shall wipe away all tears;",
+        "When we see the Christ who set the captive free",
+        "God shall wipe away all tears."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When we sweetly sing with all the ransomed throng,",
+        "God shall wipe away all tears;",
+        "No more partings come to mar that happy song,",
+        "God shall wipe away all tears."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "God shall wipe away all the tears from ev'ry eye,",
+        "Give us joy for all our fears;",
+        "When we meet Him in that home beyond the sky,",
+        "God shall wipe away all tears.",
+        "Copyright, 1940, Renewal 1968 by Stamps-Baxter Music."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-238_full.mid",
+    "soprano": "/audio/midi/hymn-238_soprano.mid",
+    "alto": "/audio/midi/hymn-238_alto.mid",
+    "tenor": "/audio/midi/hymn-238_tenor.mid",
+    "bass": "/audio/midi/hymn-238_bass.mid"
+  }
+}

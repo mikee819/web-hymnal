@@ -1,0 +1,46 @@
+{
+  "id": "hymn-669",
+  "number": "669",
+  "numberDisplay": "669",
+  "title": "Holy Is The Lord * /",
+  "firstLine": "Scripture; Lev. 19:2",
+  "pitchInfo": {
+    "raw": "Eb-2-MI P-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Lev. 19:2"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Holy, holy, holy,",
+        "Holy is the Lord.",
+        "Holy, holy, holy,",
+        "Holy is the Lord.",
+        "Holy is the Father,",
+        "Holy is the Son,",
+        "Holy is the Spirit;",
+        "Blessed Three in One."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-669_full.mid",
+    "soprano": "/audio/midi/hymn-669_soprano.mid",
+    "alto": "/audio/midi/hymn-669_alto.mid",
+    "tenor": "/audio/midi/hymn-669_tenor.mid",
+    "bass": "/audio/midi/hymn-669_bass.mid"
+  }
+}

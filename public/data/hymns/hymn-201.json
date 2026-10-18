@@ -1,0 +1,55 @@
+{
+  "id": "hymn-201",
+  "number": "201",
+  "numberDisplay": "201",
+  "title": "A Charge To Keep I Have",
+  "firstLine": "A charge to keep I have,",
+  "pitchInfo": {
+    "raw": "C-3-SOL C-16 L-6",
+    "key": "C",
+    "note": "C",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-16 L-6",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "A charge to keep I have,",
+        "A God to glorify,",
+        "A never dying soul to save,",
+        "And fit it for the sky."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "To serve the present age,",
+        "My calling to the fulfill-",
+        "O may it all my pow'rs engage",
+        "To do my Master's will!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Help me to watch and pray,",
+        "And on Thyself rely,",
+        "Assured if I my trust betray,",
+        "I shall forever die."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-201_full.mid",
+    "soprano": "/audio/midi/hymn-201_soprano.mid",
+    "alto": "/audio/midi/hymn-201_alto.mid",
+    "tenor": "/audio/midi/hymn-201_tenor.mid",
+    "bass": "/audio/midi/hymn-201_bass.mid"
+  }
+}

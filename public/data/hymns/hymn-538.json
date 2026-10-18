@@ -1,0 +1,33 @@
+{
+  "id": "hymn-538",
+  "number": "538",
+  "numberDisplay": "538",
+  "title": "Majesty * /",
+  "firstLine": "Copyright 1981 by Rocksmith Music, c/o Trust Music Management. All rights reserved. Used By Permission.",
+  "pitchInfo": {
+    "raw": "Bb-2-DO C-6 W-5",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-6 W-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Copyright 1981 by Rocksmith Music, c/o Trust Music Management. All rights reserved. Used By Permission.",
+        "The copyright holder, Mandina Music, BMI has denied us any rights to use or publish the words of this song in this project."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-538_full.mid",
+    "soprano": "/audio/midi/hymn-538_soprano.mid",
+    "alto": "/audio/midi/hymn-538_alto.mid",
+    "tenor": "/audio/midi/hymn-538_tenor.mid",
+    "bass": "/audio/midi/hymn-538_bass.mid"
+  }
+}

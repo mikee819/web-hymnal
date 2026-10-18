@@ -1,0 +1,38 @@
+{
+  "id": "hymn-554a",
+  "number": "554a",
+  "numberDisplay": "554a",
+  "title": "Psalm 113",
+  "firstLine": "Praise Jehovah; praise the Lord; Ye His servants, praise accord; Blessed by Jehovah's name; evermore his praise proclaim, ever more His praise proclaim.",
+  "pitchInfo": {
+    "raw": "G-2-DO W-5",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "DO",
+    "inheritedFrom": "68"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Lord, We Come Before Thee -",
+    "number": "68"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Praise Jehovah; praise the Lord; Ye His servants, praise accord; Blessed by Jehovah's name; evermore his praise proclaim, ever more His praise proclaim.",
+        "From the dawn to setting sun, praise the Lord, the mighty One. O'er all nations He is high; Yea, His glory crowns the sky, yea, his glory crowns the sky.",
+        "Who is like the Lord our God? high in heav'n is His abode, Who Himself doth humble low things in heav'n and earth to know, things in heav'n and earth to know."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-554a_full.mid",
+    "soprano": "/audio/midi/hymn-554a_soprano.mid",
+    "alto": "/audio/midi/hymn-554a_alto.mid",
+    "tenor": "/audio/midi/hymn-554a_tenor.mid",
+    "bass": "/audio/midi/hymn-554a_bass.mid"
+  }
+}

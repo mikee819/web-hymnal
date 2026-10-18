@@ -1,0 +1,65 @@
+{
+  "id": "hymn-42",
+  "number": "42",
+  "numberDisplay": "42",
+  "title": "Blessed In Christ",
+  "firstLine": "Blessed in Christ, with blessings abundant,",
+  "pitchInfo": {
+    "raw": "Bb-3-MI P-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Blessed in Christ, with blessings abundant,",
+        "I can thru Him face living each day.",
+        "Though pressures mount and stresses surround me,",
+        "I go to my father, thru Jesus I pray."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Blessed in Christ, a glorious future,",
+        "Now that He cleansed the sins from my past.",
+        "Each day I'm rising, nobler I'm living,",
+        "Thru grace and mercy He'll save me at last."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Blessed in Christ, with marvelous power!",
+        "Daily I live, my Lord to obey.",
+        "Power above my asking or thinking",
+        "Will cheer my heart and lift me away."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Father I praise Thee for Thy intervention!",
+        "Jesus I praise Thee for the redemption!",
+        "Spirit I praise Thee for word Inspiration!",
+        "Blessed in Christ, all glory to Him.",
+        "Copyright 1986, Shepard-Stevens Music, Inc. in \"Hymns For Worship\". Don Alexander and R.J. Stevens, owners. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-42_full.mid",
+    "soprano": "/audio/midi/hymn-42_soprano.mid",
+    "alto": "/audio/midi/hymn-42_alto.mid",
+    "tenor": "/audio/midi/hymn-42_tenor.mid",
+    "bass": "/audio/midi/hymn-42_bass.mid"
+  }
+}

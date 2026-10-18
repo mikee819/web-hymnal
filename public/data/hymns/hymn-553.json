@@ -1,0 +1,42 @@
+{
+  "id": "hymn-553",
+  "number": "553",
+  "numberDisplay": "553",
+  "title": "Hear Our Prayer, O Lord * /",
+  "firstLine": "Scripture; Proverbs 15:29",
+  "pitchInfo": {
+    "raw": "Eb-4-MI P-3",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "P-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Proverbs 15:29"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Hear our prayer, O Lord,",
+        "Hear our prayer, O Lord;",
+        "Incline Thine ear to us,",
+        "And grant us Thy peace. Amen"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-553_full.mid",
+    "soprano": "/audio/midi/hymn-553_soprano.mid",
+    "alto": "/audio/midi/hymn-553_alto.mid",
+    "tenor": "/audio/midi/hymn-553_tenor.mid",
+    "bass": "/audio/midi/hymn-553_bass.mid"
+  }
+}

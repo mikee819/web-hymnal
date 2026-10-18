@@ -1,0 +1,64 @@
+{
+  "id": "hymn-343",
+  "number": "343",
+  "numberDisplay": "343",
+  "title": "Let Him Have His Way With Thee",
+  "firstLine": "Would you live for Jesus, and be always pure and good?",
+  "pitchInfo": {
+    "raw": "G-4-SOL I-1",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Would you live for Jesus, and be always pure and good?",
+        "Would you walk with Him within the narrow road?",
+        "Would you have Him bear your burden, carry all your load?",
+        "Let Him have His way with thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Would you have Him make you free, and follow at His call?",
+        "Would you know the peace that comes by giving all?",
+        "Would you have Him save you, so that you need never fall?",
+        "Let Him have His way with thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Would you in His kingdom find a place of constant rest?",
+        "Would you prove Him true each providential test?",
+        "Would you in His service labor always at your best?",
+        "Let Him have His way with thee."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "His pow'r can make you what you ought to be;",
+        "His blood can cleanse your heart and make you free;",
+        "His love can fill your soul, and you will see",
+        "'Twas best for Him to have His way with thee."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-343_full.mid",
+    "soprano": "/audio/midi/hymn-343_soprano.mid",
+    "alto": "/audio/midi/hymn-343_alto.mid",
+    "tenor": "/audio/midi/hymn-343_tenor.mid",
+    "bass": "/audio/midi/hymn-343_bass.mid"
+  }
+}

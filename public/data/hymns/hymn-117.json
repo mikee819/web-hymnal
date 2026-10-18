@@ -1,0 +1,61 @@
+{
+  "id": "hymn-117",
+  "number": "117",
+  "numberDisplay": "117",
+  "title": "Guide Me, O Thou Great Jehovah",
+  "firstLine": "Guide me, O Thou great Jehovah,",
+  "pitchInfo": {
+    "raw": "D-3-SOL D-1 G-3",
+    "key": "D",
+    "note": "D",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "D-1 G-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Guide me, O Thou great Jehovah,",
+        "Pilgrim thru this barren land;",
+        "I am weak, but Thou are mighty,",
+        "Hold me with Thy powerful hand;",
+        "Bread of heaven, feed me till I want no more:",
+        "Bread of heaven, feed me till I want no more:"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Open now the crystal fountain,",
+        "Whence the healing waters flow;",
+        "Let the fiery, cloudy pillar,",
+        "Lead me all my journey through;",
+        "Strong Deliverer, Be Thou still my strength and shield.",
+        "Strong Deliverer, Be Thou still my strength and shield."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When I tread the verge of Jordan,",
+        "Bid my anxious fears subside;",
+        "Bear me thru the swelling current,",
+        "Land me safe on Canaan's side;",
+        "Songs of praises I will ever give to thee:",
+        "Songs of praises I will ever give to thee:"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-117_full.mid",
+    "soprano": "/audio/midi/hymn-117_soprano.mid",
+    "alto": "/audio/midi/hymn-117_alto.mid",
+    "tenor": "/audio/midi/hymn-117_tenor.mid",
+    "bass": "/audio/midi/hymn-117_bass.mid"
+  }
+}

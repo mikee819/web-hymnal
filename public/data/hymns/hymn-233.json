@@ -1,0 +1,64 @@
+{
+  "id": "hymn-233",
+  "number": "233",
+  "numberDisplay": "233",
+  "title": "The Greatest Of All Is Love",
+  "firstLine": "Walking by faith and not by sight,",
+  "pitchInfo": {
+    "raw": "Eb-2-MI L-3",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "L-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Walking by faith and not by sight,",
+        "Serving the Lord by solemn right,",
+        "Knowing this wisdom from above;",
+        "That the greatest of all is love!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Filled with a hope of heaven's grace,",
+        "Longing to see our Savior's face,",
+        "Fervently waiting His return,",
+        "Yet the greatest of all is love!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Learning to love with all the heart,",
+        "Striving each day to do our part;",
+        "Loving our neighbors and our Lord,",
+        "For the greatest of all is love!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Love never fails, but ever avails;",
+        "Abiding is faith and hope and love -",
+        "But the greatest of all is love!",
+        "Copyright 1986, Shepard-Stevens Music, Inc. in \"Hymns For Worship\". R. J. Stevens, owner. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-233_full.mid",
+    "soprano": "/audio/midi/hymn-233_soprano.mid",
+    "alto": "/audio/midi/hymn-233_alto.mid",
+    "tenor": "/audio/midi/hymn-233_tenor.mid",
+    "bass": "/audio/midi/hymn-233_bass.mid"
+  }
+}

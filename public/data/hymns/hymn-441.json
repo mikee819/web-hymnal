@@ -1,0 +1,63 @@
+{
+  "id": "hymn-441",
+  "number": "441",
+  "numberDisplay": "441",
+  "title": "Christ Liveth in Me",
+  "firstLine": "Once far from God and dead in sin,",
+  "pitchInfo": {
+    "raw": "G-2-SOL T-1",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Once far from God and dead in sin,",
+        "No light my heart could see;",
+        "But in God's Word the light I found,",
+        "Now Christ liveth in me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "As rays of light from yonder sin,",
+        "The flow'rs of earth set free,",
+        "So life and light and love came forth",
+        "From Christ living in me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "With longing all my heart is filled,",
+        "That like Him I may be,",
+        "As on the wondrous tho't I dwell",
+        "That Christ liveth in me."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Christ liveth in me, Christ liveth in me,",
+        "Oh! what a salvation this,",
+        "That Christ liveth in me."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-441_full.mid",
+    "soprano": "/audio/midi/hymn-441_soprano.mid",
+    "alto": "/audio/midi/hymn-441_alto.mid",
+    "tenor": "/audio/midi/hymn-441_tenor.mid",
+    "bass": "/audio/midi/hymn-441_bass.mid"
+  }
+}

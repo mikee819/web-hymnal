@@ -1,0 +1,55 @@
+{
+  "id": "hymn-120",
+  "number": "120",
+  "numberDisplay": "120",
+  "title": "We Give Thee But Thine Own",
+  "firstLine": "We give Thee but Thine own,",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL D-1 W-4",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "D-1 W-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "We give Thee but Thine own,",
+        "Whatever the gift may be;",
+        "All that we have is Thine alone,",
+        "A trust, O Lord, from Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "May we Thy bounties thus",
+        "As stewards true receive,",
+        "And gladly, as Thou blessest us,",
+        "To Thee our first-fruits give."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "And we believe Thy word,",
+        "Though dim our faith may be,",
+        "Whatever for Thine we do, O Lord,",
+        "We do it unto Thee."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-120_full.mid",
+    "soprano": "/audio/midi/hymn-120_soprano.mid",
+    "alto": "/audio/midi/hymn-120_alto.mid",
+    "tenor": "/audio/midi/hymn-120_tenor.mid",
+    "bass": "/audio/midi/hymn-120_bass.mid"
+  }
+}

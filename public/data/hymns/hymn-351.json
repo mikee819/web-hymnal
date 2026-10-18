@@ -1,0 +1,64 @@
+{
+  "id": "hymn-351",
+  "number": "351",
+  "numberDisplay": "351",
+  "title": "Will You Not Tell It Today",
+  "firstLine": "If the name of the Savior is precious to you,",
+  "pitchInfo": {
+    "raw": "Eb-2-DO S-5",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "S-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "If the name of the Savior is precious to you,",
+        "If His care has been constant and tender and true,",
+        "If the light of His presence has brightened your way,",
+        "O will you not tell of your gladness today?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "If your faith in the Savior has brought its reward,",
+        "If a strength you have found in the strength of your Lord,",
+        "If the hope of a rest in His palace is sweet,",
+        "O will you not, brother, the story repeat?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "If the souls all around you are living in sin,",
+        "If the Master has told you to bid them come in,",
+        "If the sweet invitation they never have heard,",
+        "O will you not tell them the cheer bringing word?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O will you not tell it today?",
+        "Will you not tell it today?",
+        "If the light of His presence has brightened your way,",
+        "O will you not tell it today?"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-351_full.mid",
+    "soprano": "/audio/midi/hymn-351_soprano.mid",
+    "alto": "/audio/midi/hymn-351_alto.mid",
+    "tenor": "/audio/midi/hymn-351_tenor.mid",
+    "bass": "/audio/midi/hymn-351_bass.mid"
+  }
+}

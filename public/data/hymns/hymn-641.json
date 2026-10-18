@@ -1,0 +1,67 @@
+{
+  "id": "hymn-641",
+  "number": "641",
+  "numberDisplay": "641",
+  "title": "There Is A Sea 570 /",
+  "firstLine": "There is a sea which day by day",
+  "pitchInfo": {
+    "raw": "Eb-4-MI W-4",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "W-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There is a sea which day by day",
+        "Receives the rippling rills,",
+        "And streams that spring from wells of God",
+        "Or fall from cedared hills;",
+        "But what it thus receives it gives",
+        "With glad unsparing hand;",
+        "A stream more wide, with deeper tide,",
+        "Flow on to lower land."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "There is a sea which day by day",
+        "Receives a fuller tide;",
+        "But all its store it keeps, nor gives",
+        "To shore nor sea beside;",
+        "It's Jordan stream, now turned to brine,",
+        "Lies heavy as molten lead;",
+        "Its dreadful name doth e'er proclaim",
+        "That sea is waste and dead."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Which shall it be for you and me,",
+        "Who God's good gifts obtain?",
+        "Shall we accept for self alone,",
+        "Or take to give again?",
+        "For He who once was rich indeed",
+        "Laid all His glory down;",
+        "That by His grace, our ransomed race",
+        "Should share His wealth and crown."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-641_full.mid",
+    "soprano": "/audio/midi/hymn-641_soprano.mid",
+    "alto": "/audio/midi/hymn-641_alto.mid",
+    "tenor": "/audio/midi/hymn-641_tenor.mid",
+    "bass": "/audio/midi/hymn-641_bass.mid"
+  }
+}

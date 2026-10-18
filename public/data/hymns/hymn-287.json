@@ -1,0 +1,64 @@
+{
+  "id": "hymn-287",
+  "number": "287",
+  "numberDisplay": "287",
+  "title": "There's A Fountain Free",
+  "firstLine": "There's a fountain free, 'tis for you and me;",
+  "pitchInfo": {
+    "raw": "G-4-DO I-1",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There's a fountain free, 'tis for you and me;",
+        "Let us hast, O hast to its brink;",
+        "'Tis the fount of love from the Source above,",
+        "And He bids us all freely drink."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "There's a living stream, with a crystal gleam:",
+        "From the throne of life now it flows;",
+        "While the waters roll let the weary soul",
+        "Hear the call that forth freely goes."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "There's a rock that's cleft and no soul is left,",
+        "That my not its pure waters share;",
+        "'Tis for you and me, and its stream I see:",
+        "Let us hasten joyfully there."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Will you come (will you come) to the fountain free?",
+        "Will you come (Will you come,'tis for you and me;",
+        "Thirsty soul (thirsty soul,) hear the welcome call:",
+        "'Tis a fountain opened for all."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-287_full.mid",
+    "soprano": "/audio/midi/hymn-287_soprano.mid",
+    "alto": "/audio/midi/hymn-287_alto.mid",
+    "tenor": "/audio/midi/hymn-287_tenor.mid",
+    "bass": "/audio/midi/hymn-287_bass.mid"
+  }
+}

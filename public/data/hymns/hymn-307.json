@@ -1,0 +1,71 @@
+{
+  "id": "hymn-307",
+  "number": "307",
+  "numberDisplay": "307",
+  "title": "Are You Washed In The Blood",
+  "firstLine": "Composer; E. A. Hoffman",
+  "pitchInfo": {
+    "raw": "Ab-4-MI H-3 I-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "H-3 I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; E. A. Hoffman"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Have you been to Jesus for the cleansing pow'r?",
+        "Are you washed in the blood of the Lamb?",
+        "Are you fully trusting in His grace this hour?",
+        "Are you washed in the blood of the Lamb?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Are you walking daily by the Savior's side?",
+        "Are you washed in the blood of the Lamb?",
+        "Do you rest each moment in the Crucifies/",
+        "Are you washed in the blood of the Lamb?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Lay aside the garments that are stained with sin,",
+        "And be washed in the blood of the Lamb;",
+        "There's a fountain flowing for the soul unclean,",
+        "O, be washed in the blood of the Lamb!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Are you washed in the blood,",
+        "In the soul cleansing blood of the Lamb?",
+        "Are your garments spotless, are they white as snow?",
+        "Are you washed in the blood of the Lamb?"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-307_full.mid",
+    "soprano": "/audio/midi/hymn-307_soprano.mid",
+    "alto": "/audio/midi/hymn-307_alto.mid",
+    "tenor": "/audio/midi/hymn-307_tenor.mid",
+    "bass": "/audio/midi/hymn-307_bass.mid"
+  }
+}

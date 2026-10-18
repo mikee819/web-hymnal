@@ -1,0 +1,65 @@
+{
+  "id": "hymn-349",
+  "number": "349",
+  "numberDisplay": "349",
+  "title": "Are You Willing To Open The Door",
+  "firstLine": "Are you willing to open the door",
+  "pitchInfo": {
+    "raw": "F-2-SOL I-1",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Are you willing to open the door",
+        "And let the Savior in?",
+        "Are you willing to walk in His way",
+        "And leave the paths of sin?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Are you willing to open the door",
+        "Where comfort waits and rest?",
+        "Are you willing to trust Him just now?",
+        "He truly knows what's best."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Are you willing to open the door",
+        "In answer to His call?",
+        "Are you willing to bid Him come in",
+        "And give to him your all?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He can take your guilt away,",
+        "Give you life anew;",
+        "Lost in sin, why longer stray?",
+        "Jesus cares for you.",
+        "Copyright 1977 by Zondervan Fiesta Corporation. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-349_full.mid",
+    "soprano": "/audio/midi/hymn-349_soprano.mid",
+    "alto": "/audio/midi/hymn-349_alto.mid",
+    "tenor": "/audio/midi/hymn-349_tenor.mid",
+    "bass": "/audio/midi/hymn-349_bass.mid"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "hymn-580",
+  "number": "580",
+  "numberDisplay": "580",
+  "title": "Ten Thousand Angels 537 /",
+  "firstLine": "Composer; Ray Overholt",
+  "pitchInfo": {
+    "raw": "Eb-4-DO C-3 C-4",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-3 C-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Ray Overholt",
+        "Key; Eb Starting Note: Eb"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "They bound the hands of Jesus",
+        "In the garden where He pray'd;",
+        "They led Him thru the streets in shame.",
+        "They spat upon the Savior",
+        "So pure and free from sin;",
+        "They said, \"Crucify Him - He's to blame.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Upon His precious head",
+        "They placed a crown of thorns;",
+        "They laugh'd and said, \"Behold thy King.\"",
+        "They struck Him and they cursed Him",
+        "And mocked His holy name.",
+        "All alone He suffered ev'ry thing."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When they nailed Him to the Cross",
+        "His mother stood nearby;",
+        "He said, \"Woman, behold thy son!\"",
+        "He cried,\"I thirst for water,\"",
+        "But they gave Him none to drink.",
+        "Then the sinful work of man was done."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "To the howling mob He yielded;",
+        "He did not for mercy cry.",
+        "The Cross of shame He took alone.",
+        "And when He cried, \"It's finished,\"",
+        "He gave himself to die;",
+        "Salvation's wondrous plan was done."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He could have called ten thousand angels",
+        "To destroy the world and set him free.",
+        "He could have called ten thousand angels,",
+        "But He died alone, for you and me.",
+        "Copyright 1959 by Lillenas Publishing Company. all Rights reserved. Used by permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-580_full.mid",
+    "soprano": "/audio/midi/hymn-580_soprano.mid",
+    "alto": "/audio/midi/hymn-580_alto.mid",
+    "tenor": "/audio/midi/hymn-580_tenor.mid",
+    "bass": "/audio/midi/hymn-580_bass.mid"
+  }
+}

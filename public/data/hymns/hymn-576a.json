@@ -1,0 +1,39 @@
+{
+  "id": "hymn-576a",
+  "number": "576a",
+  "numberDisplay": "576a",
+  "title": "Take My Life And Let It Be",
+  "firstLine": "Take my life and let it be consecrated, Lord, to Thee; Take my hands and let them move at the impulse of thy love, at the impulse of Thy love.",
+  "pitchInfo": {
+    "raw": "G-2-DO W-5",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "DO",
+    "inheritedFrom": "68"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Lord We Come Before Thee -",
+    "number": "68"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Take my life and let it be consecrated, Lord, to Thee; Take my hands and let them move at the impulse of thy love, at the impulse of Thy love.",
+        "Take my feet and let them be swift and beautiful for Thee; take my voice and let me sing always, only, for my King, always, only, for my King.",
+        "Take my lips and let them be filled with messages for thee; take my silver and my gold, not a mite would I with-hold, not a mite would I with-hold.",
+        "Take my love, my God, I pour at Thy feet its treasure store; take myself and I will be ever, only, all for Thee, ever, only, all for Thee."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-576a_full.mid",
+    "soprano": "/audio/midi/hymn-576a_soprano.mid",
+    "alto": "/audio/midi/hymn-576a_alto.mid",
+    "tenor": "/audio/midi/hymn-576a_tenor.mid",
+    "bass": "/audio/midi/hymn-576a_bass.mid"
+  }
+}

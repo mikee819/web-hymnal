@@ -1,0 +1,64 @@
+{
+  "id": "hymn-99",
+  "number": "99",
+  "numberDisplay": "99",
+  "title": "Savior, Lead Me Lest I Stray",
+  "firstLine": "Savior, lead me, lest I stray,",
+  "pitchInfo": {
+    "raw": "Db-4-SOL G-3",
+    "key": "Db",
+    "note": "Db",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "G-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Savior, lead me, lest I stray,",
+        "Gently lead me all the way;",
+        "I am safe when by Thy side,",
+        "I would in Thy love abide."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Thou the refuge of my soul,",
+        "When life's stormy billows roll;",
+        "I am safe when Thou are nigh,",
+        "All my hopes on Thee rely."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Savior, lead me, then at last,",
+        "When the storm of life is past;",
+        "To the land of endless day,",
+        "Where all tears are wiped away."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lead me, lead me.",
+        "Savior, lead me, lest I stray;",
+        "Gently down the stream of time,",
+        "Lead me, Savior, all the way."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-99_full.mid",
+    "soprano": "/audio/midi/hymn-99_soprano.mid",
+    "alto": "/audio/midi/hymn-99_alto.mid",
+    "tenor": "/audio/midi/hymn-99_tenor.mid",
+    "bass": "/audio/midi/hymn-99_bass.mid"
+  }
+}

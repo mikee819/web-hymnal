@@ -1,0 +1,40 @@
+{
+  "id": "hymn-515a",
+  "number": "515a",
+  "numberDisplay": "515a",
+  "title": "\"Take Up Your Cross,\" the Savior Said",
+  "firstLine": "\"Take up your cross,\" the Savior said, \"If you would My disciple be; take up your cross with willing heart, and humbly follow after Me.\"",
+  "pitchInfo": {
+    "raw": "E-3-MI D-1 W-4",
+    "key": "E",
+    "note": "E",
+    "beat": 3,
+    "solfege": "MI",
+    "inheritedFrom": "65"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "O Master, Let Me Walk With Thee",
+    "number": "65"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "\"Take up your cross,\" the Savior said, \"If you would My disciple be; take up your cross with willing heart, and humbly follow after Me.\"",
+        "Take up your cross; let not its weight fill your weak soul with vain alarm; His strength shall bear your spirit up, and brace your heart and nerve your arm.",
+        "Take up your cross, nor heed the shame, and let your foolish pride be still: Your Lord refused not e'en to die upon a cross on Calv'ry's hill.",
+        "Take up your cross, then, in His strength, and calmly every danger brave; \"Twill guide you to a better home, and lead to vict'ry o'er the grave.\"",
+        "Take up your cross, and follow Christ, nor think till death to lay it down; for only he who bears the cross may hope to wear the glorious crown."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-515a_full.mid",
+    "soprano": "/audio/midi/hymn-515a_soprano.mid",
+    "alto": "/audio/midi/hymn-515a_alto.mid",
+    "tenor": "/audio/midi/hymn-515a_tenor.mid",
+    "bass": "/audio/midi/hymn-515a_bass.mid"
+  }
+}

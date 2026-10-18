@@ -1,0 +1,50 @@
+{
+  "id": "hymn-619",
+  "number": "619",
+  "numberDisplay": "619",
+  "title": "Speak, Lord, In The Stillness 570a /",
+  "firstLine": "New Edition",
+  "pitchInfo": {
+    "raw": "Db-4-DO C-16 P-3",
+    "key": "Db",
+    "note": "Db",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-16 P-3",
+  "tuneRef": {
+    "title": "My Jesus I Love Thee -",
+    "number": "110"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "New Edition"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Tune suggest in Original Edition:"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Speak, Lord, in the stillness while I wait on Thee; Hushed my heart to listen in expectancy. Speak, O blessed Master, in this quiet hour; Let me see Thy face, Lord, feel thy touch of power.",
+        "For the words Thou speakest, they are life indeed; Living bread from heaven, now my spirit feed! All to Thee is yielded, I am not my own; Blissful, glad surrender, I am Thine alone."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-619_full.mid",
+    "soprano": "/audio/midi/hymn-619_soprano.mid",
+    "alto": "/audio/midi/hymn-619_alto.mid",
+    "tenor": "/audio/midi/hymn-619_tenor.mid",
+    "bass": "/audio/midi/hymn-619_bass.mid"
+  }
+}

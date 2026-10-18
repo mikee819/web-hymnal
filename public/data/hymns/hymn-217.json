@@ -1,0 +1,73 @@
+{
+  "id": "hymn-217",
+  "number": "217",
+  "numberDisplay": "217",
+  "title": "Happy The Home When God Is There",
+  "firstLine": "(Alt. Bryan J. Leech)",
+  "pitchInfo": {
+    "raw": "Ab-3-MI H-5",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "H-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "(Alt. Bryan J. Leech)"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Happy the home when God is there",
+        "And love fills everyone,",
+        "When with united work and prayer",
+        "The Master's will is done."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Happy the home where God's strong love",
+        "Is starting to appear,",
+        "Where all the children hear His fame",
+        "And parents hold Him dear."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Happy the home where prayer is heard",
+        "And praise is everywhere,",
+        "Where parents love the sacred Word",
+        "And its true wisdom share."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Lord, let us in our homes agree",
+        "This blessed peace to gain;",
+        "Unite our hearts in love to Thee,",
+        "And love to all will reign.",
+        "Text Revision Copyright 1976 by Fred Bock Music Company. All rights reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-217_full.mid",
+    "soprano": "/audio/midi/hymn-217_soprano.mid",
+    "alto": "/audio/midi/hymn-217_alto.mid",
+    "tenor": "/audio/midi/hymn-217_tenor.mid",
+    "bass": "/audio/midi/hymn-217_bass.mid"
+  }
+}

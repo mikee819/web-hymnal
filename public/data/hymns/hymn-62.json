@@ -1,0 +1,67 @@
+{
+  "id": "hymn-62",
+  "number": "62",
+  "numberDisplay": "62",
+  "title": "Did You Think To Pray",
+  "firstLine": "Ere you left your room this morning,",
+  "pitchInfo": {
+    "raw": "F-4-MI E-1 P-3",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "E-1 P-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Ere you left your room this morning,",
+        "Did you think to pray?",
+        "In the name of Christ, our Savior,",
+        "Did you sue for loving favor,",
+        "As a shield today?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When your heart was filled with anger,",
+        "Did you think to pray?",
+        "Did you plead for grace, my brother,",
+        "That you might forgive another",
+        "Who had crossed your way?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When sore trials came upon you,",
+        "Did you think to pray?",
+        "When your soul was bowed in sorrow,",
+        "Balm of Gilead did you borrow",
+        "At the gates of day?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O how praying rests the weary!",
+        "Prayer will change the night to day;",
+        "So, when life seems dark and dreary,",
+        "Don't forget to pray."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-62_full.mid",
+    "soprano": "/audio/midi/hymn-62_soprano.mid",
+    "alto": "/audio/midi/hymn-62_alto.mid",
+    "tenor": "/audio/midi/hymn-62_tenor.mid",
+    "bass": "/audio/midi/hymn-62_bass.mid"
+  }
+}

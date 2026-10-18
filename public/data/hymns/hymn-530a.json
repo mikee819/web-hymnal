@@ -1,0 +1,39 @@
+{
+  "id": "hymn-530a",
+  "number": "530a",
+  "numberDisplay": "530a",
+  "title": "Psalm 29",
+  "firstLine": "O give to Jehovah, you sons of the Mighty, both glory and strength to Jehovah accord! O give to Jehovah His greatness of glory! In splendor of holiness worship the Lord!",
+  "pitchInfo": {
+    "raw": "Eb-4-SOL L-5 P-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "SOL",
+    "inheritedFrom": "52"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "We Praise Thee, O God, Our Redeemer",
+    "number": "52"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O give to Jehovah, you sons of the Mighty, both glory and strength to Jehovah accord! O give to Jehovah His greatness of glory! In splendor of holiness worship the Lord!",
+        "The voice of Jehovah resounds on the waters; the glorious God thunders forth from the height. Jehovah is on the great sweep of the waters - The Lord's voice in splendor! The Lord's voice in might!",
+        "The voice of Jehovah is breaking the cedars! Jehovah rips Lebanon's cedars apart! The slopes of Mount Hermon - like calves they are leaping! And Lebanon's hills like young antelope start!",
+        "The voice of Jehovah divides flames of lightning and causes the fiery flashes to break! The voice of the Lord makes the wilderness tremble; the Lord makes the desert of Kadesh to shake!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-530a_full.mid",
+    "soprano": "/audio/midi/hymn-530a_soprano.mid",
+    "alto": "/audio/midi/hymn-530a_alto.mid",
+    "tenor": "/audio/midi/hymn-530a_tenor.mid",
+    "bass": "/audio/midi/hymn-530a_bass.mid"
+  }
+}

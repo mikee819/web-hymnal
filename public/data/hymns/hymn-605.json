@@ -1,0 +1,37 @@
+{
+  "id": "hymn-605",
+  "number": "605",
+  "numberDisplay": "605",
+  "title": "This Is The Day * /",
+  "firstLine": "This is the day the Lord has made.",
+  "pitchInfo": {
+    "raw": "D-2-DO W-5 J-1",
+    "key": "D",
+    "note": "D",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "W-5 J-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "This is the day the Lord has made.",
+        "Let us rejoice and be glad in it.",
+        "Let us rejoice,",
+        "Let us rejoice,",
+        "Let us rejoice and be glad in it.",
+        "Copyright 1991 by Leon B. Sanderson. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-605_full.mid",
+    "soprano": "/audio/midi/hymn-605_soprano.mid",
+    "alto": "/audio/midi/hymn-605_alto.mid",
+    "tenor": "/audio/midi/hymn-605_tenor.mid",
+    "bass": "/audio/midi/hymn-605_bass.mid"
+  }
+}

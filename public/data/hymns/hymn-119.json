@@ -1,0 +1,67 @@
+{
+  "id": "hymn-119",
+  "number": "119",
+  "numberDisplay": "119",
+  "title": "Only In Thee",
+  "firstLine": "Only in Thee, O Savior mine,",
+  "pitchInfo": {
+    "raw": "Bb-3-MI C-16 D-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-16 D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Only in Thee, O Savior mine,",
+        "Dwelleth my soul in peace divine,",
+        "Peace that the world, though all combine,",
+        "Never can take from me.",
+        "Pleasure of earth so seemingly sweet,",
+        "Fail at the last my longings to meet;",
+        "Only in Thee my bliss is complete,",
+        "Only, dear Lord, in Thee!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Only in Thee a radiance bright,",
+        "Shines like a beacon in the night,",
+        "Guiding my pilgrim bark aright,",
+        "Over life's trackless sea.",
+        "Only in thee, when troubles molest,",
+        "When with temptation I am oppressed;",
+        "There is a sweet pavilion of rest,",
+        "Only, dear Lord, in Thee!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Only in Thee, dear Savior, slain,",
+        "Losing Thy life my own to gain,",
+        "Trusting, I'm cleansed from every stain,",
+        "Thou art my only plea.",
+        "Only in Thee, my heart will delight,",
+        "Till in that land where cometh no night,",
+        "Faith will be lost in heavenly sight,",
+        "Only, dear Lord in Thee!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-119_full.mid",
+    "soprano": "/audio/midi/hymn-119_soprano.mid",
+    "alto": "/audio/midi/hymn-119_alto.mid",
+    "tenor": "/audio/midi/hymn-119_tenor.mid",
+    "bass": "/audio/midi/hymn-119_bass.mid"
+  }
+}

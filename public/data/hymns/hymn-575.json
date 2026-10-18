@@ -1,0 +1,68 @@
+{
+  "id": "hymn-575",
+  "number": "575",
+  "numberDisplay": "575",
+  "title": "O Lord, Help Us remember * /",
+  "firstLine": "Scripture; Luke 22:19",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Luke 22:19",
+        "Eminor-4-LA L-1"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O Lord, help us remember,",
+        "As we these emblems take,",
+        "Thy suff'ring death on Calv'ry",
+        "For our unworthy sakes."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O Lord, help us remember,",
+        "The crown of thorns You wroe;",
+        "Altho' Thy vision blood-stained,",
+        "Thy love divine outpoured."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O Lord, help us remember",
+        "That from the dead You rose;",
+        "The pow'r of god did raise Thee",
+        "Triumphant o'er Thy foes."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "O Lord, help us remember",
+        "Thou art at god's right hand;",
+        "This feast doth show thy suff'ring",
+        "Untill You come again.",
+        "Copyright 1994 by R. J. Stevens. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-575_full.mid",
+    "soprano": "/audio/midi/hymn-575_soprano.mid",
+    "alto": "/audio/midi/hymn-575_alto.mid",
+    "tenor": "/audio/midi/hymn-575_tenor.mid",
+    "bass": "/audio/midi/hymn-575_bass.mid"
+  }
+}

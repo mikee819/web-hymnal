@@ -1,0 +1,59 @@
+{
+  "id": "hymn-687",
+  "number": "687",
+  "numberDisplay": "687",
+  "title": "Did You Repent, Fully repent? 603 /",
+  "firstLine": "Christ the dear Lord, glorious Lord, speaks to us gently,",
+  "pitchInfo": {
+    "raw": "F-4-SOL E-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Christ the dear Lord, glorious Lord, speaks to us gently,",
+        "By His great word that is our light each day;",
+        "Tell us the way, glorious way, we may reach heaven,",
+        "If we believe, if we repent, if we obey."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Yes, He has said, truly has said, how we should live now,",
+        "What to partake, what to avoid while here;",
+        "Do unto those that are about a kindly service,",
+        "Tell them of Christ, teach them that He always is near."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Did you fully repent of your past sins, friend,",
+        "When you Confessed His name on high?",
+        "Did you believe, fully believe on His great name then,",
+        "Or was a doubt, treacherous doubt, lingering nigh?",
+        "Did you obey all of the way what He commanded,",
+        "Things in His word we're told to do?",
+        "Did you Confess, fully confess Jesus the Savior,",
+        "Did you Repent, did you believe all the way through?",
+        "Copyright 1957, by National Music company in \"Golden Rainbow\". Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-687_full.mid",
+    "soprano": "/audio/midi/hymn-687_soprano.mid",
+    "alto": "/audio/midi/hymn-687_alto.mid",
+    "tenor": "/audio/midi/hymn-687_tenor.mid",
+    "bass": "/audio/midi/hymn-687_bass.mid"
+  }
+}

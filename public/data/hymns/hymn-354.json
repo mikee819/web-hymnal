@@ -1,0 +1,64 @@
+{
+  "id": "hymn-354",
+  "number": "354",
+  "numberDisplay": "354",
+  "title": "O How Love I Thy Law",
+  "firstLine": "Unspotted is the fear of God,",
+  "pitchInfo": {
+    "raw": "F-2-SOL W-3",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "W-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Unspotted is the fear of God,",
+        "And ever doth endure;",
+        "The judgments of the Lord are truth,",
+        "And righteousness most pure."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "They more than gold, yea, much fine gold,",
+        "To be desired are,",
+        "Than honey from the honey-comb",
+        "That droppeth sweeter far."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "More over they, Thy servant warn,",
+        "How he his life should frame,",
+        "A great reward provided is",
+        "For them that keep the same."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O how love I Thy law, O how love I Thy law;",
+        "It is my meditation all the day;",
+        "O how love I Thy law, O how love I Thy law;",
+        "It is my meditation all the day."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-354_full.mid",
+    "soprano": "/audio/midi/hymn-354_soprano.mid",
+    "alto": "/audio/midi/hymn-354_alto.mid",
+    "tenor": "/audio/midi/hymn-354_tenor.mid",
+    "bass": "/audio/midi/hymn-354_bass.mid"
+  }
+}

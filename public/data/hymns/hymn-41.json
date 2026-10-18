@@ -1,0 +1,61 @@
+{
+  "id": "hymn-41",
+  "number": "41",
+  "numberDisplay": "41",
+  "title": "Fairest Lord Jesus",
+  "firstLine": "1 Fairest Lord Jesus,",
+  "pitchInfo": {
+    "raw": "E-4-DO C-6 P-2",
+    "key": "E",
+    "note": "E",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-6 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1 Fairest Lord Jesus,",
+        "Ruler of all nature,",
+        "O Thou of God and man the Son!",
+        "Thee will I cherish,",
+        "Thee will I honor,",
+        "Thou, my soul's glory, joy, and crown."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "2 Fair are the meadows,",
+        "Fairer still the woodlands,",
+        "Robed in the blooming garb of spring;",
+        "Jesus is fairer,",
+        "Jesus is purer,",
+        "Who makes the woeful heart to sing."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "3 Fair is the sunshine,",
+        "Fairer still the moonlight",
+        "And all the twinkling, starry host:",
+        "Jesus shines brighter,",
+        "Jesus shines purer",
+        "Than all the angels heav'n can boast."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-41_full.mid",
+    "soprano": "/audio/midi/hymn-41_soprano.mid",
+    "alto": "/audio/midi/hymn-41_alto.mid",
+    "tenor": "/audio/midi/hymn-41_tenor.mid",
+    "bass": "/audio/midi/hymn-41_bass.mid"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "hymn-47",
+  "number": "47",
+  "numberDisplay": "47",
+  "title": "God Is So Good",
+  "firstLine": "Composer Unknown",
+  "pitchInfo": {
+    "raw": "Eb-2-DO T-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer Unknown",
+        "Scripture Psalm 100:5"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "God is so good, God is so good,",
+        "God is so good, He's so good to me!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Jesus is real, Jesus is real,",
+        "Jesus is real, He's so real to me!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "He saved my soul, He saved my soul,",
+        "He saved my soul, And He made me whole!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "I praise His name, I praise His name,",
+        "I praise His name, He's so good to me!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-47_full.mid",
+    "soprano": "/audio/midi/hymn-47_soprano.mid",
+    "alto": "/audio/midi/hymn-47_alto.mid",
+    "tenor": "/audio/midi/hymn-47_tenor.mid",
+    "bass": "/audio/midi/hymn-47_bass.mid"
+  }
+}

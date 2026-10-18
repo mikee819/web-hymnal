@@ -1,0 +1,77 @@
+{
+  "id": "hymn-676",
+  "number": "676",
+  "numberDisplay": "676",
+  "title": "Resurrection 592 /",
+  "firstLine": "They crucified my Lord,",
+  "pitchInfo": {
+    "raw": "C-4-MI C-8",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-8",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "They crucified my Lord,",
+        "Laid him in the tomb,",
+        "Now lies the Son of God in death's sable gloom"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "The Man of grief and toil There in silence lies;",
+        "Death has within its coil",
+        "God of earth and skies.",
+        "Duet:",
+        "But, behold, there was an earth-quake,",
+        "For from heav'n there came and angel,",
+        "With a countenance like lightning,",
+        "And a raiment white as snow.",
+        "Semi-Chorus",
+        "When at dawn came Mary magdalene,",
+        "'Twas the angel's voice which said:",
+        "\"Lo! He is not here, but risen!\""
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist is risen from the dead.",
+        "Bass",
+        "Solo",
+        "He who for the world's salvation bled,",
+        "Now is risen, risen from the dead;",
+        "Glory, honor we will ever sing,",
+        "Praise to our risen, risen King.",
+        "Full Chorus",
+        "Hallelujah, sing,",
+        "With hearts to heav'n and voices raise,",
+        "Ever shout, ye ransomed ones,",
+        "For you His blood was shed;",
+        "Sing a hymn of gladness,",
+        "Sing to God a hymn of praise,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist, the Lord, is ris'n indeed, is risen from the dead."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-676_full.mid",
+    "soprano": "/audio/midi/hymn-676_soprano.mid",
+    "alto": "/audio/midi/hymn-676_alto.mid",
+    "tenor": "/audio/midi/hymn-676_tenor.mid",
+    "bass": "/audio/midi/hymn-676_bass.mid"
+  }
+}

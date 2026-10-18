@@ -1,0 +1,64 @@
+{
+  "id": "hymn-387",
+  "number": "387",
+  "numberDisplay": "387",
+  "title": "Far And Near",
+  "firstLine": "Far and near the fields are teeming",
+  "pitchInfo": {
+    "raw": "Ab-3-MI S-5",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "S-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Far and near the fields are teeming",
+        "With the waves of ripened grain;",
+        "Far and near their gold is gleaming",
+        "O'er the sunny slope and plain."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Send them forth with morn's first beaming,",
+        "Send them in the noontide's glare;",
+        "When the sun's last rays are gleaming,",
+        "Bid them gather ev'rywhere."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O thou, whom thy Lord is sending,",
+        "Gather now the sheaves of gold;",
+        "Heaven-ward then at evening wending,",
+        "Thou shalt come with joy untold."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lord of harvest, send forth reapers!",
+        "Hear us, Lord, to Thee we cry;",
+        "Send them now the sheaves to gather,",
+        "Ere the harvest time pass by."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-387_full.mid",
+    "soprano": "/audio/midi/hymn-387_soprano.mid",
+    "alto": "/audio/midi/hymn-387_alto.mid",
+    "tenor": "/audio/midi/hymn-387_tenor.mid",
+    "bass": "/audio/midi/hymn-387_bass.mid"
+  }
+}

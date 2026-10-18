@@ -1,0 +1,57 @@
+{
+  "id": "hymn-88",
+  "number": "88",
+  "numberDisplay": "88",
+  "title": "O Savior, Let Me Walk With Thee * /",
+  "firstLine": "O Savior, let me walk with Thee",
+  "pitchInfo": {
+    "raw": "Db-4-DO P-3",
+    "key": "Db",
+    "note": "Db",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O Savior, let me walk with Thee",
+        "Along life's rugged way;",
+        "Please hold my hand that I may see",
+        "Thy guiding light each day."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O Savior, let me talk with Thee",
+        "And thank Thee for Thy love;l",
+        "O help me Lord, forgive Thou me",
+        "From Thy throne in heav'n above."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O Savior, let me be with Thee",
+        "In that sweet home on high;",
+        "I'm longing for Thy face to see",
+        "In the sweet land by and by.",
+        "Amen.",
+        "Copyright 1992 by Timothy Paul Stevens. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-88_full.mid",
+    "soprano": "/audio/midi/hymn-88_soprano.mid",
+    "alto": "/audio/midi/hymn-88_alto.mid",
+    "tenor": "/audio/midi/hymn-88_tenor.mid",
+    "bass": "/audio/midi/hymn-88_bass.mid"
+  }
+}

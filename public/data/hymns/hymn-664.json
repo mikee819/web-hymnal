@@ -1,0 +1,78 @@
+{
+  "id": "hymn-664",
+  "number": "664",
+  "numberDisplay": "664",
+  "title": "He Gave Me A Song 583 /",
+  "firstLine": "Composer; Alton H. Howard",
+  "pitchInfo": {
+    "raw": "C-4-MI J-1 S-4",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "J-1 S-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Alton H. Howard"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "He took my burdens all away,",
+        "Up to a brighter day,",
+        "He gave me a song, a wonderful song;",
+        "A wonderful song I now can sing,",
+        "In my heart joy bells ring,",
+        "He gave me a song, a wonderful song."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Brighter the way grows ev'ry day,",
+        "Walking the heav'nly way,",
+        "He gave me a song, a wonderful song;",
+        "A wonderful song I now can sing,",
+        "Praises to him, my King,",
+        "He gave me a song, a wonderful song."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I am redeemed no more to die,",
+        "Never to say \"good-bye,\"",
+        "He gave me a song, a wonderful song;",
+        "And some of these days in that fair land,",
+        "Sing with the chorus grand,",
+        "He gave me a song, a wonderful song."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He gave me a song to sing about,",
+        "He lifted me from sin and doubt,",
+        "Oh, praise his name, He is my King,",
+        "A wonderful song, He is to me.",
+        "Copyright 1977 by Alton H. Howard, All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-664_full.mid",
+    "soprano": "/audio/midi/hymn-664_soprano.mid",
+    "alto": "/audio/midi/hymn-664_alto.mid",
+    "tenor": "/audio/midi/hymn-664_tenor.mid",
+    "bass": "/audio/midi/hymn-664_bass.mid"
+  }
+}

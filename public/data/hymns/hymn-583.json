@@ -1,0 +1,52 @@
+{
+  "id": "hymn-583",
+  "number": "583",
+  "numberDisplay": "583",
+  "title": "Take Thou Our Minds, Dear Lord 538a /",
+  "firstLine": "Scripture; Romans 8:9",
+  "pitchInfo": {
+    "raw": "Eb-4-MI P-3 D-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "P-3 D-1",
+  "tuneRef": {
+    "title": "Abide With Me",
+    "number": "74"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Romans 8:9"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "alternate tune in original edition;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Take Thou our minds dear Lord, we humbly pray; give us the mind of Christ each passing day; teach us to know the truth that sets us free; grant us in all our thoughts to honor Thee.",
+        "Take Thou our hearts, O Christ, they are Thine own; come thou within our souls and claim Thy throne; help us to shed abroad Thy deathless love; use us to make the earth like heav'n above.",
+        "Take Thou our will, most High! hold Thou full sway; have in our inmost souls Thy perfect way; guard Thou each sacred hour from selfish ease; guide Thou our ordered lives as Thou dost please.",
+        "Take Thou ourselves, O Lord, heart, mind and will; through our surrendered souls Thy plans fulfill. We yield ourselves to Thee, time, talents, all! We hear, and henceforth heed Thy sov'reign call."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-583_full.mid",
+    "soprano": "/audio/midi/hymn-583_soprano.mid",
+    "alto": "/audio/midi/hymn-583_alto.mid",
+    "tenor": "/audio/midi/hymn-583_tenor.mid",
+    "bass": "/audio/midi/hymn-583_bass.mid"
+  }
+}

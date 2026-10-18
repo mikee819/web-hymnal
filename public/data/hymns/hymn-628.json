@@ -1,0 +1,75 @@
+{
+  "id": "hymn-628",
+  "number": "628",
+  "numberDisplay": "628",
+  "title": "Grant Me Peace And Hope 561 /",
+  "firstLine": "Composer; Anne Finley Stevens",
+  "pitchInfo": {
+    "raw": "Bb-4-MI P-3",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "P-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Anne Finley Stevens",
+        "arr. by R. J. Stevens",
+        "Scripture; Ephesians 1:2",
+        "Key; Bb Starting Note: D"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When I'm lost in darkness, light the way for me.",
+        "When my soul's in prison, give me liberty.",
+        "When I stumble, lift me up to stand with Thee.",
+        "Grant me peace and hope, is my plea."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When I sin, Lord, pardon my infirmity.",
+        "When I've doubted, let me see the prints on Thee.",
+        "When my load is heavy, lift it up for me.",
+        "Grant me peace and hope, is my plea."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When my body's weakened, give me faith in Thee.",
+        "When I've lost my dear ones, love and comfort me.",
+        "When my days have ended, take me home with Thee.",
+        "Grant me peace and hope, is my plea."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "I am blind and often lose my way,",
+        "Filled with sadness, terror, and dismay,",
+        "In our Father's house prepare a place for me.",
+        "Let me dwell with Thee eternally.",
+        "Copyright 1984 by Anne Finley Stevens. Arranged by R. J. Stevens in \"Hymns For Worship\", 1986. Anne Finley Stevens, owner. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-628_full.mid",
+    "soprano": "/audio/midi/hymn-628_soprano.mid",
+    "alto": "/audio/midi/hymn-628_alto.mid",
+    "tenor": "/audio/midi/hymn-628_tenor.mid",
+    "bass": "/audio/midi/hymn-628_bass.mid"
+  }
+}

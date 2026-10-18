@@ -1,0 +1,65 @@
+{
+  "id": "hymn-438",
+  "number": "438",
+  "numberDisplay": "438",
+  "title": "We Walk By Faith",
+  "firstLine": "We look at things we cannot see,",
+  "pitchInfo": {
+    "raw": "Bb-2-MI F-1 S-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "F-1 S-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "We look at things we cannot see,",
+        "Eternal things above,",
+        "Where Christ our Savior ever lives",
+        "And intercedes in love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Our love is on the things above",
+        "And not on things below;",
+        "When Christ who is our life appears,",
+        "His glory we shall know."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Heav'n is a glorious place prepared",
+        "By God the Father's Son;",
+        "We hope to see Him face to face",
+        "And hear the words \"well done\"."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "We walk by faith and not by sight,",
+        "Our hearts are filled with love.",
+        "In hope we wait for Christ's return",
+        "To take us home above.",
+        "Copyright 1986, Shepard Stevens Music, Inc. in \"Hymns For Worship\", R. J. Stevens, owner. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-438_full.mid",
+    "soprano": "/audio/midi/hymn-438_soprano.mid",
+    "alto": "/audio/midi/hymn-438_alto.mid",
+    "tenor": "/audio/midi/hymn-438_tenor.mid",
+    "bass": "/audio/midi/hymn-438_bass.mid"
+  }
+}

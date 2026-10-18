@@ -1,0 +1,82 @@
+{
+  "id": "hymn-689",
+  "number": "689",
+  "numberDisplay": "689",
+  "title": "Master, The Tempest Is Raging 605 /",
+  "firstLine": "Master, the tempest is raging!",
+  "pitchInfo": {
+    "raw": "C-2-SOL C-6 P-1",
+    "key": "C",
+    "note": "C",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-6 P-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Master, the tempest is raging!",
+        "The billows are tossing high!",
+        "The sky is o'er shadowed with blackness,",
+        "No shelter or help is nigh;",
+        "Carest Thou not that we perish?",
+        "How canst Thou lie asleep,",
+        "When each moment so madly is threat'ning",
+        "A grave in the angry deep?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Master, with anguish of spirit",
+        "I bow in my grief today;",
+        "The depths of my sad heart are troubled",
+        "O, waken and save, I pray;",
+        "Torrents of sin and of anguish",
+        "Sweep o'er my sinking soul;",
+        "And I perish! I perish! dear Master,",
+        "O, hasten, and take control."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Master, the terror is over,",
+        "The elements sweetly rest;",
+        "Earth's sun in the calm lake is mirrored,",
+        "And heaven's within my breast;",
+        "Linger, O, blessed Redeemer!",
+        "Leave me alone no more;",
+        "And with joy I shall make the blest harbor,",
+        "And rest on the blissful shore."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "The winds and the waves shall obey Thy will,",
+        "Peace, be still!",
+        "Whether the wrath of the storm tossed sea,",
+        "Or demons or men, or whatever it be,",
+        "No waters can swallow the ship where lies",
+        "The Master of ocean, and earth, and skies;",
+        "They all shall sweetly obey Thy will,",
+        "Peace, be still! peace, be still!",
+        "They all shall sweetly obey Thy will,",
+        "Peace, peace, be still!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-689_full.mid",
+    "soprano": "/audio/midi/hymn-689_soprano.mid",
+    "alto": "/audio/midi/hymn-689_alto.mid",
+    "tenor": "/audio/midi/hymn-689_tenor.mid",
+    "bass": "/audio/midi/hymn-689_bass.mid"
+  }
+}

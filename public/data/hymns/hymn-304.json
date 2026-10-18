@@ -1,0 +1,64 @@
+{
+  "id": "hymn-304",
+  "number": "304",
+  "numberDisplay": "304",
+  "title": "Why Do You Wait",
+  "firstLine": "Why do you wait, dear sinner?",
+  "pitchInfo": {
+    "raw": "A-2-SOL I-1",
+    "key": "A",
+    "note": "A",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Why do you wait, dear sinner?",
+        "O, why do you tarry so long?",
+        "Your Savior is waiting to give you",
+        "A place in His sanctified throng."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "What do you hope, dear sinner?",
+        "To gain by a further delay?",
+        "There's no one to save you but Jesus,",
+        "There's no other way but His way."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Why do you wait, dear sinner?",
+        "The harvest is passing away,",
+        "Your Savior is longing to bless you;",
+        "There's danger and death in delay."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Why not? Why not?",
+        "Why not come to Him now?",
+        "Why not? Why not?",
+        "Why not come to Him now?"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-304_full.mid",
+    "soprano": "/audio/midi/hymn-304_soprano.mid",
+    "alto": "/audio/midi/hymn-304_alto.mid",
+    "tenor": "/audio/midi/hymn-304_tenor.mid",
+    "bass": "/audio/midi/hymn-304_bass.mid"
+  }
+}

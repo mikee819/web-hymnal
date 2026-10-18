@@ -1,0 +1,75 @@
+{
+  "id": "hymn-159",
+  "number": "159",
+  "numberDisplay": "159",
+  "title": "When My Love To Christ Grows Weak",
+  "firstLine": "When my love to Christ grows weak,",
+  "pitchInfo": {
+    "raw": "C-3-MI D-1 G-1",
+    "key": "C",
+    "note": "C",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1 G-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When my love to Christ grows weak,",
+        "When for deeper faith I seek,",
+        "Then in tho't I go to Thee,",
+        "Garden of Gethsemane!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "There I walk amid the shades,",
+        "While the ling'ring twilight fades,",
+        "See the suff'ring, friendless One,",
+        "Weeping, praying there alone."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When my love for man grows weak,",
+        "When for stronger faith I seek,",
+        "Hill of Calvary! I go",
+        "To thy scenes of fear and woe."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "There behold His agony,",
+        "Suffered on the bitter tree;",
+        "See His anguish, see His faith,",
+        "Love triumphant still in death."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Then to life I turn again,",
+        "Learning all the worth of pain;",
+        "Learning all the might that lies",
+        "In a full self sacrifice."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-159_full.mid",
+    "soprano": "/audio/midi/hymn-159_soprano.mid",
+    "alto": "/audio/midi/hymn-159_alto.mid",
+    "tenor": "/audio/midi/hymn-159_tenor.mid",
+    "bass": "/audio/midi/hymn-159_bass.mid"
+  }
+}

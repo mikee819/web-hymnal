@@ -1,0 +1,64 @@
+{
+  "id": "hymn-328",
+  "number": "328",
+  "numberDisplay": "328",
+  "title": "His Sheep Am I * /",
+  "firstLine": "st. 2, Dane K. Shepard",
+  "pitchInfo": {
+    "raw": "Eb-4-DO C-11",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-11",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "st. 2, Dane K. Shepard"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "In God's green pastures feeding,",
+        "By His cool water lie,",
+        "Soft in the evening walk my Lord and I.",
+        "All the sheep of His pasture fare so wondrously fine.",
+        "His sheep am I"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "In God's way gently leading,",
+        "O'er the path low or high,",
+        "Early in the morning walk my Lord and I,",
+        "All the sheep of His pasture fare so wondrously fine.",
+        "His sheep am I"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Water cool, pastures green",
+        "In the evening walk my Lord and I;",
+        "Dark the night, rough the way,",
+        "Step by step my Lord and I.",
+        "Copyright 1956 by Orien Johnson, Assigned to Sacred Songs. (Div. of Word). All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-328_full.mid",
+    "soprano": "/audio/midi/hymn-328_soprano.mid",
+    "alto": "/audio/midi/hymn-328_alto.mid",
+    "tenor": "/audio/midi/hymn-328_tenor.mid",
+    "bass": "/audio/midi/hymn-328_bass.mid"
+  }
+}

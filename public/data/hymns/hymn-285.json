@@ -1,0 +1,65 @@
+{
+  "id": "hymn-285",
+  "number": "285",
+  "numberDisplay": "285",
+  "title": "Zion's Call",
+  "firstLine": "Zion's call sweetly rings over land and sea,",
+  "pitchInfo": {
+    "raw": "F-4-DO I-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Zion's call sweetly rings over land and sea,",
+        "Bidding us look to realms above;",
+        "While the light from the throne shines for you and me,",
+        "Let us list to the call of love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "On the road to the goal burdens we must bear,",
+        "But we have help from realms above;",
+        "We receive courage new when we kneel in pray'r,",
+        "Let us list to the call of love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "While we tarry below there is work to do",
+        "And our strength cometh from above,",
+        "As we labor and wait we must all be true,",
+        "Let us list to the call of love."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Zion's call is ringing,",
+        "Coming from the throne above,",
+        "While we hear it ringing,",
+        "Let us heed the call of love.",
+        "Copyright, 1944, by Stamps-Baxter Music, owners."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-285_full.mid",
+    "soprano": "/audio/midi/hymn-285_soprano.mid",
+    "alto": "/audio/midi/hymn-285_alto.mid",
+    "tenor": "/audio/midi/hymn-285_tenor.mid",
+    "bass": "/audio/midi/hymn-285_bass.mid"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "hymn-336",
+  "number": "336",
+  "numberDisplay": "336",
+  "title": "The Only Way",
+  "firstLine": "Would you be freed from your burden of sin?",
+  "pitchInfo": {
+    "raw": "Ab-2-SOL I-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Would you be freed from your burden of sin?",
+        "Hear the sweet whisper of pardon within?",
+        "Would you this moment a new life begin?",
+        "This is the only way:"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Would you have light that no clouds can obscure?",
+        "Would you have joys that are fadeless and pure?",
+        "Would you have help that is mighty and sure?",
+        "This is the only way:",
+        "3 Would you find rest in a blessed retreat,",
+        "Rest undisturbed by the tempests that beat?",
+        "Would you be ready the judgment to meet?",
+        "This is the only way:"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Come to the cross of the son of God,",
+        "Trust in the pow'r of His saving blood,",
+        "Walk in the path where His feet once trod",
+        "This is the only way."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-336_full.mid",
+    "soprano": "/audio/midi/hymn-336_soprano.mid",
+    "alto": "/audio/midi/hymn-336_alto.mid",
+    "tenor": "/audio/midi/hymn-336_tenor.mid",
+    "bass": "/audio/midi/hymn-336_bass.mid"
+  }
+}

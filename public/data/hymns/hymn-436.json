@@ -1,0 +1,73 @@
+{
+  "id": "hymn-436",
+  "number": "436",
+  "numberDisplay": "436",
+  "title": "Unto The Hills 436 / *",
+  "firstLine": "Unto the hills around do I lift up",
+  "pitchInfo": {
+    "raw": "G-2-MI A-1",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "A-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Unto the hills around do I lift up",
+        "My longing eyes;",
+        "O whence for me shall my salvation come,",
+        "From whence arise?",
+        "From God the Lord doth come my certain aid,",
+        "From God the Lord, who heav'n and earth hath made;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "He will not suffer that thy foot be moved;",
+        "Safe shalt thou be;",
+        "No careless slumber shall His eyelids close",
+        "Who keepeth thee;",
+        "Behold, He sleepeth not, He slumb'reth ne'er",
+        "Who keepeth Israel in His holy care."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Jehovah is Himself thy keeper true;",
+        "Thy changeless shade,",
+        "Jehovah ever more on thy right hand",
+        "Himself hath made;",
+        "And thee no sun by day shall ever smite,",
+        "No moon shall harm thee in the silent night."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "From ev'ry evil shall He keep thy soul,",
+        "From ev'ry sin;",
+        "Jehovah shall preserve thy going out,",
+        "Thy coming in;",
+        "Above thee watching, he whom we adore",
+        "Shall keep thee hence-forth, yea, for evermore."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-436_full.mid",
+    "soprano": "/audio/midi/hymn-436_soprano.mid",
+    "alto": "/audio/midi/hymn-436_alto.mid",
+    "tenor": "/audio/midi/hymn-436_tenor.mid",
+    "bass": "/audio/midi/hymn-436_bass.mid"
+  }
+}

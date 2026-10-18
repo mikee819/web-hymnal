@@ -1,0 +1,65 @@
+{
+  "id": "hymn-470",
+  "number": "470",
+  "numberDisplay": "470",
+  "title": "Do You Know My Jesus",
+  "firstLine": "Have you a heart that's weary,",
+  "pitchInfo": {
+    "raw": "C-3-SOL C-5 C-15",
+    "key": "C",
+    "note": "C",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-5 C-15",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Have you a heart that's weary,",
+        "Tending a load of care;",
+        "Are you a soul that's seeking",
+        "Rest from the burden you bear?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Where is your heart, O, pilgrim,",
+        "What does your light reveal;",
+        "Who hears your call for comfort",
+        "When naught but sorrow you feel?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Who knows your disappointment,",
+        "Who hears each time you cry;",
+        "Who understands your heartaches,",
+        "Who dries the tears from your eyes?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Do you know my Jesus,",
+        "Do you know my friend,",
+        "Have you heard He loves you,",
+        "And that He will abide till the end?",
+        "Copyright 1957 by Lillenas Publishing company. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-470_full.mid",
+    "soprano": "/audio/midi/hymn-470_soprano.mid",
+    "alto": "/audio/midi/hymn-470_alto.mid",
+    "tenor": "/audio/midi/hymn-470_tenor.mid",
+    "bass": "/audio/midi/hymn-470_bass.mid"
+  }
+}

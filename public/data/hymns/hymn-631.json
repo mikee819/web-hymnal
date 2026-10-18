@@ -1,0 +1,73 @@
+{
+  "id": "hymn-631",
+  "number": "631",
+  "numberDisplay": "631",
+  "title": "Lord, Thy Word Abideth * /",
+  "firstLine": "Arr. by William H. Monk, 1861",
+  "pitchInfo": {
+    "raw": "D-4-DO W-3",
+    "key": "D",
+    "note": "D",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "W-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Arr. by William H. Monk, 1861",
+        "Scripture; Psalm 119:89"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Lord, Thy Word abideth,",
+        "And our footsteps guideth;",
+        "Who its truth believeth",
+        "Light and joy receiveth."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When our foes are near us,",
+        "Then thy Word doth cheer us,",
+        "Word of consolation,",
+        "Message of salvation."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When dark clouds are o'er us,",
+        "And the storms before us,",
+        "Then its light directeth,",
+        "And our way protecteth."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "O that we, discerning",
+        "Its most holy learning,",
+        "Lord, may love and fear Thee,",
+        "Evermore be near Thee! Amen."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-631_full.mid",
+    "soprano": "/audio/midi/hymn-631_soprano.mid",
+    "alto": "/audio/midi/hymn-631_alto.mid",
+    "tenor": "/audio/midi/hymn-631_tenor.mid",
+    "bass": "/audio/midi/hymn-631_bass.mid"
+  }
+}

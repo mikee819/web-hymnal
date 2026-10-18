@@ -1,0 +1,38 @@
+{
+  "id": "hymn-519a",
+  "number": "519a",
+  "numberDisplay": "519a",
+  "title": "Hark, The Voice Of Jesus Calling",
+  "firstLine": "Hark, the voice of Jesus calling, \"Who will go and work today? Fields are white, and harvests waiting, Who will bear the sheaves away?\" Loud and long the Master calleth, rich reward He offers free; who will answer, gladly saying, \"Here am I, send me, send me\"?",
+  "pitchInfo": {
+    "raw": "G-4-SOL C-1 P-2",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "SOL",
+    "inheritedFrom": "46"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Hark, The Herald Angels Sing",
+    "number": "46"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Hark, the voice of Jesus calling, \"Who will go and work today? Fields are white, and harvests waiting, Who will bear the sheaves away?\" Loud and long the Master calleth, rich reward He offers free; who will answer, gladly saying, \"Here am I, send me, send me\"?",
+        "If you cannot be the watchman standing high on Zion's wall, Pointing out the path to heaven, off'ring life and peace to all, If you cannot speak like angels, if you cannot preach like Paul, you can tell the love of Jesus, You can say, \"He died for all\".",
+        "Let none hear you idly saying, \"There is nothing I can do\", while the souls of men are dying, and the Master calls for you; Take the task he gives you gladly; let His work your pleasure be; Answer quickly when he calleth, \"Here am I; send me, send me!\" A-MEN"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-519a_full.mid",
+    "soprano": "/audio/midi/hymn-519a_soprano.mid",
+    "alto": "/audio/midi/hymn-519a_alto.mid",
+    "tenor": "/audio/midi/hymn-519a_tenor.mid",
+    "bass": "/audio/midi/hymn-519a_bass.mid"
+  }
+}

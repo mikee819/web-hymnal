@@ -1,0 +1,64 @@
+{
+  "id": "hymn-414",
+  "number": "414",
+  "numberDisplay": "414",
+  "title": "O How I Love Jesus",
+  "firstLine": "There is a name I love to hear,",
+  "pitchInfo": {
+    "raw": "Ab-2-DO L-2 T-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "L-2 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There is a name I love to hear,",
+        "I love to sing its worth;",
+        "It sounds like music in my ear,",
+        "The sweetest name on earth."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "It tells me of a Savior's love,",
+        "Who died to set me free;",
+        "It tells me of His precious blood,",
+        "The sinner's perfect plea."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "It tells of One whose loving heart",
+        "Can feel my deepest woe,",
+        "Who in each sorrow bears a part,",
+        "That none can bear below."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O how I love Jesus,",
+        "Oh, how I love Jesus,",
+        "Oh, how I love Jesus,",
+        "Because He first loved me"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-414_full.mid",
+    "soprano": "/audio/midi/hymn-414_soprano.mid",
+    "alto": "/audio/midi/hymn-414_alto.mid",
+    "tenor": "/audio/midi/hymn-414_tenor.mid",
+    "bass": "/audio/midi/hymn-414_bass.mid"
+  }
+}

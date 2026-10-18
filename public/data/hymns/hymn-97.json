@@ -1,0 +1,75 @@
+{
+  "id": "hymn-97",
+  "number": "97",
+  "numberDisplay": "97",
+  "title": "O To Be Like Thee",
+  "firstLine": "O to be like Thee! blessed Redeemer:",
+  "pitchInfo": {
+    "raw": "D-3-DO C-13 L-2",
+    "key": "D",
+    "note": "D",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-13 L-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O to be like Thee! blessed Redeemer:",
+        "This is my constant longing and prayer;",
+        "Gladly I'll forfeit all of earth's treasures,",
+        "Jesus, Thy perfect likeness to wear."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O to be like Thee! full of compassion,",
+        "Loving, forgiving, tender and kind,",
+        "Helping the helpless, cheering the fainting,",
+        "Seeking the wandering sinner to find."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O to be like Thee! lowly in spirit,",
+        "Holy and harmless, patient and brave;",
+        "Meekly enduring cruel reproaches,",
+        "Willing to suffer, others to save."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "O to be like Thee! Lord, I am coming,",
+        "Now to receive th'anointing divine;",
+        "All that I am and have I am bringing;",
+        "Lord, from this moment all shall be Thine."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O to be like Thee!",
+        "O to be like thee!",
+        "Blessed Redeemer, pure as Thou art;",
+        "Come in Thy sweetness, come in Thy fullness;",
+        "Stamp Thine own image deep on my heart."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-97_full.mid",
+    "soprano": "/audio/midi/hymn-97_soprano.mid",
+    "alto": "/audio/midi/hymn-97_alto.mid",
+    "tenor": "/audio/midi/hymn-97_tenor.mid",
+    "bass": "/audio/midi/hymn-97_bass.mid"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "hymn-654",
+  "number": "654",
+  "numberDisplay": "654",
+  "title": "Are You Weighed Down? * /",
+  "firstLine": "Are you weighed down with cares of life?",
+  "pitchInfo": {
+    "raw": "Ab-3-DO E-1 P-5",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "E-1 P-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Are you weighed down with cares of life?",
+        "Weak in temptation, faint in strife?",
+        "Lean on the Lord to help you through,",
+        "Almighty God will strengthen you."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Are you alone and far away?",
+        "Find a calm place to sing and pray,",
+        "For in the midst are gathered two:",
+        "All present God is there with you."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Are you afraid of coming years,",
+        "Filled with uncertain joys and tears?",
+        "Blessings or burdens, great or few,",
+        "All knowing God knows best for you.",
+        "copyright 1993 by Kelly & Jo Hersey, owners. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {}
+}

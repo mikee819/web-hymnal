@@ -1,0 +1,66 @@
+{
+  "id": "hymn-318",
+  "number": "318",
+  "numberDisplay": "318",
+  "title": "Where Livest Thou",
+  "firstLine": "Where livest thou? In pleasures of the world?",
+  "pitchInfo": {
+    "raw": "F-4-SOL I-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Where livest thou? In pleasures of the world?",
+        "Or in that realm whence Satan's darts are hurled?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "oose now to follow with the sons of God;",
+        "Far better this than where the great have trod."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Where livest thou? In malice and in strife?",
+        "Where darkness veils and mars the righteous life?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "oose now to make a living sacrifice -",
+        "'Tis better thus; for we belong to Christ."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Where livest thou? There is a place to stay -",
+        "'Tis in the Christ, the true and living way!",
+        "Within His kingdom labor while you may;",
+        "Hear what He says, in loyal trust obey.",
+        "Copyright 1948. Leon B. Sanderson, owner. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-318_full.mid",
+    "soprano": "/audio/midi/hymn-318_soprano.mid",
+    "alto": "/audio/midi/hymn-318_alto.mid",
+    "tenor": "/audio/midi/hymn-318_tenor.mid",
+    "bass": "/audio/midi/hymn-318_bass.mid"
+  }
+}

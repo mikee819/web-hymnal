@@ -1,0 +1,78 @@
+{
+  "id": "hymn-129",
+  "number": "129",
+  "numberDisplay": "129",
+  "title": "All The Way My Savior Leads Me",
+  "firstLine": "All the way my Savior leads me;",
+  "pitchInfo": {
+    "raw": "Ab-3-MI G-3",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "G-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "All the way my Savior leads me;",
+        "What have I to ask beside?",
+        "Can I doubt His tender mercy,",
+        "Who thru life has been my guide?",
+        "Heavenly peace, divinest comfort,",
+        "Here by faith in Him to dwell!",
+        "For I know whate'er befall me,",
+        "Jesus doeth all things well;",
+        "For I know whate'er befall me,",
+        "Jesus doeth all things well;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "2 All the way my Savior leads me;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "eers each winding path I tread,",
+        "Gives me grace for ev'ry trial,",
+        "Feeds me with the living bread;",
+        "Tho' my weary steps may falter,",
+        "And my soul a thirst may be,",
+        "Gushing from the Rock before me,",
+        "Lo! a spring of joy I see;",
+        "Gushing from the Rock before me,",
+        "Lo! a spring of joy I see;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "3 All the way, my Savior leads me;",
+        "O, the fullness of His love!",
+        "Perfect rest to me is promised",
+        "In my Father's house above:",
+        "When my spirit, clothed immortal,",
+        "Wings its flight to realms of day,",
+        "This my song thru endless ages:",
+        "Jesus led me all the way;",
+        "This my song thro' endless ages",
+        ": Jesus led me all the way;"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-129_full.mid",
+    "soprano": "/audio/midi/hymn-129_soprano.mid",
+    "alto": "/audio/midi/hymn-129_alto.mid",
+    "tenor": "/audio/midi/hymn-129_tenor.mid",
+    "bass": "/audio/midi/hymn-129_bass.mid"
+  }
+}

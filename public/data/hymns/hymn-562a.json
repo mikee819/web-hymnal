@@ -1,0 +1,39 @@
+{
+  "id": "hymn-562a",
+  "number": "562a",
+  "numberDisplay": "562a",
+  "title": "Great God, We Sing That Mighty Hand",
+  "firstLine": "Great God, we sing that mighty hand by which supported still we stand; the opening year Thy mercy shows; that mercy crown it till it close.",
+  "pitchInfo": {
+    "raw": "E-3-MI D-1 W-4",
+    "key": "E",
+    "note": "E",
+    "beat": 3,
+    "solfege": "MI",
+    "inheritedFrom": "65"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "O Master Let Me Walk With Thee",
+    "number": "65"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Great God, we sing that mighty hand by which supported still we stand; the opening year Thy mercy shows; that mercy crown it till it close.",
+        "By day, by night, at home, abroad, still are we guarded by our God; by His incessant bounty fed, by His unerring counsel led.",
+        "With grateful hearts the past we own; the future, all to us unknown, we to Thy guardian care commit, and peaceful leave before Thy feet.",
+        "In scenes exalted or depressed, Thou art our Joy, and Thou our Rest; Thy goodness all our hopes shall raise, adored thro' all our changing days. A-MEN"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-562a_full.mid",
+    "soprano": "/audio/midi/hymn-562a_soprano.mid",
+    "alto": "/audio/midi/hymn-562a_alto.mid",
+    "tenor": "/audio/midi/hymn-562a_tenor.mid",
+    "bass": "/audio/midi/hymn-562a_bass.mid"
+  }
+}

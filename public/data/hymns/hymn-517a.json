@@ -1,0 +1,72 @@
+{
+  "id": "hymn-517a",
+  "number": "517a",
+  "numberDisplay": "517a",
+  "title": "Praise The Lord! Ye Heavens, Adore Him",
+  "firstLine": "Praise the Lord; ye heavens adore Him,",
+  "pitchInfo": {
+    "raw": "F-4-DO K-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO",
+    "inheritedFrom": "143"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Glorious Things Of Thee Are Spoken",
+    "number": "143"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Praise the Lord; ye heavens adore Him,",
+        "Praise Him, angels in the height,",
+        "Son and moon, rejoice before Him;",
+        "Praise Him, all ye stars of light.",
+        "Praise the Lord, for He hath spoken;",
+        "Worlds His mighty voice obeyed;",
+        "Laws which never shall be broken,",
+        "For their guidance He hath made."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Praise the Lord, for He is glorious,",
+        "Never shall His promise fail;",
+        "God hath made His saints victorious;",
+        "Sin and death shall not prevail.",
+        "Praise the God of our salvation;",
+        "Hosts on high, His power proclaim;",
+        "Heaven and earth, and all creation,",
+        "Laud and magnify His name.",
+        "Sin and death shall not prevail."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Worship, honor, glory, blessing,",
+        "Lord, we offer unto Thee;",
+        "Young and old, Thy praise expressing,",
+        "In glad homage bend the knee.",
+        "All the saints in heav'n adore Thee;",
+        "We would bow before Thy throne:",
+        "As Thine angels serve before Thee,",
+        "So on earth Thy will be done."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-517a_full.mid",
+    "soprano": "/audio/midi/hymn-517a_soprano.mid",
+    "alto": "/audio/midi/hymn-517a_alto.mid",
+    "tenor": "/audio/midi/hymn-517a_tenor.mid",
+    "bass": "/audio/midi/hymn-517a_bass.mid"
+  }
+}

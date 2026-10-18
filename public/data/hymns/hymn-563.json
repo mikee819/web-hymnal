@@ -1,0 +1,59 @@
+{
+  "id": "hymn-563",
+  "number": "563",
+  "numberDisplay": "563",
+  "title": "Jesus, Name Above All Names * /",
+  "firstLine": "Scripture; 1 Thessalonians 1:12",
+  "pitchInfo": {
+    "raw": "Eb-4-MI N-1 P-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "N-1 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; 1 Thessalonians 1:12"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus, name above all names;",
+        "Beautiful Savior, glorious Lord,",
+        "Emmanuel, god is with us,",
+        "Blessed Redeemer, Living Word."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Jesus, Lord God Almight,",
+        "Wonderful Couns'lor, Light of the world,",
+        "The Prince of Peace, Hope of glory,",
+        "Man of sorrows, Lamb of God."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Copyright 1974 by Scripture In Song. Adm. by Maranatha! Music. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-563_full.mid",
+    "soprano": "/audio/midi/hymn-563_soprano.mid",
+    "alto": "/audio/midi/hymn-563_alto.mid",
+    "tenor": "/audio/midi/hymn-563_tenor.mid",
+    "bass": "/audio/midi/hymn-563_bass.mid"
+  }
+}

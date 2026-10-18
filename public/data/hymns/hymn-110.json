@@ -1,0 +1,65 @@
+{
+  "id": "hymn-110",
+  "number": "110",
+  "numberDisplay": "110",
+  "title": "My Jesus, I Love Thee",
+  "firstLine": "1 My Jesus, I love Thee, I know Thou art mine;",
+  "pitchInfo": {
+    "raw": "F-4-DO D-1 L-4",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "D-1 L-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1 My Jesus, I love Thee, I know Thou art mine;",
+        "For Thee, all the follies of sin I resign;",
+        "My gracious Redeemer, My Savior art Thou;",
+        "If ever I loved Thee, my Jesus 'tis now."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "2 I love Thee because Thou hast first loved me,",
+        "And purchased my pardon on Calvary\"s tree;",
+        "I love Thee for wearing the thorns on Thy brow;",
+        "If ever I loved Thee, my Jesus 'tis now."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "3 I'll love Thee in life, I will love Thee in death,",
+        "And praise Thee as long as Thou lendest me breath;",
+        "And say, when the death-dew lies cold on my brow;",
+        "If ever I loved Thee, my Jesus 'tis now."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "4 In mansions of glory and endless delight,",
+        "I'll ever adore Thee in heaven so bright;",
+        "And singing Thy praises, before Thee I'll bow;",
+        "If ever I loved Thee, my Jesus 'tis now."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-110_full.mid",
+    "soprano": "/audio/midi/hymn-110_soprano.mid",
+    "alto": "/audio/midi/hymn-110_alto.mid",
+    "tenor": "/audio/midi/hymn-110_tenor.mid",
+    "bass": "/audio/midi/hymn-110_bass.mid"
+  }
+}

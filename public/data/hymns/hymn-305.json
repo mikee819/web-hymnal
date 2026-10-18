@@ -1,0 +1,58 @@
+{
+  "id": "hymn-305",
+  "number": "305",
+  "numberDisplay": "305",
+  "title": "Let Him In",
+  "firstLine": "There's a stranger at the door, Let Him in;",
+  "pitchInfo": {
+    "raw": "Db-4-MI I-1",
+    "key": "Db",
+    "note": "Db",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There's a stranger at the door, Let Him in;",
+        "He has been there oft before, Let Him in;",
+        "Let Him in, ere He is gone,",
+        "Let Him in, the Holy One,",
+        "Jesus Christ, the Father's son,Let Him in."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Open now to Him your heart,Let Him in;",
+        "If you wait He will depart, Let Him in;",
+        "Let Him in, He is your Friend,",
+        "He your soul will sure defend,",
+        "He will keep you to the end, Let Him in."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Hear you now His loving voice? Let Him in;",
+        "Now, O, now make Him your choice, Let Him in;",
+        "He is standing at your door,",
+        "Joy to you He will restore,",
+        "And His name you will adore,Let Him in."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-305_full.mid",
+    "soprano": "/audio/midi/hymn-305_soprano.mid",
+    "alto": "/audio/midi/hymn-305_alto.mid",
+    "tenor": "/audio/midi/hymn-305_tenor.mid",
+    "bass": "/audio/midi/hymn-305_bass.mid"
+  }
+}

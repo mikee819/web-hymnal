@@ -1,0 +1,55 @@
+{
+  "id": "hymn-296",
+  "number": "296",
+  "numberDisplay": "296",
+  "title": "How Firm A Foundation",
+  "firstLine": "How firm a foundation, ye saints of the Lord,",
+  "pitchInfo": {
+    "raw": "A-2-SOL                     A-1 P-4",
+    "key": "A",
+    "note": "A",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "A-1 P-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "How firm a foundation, ye saints of the Lord,",
+        "Is laid for your faith in His excellent Word!",
+        "What more can He say, than to you He hath said,",
+        "To you who for refuge to Jesus have fled?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "\"Fear not, I am with Thee, O be not dismayed,",
+        "For I am thy God, I will still give thee aid;",
+        "I'll strengthen thee, help thee, and cause thee to stand",
+        "Upheld by My gracious, omnipotent hand.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "\"The soul that on Jesus still leans for repose,",
+        "I will not, I will not desert to his foes;",
+        "That soul, tho' all hell should endeavor to shake,",
+        "I'll never, no never, no never forsake!\""
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-296_full.mid",
+    "soprano": "/audio/midi/hymn-296_soprano.mid",
+    "alto": "/audio/midi/hymn-296_alto.mid",
+    "tenor": "/audio/midi/hymn-296_tenor.mid",
+    "bass": "/audio/midi/hymn-296_bass.mid"
+  }
+}

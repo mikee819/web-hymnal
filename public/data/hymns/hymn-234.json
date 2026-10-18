@@ -1,0 +1,67 @@
+{
+  "id": "hymn-234",
+  "number": "234",
+  "numberDisplay": "234",
+  "title": "The Sands Of Time",
+  "firstLine": "The sands of time are sinking,",
+  "pitchInfo": {
+    "raw": "F-4-MI H-2",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "The sands of time are sinking,",
+        "The dawn of heaven breaks,",
+        "The summer morn I've sighed for,",
+        "The fair, sweet morn awakes;",
+        "Dark, dark hath been the midnight,",
+        "But day-spring is at hand,",
+        "And glory, glory dwelleth",
+        "In Immanuel's land."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O Christ, He is the fountain,",
+        "The deep, sweet well of love;",
+        "The streams on earth I've tasted,",
+        "More deep I'll drink above;",
+        "There to an ocean fullness",
+        "His mercy doth expand,",
+        "And glory, glory dwelleth",
+        "In Immanuel's land."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "The King there in His beauty",
+        "Without a veil is seen;",
+        "It were a well-spent journey,",
+        "Tho' seven deaths lay between;",
+        "The Lamb with His far army",
+        "Doth on Mount Zion stand,",
+        "And glory, glory dwelleth",
+        "In Immanuel's land."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-234_full.mid",
+    "soprano": "/audio/midi/hymn-234_soprano.mid",
+    "alto": "/audio/midi/hymn-234_alto.mid",
+    "tenor": "/audio/midi/hymn-234_tenor.mid",
+    "bass": "/audio/midi/hymn-234_bass.mid"
+  }
+}

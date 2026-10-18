@@ -1,0 +1,64 @@
+{
+  "id": "hymn-419",
+  "number": "419",
+  "numberDisplay": "419",
+  "title": "Thou Thinkest, Lord, Of Me",
+  "firstLine": "Amid the trials which I meet,",
+  "pitchInfo": {
+    "raw": "G-3-SOL C-15",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-15",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Amid the trials which I meet,",
+        "Amid the thorns which pierce my feet,",
+        "One tho't remains supremely sweet,",
+        "Thou thinkest, Lord, of me!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "The cares of life come thronging fast,",
+        "Upon my soul their shadow cast;",
+        "Their gloom reminds my heart at last,",
+        "Thou thinkest, Lord, of me!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Let shadows come, let shadows go,",
+        "Let life be bright or dark with woe,",
+        "I am content, for this I know,",
+        "Thou thinkest, Lord, of me!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Thou thinkest, Lord, of me,",
+        "Thou thinkest, Lord, of me,",
+        "What need I fear when Thou art near,",
+        "And thinkest, Lord, of me."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-419_full.mid",
+    "soprano": "/audio/midi/hymn-419_soprano.mid",
+    "alto": "/audio/midi/hymn-419_alto.mid",
+    "tenor": "/audio/midi/hymn-419_tenor.mid",
+    "bass": "/audio/midi/hymn-419_bass.mid"
+  }
+}

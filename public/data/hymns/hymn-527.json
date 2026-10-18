@@ -1,0 +1,63 @@
+{
+  "id": "hymn-527",
+  "number": "527",
+  "numberDisplay": "527",
+  "title": "By Faith I See * /",
+  "firstLine": "arr. by Dane K. Shepard",
+  "pitchInfo": {
+    "raw": "D-3-DO L-1 F-1",
+    "key": "D",
+    "note": "D",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "L-1 F-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "arr. by Dane K. Shepard"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "By faith I see Mount Calvary,",
+        "By faith I see that cruel tree;",
+        "I see His pain, I see His strife,",
+        "By faith I see my ransomed life."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "In awe I see his flesh to so torn,",
+        "In awe I see the peoples' scorn;",
+        "God turns away, I hear His plea,",
+        "In awe I see His love for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Thru tears I see that perfect blood;",
+        "Thru tears I see that blessed flood;",
+        "He cries, \"Tis done!\"; the battle's o'er,",
+        "Thru tears He sees my sins no more.",
+        "Copyright 1992 by Vesta McDaniel. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-527_full.mid",
+    "soprano": "/audio/midi/hymn-527_soprano.mid",
+    "alto": "/audio/midi/hymn-527_alto.mid",
+    "tenor": "/audio/midi/hymn-527_tenor.mid",
+    "bass": "/audio/midi/hymn-527_bass.mid"
+  }
+}

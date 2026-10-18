@@ -1,0 +1,67 @@
+{
+  "id": "hymn-673",
+  "number": "673",
+  "numberDisplay": "673",
+  "title": "Sing Me A Song About Jesus 590 /",
+  "firstLine": "Sing me a song about Jesus,",
+  "pitchInfo": {
+    "raw": "Bb-4-DO L-4 S-4",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "L-4 S-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Sing me a song about Jesus,",
+        "Sing me a song about His love,",
+        "Sing with all your might, ev'ry day and night,",
+        "Make the hallelujahs roll:",
+        "Sing out the blessed old story,",
+        "Tell how he gave the victory,",
+        "Dying on a tree, all for you and me,",
+        "How He came and made me whole."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Jesus the wonderful Savior,",
+        "Guides me along the rugged way,",
+        "Never lets me fall, hears me feeble call.",
+        "Makes the way so bright for me;",
+        "I will forever adore Him,",
+        "I will forever sing His praise;",
+        "He will take me home, never more to roam,",
+        "Then His loving face I'll see."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sing me a song about Jesus,",
+        "Sing me a song about His love,",
+        "Sing with all your might, ev'ry day and night,",
+        "If the way is bright or dim;",
+        "Sing me a song about Jesus,",
+        "Sing me a song about His love,",
+        "Sing about His grace, till you see His face,",
+        "Sing me a song about Him.",
+        "Copyright 1956. Renewal. Stamps-Baxter, owners."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-673_full.mid",
+    "soprano": "/audio/midi/hymn-673_soprano.mid",
+    "alto": "/audio/midi/hymn-673_alto.mid",
+    "tenor": "/audio/midi/hymn-673_tenor.mid",
+    "bass": "/audio/midi/hymn-673_bass.mid"
+  }
+}

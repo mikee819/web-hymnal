@@ -1,0 +1,71 @@
+{
+  "id": "hymn-665",
+  "number": "665",
+  "numberDisplay": "665",
+  "title": "Walk With Me 584 /",
+  "firstLine": "2nd verse by p. J. Zondervan",
+  "pitchInfo": {
+    "raw": "Eb-3-DO C-12 F-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-12 F-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "2nd verse by p. J. Zondervan",
+        "Composer; Al Langdon",
+        "Scripture; Psalm 143:8"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Walk with me, walk with me,",
+        "Lest mine eyes no longer see",
+        "All the glory, all the story of your love;",
+        "Talk to me, talk to me,",
+        "Like you spoke so tenderly,",
+        "When You talked there, when You walked there by the sea."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Talk with me, talk with me,",
+        "Lest mine ear no longer hear",
+        "All the wonder, all the beauty of your grace.",
+        "Walk with me, walk with me,",
+        "As you walked so lovingly,",
+        "When You walked there, when You talked there by the sea."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Let me follow in the footsteps",
+        "That trod the shore of Galilee,",
+        "Let me learn to pray like He did",
+        "In the Garden of Gethsemane;",
+        "Take my hand, take my hand,",
+        "Teach me Lord to understand,",
+        "All my duty, all the beauty of your love.",
+        "Copyright 1963 by Singspiration, Inc. All Rights Reserved Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-665_full.mid",
+    "soprano": "/audio/midi/hymn-665_soprano.mid",
+    "alto": "/audio/midi/hymn-665_alto.mid",
+    "tenor": "/audio/midi/hymn-665_tenor.mid",
+    "bass": "/audio/midi/hymn-665_bass.mid"
+  }
+}

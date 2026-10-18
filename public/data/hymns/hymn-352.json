@@ -1,0 +1,55 @@
+{
+  "id": "hymn-352",
+  "number": "352",
+  "numberDisplay": "352",
+  "title": "More Holiness Give Me",
+  "firstLine": "More holiness give me, More strivings within;",
+  "pitchInfo": {
+    "raw": "Eb-4-MI D-1 H-3",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1 H-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "More holiness give me, More strivings within;",
+        "More patience in suff'ring, More sorrow for sin;",
+        "More faith in my Savior, More sense of His care;",
+        "More joy in His service, More purpose in prayer."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "More gratitude give me, More trust in the Lord;",
+        "More pride in His glory, More hope in His word;",
+        "More tears for His sorrows. More pain at His grief;",
+        "More meekness in trial, More praise for relief."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "More purity give me, More strength to o'ercome;",
+        "More freedom from earth-stains, More longings for home;",
+        "More fit for the kingdom, More useful I'd be;",
+        "More blessed and holy, More, Savior, Like Thee."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-352_full.mid",
+    "soprano": "/audio/midi/hymn-352_soprano.mid",
+    "alto": "/audio/midi/hymn-352_alto.mid",
+    "tenor": "/audio/midi/hymn-352_tenor.mid",
+    "bass": "/audio/midi/hymn-352_bass.mid"
+  }
+}

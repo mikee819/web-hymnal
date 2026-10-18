@@ -1,0 +1,64 @@
+{
+  "id": "hymn-442",
+  "number": "442",
+  "numberDisplay": "442",
+  "title": "Yield Not To Temptation",
+  "firstLine": "Yield not to temptation, For yielding is sin;",
+  "pitchInfo": {
+    "raw": "Ab-2-MI E-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "E-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Yield not to temptation, For yielding is sin;",
+        "Each vict'ry will help you Some other to win;",
+        "Fight manfully onward, Dark passions subdue;",
+        "Look ever to Jesus, He will carry you thru."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Shun evil companions, Bad language disdain;",
+        "God's name hold in rev'rence Nor take it in vain;",
+        "Be thoughtful and earnest, Kindhearted and true;",
+        "Look ever to Jesus, He will carry you thru."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "To Him that o'er cometh God giveth a crown;",
+        "Thro' faith we shall conquer, Tho' often cast down;",
+        "He, who is our Savior, Our strength will renew;",
+        "Look ever to Jesus, He will carry you thru."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ask the Savior to help you,",
+        "Comfort, strengthen, and keep you;",
+        "He is willing to aid you,",
+        "He will carry you thru."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-442_full.mid",
+    "soprano": "/audio/midi/hymn-442_soprano.mid",
+    "alto": "/audio/midi/hymn-442_alto.mid",
+    "tenor": "/audio/midi/hymn-442_tenor.mid",
+    "bass": "/audio/midi/hymn-442_bass.mid"
+  }
+}

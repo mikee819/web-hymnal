@@ -1,0 +1,64 @@
+{
+  "id": "hymn-473",
+  "number": "473",
+  "numberDisplay": "473",
+  "title": "When He Comes In Glory By And By",
+  "firstLine": "O, how sweet 'twill be to meet the Lord,",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL S-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "S-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O, how sweet 'twill be to meet the Lord,",
+        "When He comes in glory, by and by;",
+        "What a song of praise will be out poured,",
+        "When He come in glory, by and by."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "We will have our robes all white as snow,",
+        "When He comes in glory, by and by;",
+        "O, be ready, with the Lord to go,",
+        "When He comes in glory, by and by."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I am longing for that happy day,",
+        "When He comes in glory, by and by;",
+        "For with Him I hope to soar away,",
+        "When He come in glory, by and by."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "How sweet! How sweet!",
+        "When He come in the sky!",
+        "What Joy! What Joy!",
+        "When He comes in glory, by and by."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-473_full.mid",
+    "soprano": "/audio/midi/hymn-473_soprano.mid",
+    "alto": "/audio/midi/hymn-473_alto.mid",
+    "tenor": "/audio/midi/hymn-473_tenor.mid",
+    "bass": "/audio/midi/hymn-473_bass.mid"
+  }
+}

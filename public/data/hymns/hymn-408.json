@@ -1,0 +1,72 @@
+{
+  "id": "hymn-408",
+  "number": "408",
+  "numberDisplay": "408",
+  "title": "Cleanse Me",
+  "firstLine": "Composer; Maori Melody arr. Otis L. McCoy",
+  "pitchInfo": {
+    "raw": "G-2-MI",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Maori Melody arr. Otis L. McCoy"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Search me, O God, and know my heart today,",
+        "Try me, O Savior, know my thoughts, I pray;",
+        "See if there be some wicked way in me;",
+        "Cleanse me from ev'ry sin, and set me free."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I praise Thee Lord, for cleansing me from sin,",
+        "Fulfill Thy Word, and make me pure within;",
+        "Fill me with fire, where once I burned with shame,",
+        "Grant my desire to magnify Thy name."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Lord, take my life, and make it wholly Thine,",
+        "Fill my poor heart with Thy great love divine;",
+        "Take all my will, my passion, self and pride,",
+        "I now surrender, Lord, in me abide."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "O Lord above, revival comes from Thee,",
+        "Send a revival - start the work in me;",
+        "Thy Word declares Thou wilt supply our need,",
+        "For blessing now, O Lord, I humbly plead."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-408_full.mid",
+    "soprano": "/audio/midi/hymn-408_soprano.mid",
+    "alto": "/audio/midi/hymn-408_alto.mid",
+    "tenor": "/audio/midi/hymn-408_tenor.mid",
+    "bass": "/audio/midi/hymn-408_bass.mid"
+  }
+}

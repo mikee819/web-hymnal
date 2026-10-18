@@ -1,0 +1,73 @@
+{
+  "id": "hymn-8",
+  "number": "8",
+  "numberDisplay": "8",
+  "title": "Glory To His Name",
+  "firstLine": "Down at the cross where my Savior died,",
+  "pitchInfo": {
+    "raw": "Ab-4-MI N-1 S-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "N-1 S-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Down at the cross where my Savior died,",
+        "Down where for cleansing from sin I cried,",
+        "There to my heart was the blood applied;",
+        "Glory to His name."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I am so wondrously saved from sin,",
+        "Jesus so sweetly abides within,",
+        "There at the cross where He took me in;",
+        "Glory to His name."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O, precious fountain that saves from sin,",
+        "I am so glad I have entered in;",
+        "There Jesus saves me and keeps me clean;",
+        "Glory to His name."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Come to this fountain so rich and sweet;",
+        "Cast thy poor soul at the Savior's feet;",
+        "Plunge in today and be made complete;",
+        "Glory to His name."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "s. Glory to His name; Glory to His name;",
+        "There to my heart was the blood applied:",
+        "Glory to His name."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-8_full.mid",
+    "soprano": "/audio/midi/hymn-8_soprano.mid",
+    "alto": "/audio/midi/hymn-8_alto.mid",
+    "tenor": "/audio/midi/hymn-8_tenor.mid",
+    "bass": "/audio/midi/hymn-8_bass.mid"
+  }
+}

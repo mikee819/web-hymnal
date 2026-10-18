@@ -1,0 +1,83 @@
+{
+  "id": "hymn-651",
+  "number": "651",
+  "numberDisplay": "651",
+  "title": "Hide Me, Rock Of Ages 575 /",
+  "firstLine": "Key; G Starting Note: D",
+  "pitchInfo": {
+    "raw": "G-4-SOL G-3",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "G-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Key; G Starting Note: D"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O thou blessed Rock of Ages",
+        "(Rock of Ages, I am)",
+        "Trusting now dear Lord in Thee;",
+        "(dear Lord in Thee I'm trusting)",
+        "Keep me till my journey's ended,",
+        "(journey's ended, Keep me)",
+        "Till Thy blessed face I see."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Keep me when the storm-clouds gather,",
+        "(storm-clouds gather, Keep me)",
+        "Till the sun comes shining thru;",
+        "(comes shining thru the shadows)",
+        "Keep me till my work is over,",
+        "(work is over, Keep me)",
+        "Till I bid this world adieu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When my journey is completed,",
+        "(is completed, Savior,)",
+        "And there's no more work to do;",
+        "(no work to do, O blessed)",
+        "Savior guide my weary spirit,",
+        "(weary spirit, To that)",
+        "Happy land beyond the blue."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hide me, O blest Rock of Ages,",
+        "till Thy blessed face I see;",
+        "(Thy face I see, in glory)",
+        "When the storm around me rages,",
+        "(round me rages, Blessed)",
+        "Rock of ages hide thou me.",
+        "(c) Copyright 1946 O. A. Parris, in \"Charming Refuge\". renewed 1973 Stamps Quartet Music/SESAC. All rights reserved. used by permission of integrated Copyright Group, Inc."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-651_full.mid",
+    "soprano": "/audio/midi/hymn-651_soprano.mid",
+    "alto": "/audio/midi/hymn-651_alto.mid",
+    "tenor": "/audio/midi/hymn-651_tenor.mid",
+    "bass": "/audio/midi/hymn-651_bass.mid"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hymn-599",
+  "number": "599",
+  "numberDisplay": "599",
+  "title": "We Bow Down In Reverence * /",
+  "firstLine": "arr. by R. J. Stevens",
+  "pitchInfo": {
+    "raw": "Bb-2-SOL P-3 P-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-3 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "arr. by R. J. Stevens",
+        "Scripture; Lamentaions 3:56"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Please hear our prayer, holy God,",
+        "Oh let our words come to Thee.",
+        "We bow down in reve'rence",
+        "For we believe."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "No we approach in Thy Love;",
+        "We know Thou hearest our plea",
+        "We bow down in reve'rence",
+        "For we believe."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "For humbly now do we bow",
+        "Before Thy throne praising Thee",
+        "We bow down in reve'rence",
+        "For we believe.",
+        "Copyright 1989 Glenda Barnhart Schales. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-599_full.mid",
+    "soprano": "/audio/midi/hymn-599_soprano.mid",
+    "alto": "/audio/midi/hymn-599_alto.mid",
+    "tenor": "/audio/midi/hymn-599_tenor.mid",
+    "bass": "/audio/midi/hymn-599_bass.mid"
+  }
+}

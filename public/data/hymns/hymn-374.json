@@ -1,0 +1,66 @@
+{
+  "id": "hymn-374",
+  "number": "374",
+  "numberDisplay": "374",
+  "title": "Ring Out The Message",
+  "firstLine": "There's a message true and glad for the sinful and the sad,",
+  "pitchInfo": {
+    "raw": "Eb-4-DO S-5",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "S-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There's a message true and glad for the sinful and the sad,",
+        "Ring it out, ring it out;",
+        "It will give them courage new, It will help them to be true;",
+        "Ring it out, ring it out."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Tell the world of saving grace, Make it known in ev'ry place,",
+        "Ring it out, ring it out;",
+        "Help the needy ones to know Him from whom all blessings flow;",
+        "Ring it out, ring it out;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Sin and doubt to sweep away, Till shall dawn the better day,",
+        "Ring it out, ring it out;",
+        "'Till the sinful world be won For Jehovah's mighty Son;",
+        "Ring it out, ring it out;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ring it the Word o'er land and sea,",
+        "Still far from Jesus many live in sin and doubt,",
+        "Ring out the news that makes men free,",
+        "To all the lost of ev'ry nation,",
+        "Ring the message out.",
+        "Copyright, 1939, Renewal. STAMPS-BAXTER MUSIC & PTG. CO., owners."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-374_full.mid",
+    "soprano": "/audio/midi/hymn-374_soprano.mid",
+    "alto": "/audio/midi/hymn-374_alto.mid",
+    "tenor": "/audio/midi/hymn-374_tenor.mid",
+    "bass": "/audio/midi/hymn-374_bass.mid"
+  }
+}

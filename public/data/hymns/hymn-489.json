@@ -1,0 +1,63 @@
+{
+  "id": "hymn-489",
+  "number": "489",
+  "numberDisplay": "489",
+  "title": "Blessed Are They",
+  "firstLine": "Blessed are they who do His commandments,",
+  "pitchInfo": {
+    "raw": "Ab-4-MI E-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "E-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Blessed are they who do His commandments,",
+        "They shall claim the tree of life;",
+        "Into the city they shall enter,",
+        "They are victors in the strife."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Blessed are they who do His commandments,",
+        "They shall wear the robes of white;",
+        "Under the portals God shall lead them,",
+        "They shall serve Him day and night."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Blessed are they who do His commandments,",
+        "They shall stand before the throne;",
+        "Into the life of joy eternal,",
+        "God shall claim them for His own."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Blessed, blessed, blessed are they",
+        "Into the city they shall enter,",
+        "Blessed, blessed, blessed are they."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-489_full.mid",
+    "soprano": "/audio/midi/hymn-489_soprano.mid",
+    "alto": "/audio/midi/hymn-489_alto.mid",
+    "tenor": "/audio/midi/hymn-489_tenor.mid",
+    "bass": "/audio/midi/hymn-489_bass.mid"
+  }
+}

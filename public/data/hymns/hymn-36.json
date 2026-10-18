@@ -1,0 +1,65 @@
+{
+  "id": "hymn-36",
+  "number": "36",
+  "numberDisplay": "36",
+  "title": "Each Step I Take",
+  "firstLine": "Each step I take my Savior goes before me,",
+  "pitchInfo": {
+    "raw": "Eb-4-SOL F-2 G-3",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "F-2 G-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Each step I take my Savior goes before me,",
+        "And with His loving hand He leads the way.",
+        "And with each breath I whisper \"I adore thee;\"",
+        "Oh, what joy to walk with Him each day."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "At times I feel my faith begin to waver,",
+        "When up ahead I see a chasm wide,",
+        "It's then I turn and look up to my savior,",
+        "I am strong when He is by my side."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I trust in God, no matter come what may,",
+        "For life eternal is in His hand,",
+        "He holds the key that opens up the way,",
+        "That will lead me to the promised land."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Each step I take I know that He will guide me;",
+        "To higher ground He ever leads me on.",
+        "Until someday the last step will be taken,",
+        "Each step I take just leads me closer home.",
+        "Copyright 1953. Renewal 1981 by W. Elmo Mercer. Assigned to Singspiration (ASCAP), Division of the Zondervan Corp. All rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-36_full.mid",
+    "soprano": "/audio/midi/hymn-36_soprano.mid",
+    "alto": "/audio/midi/hymn-36_alto.mid",
+    "tenor": "/audio/midi/hymn-36_tenor.mid",
+    "bass": "/audio/midi/hymn-36_bass.mid"
+  }
+}

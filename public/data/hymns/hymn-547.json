@@ -1,0 +1,39 @@
+{
+  "id": "hymn-547",
+  "number": "547",
+  "numberDisplay": "547",
+  "title": "Give To Our God Immortal Praise 520a /",
+  "firstLine": "Give to our God immortal praise; mercy and truth are all His ways; Wonders of grace to God belong; repeat His mercies in your song.",
+  "pitchInfo": {
+    "raw": "F-3-DO F-2 P-5",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "DO",
+    "inheritedFrom": "17"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Sun of My Soul -",
+    "number": "17"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Give to our God immortal praise; mercy and truth are all His ways; Wonders of grace to God belong; repeat His mercies in your song.",
+        "He built the earth, He spread the sky, and fixed the starry lights on high: Wonders of grace to God belong: Repeat His mercies in your song.",
+        "He sent His son with pow'r to save from guilt and darkness and the grave: Wonders of grace to God belong; repeat His mercies in your song.",
+        "Through this vast world He guides our feet, and leads us to His heav'nly seat: His mercies ever shall endure, when this our world shall be no more."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-547_full.mid",
+    "soprano": "/audio/midi/hymn-547_soprano.mid",
+    "alto": "/audio/midi/hymn-547_alto.mid",
+    "tenor": "/audio/midi/hymn-547_tenor.mid",
+    "bass": "/audio/midi/hymn-547_bass.mid"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "hymn-20",
+  "number": "20",
+  "numberDisplay": "20",
+  "title": "O God, Our Help In Ages Past",
+  "firstLine": "O God, our help in ages past,",
+  "pitchInfo": {
+    "raw": "C-4-SOL G-3 P-5",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "G-3 P-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O God, our help in ages past,",
+        "Our hope for years to come,",
+        "Our shelter from the stormy blast,",
+        "And our eternal home!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Under the shadow of Thy throne,",
+        "Still may we dwell secure;",
+        "Sufficient is Thine arm alone,",
+        "And our defense is sure."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Before the hills in order stood,",
+        "Or earth received her frame,",
+        "From everlasting Thou art God,",
+        "To endless years the same."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "O God, our help in ages past,",
+        "Our hope for years to come,",
+        "Be Thou our guide while life shall last,",
+        "And our eternal home."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-20_full.mid",
+    "soprano": "/audio/midi/hymn-20_soprano.mid",
+    "alto": "/audio/midi/hymn-20_alto.mid",
+    "tenor": "/audio/midi/hymn-20_tenor.mid",
+    "bass": "/audio/midi/hymn-20_bass.mid"
+  }
+}

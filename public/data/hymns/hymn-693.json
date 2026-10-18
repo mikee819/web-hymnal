@@ -1,0 +1,72 @@
+{
+  "id": "hymn-693",
+  "number": "693",
+  "numberDisplay": "693",
+  "title": "Were You There? 609 /",
+  "firstLine": "Scripture; Mark 15:22-24",
+  "pitchInfo": {
+    "raw": "E-4-SOL C-3",
+    "key": "E",
+    "note": "E",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Mark 15:22-24"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Were you there when the crucified my Lord?",
+        "Were you there when the crucified my Lord?",
+        "Sometimes it causes me to tremble, tremble, tremble,",
+        "Were you there when the crucified my Lord?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Were you there when they nailed Him to the tree?",
+        "Were you there when they nailed Him to the tree?",
+        "Sometimes it causes me to tremble, tremble, tremble,",
+        "Were you there when they nailed Him to the tree?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Were you there when they laid Him in the tomb?",
+        "Were you there when they laid Him in the tomb?",
+        "Sometimes it causes me to tremble, tremble, tremble,",
+        "Were you there when they laid Him in the tomb?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Were you there when He rose up from the dead?",
+        "Were you there when He rose up from the dead?",
+        "Sometimes it causes me to tremble, tremble, tremble,",
+        "Were you there when He rose up from the dead?"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-693_full.mid",
+    "soprano": "/audio/midi/hymn-693_soprano.mid",
+    "alto": "/audio/midi/hymn-693_alto.mid",
+    "tenor": "/audio/midi/hymn-693_tenor.mid",
+    "bass": "/audio/midi/hymn-693_bass.mid"
+  }
+}

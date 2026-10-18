@@ -1,0 +1,64 @@
+{
+  "id": "hymn-416",
+  "number": "416",
+  "numberDisplay": "416",
+  "title": "Do All In The Name Of The Lord",
+  "firstLine": "Whate'er you do in word or deed,",
+  "pitchInfo": {
+    "raw": "G-2-DO E-1 N-1",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "E-1 N-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Whate'er you do in word or deed,",
+        "Do all in the name of the Lord;",
+        "Do naught in name of man or creed,",
+        "Do all in the name of the Lord."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Be not deceived by worldly greed,",
+        "Do all in the name of the Lord;",
+        "The spirit says, \"in word or deed,\"",
+        "Do all in the name of the Lord."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Till toil and labors here are done,",
+        "Do all in the name of the Lord;",
+        "Dear Christian Friends, if you'd be one,",
+        "Do all in the name of the Lord."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Do all in His name,",
+        "Do all in the name of the Lord;",
+        "In word or deed, as God decreed,",
+        "Do all in the name of the Lord."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-416_full.mid",
+    "soprano": "/audio/midi/hymn-416_soprano.mid",
+    "alto": "/audio/midi/hymn-416_alto.mid",
+    "tenor": "/audio/midi/hymn-416_tenor.mid",
+    "bass": "/audio/midi/hymn-416_bass.mid"
+  }
+}

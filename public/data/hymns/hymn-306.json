@@ -1,0 +1,46 @@
+{
+  "id": "hymn-306",
+  "number": "306",
+  "numberDisplay": "306",
+  "title": "Lord, Dismiss Us",
+  "firstLine": "Lord, dismiss us with Thy blessing,",
+  "pitchInfo": {
+    "raw": "F-4-DO C-14",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-14",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Lord, dismiss us with Thy blessing,",
+        "Fill our hearts with joy and peace;",
+        "Let us each, thy love possessing,",
+        "Triumph in redeeming grace."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Thanks we give, and adoration,",
+        "For the Gospel's joyful sound:",
+        "May the fruits of Thy salvation",
+        "In our hearts and lives abound.",
+        "Amen."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-306_full.mid",
+    "soprano": "/audio/midi/hymn-306_soprano.mid",
+    "alto": "/audio/midi/hymn-306_alto.mid",
+    "tenor": "/audio/midi/hymn-306_tenor.mid",
+    "bass": "/audio/midi/hymn-306_bass.mid"
+  }
+}

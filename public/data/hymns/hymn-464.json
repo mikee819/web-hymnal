@@ -1,0 +1,65 @@
+{
+  "id": "hymn-464",
+  "number": "464",
+  "numberDisplay": "464",
+  "title": "Precious Memories",
+  "firstLine": "Precious mem'ries, unseen angels,",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL C-12",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-12",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Precious mem'ries, unseen angels,",
+        "Sent from somewhere to my soul;",
+        "How they linger, ever near me,",
+        "And the sacred past unfold."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "In the stillness of the midnight,",
+        "Echoes from the past I hear;",
+        "Saints are singing, brethren bringing",
+        "Lessons from the Book so dear."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "As I travel on life's pathway,",
+        "Know not what the years may hold;",
+        "As I ponder, hope grows fonder,",
+        "Precious mem'ries flood my soul."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Precious mem'ries, how they linger,",
+        "How they ever flood my soul,",
+        "In the stillness of the midnight,",
+        "Precious, sacred scenes unfold.",
+        "Copyright 1966 by Stamps-Baxter Music & Printing company. All Rights Reserved. Printed in the U.S.A."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-464_full.mid",
+    "soprano": "/audio/midi/hymn-464_soprano.mid",
+    "alto": "/audio/midi/hymn-464_alto.mid",
+    "tenor": "/audio/midi/hymn-464_tenor.mid",
+    "bass": "/audio/midi/hymn-464_bass.mid"
+  }
+}

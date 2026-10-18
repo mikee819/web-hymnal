@@ -1,0 +1,88 @@
+{
+  "id": "hymn-443",
+  "number": "443",
+  "numberDisplay": "443",
+  "title": "Come, Ye Thankful People, Come",
+  "firstLine": "Key; G Starting Note: B",
+  "pitchInfo": {
+    "raw": "G-4-MI E-1 T-2",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "E-1 T-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Key; G Starting Note: B"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Come, ye thankful people, come",
+        "Raise the song of harvest home:",
+        "All is safely gathered in,",
+        "Ere the winter storms begin;",
+        "God, our Maker, doth provide",
+        "For our want to be supplied;",
+        "Come to God's own temple, come,",
+        "Raise the song of harvest home."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "All the world is God's own field,",
+        "Fruit unto His praise to yield;",
+        "Wheat and tares together sown,",
+        "Unto joy or sorrow grown;",
+        "First the blade, and then the ear,",
+        "Then the full corn shall appear;",
+        "Lord of harvest, grant that we",
+        "Whole-some grain and pure may be."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "For the Lord our God shall come,",
+        "And shall take His harvest home;",
+        "From His field shall in that day",
+        "All offenses purge away;",
+        "Give his angels charge at last",
+        "In the fire the tares to cast;",
+        "But the fruitful ears to store",
+        "In His garner evermore."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Even so, Lord, quickly come",
+        "To Thy final harvest home;",
+        "Gather Thou Thy people in,",
+        "Free from sorrow, free from sin;",
+        "There, forever purified,",
+        "In Thy presence to abide;",
+        "Come, with all Thine angels, come,",
+        "Raise the glorious harvest home."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-443_full.mid",
+    "soprano": "/audio/midi/hymn-443_soprano.mid",
+    "alto": "/audio/midi/hymn-443_alto.mid",
+    "tenor": "/audio/midi/hymn-443_tenor.mid",
+    "bass": "/audio/midi/hymn-443_bass.mid"
+  }
+}

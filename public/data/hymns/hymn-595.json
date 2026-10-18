@@ -1,0 +1,73 @@
+{
+  "id": "hymn-595",
+  "number": "595",
+  "numberDisplay": "595",
+  "title": "Cross Of Jesus, Cross Of Sorrow * /",
+  "firstLine": "Composer; John B. Dykes, 1862",
+  "pitchInfo": {
+    "raw": "F-3-MI C-2",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; John B. Dykes, 1862",
+        "Scripture; 1 Peter 3:18"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Cross of Jesus, cross of sorrow,",
+        "Where the blood of Christ was shed,",
+        "Perfect man on thee did suffer,",
+        "Perfect God on thee has bled!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Here the King of all the ages,",
+        "Throned in light ere worlds could be,",
+        "Robed in mortal flesh is dying,",
+        "Crucified by sin for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O mysterious condescending!",
+        "O abandonment sublime!",
+        "Very God Himself is bearing",
+        "All the sufferings of time!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Evermore for human failure",
+        "By His passion we can plead;",
+        "God has borne all mortal anguish,",
+        "Surely He will know our need."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-595_full.mid",
+    "soprano": "/audio/midi/hymn-595_soprano.mid",
+    "alto": "/audio/midi/hymn-595_alto.mid",
+    "tenor": "/audio/midi/hymn-595_tenor.mid",
+    "bass": "/audio/midi/hymn-595_bass.mid"
+  }
+}

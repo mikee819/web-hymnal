@@ -1,0 +1,67 @@
+{
+  "id": "hymn-131",
+  "number": "131",
+  "numberDisplay": "131",
+  "title": "Jesus Is Mine",
+  "firstLine": "Fade, fade, each earthly joy,",
+  "pitchInfo": {
+    "raw": "Eb-2-SOL C-16 D-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-16 D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Fade, fade, each earthly joy,",
+        "Jesus is mine!",
+        "Break every tender tie,",
+        "Jesus is mine!",
+        "Dark is the wilderness,",
+        "Earth has no resting place,",
+        "Jesus alone can bless,",
+        "Jesus is mine!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Tempt not my soul away,",
+        "Jesus is mine!",
+        "Here would I ever stay,",
+        "Jesus is mine!",
+        "Perishing things of clay,",
+        "Born but for one brief day,",
+        "Pass from my heart away,",
+        "Jesus is mine!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Farewell, mortality,",
+        "Jesus is mine!",
+        "Welcome, eternity,",
+        "Jesus is mine!",
+        "Welcome, Oh, loved and blest,",
+        "Welcome sweet scenes of rest,",
+        "Welcome, my Savior's breast,",
+        "Jesus is mine!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-131_full.mid",
+    "soprano": "/audio/midi/hymn-131_soprano.mid",
+    "alto": "/audio/midi/hymn-131_alto.mid",
+    "tenor": "/audio/midi/hymn-131_tenor.mid",
+    "bass": "/audio/midi/hymn-131_bass.mid"
+  }
+}

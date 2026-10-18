@@ -1,0 +1,64 @@
+{
+  "id": "hymn-178",
+  "number": "178",
+  "numberDisplay": "178",
+  "title": "True Worship",
+  "firstLine": "Oft we come together,",
+  "pitchInfo": {
+    "raw": "F-4-MI W-5",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "W-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Oft we come together,",
+        "Oft we sing and pray;",
+        "Here we bring our offering",
+        "On this holy day."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "May we keep in memory,",
+        "All that Thou hast said,",
+        "May we truly worship",
+        "As we eat the bread."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "May we all in spirit -",
+        "All with one accord,",
+        "Take this cup of Blessing,",
+        "Given by the Lord."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "s:",
+        "Help us Lord, Thy love to see,",
+        "May we all in truth and spirit worship Thee.",
+        "Copyright, 1944, by Tillit S. Teddlie. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-178_full.mid",
+    "soprano": "/audio/midi/hymn-178_soprano.mid",
+    "alto": "/audio/midi/hymn-178_alto.mid",
+    "tenor": "/audio/midi/hymn-178_tenor.mid",
+    "bass": "/audio/midi/hymn-178_bass.mid"
+  }
+}

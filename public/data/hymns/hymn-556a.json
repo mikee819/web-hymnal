@@ -1,0 +1,39 @@
+{
+  "id": "hymn-556a",
+  "number": "556a",
+  "numberDisplay": "556a",
+  "title": "'Tis My Happiness Below",
+  "firstLine": "'Tis my happiness below, not to live without the cross; but the Savior's pow'r to know, sanctifying ev'ry loss.",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL C-12 T-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL",
+    "inheritedFrom": "610"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Savior, Teach Me -",
+    "number": "610"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "'Tis my happiness below, not to live without the cross; but the Savior's pow'r to know, sanctifying ev'ry loss.",
+        "Trials must and will befall; but, with humble faith, to see love inscribed upon them all -- this is happiness to me.",
+        "Trials make the promise sweet; trials give new life to prayer; trials bring me to his feet, lay me low, and keep me there.",
+        "Aliens may escape the rod, sunk in earthly, vain delight; but the true-born child of God must not, would not, if he might."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-556a_full.mid",
+    "soprano": "/audio/midi/hymn-556a_soprano.mid",
+    "alto": "/audio/midi/hymn-556a_alto.mid",
+    "tenor": "/audio/midi/hymn-556a_tenor.mid",
+    "bass": "/audio/midi/hymn-556a_bass.mid"
+  }
+}

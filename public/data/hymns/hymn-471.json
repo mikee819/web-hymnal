@@ -1,0 +1,65 @@
+{
+  "id": "hymn-471",
+  "number": "471",
+  "numberDisplay": "471",
+  "title": "Why Can't We See",
+  "firstLine": "This life's too short and filled with pain,",
+  "pitchInfo": {
+    "raw": "Eb-4-DO E-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "E-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "This life's too short and filled with pain,",
+        "To waste our time for earthly gain,",
+        "It has to be much sweeter there,",
+        "Why can't we see? Lord hear our prayer."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "If I could live my life again,",
+        "I'd keep it free from so much sin.",
+        "I would not hurt the ones I love,",
+        "I want to please my lord above."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When strife is stirred by angry words,",
+        "Help me to think of Thee, O Lord.",
+        "Help me to know that Thou art there,",
+        "Help me to see, Lord hear my prayer."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Why can't we see? Why do we sin?",
+        "We must not let the tempter in.",
+        "O Jesus make our hearts Thy throne,",
+        "So we can see we're not alone.",
+        "Copyright 1985 by Lanier Stevens. Arranged by R. J. Stevens in \"Hymns For Worship\". 1986. Lanier Stevens, owner. all Rights reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-471_full.mid",
+    "soprano": "/audio/midi/hymn-471_soprano.mid",
+    "alto": "/audio/midi/hymn-471_alto.mid",
+    "tenor": "/audio/midi/hymn-471_tenor.mid",
+    "bass": "/audio/midi/hymn-471_bass.mid"
+  }
+}

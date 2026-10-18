@@ -1,0 +1,39 @@
+{
+  "id": "hymn-559a",
+  "number": "559a",
+  "numberDisplay": "559a",
+  "title": "Come, My Soul, Your Plea Prepare",
+  "firstLine": "Come, my soul, your plea prepare, Jesus loves to answer prayer; He Himself has bid you pray, therefore will not turn away.",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL C-12 T-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL",
+    "inheritedFrom": "610"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Savior, Teach Me",
+    "number": "610"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Come, my soul, your plea prepare, Jesus loves to answer prayer; He Himself has bid you pray, therefore will not turn away.",
+        "You are coming to a King; large petitions therefore bring; for His grace and pow'r are such, none can ever ask too much.",
+        "Lord, I come to Thee for rest; take possession of my breast; there Thy blood-bought right maintain, and without a rival reign.",
+        "While I am a pilgrim here, let thy love my spirit cheer: As my guide, my guard, my friend, led me to my journey's end. A-MEN"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-559a_full.mid",
+    "soprano": "/audio/midi/hymn-559a_soprano.mid",
+    "alto": "/audio/midi/hymn-559a_alto.mid",
+    "tenor": "/audio/midi/hymn-559a_tenor.mid",
+    "bass": "/audio/midi/hymn-559a_bass.mid"
+  }
+}

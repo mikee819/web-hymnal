@@ -1,0 +1,39 @@
+{
+  "id": "hymn-544a",
+  "number": "544a",
+  "numberDisplay": "544a",
+  "title": "Just As I Am, Thine Own To Be",
+  "firstLine": "Just as I am, Thine own to be, friend of the young, who lovest me, To consecrate myself to Thee, O Jesus Christ, i come. I come.",
+  "pitchInfo": {
+    "raw": "F-3-DO F-2 P-5",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "DO",
+    "inheritedFrom": "17"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Sun Of My Soul -",
+    "number": "17"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Just as I am, Thine own to be, friend of the young, who lovest me, To consecrate myself to Thee, O Jesus Christ, i come. I come.",
+        "In the glad morning of my day, my life to give, my vows to pay, with no reserve and no delay with all my heart I come. I come.",
+        "I would live ever in the light, I would work ever for the right, I would serve Thee with all my might; therefore to Thee I come. I come.",
+        "Just as I am, young strong and free, to be the best that I can be for truth and righteousness and Thee, Lord of my life, I come. I come. A-MEN"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-544a_full.mid",
+    "soprano": "/audio/midi/hymn-544a_soprano.mid",
+    "alto": "/audio/midi/hymn-544a_alto.mid",
+    "tenor": "/audio/midi/hymn-544a_tenor.mid",
+    "bass": "/audio/midi/hymn-544a_bass.mid"
+  }
+}

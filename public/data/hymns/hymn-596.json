@@ -1,0 +1,64 @@
+{
+  "id": "hymn-596",
+  "number": "596",
+  "numberDisplay": "596",
+  "title": "His Grace Reaches Me 545 /",
+  "firstLine": "Composer; Whitey Gleason",
+  "pitchInfo": {
+    "raw": "C-3-MI G-2 J-1",
+    "key": "C",
+    "note": "C",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "G-2 J-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Whitey Gleason",
+        "Key; C Starting Note: E"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Deeper than the ocean and wider than the sea,",
+        "Is the grace of the Savior for sinners like me;",
+        "Sent from the Father, and it thrills my soul,",
+        "Just to feel and to know that His blood makes me whole."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Higher than the mountains and brighter than the sun,",
+        "It was offered at Calv'ry for ev'ryone;",
+        "Greatest of treasures, and it's mine today,",
+        "Tho' my sins were as scarlet, He has washed them away."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "His grace reaches me,",
+        "Yes, His grace reaches me,",
+        "And 'twill last thru eternity;",
+        "Now I'm under His control and I'm happy in my soul,",
+        "Just to know that His grace reaches me.",
+        "(c) Copyright 1964. Gospel Quartet Music/SESAC. All rights reserved. Used by permission of Integrated Copyright Group, Inc."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-596_full.mid",
+    "soprano": "/audio/midi/hymn-596_soprano.mid",
+    "alto": "/audio/midi/hymn-596_alto.mid",
+    "tenor": "/audio/midi/hymn-596_tenor.mid",
+    "bass": "/audio/midi/hymn-596_bass.mid"
+  }
+}

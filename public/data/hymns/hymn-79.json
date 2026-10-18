@@ -1,0 +1,65 @@
+{
+  "id": "hymn-79",
+  "number": "79",
+  "numberDisplay": "79",
+  "title": "The Garden Of Prayer",
+  "firstLine": "There's a garden where Jesus is waiting,",
+  "pitchInfo": {
+    "raw": "D-2-MI P-3",
+    "key": "D",
+    "note": "D",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "P-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There's a garden where Jesus is waiting,",
+        "There's a place that is wondrously fair;",
+        "For it glows with the light of His presence:",
+        "'Tis the beautiful garden of prayer."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "There's a garden where Jesus is waiting,",
+        "And I go with my burden and care,",
+        "Just to learn from His lips words of comfort,",
+        "In the beautiful garden of prayer."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "There's a garden where Jesus is waiting,",
+        "And He bids you come meet with Him there,",
+        "Just to bow and receive a new blessing,",
+        "In the beautiful garden of prayer."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O the beautiful garden, the garden of prayer,",
+        "O the beautiful garden of prayer;",
+        "There my Savior awaits, and He opens the gates",
+        "To the beautiful garden of prayer.",
+        "Copyright 1920. Renewal 1948 by Nazarene Publishing House. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-79_full.mid",
+    "soprano": "/audio/midi/hymn-79_soprano.mid",
+    "alto": "/audio/midi/hymn-79_alto.mid",
+    "tenor": "/audio/midi/hymn-79_tenor.mid",
+    "bass": "/audio/midi/hymn-79_bass.mid"
+  }
+}

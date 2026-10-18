@@ -1,0 +1,81 @@
+{
+  "id": "hymn-679",
+  "number": "679",
+  "numberDisplay": "679",
+  "title": "Jesus, Hold My Hand 595 /",
+  "firstLine": "As I travel thru this pilgrim land",
+  "pitchInfo": {
+    "raw": "Eb-4-SOL D-1 G-3",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "D-1 G-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "As I travel thru this pilgrim land",
+        "There is a Friend who walks with me,",
+        "Leads me safely thru the sinking sand,",
+        "It is the Christ of Calvary;",
+        "This would be my pray'r, dear Lord, Each day",
+        "To help me do the best I can",
+        "For I need Thy light to guide me day and night,",
+        "Blessed Jesus, hold my hand."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Let me travel in the light divine",
+        "That I may see this blessed way;",
+        "Keep me that I may be wholly Thine",
+        "And sing redemption's song some day;",
+        "I will be a soldier brave and true",
+        "And ever firmly take a stand,",
+        "As I onward go and daily meet the foe,",
+        "Blessed Jesus, hold my hand."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When I wander thru the valley dim",
+        "Toward the setting of the sun,",
+        "Lead me safely to a land of rest",
+        "If I a crown of life have won;",
+        "I have put my faith in Thee, dear Lord,",
+        "That I may reach the golden strand,",
+        "There's no other friend on whom I can depend,",
+        "Blessed Jesus, hold my hand."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Blessed Jesus, hold my hand,",
+        "Yes, I need Thee ev'ry hour,",
+        "Thru this land, this pilgrim land",
+        "By Thy saving pow'r;",
+        "Hear my plea, my feeble plea,",
+        "Lord, dear Lord, look down on me,",
+        "When I kneel in pray'r,",
+        "Blessed Jesus, hold my hand.",
+        "(c) Copyright 1938 in \"Gems of Gladness,\" by Hartford Music Co. Renewedt 1961 by Albert E. Brumley & Sons/SESAC. All Rights Reserved. Used by permission of Integrated Copyright Group, Inc."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-679_full.mid",
+    "soprano": "/audio/midi/hymn-679_soprano.mid",
+    "alto": "/audio/midi/hymn-679_alto.mid",
+    "tenor": "/audio/midi/hymn-679_tenor.mid",
+    "bass": "/audio/midi/hymn-679_bass.mid"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "hymn-130",
+  "number": "130",
+  "numberDisplay": "130",
+  "title": "Purer Yet and Purer",
+  "firstLine": "Purer yet and purer I would be in mind,",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL C-16 H-3",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-16 H-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Purer yet and purer I would be in mind,",
+        "Dearer yet and dearer, Every duty find;",
+        "Hoping still and trusting God with out fear,",
+        "Patiently believing He will make all clear."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Calmer yet and calmer, Trial bear and pain;",
+        "Surer yet and surer, Peace at last to gain;",
+        "Suffering still and doing, To His will resigned,",
+        "And to God subduing Heart and will and mind."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Higher yet and higher, Out of clouds and night;",
+        "Nearer yet and nearer, Rising to the light;",
+        "Oft these earnest longings,",
+        "Swell within my breast;",
+        "Yet their inner meaning Never can be expressed."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-130_full.mid",
+    "soprano": "/audio/midi/hymn-130_soprano.mid",
+    "alto": "/audio/midi/hymn-130_alto.mid",
+    "tenor": "/audio/midi/hymn-130_tenor.mid",
+    "bass": "/audio/midi/hymn-130_bass.mid"
+  }
+}

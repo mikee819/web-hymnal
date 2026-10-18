@@ -1,0 +1,55 @@
+{
+  "id": "hymn-409",
+  "number": "409",
+  "numberDisplay": "409",
+  "title": "The Church's One Foundation",
+  "firstLine": "The church's one foundation is Jesus Christ her Lord",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL K-1 U-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "K-1 U-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "The church's one foundation is Jesus Christ her Lord",
+        "She is His new creation by water and the Word",
+        "From heav'n He came and sought her To be His holy bride;",
+        "With His own blood He bought her, And for her life He died."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Elect from ev'ry nation, Yet one o'er all the earth",
+        "Her charter of Salvation, On Lord, one faith, one birth;",
+        "One holy name she blesses, Partakes one holy food,",
+        "And to one hope she presses, With ev'ry grace endued."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Tho' with a scornful wonder We see her sore oppressed,",
+        "Her doctrine rent asunder, By names and creeds distressed.",
+        "Yet saints their watch are keeping, They cry;\"How long, how long?\"",
+        "And soon the night of weeping Shall be the morn of song."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-409_full.mid",
+    "soprano": "/audio/midi/hymn-409_soprano.mid",
+    "alto": "/audio/midi/hymn-409_alto.mid",
+    "tenor": "/audio/midi/hymn-409_tenor.mid",
+    "bass": "/audio/midi/hymn-409_bass.mid"
+  }
+}

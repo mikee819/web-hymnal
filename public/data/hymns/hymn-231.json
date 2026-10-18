@@ -1,0 +1,75 @@
+{
+  "id": "hymn-231",
+  "number": "231",
+  "numberDisplay": "231",
+  "title": "Soldiers Of Christ, Arise",
+  "firstLine": "Soldiers of Christ arise And put your armor on;",
+  "pitchInfo": {
+    "raw": "G-4-DO E-1 W-1",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "E-1 W-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Soldiers of Christ arise And put your armor on;",
+        "Strong in the strength which God supplies,",
+        "Strong in the strength which God supplies,",
+        "Thru His beloved Son."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Strong in the Lord of hosts, and in His mighty pow'r;",
+        "Who in the strength of Jesus trusts,",
+        "Who in the strength of Jesus trusts,",
+        "Is more than conqueror."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Stand, then, in His great might, with all His strength endued;",
+        "But take, to arm you for the fight,",
+        "But take, to arm you for the fight,",
+        "The panoply of God."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Leave no unguarded place, no weakness of the soul;",
+        "Take ev'ry virtue, ev'ry grace,",
+        "Take ev'ry virtue, ev'ry grace,",
+        "And fortify the whole."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "That having all things done, And all your conflicts past,",
+        "You may o'er come thru Christ alone,",
+        "You may o'er come thru Christ alone,",
+        "And stand entire at last."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-231_full.mid",
+    "soprano": "/audio/midi/hymn-231_soprano.mid",
+    "alto": "/audio/midi/hymn-231_alto.mid",
+    "tenor": "/audio/midi/hymn-231_tenor.mid",
+    "bass": "/audio/midi/hymn-231_bass.mid"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "hymn-329",
+  "number": "329",
+  "numberDisplay": "329",
+  "title": "God Calling Yet",
+  "firstLine": "God calling yet! shall I not hear?",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL I-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "God calling yet! shall I not hear?",
+        "Earth's pleasures shall I still hold dear?",
+        "Shall life's swift passing years all fly,",
+        "And still my soul in slumber lie?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "God calling yet! shall I not rise?",
+        "Can I His loving voice despise,",
+        "And basely His kind care repay?",
+        "He calls me still; can I delay?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "God calling yet! I cannot stay;",
+        "My heart I yield without delay;",
+        "Vain world, farewell! from thee I part;",
+        "The voice of God has reach'd my heart."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "God is calling, calling yet,",
+        "God is calling, Sinner, heed His pleading voice."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-329_full.mid",
+    "soprano": "/audio/midi/hymn-329_soprano.mid",
+    "alto": "/audio/midi/hymn-329_alto.mid",
+    "tenor": "/audio/midi/hymn-329_tenor.mid",
+    "bass": "/audio/midi/hymn-329_bass.mid"
+  }
+}

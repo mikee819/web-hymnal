@@ -1,0 +1,58 @@
+{
+  "id": "hymn-118",
+  "number": "118",
+  "numberDisplay": "118",
+  "title": "Take Time To Be Holy",
+  "firstLine": "Take time to be holy, Speak oft with thy Lord;",
+  "pitchInfo": {
+    "raw": "F-2-MI D-1 H-3",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1 H-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Take time to be holy, Speak oft with thy Lord;",
+        "Abide in Him always, and feed on His word.",
+        "Make friends of God's children;",
+        "Help those who are weak,",
+        "Forgetting in nothing His blessings to seek."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Take time to be holy, The world rushes on;",
+        "Spend much time in secret With Jesus alone.",
+        "Abiding in Jesus,",
+        "Like Him thou shalt be;",
+        "Thy friends in thy conduct, His likeness shall see."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Take time to be holy, Be calm in thy soul;",
+        "Each thought and each motive Beneath His control.",
+        "Thus led by His Spirit",
+        "To fountains of love,",
+        "Thou soon shall be fitted For service above."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-118_full.mid",
+    "soprano": "/audio/midi/hymn-118_soprano.mid",
+    "alto": "/audio/midi/hymn-118_alto.mid",
+    "tenor": "/audio/midi/hymn-118_tenor.mid",
+    "bass": "/audio/midi/hymn-118_bass.mid"
+  }
+}

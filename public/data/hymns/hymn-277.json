@@ -1,0 +1,64 @@
+{
+  "id": "hymn-277",
+  "number": "277",
+  "numberDisplay": "277",
+  "title": "Precious Words",
+  "firstLine": "Precious for ever! O, wonderful words,",
+  "pitchInfo": {
+    "raw": "A-2-SOL W-3",
+    "key": "A",
+    "note": "A",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "W-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Precious for ever! O, wonderful words,",
+        "Teach me the pathway of duty;",
+        "Lead me beside the still waters of life,",
+        "Flowing thru' valleys of beauty."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Freely He offers their promise to all,",
+        "\"Come unto me whosoever,\"",
+        "Sinners oppressed with a burden of woe,",
+        "Drink of the bountiful river."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Wouldst thou refuse the sweet solace He gives,",
+        "In the midnight of Thy sorrow?",
+        "Wouldst thou go on in the darkness of sin,",
+        "Longing for no bright tomorrow?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Precious forever to you and to me,",
+        "Words that our Savior has spoken,",
+        "Bearing salvation far over the sea,",
+        "Healing the hearts that are broken!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-277_full.mid",
+    "soprano": "/audio/midi/hymn-277_soprano.mid",
+    "alto": "/audio/midi/hymn-277_alto.mid",
+    "tenor": "/audio/midi/hymn-277_tenor.mid",
+    "bass": "/audio/midi/hymn-277_bass.mid"
+  }
+}

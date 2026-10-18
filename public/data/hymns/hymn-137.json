@@ -1,0 +1,62 @@
+{
+  "id": "hymn-137",
+  "number": "137",
+  "numberDisplay": "137",
+  "title": "Safe In The Arms Of Jesus",
+  "firstLine": "Safe in the arms of Jesus, Safe on His gentle breast,",
+  "pitchInfo": {
+    "raw": "G-4-MI C-15",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-15",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Safe in the arms of Jesus, Safe on His gentle breast,",
+        "There by His love o'er shaded, Sweetly my soul shall rest.",
+        "Hark! tis the voice of angels, Borne in a song to me,",
+        "Over the fields of glory, Over the jasper sea."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Safe in the arms of Jesus; Safe from corroding care,",
+        "Safe from the world's temptations, Sin cannot harm me there.",
+        "Free from the blight of sorrow, Free from my doubts and fears;",
+        "Only a few more trials, Only a few more tears!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Jesus, my heart's dear refuge, Jesus has died for me;",
+        "Firm on the Rock of ages, Ever my trust shall be,",
+        "Here let me wait with patience, Wait till the night is o'er;",
+        "Wait till I see the morning Break on the golden shore."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Safe in the arms of Jesus, Safe on His gentle breast,",
+        "There by His love o'er shaded, Sweetly my soul shall rest."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-137_full.mid",
+    "soprano": "/audio/midi/hymn-137_soprano.mid",
+    "alto": "/audio/midi/hymn-137_alto.mid",
+    "tenor": "/audio/midi/hymn-137_tenor.mid",
+    "bass": "/audio/midi/hymn-137_bass.mid"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "hymn-183",
+  "number": "183",
+  "numberDisplay": "183",
+  "title": "'Tis Midnight; And On Olive's Brow",
+  "firstLine": "'Tis midnight; and on Olive's brow",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL G-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "G-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "'Tis midnight; and on Olive's brow",
+        "The star is dimmed that lately shone;",
+        "'Tis midnight; in the garden, now",
+        "The suffering Savior prays alone."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "'Tis midnight; and for others' guilt",
+        "The Man of Sorrows weeps in blood;",
+        "Yet He that hath in anguish knelt,",
+        "Is not forsaken by His God."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "'Tis midnight; and from heavenly plains",
+        "Is borne the song that angels know;",
+        "Unheard by mortals are the strains",
+        "That sweetly soothe the Savior's woe."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-183_full.mid",
+    "soprano": "/audio/midi/hymn-183_soprano.mid",
+    "alto": "/audio/midi/hymn-183_alto.mid",
+    "tenor": "/audio/midi/hymn-183_tenor.mid",
+    "bass": "/audio/midi/hymn-183_bass.mid"
+  }
+}

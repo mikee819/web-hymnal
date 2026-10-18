@@ -1,0 +1,58 @@
+{
+  "id": "hymn-134",
+  "number": "134",
+  "numberDisplay": "134",
+  "title": "Father Of Mercies",
+  "firstLine": "Father of mercies, day by day",
+  "pitchInfo": {
+    "raw": "F-3-MI D-1 T-2",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1 T-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Father of mercies, day by day",
+        "My love to Thee grows more and more;",
+        "Thy gifts are strewn upon my way",
+        "Like sands upon the great seashore,",
+        "Like sands upon the great seashore."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Father of mercies, God of love,",
+        "Whose gentle gifts all creatures share,",
+        "The rolling seasons as they move",
+        "Proclaim to all Thy constant care,",
+        "Proclaim to all Thy constant care."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Father of mercies, may our hearts",
+        "Never overlook Thy bounteous care;",
+        "But what our Father's hand imparts",
+        "Still own in grateful praise and prayer,",
+        "Still own in grateful praise and prayer."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-134_full.mid",
+    "soprano": "/audio/midi/hymn-134_soprano.mid",
+    "alto": "/audio/midi/hymn-134_alto.mid",
+    "tenor": "/audio/midi/hymn-134_tenor.mid",
+    "bass": "/audio/midi/hymn-134_bass.mid"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hymn-493",
+  "number": "493",
+  "numberDisplay": "493",
+  "title": "Heaven Came Down",
+  "firstLine": "Oh, what a wonderful, wonderful day -",
+  "pitchInfo": {
+    "raw": "F-2-MI S-1 T-1",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "S-1 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Oh, what a wonderful, wonderful day -",
+        "Day I will never forget!",
+        "After I'd wandered in darkness away,",
+        "Jesus, my Savior, I met.",
+        "Oh, what a tender compassionate Friend!",
+        "He met the need of my heart,",
+        "Shadows dispelling,",
+        "With joy I am telling,",
+        "He made all the darkness depart!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Now I've a hope that will surely endure",
+        "After the passing of time;",
+        "I have a future in heaven for sure,",
+        "There in those mansions sublime.",
+        "And it's because of that wonderful day",
+        "When at the Cross I believed;",
+        "Riches eternal And blessing supernal",
+        "From His precious hand I received."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Heaven came down and glory filled my soul.",
+        "When at the Cross the Savior made me whole.",
+        "My sins were washed away,",
+        "And my night was turned to day.",
+        "Heaven came down and glory filled my soul!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-493_full.mid",
+    "soprano": "/audio/midi/hymn-493_soprano.mid",
+    "alto": "/audio/midi/hymn-493_alto.mid",
+    "tenor": "/audio/midi/hymn-493_tenor.mid",
+    "bass": "/audio/midi/hymn-493_bass.mid"
+  }
+}

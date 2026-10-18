@@ -1,0 +1,72 @@
+{
+  "id": "hymn-512",
+  "number": "512",
+  "numberDisplay": "512",
+  "title": "God Be With You 503 /",
+  "firstLine": "God Be With You 503 / 512",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "God Be With You 503 / 512"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Db-4-MI??C-14 C-15"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "?God be with you till we meet again,",
+        "?By His councils guide uphold you,",
+        "?With His sheep securely fold you,",
+        "?God be with you till we meet again."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "?God be with you till we meet again,",
+        "?'Neath His wings securely hide you,",
+        "?Daily manna still provide you,",
+        "?God be with you till we meet again."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "?God be with you till se meet again,",
+        "?Keep love's banner floating o'er you,",
+        "?Smite death's threat'ning wave before you,",
+        "?God be with you till we meet again."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "?Till we meet, till we meet,",
+        "?Till we meet at Jesus' feet;",
+        "?Till we meet, till we meet,",
+        "?God be with you till we meet again."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-512_full.mid",
+    "soprano": "/audio/midi/hymn-512_soprano.mid",
+    "alto": "/audio/midi/hymn-512_alto.mid",
+    "tenor": "/audio/midi/hymn-512_tenor.mid",
+    "bass": "/audio/midi/hymn-512_bass.mid"
+  }
+}

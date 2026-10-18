@@ -1,0 +1,81 @@
+{
+  "id": "hymn-671",
+  "number": "671",
+  "numberDisplay": "671",
+  "title": "He Carried My Sorrows * /",
+  "firstLine": "Scripture; Isaiah 53:4",
+  "pitchInfo": {
+    "raw": "Eb-4-DO R-1 C-3",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "R-1 C-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Isaiah 53:4"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "He carried my sorrows, He bore my griefs,",
+        "Was pierced for transgressions,",
+        "Afflicted for peace."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "He suffered in anguish,",
+        "He writhed in pain,",
+        "Was smitten forsaken,",
+        "Abandoned and slain."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Despised and rejected,",
+        "He knew no sin,",
+        "Was crushed for His people,",
+        "No violence within."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "My heart mourns His chast'ning,",
+        "My tears still fall,",
+        "My sin is the reason",
+        "He gave me His all."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He knew by His stripes I am healed,",
+        "Thru His blood I can kneel,",
+        "For by His oppression,",
+        "I worship my king.",
+        "Copyright 1993 by G. B. Schales. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-671_full.mid",
+    "soprano": "/audio/midi/hymn-671_soprano.mid",
+    "alto": "/audio/midi/hymn-671_alto.mid",
+    "tenor": "/audio/midi/hymn-671_tenor.mid",
+    "bass": "/audio/midi/hymn-671_bass.mid"
+  }
+}

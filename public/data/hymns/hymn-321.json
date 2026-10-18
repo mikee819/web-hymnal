@@ -1,0 +1,74 @@
+{
+  "id": "hymn-321",
+  "number": "321",
+  "numberDisplay": "321",
+  "title": "Jesus I Come",
+  "firstLine": "Scripture; John 8:36",
+  "pitchInfo": {
+    "raw": "A-2-SOL I-1",
+    "key": "A",
+    "note": "A",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; John 8:36"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Out of my bondage, sorrow and night,",
+        "Jesus, I come, Jesus, I come;",
+        "Into thy freedom, gladness and light,",
+        "Jesus, I come to Thee;",
+        "Out of my sickness into Thy health,",
+        "Out of my want and into Thy wealth,",
+        "Out of my sin and into Thyself,",
+        "Jesus, I come to Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Out of my shameful failure and loss,",
+        "Jesus, I come, Jesus, I come;",
+        "Into the glorious gain of Thy cross,",
+        "Jesus, I come to Thee;",
+        "Out of earth's sorrows into Thy balm,",
+        "Out of life's storms and into thy calm,",
+        "Out of distress to jubilant psalm,",
+        "Jesus, I come to Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Out of the fear and dread of the tomb,",
+        "Jesus, I come, Jesus, I come;",
+        "Into the joy and light of Thy home,",
+        "Jesus, I come to Thee;",
+        "Out of the depths of ruin untold,",
+        "Into the peace of Thy sheltering fold,",
+        "Ever Thy glor'ous face to behold,",
+        "Jesus, I come to Thee."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-321_full.mid",
+    "soprano": "/audio/midi/hymn-321_soprano.mid",
+    "alto": "/audio/midi/hymn-321_alto.mid",
+    "tenor": "/audio/midi/hymn-321_tenor.mid",
+    "bass": "/audio/midi/hymn-321_bass.mid"
+  }
+}

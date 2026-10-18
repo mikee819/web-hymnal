@@ -1,0 +1,65 @@
+{
+  "id": "hymn-275",
+  "number": "275",
+  "numberDisplay": "275",
+  "title": "Am I A Soldier Of The Cross",
+  "firstLine": "Am I a soldier of the cross,",
+  "pitchInfo": {
+    "raw": "G-3-DO L-6 W-1",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "L-6 W-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Am I a soldier of the cross,",
+        "A follower of the Lamb;",
+        "And shall I fear to own His cause,",
+        "Or blush to speak His name?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Must I be carried to the skies",
+        "On flow'ry beds of ease,",
+        "While others fought to win the prize,",
+        "And sailed thru bloody seas?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Are there no foes for me to face?",
+        "Must I not stem the flood?",
+        "Is this dark world a friend to grace,",
+        "To help me on to God?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Sure I must fight if I would reign;",
+        "Increase my courage, Lord;",
+        "I'll beat the toil, endure the pain,",
+        "Supported by The Word."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-275_full.mid",
+    "soprano": "/audio/midi/hymn-275_soprano.mid",
+    "alto": "/audio/midi/hymn-275_alto.mid",
+    "tenor": "/audio/midi/hymn-275_tenor.mid",
+    "bass": "/audio/midi/hymn-275_bass.mid"
+  }
+}

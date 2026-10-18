@@ -1,0 +1,64 @@
+{
+  "id": "hymn-188",
+  "number": "188",
+  "numberDisplay": "188",
+  "title": "There Stands A Rock",
+  "firstLine": "There stands a Rock on shores of time,",
+  "pitchInfo": {
+    "raw": "G-4-SOL C-9",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-9",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There stands a Rock on shores of time,",
+        "That rears to heav'n its head sublime;",
+        "That Rock is cleft, and they are blest",
+        "Who find within this cleft a rest;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "That Rock's a cross, its arms outspread,",
+        "Celestial glory bathes its head;",
+        "To its firm base my all I bring,",
+        "And to the cross of Ages cling."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "That Rock's a tow'r, whose lofty height,",
+        "Illumed with heav'ns unclouded light,",
+        "Opes wide its gates beneath the dome,",
+        "Where saints find rest with Christ at home."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Some build their hopes on the ever drifting sand,",
+        "Some on their fame or their treasure or their land;",
+        "Mine's on the Rock that forever shall stand,",
+        "Jesus, the \"Rock of Ages.\""
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-188_full.mid",
+    "soprano": "/audio/midi/hymn-188_soprano.mid",
+    "alto": "/audio/midi/hymn-188_alto.mid",
+    "tenor": "/audio/midi/hymn-188_tenor.mid",
+    "bass": "/audio/midi/hymn-188_bass.mid"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "hymn-462",
+  "number": "462",
+  "numberDisplay": "462",
+  "title": "God Will Take Care Of You",
+  "firstLine": "Be not dismayed what e'er betide,",
+  "pitchInfo": {
+    "raw": "Bb-2-MI C-14 C-15",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-14 C-15",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Be not dismayed what e'er betide,",
+        "God will take care of you;",
+        "Beneath His wings of love abide,",
+        "God will take care of you."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Thro' days of toil when heart doth fail,",
+        "God will take care of you;",
+        "When dangers fierce your path assail,",
+        "God will take care of you."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "All you may need He will provide,",
+        "God will take care of you;",
+        "Nothing you ask will be denied,",
+        "God will take care of you."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "No matter what may be the test,",
+        "God will take care of you;",
+        "Lean weary one, upon His breast,",
+        "God will take care of you."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "God will take care of you,",
+        "Thro' ev'ry day, O'er all the way;",
+        "He will take care of you,",
+        "God will take care of you."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-462_full.mid",
+    "soprano": "/audio/midi/hymn-462_soprano.mid",
+    "alto": "/audio/midi/hymn-462_alto.mid",
+    "tenor": "/audio/midi/hymn-462_tenor.mid",
+    "bass": "/audio/midi/hymn-462_bass.mid"
+  }
+}

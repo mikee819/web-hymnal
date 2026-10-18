@@ -1,0 +1,55 @@
+{
+  "id": "hymn-207",
+  "number": "207",
+  "numberDisplay": "207",
+  "title": "My Lord, My Truth, My Way",
+  "firstLine": "My Lord, my Truth, my Way,",
+  "pitchInfo": {
+    "raw": "C-3-SOL D-1",
+    "key": "C",
+    "note": "C",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "My Lord, my Truth, my Way,",
+        "My sure, unerring light,",
+        "On thee my feeble steps I stay,",
+        "Which Thou wilt guide aright."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "My Wisdom and my Guide,",
+        "My Counselor Thou art;",
+        "O never let me leave Thy side,",
+        "Or from Thy paths depart!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Teach me the happy art",
+        "In all things to depend On Thee;",
+        "O never, Lord, depart,",
+        "But love me to the end!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-207_full.mid",
+    "soprano": "/audio/midi/hymn-207_soprano.mid",
+    "alto": "/audio/midi/hymn-207_alto.mid",
+    "tenor": "/audio/midi/hymn-207_tenor.mid",
+    "bass": "/audio/midi/hymn-207_bass.mid"
+  }
+}

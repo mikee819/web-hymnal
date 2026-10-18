@@ -1,0 +1,51 @@
+{
+  "id": "hymn-581",
+  "number": "581",
+  "numberDisplay": "581",
+  "title": "O For A Faith That Will Not Shrink 545a /",
+  "firstLine": "Composer; Arr. from Carl Glaser, 1828",
+  "pitchInfo": {
+    "raw": "Ab-3-SOL F-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "F-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Arr. from Carl Glaser, 1828",
+        "Alternate tunes suggested in original edition:"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Click Here For: I'm Not Ashamed To Own My Lord - 273"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "or - Click Here For: Am I A Soldier of the Cross - 275",
+        "O for a faith that will not shrink, tho' pressed by every foe, that will not tremble on the brink of any earthly woe.",
+        "That will not murmur or complain beneath the chastening rod, but in the hour of grief or pain, will lean upon its God.",
+        "A faith that shines more bright and clear when tempests rage without; that when in danger knows no fear, in darkness feels no doubt!",
+        "Lord, give us such a faith as this; and then, what-e'er may come, We'll taste e'en here the hallowed bliss of an eternal home."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-581_full.mid",
+    "soprano": "/audio/midi/hymn-581_soprano.mid",
+    "alto": "/audio/midi/hymn-581_alto.mid",
+    "tenor": "/audio/midi/hymn-581_tenor.mid",
+    "bass": "/audio/midi/hymn-581_bass.mid"
+  }
+}

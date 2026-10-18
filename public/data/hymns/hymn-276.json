@@ -1,0 +1,64 @@
+{
+  "id": "hymn-276",
+  "number": "276",
+  "numberDisplay": "276",
+  "title": "There Is Power In The Blood",
+  "firstLine": "Would you be free from your burden of sin?",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL C-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Would you be free from your burden of sin?",
+        "There's pow'r in the blood, pow'r in the blood;",
+        "Would you o'er evil in a victory win?",
+        "There's wonderful pow'r in the blood."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Would you be free from your passion and pride?",
+        "There's pow'r in the blood, pow'r in the blood;",
+        "Come for a cleansing to Calvary's tide,",
+        "There's wonderful pow'r in the blood."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Would you do service for Jesus your King?",
+        "There's pow'r in the blood,",
+        "pow'r in the blood; Would you live daily, His praises to sing?",
+        "There's wonderful pow'r in the blood."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "There is pow'r, pow'r, wonder working pow'r",
+        "In the blood of the Lamb;",
+        "There is pow'r, pow'r, wonder working pow'r",
+        "In the precious blood of the Lamb."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-276_full.mid",
+    "soprano": "/audio/midi/hymn-276_soprano.mid",
+    "alto": "/audio/midi/hymn-276_alto.mid",
+    "tenor": "/audio/midi/hymn-276_tenor.mid",
+    "bass": "/audio/midi/hymn-276_bass.mid"
+  }
+}

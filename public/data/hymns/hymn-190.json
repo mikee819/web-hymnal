@@ -1,0 +1,70 @@
+{
+  "id": "hymn-190",
+  "number": "190",
+  "numberDisplay": "190",
+  "title": "We're Marching To Zion",
+  "firstLine": "Come we that love the Lord,",
+  "pitchInfo": {
+    "raw": "G-2-DO U-1 W-1",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "U-1 W-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Come we that love the Lord,",
+        "And let our joys be known",
+        "Join in a song with sweet accord,",
+        "Join in a song with sweet accord,",
+        "And thus surround the throne,",
+        "And Thus surround the throne."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Let those refuse to sing",
+        "Who never knew our God;",
+        "But children of the heavenly King,",
+        "But children of the heavenly King",
+        "May speak their joys abroad,",
+        "May speak their joys abroad."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Then let our songs abound,",
+        "And every tear be dry;",
+        "We're marching thru Immanuel's ground,",
+        "We're marching thru Immanuel's ground,",
+        "To fairer worlds on high,",
+        "To fairer worlds on high."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "s: We're marching to Zion,",
+        "Beautiful, beautiful Zion;",
+        "We're marching upward to Zion,",
+        "The beautiful city of God."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-190_full.mid",
+    "soprano": "/audio/midi/hymn-190_soprano.mid",
+    "alto": "/audio/midi/hymn-190_alto.mid",
+    "tenor": "/audio/midi/hymn-190_tenor.mid",
+    "bass": "/audio/midi/hymn-190_bass.mid"
+  }
+}

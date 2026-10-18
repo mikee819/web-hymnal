@@ -1,0 +1,74 @@
+{
+  "id": "hymn-423",
+  "number": "423",
+  "numberDisplay": "423",
+  "title": "'Tis So Sweet To Trust In Jesus",
+  "firstLine": "1 'Tis so sweet to trust in Jesus,",
+  "pitchInfo": {
+    "raw": "Ab-4-MI E-1 T-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "E-1 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1 'Tis so sweet to trust in Jesus,",
+        "Just to take Him at His Word;",
+        "Just to rest upon His promise,",
+        "Just to know, \"Thus saith the Lord.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "2 O how sweet to trust in Jesus,",
+        "Just to trust His cleansing blood:",
+        "Just in simple faith to plunge me",
+        "'Neath the healing, cleansing flood!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "3 Yes 'tis sweet to trust in Jesus,",
+        "Just from sin and self to cease;",
+        "Just from Jesus simply taking",
+        "Life and rest, and joy and peace."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "4 I'm so glad I learned to trust Him,",
+        "Precious Jesus, Savior, Friend;",
+        "And I know that He is with me,",
+        "Wilt be with me to the end."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus, Jesus, how I trust Him!",
+        "How I've proved Him o'er and o'er!",
+        "Jesus, Jesus, precious Jesus!",
+        "O for grace to trust Him more"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-423_full.mid",
+    "soprano": "/audio/midi/hymn-423_soprano.mid",
+    "alto": "/audio/midi/hymn-423_alto.mid",
+    "tenor": "/audio/midi/hymn-423_tenor.mid",
+    "bass": "/audio/midi/hymn-423_bass.mid"
+  }
+}

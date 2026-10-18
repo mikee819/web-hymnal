@@ -1,0 +1,66 @@
+{
+  "id": "hymn-227",
+  "number": "227",
+  "numberDisplay": "227",
+  "title": "There Is A Habitation",
+  "firstLine": "There is a habitation, built by the living God,",
+  "pitchInfo": {
+    "raw": "Eb-4-DO H-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There is a habitation, built by the living God,",
+        "For all, of ev'ry nation, who seek the grand abode."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "A city with foundations Firm as the eternal throne,",
+        "No wars, nor desolations Shall ever move a stone."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "No night is there, no sorrow, No death and no decay;",
+        "No yesterday, no morrow, but one eternal day."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "With in its pearly portals, Angelic armies sing,",
+        "With glorified immortals, The praises of its King."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, Zion, lovely Zion,",
+        "I long thy gates to see;",
+        "O, Zion, lovely Zion,",
+        "When shall I dwell in Thee?"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-227_full.mid",
+    "soprano": "/audio/midi/hymn-227_soprano.mid",
+    "alto": "/audio/midi/hymn-227_alto.mid",
+    "tenor": "/audio/midi/hymn-227_tenor.mid",
+    "bass": "/audio/midi/hymn-227_bass.mid"
+  }
+}

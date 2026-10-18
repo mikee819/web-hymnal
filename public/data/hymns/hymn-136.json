@@ -1,0 +1,65 @@
+{
+  "id": "hymn-136",
+  "number": "136",
+  "numberDisplay": "136",
+  "title": "O Sacred Head",
+  "firstLine": "(Tr. J. W. Alexander)",
+  "pitchInfo": {
+    "raw": "C-4-MI D-1",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "(Tr. J. W. Alexander)"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O sacred head, now wounded,",
+        "With grief and shame weighed down;",
+        "Now scornfully surrounded",
+        "With thorns, Thine only crown;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "What language shall I borrow",
+        "To thank Thee, dearest Friend,",
+        "For this thy dying sorrow,",
+        "Thy pity without end?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "How art Thou pale with anguish,",
+        "With sore abuse and scorn;",
+        "How does That visage languish,",
+        "Which once was bright as morn!",
+        "O make me Thine forever;",
+        "And, should I fainting be,",
+        "Lord, let me never, never",
+        "Out live my love to Thee."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-136_full.mid",
+    "soprano": "/audio/midi/hymn-136_soprano.mid",
+    "alto": "/audio/midi/hymn-136_alto.mid",
+    "tenor": "/audio/midi/hymn-136_tenor.mid",
+    "bass": "/audio/midi/hymn-136_bass.mid"
+  }
+}

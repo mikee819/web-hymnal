@@ -1,0 +1,67 @@
+{
+  "id": "hymn-649",
+  "number": "649",
+  "numberDisplay": "649",
+  "title": "All Hail The Power 574 /",
+  "firstLine": "All hail the power of Jesus' name!",
+  "pitchInfo": {
+    "raw": "Bb-3-SOL P-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "All hail the power of Jesus' name!",
+        "Let angels prostrate fall,",
+        "Let angels prostrate fall,",
+        "They brought the royal diadem, (Chorus)"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Ye chosen seed of Israel's race,",
+        "Ye ransomed from the fall,",
+        "Ye ransomed from the fall,",
+        "Hail him who saves you by His grace (Chorus)"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Let every kindred, every tribe,",
+        "On this terrestrial ball,",
+        "On this terrestrial ball,",
+        "To Him all majesty ascribe, (Chorus)"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "O that with yonder sacred throng,",
+        "We at His feet may fall,",
+        "We at His feet may fall,",
+        "We'll join the everlasting song, (Chorus)"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O praise Him, praise Him,",
+        "O praise Him Lord of all",
+        "O praise Him Lord of all!"
+      ]
+    }
+  ],
+  "tracks": {}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hymn-417",
+  "number": "417",
+  "numberDisplay": "417",
+  "title": "Under His Wings",
+  "firstLine": "Under His wings I am safely abiding;",
+  "pitchInfo": {
+    "raw": "Db-2-MI C-15 P-5",
+    "key": "Db",
+    "note": "Db",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-15 P-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Under His wings I am safely abiding;",
+        "Tho' the night deepens and tempests are wild,",
+        "Still I can trust Him; I know He will keep me;",
+        "He has redeemed me, and I am His child."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Under His wings, what a refuge in sorrow!",
+        "How the heart yearningly turns to His rest!",
+        "Often when earth has no balm for my healing,",
+        "There I find comfort, and there I am blest."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Under His wings, O, what precious enjoyment!",
+        "There will I Hide till life's trials are o'er;",
+        "Sheltered, protected, no evil can harm me;",
+        "Resting in Jesus I'm safe ever more."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Under His wings, under His wings,",
+        "Who from His love can sever?",
+        "Under His wings my soul shall abide,",
+        "Safely abide forever."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-417_full.mid",
+    "soprano": "/audio/midi/hymn-417_soprano.mid",
+    "alto": "/audio/midi/hymn-417_alto.mid",
+    "tenor": "/audio/midi/hymn-417_tenor.mid",
+    "bass": "/audio/midi/hymn-417_bass.mid"
+  }
+}

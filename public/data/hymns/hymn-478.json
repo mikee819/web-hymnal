@@ -1,0 +1,65 @@
+{
+  "id": "hymn-478",
+  "number": "478",
+  "numberDisplay": "478",
+  "title": "The Lord Has Been Mindful Of Me",
+  "firstLine": "Though I, thro' the valley of shadow,",
+  "pitchInfo": {
+    "raw": "Bb-2-SOL G-3 P-5",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "G-3 P-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Though I, thro' the valley of shadow,",
+        "O'er mountain or troubled sea,",
+        "And oft in the darkness, have traveled,",
+        "The Lord has been mindful of me!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Much More than my grief and my sorrow,",
+        "Much more than adversity,",
+        "Much more than the all I have given,",
+        "The Lord has been mindful of me!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I'm rich! I am saved! I am happy!",
+        "I've health and prosperity!",
+        "I've friends! I have doors ever open!",
+        "The Lord has been mindful of me!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "The Lord has been mindful of me!",
+        "He blesses and blesses again!",
+        "My God is the god of the living!",
+        "How excellent is His name!",
+        "Copyright 1948. Leon B. Sanderson, owner. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-478_full.mid",
+    "soprano": "/audio/midi/hymn-478_soprano.mid",
+    "alto": "/audio/midi/hymn-478_alto.mid",
+    "tenor": "/audio/midi/hymn-478_tenor.mid",
+    "bass": "/audio/midi/hymn-478_bass.mid"
+  }
+}

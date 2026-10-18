@@ -1,0 +1,66 @@
+{
+  "id": "hymn-34",
+  "number": "34",
+  "numberDisplay": "34",
+  "title": "Worthy Art Thou",
+  "firstLine": "Bb-3-SOL?P-2",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Bb-3-SOL?P-2"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "?Worthy of praise is Christ our Redeemer,",
+        "?Worthy of glory, honor and power!",
+        "?Worthy of all our souls adoration,",
+        "?Worthy art Thou! Worthy art Thou!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "?Lift up the voice in praise and devotion,",
+        "?Saints of all earth before Him should bow;",
+        "?Angels in heaven worship Him saying,",
+        "?Worthy art Thou! Worthy art Thou!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "?Lord, may we come before Thee with singing,",
+        "?Filled with Thy spirit, wisdom and power,",
+        "?May we ascribe Thee glory and honor,",
+        "?Worthy art Thou! Worthy art Thou!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "?Worthy of riches, blessings and honor,",
+        "?Worthy of wisdom, glory and power!",
+        "?Worthy of earth and heaven's thanksgiving",
+        "?Worthy art Thou! Worthy art Thou!",
+        "Copyright 1932 by GOSPEL ADVOCATE. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-34_full.mid",
+    "soprano": "/audio/midi/hymn-34_soprano.mid",
+    "alto": "/audio/midi/hymn-34_alto.mid",
+    "tenor": "/audio/midi/hymn-34_tenor.mid",
+    "bass": "/audio/midi/hymn-34_bass.mid"
+  }
+}

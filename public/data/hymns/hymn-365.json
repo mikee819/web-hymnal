@@ -1,0 +1,64 @@
+{
+  "id": "hymn-365",
+  "number": "365",
+  "numberDisplay": "365",
+  "title": "The Haven Of Rest",
+  "firstLine": "My soul in sad exile was out on life's sea,",
+  "pitchInfo": {
+    "raw": "Ab-2-SOL A-1 T-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "A-1 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "My soul in sad exile was out on life's sea,",
+        "So burdened with sin and distressed,",
+        "I heard a sweet voice saying, Make me your choice;",
+        "I entered the Haven of Rest."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I yielded myself to His tender embrace,",
+        "And faith taking hold of the Word,",
+        "My fetters fell off, and I anchored my soul;",
+        "The Haven of Rest is my Lord."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "The song of my soul, since the Lord made me whole,",
+        "Has been the old story so blest,",
+        "Of Jesus, who'll save whosoever will have",
+        "A home in the Haven of rest."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "I've anchored my soul in the Haven of Rest,",
+        "I'll sail the wide seas no more;",
+        "The tempest may sweep o'er the wild stormy deep;",
+        "In Jesus I'm safe ever more."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-365_full.mid",
+    "soprano": "/audio/midi/hymn-365_soprano.mid",
+    "alto": "/audio/midi/hymn-365_alto.mid",
+    "tenor": "/audio/midi/hymn-365_tenor.mid",
+    "bass": "/audio/midi/hymn-365_bass.mid"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "hymn-594",
+  "number": "594",
+  "numberDisplay": "594",
+  "title": "The Lily Of The Valley 544 /",
+  "firstLine": "I have found a friend in Jesus, He's ev'rything to me,",
+  "pitchInfo": {
+    "raw": "F-4-MI A-1 C-5",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "A-1 C-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I have found a friend in Jesus, He's ev'rything to me,",
+        "He's the fairest of ten thousand to my soul'",
+        "The Lily of the valley, in Him alone I see",
+        "All I need to cleanse and make me fully whole.",
+        "In sorrow He's my comfort, in trouble He's my stay,",
+        "He tells me ev'ry care on Him to roll,",
+        "He's the Lily of the Valley, the bright and morning star,",
+        "He's the fairest of ten-thousand to my soul."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O He all my griefs has taken, and all my sorrows borne,",
+        "In temptation He's my strong and mighty tow'r;",
+        "I have all for Him forsaken, And all my idols torn",
+        "From my heart and now He keeps me by His pow'r.",
+        "Tho' all the world forsake me, and Satan tempt me sore,",
+        "Thru Jesus I shall safely reach the goal,",
+        "He's the Lily of the Valley, the bright and morning star,",
+        "He's the fairest of ten-thousand to my soul."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "He will never, never leave me, nor yet forsake me here,",
+        "While I live by faith and do His blessed will;",
+        "A wall of fire about me, I've nothing now to fear,",
+        "With His manna He my hungry soul shall fill.",
+        "Then sweeping up to glory to see His blessed face,",
+        "Where rivers of delight shall ever roll,",
+        "He's the Lily of the Valley, the bright and morning star,",
+        "He's the fairest of ten-thousand to my soul."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-594_full.mid",
+    "soprano": "/audio/midi/hymn-594_soprano.mid",
+    "alto": "/audio/midi/hymn-594_alto.mid",
+    "tenor": "/audio/midi/hymn-594_tenor.mid",
+    "bass": "/audio/midi/hymn-594_bass.mid"
+  }
+}

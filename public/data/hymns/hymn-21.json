@@ -1,0 +1,74 @@
+{
+  "id": "hymn-21",
+  "number": "21",
+  "numberDisplay": "21",
+  "title": "Praise The Lord",
+  "firstLine": "Praise the Lord; ye heavens adore Him,",
+  "pitchInfo": {
+    "raw": "A-4-SOL P-2",
+    "key": "A",
+    "note": "A",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Praise the Lord; ye heavens adore Him,",
+        "Praise Him, angels in the height,",
+        "Son and moon, rejoice before Him;",
+        "Praise Him, all ye stars of light."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Praise the Lord, for He hath spoken;",
+        "Worlds His mighty voice obeyed;",
+        "Laws which never shall be broken,",
+        "For their guidance He hath made."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Praise the Lord, for He is glorious,",
+        "Never shall His promise fail;",
+        "God hath made His saints victorious;",
+        "Sin and death shall not prevail."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Praise the God of our salvation;",
+        "Hosts on high, His power proclaim;",
+        "Heaven and earth, and all creation,",
+        "Laud and magnify His name.",
+        "Sin and death shall not prevail."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hallelujah! Amen",
+        "Hallelujah! Amen",
+        "Amen, Amen."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-21_full.mid",
+    "soprano": "/audio/midi/hymn-21_soprano.mid",
+    "alto": "/audio/midi/hymn-21_alto.mid",
+    "tenor": "/audio/midi/hymn-21_tenor.mid",
+    "bass": "/audio/midi/hymn-21_bass.mid"
+  }
+}

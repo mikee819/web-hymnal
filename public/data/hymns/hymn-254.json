@@ -1,0 +1,64 @@
+{
+  "id": "hymn-254",
+  "number": "254",
+  "numberDisplay": "254",
+  "title": "On Jordan's Stormy Banks",
+  "firstLine": "On Jordan's stormy banks I stand,",
+  "pitchInfo": {
+    "raw": "G-4-DO H-2",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "On Jordan's stormy banks I stand,",
+        "And cast a wishful eye",
+        "To Canaan's fair and happy land,",
+        "Where my possessions lie."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O'er all those wide extended plains",
+        "Shines one eternal day;",
+        "There God, the Sun, forever reigns,",
+        "And scatters night away."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Filled with delight, my raptured soul",
+        "Would here no longer stay;",
+        "Tho' Jordan's waves around me roll,",
+        "Fearless I'd launch away."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "We will rest in the fair and happy land, by and by,",
+        "Just across on the ever green shore,",
+        "Sing the song of Moses and the Lamb, by and by,",
+        "And dwell with Jesus ever more."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-254_full.mid",
+    "soprano": "/audio/midi/hymn-254_soprano.mid",
+    "alto": "/audio/midi/hymn-254_alto.mid",
+    "tenor": "/audio/midi/hymn-254_tenor.mid",
+    "bass": "/audio/midi/hymn-254_bass.mid"
+  }
+}

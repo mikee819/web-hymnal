@@ -1,0 +1,65 @@
+{
+  "id": "hymn-82",
+  "number": "82",
+  "numberDisplay": "82",
+  "title": "Christ The King 82 / *",
+  "firstLine": "Come worship God with joy,",
+  "pitchInfo": {
+    "raw": "G-2-DO P-2 W-5",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-2 W-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "chorus",
+      "lines": [
+        "rist, the King, our Lord and Savior,",
+        "Lives forever and forever!",
+        "His Presence with us now we celebrate!",
+        "We celebrate together."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Come worship God with joy,",
+        "The feast is now beginning.",
+        "Let go your cares and fears,",
+        "And join in praise unending."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Come with a happy heart,",
+        "And share it with your brother,",
+        "In openness to God",
+        "We seek out one another."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "God loves us, so be glad",
+        "And show it with your voices.",
+        "With songs of praise to God",
+        "Our common faith rejoices.",
+        "Copyright by David Yantis. Arranged by Dane K. Shepard in \"Hymns for Worship,\" 1986. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-82_full.mid",
+    "soprano": "/audio/midi/hymn-82_soprano.mid",
+    "alto": "/audio/midi/hymn-82_alto.mid",
+    "tenor": "/audio/midi/hymn-82_tenor.mid",
+    "bass": "/audio/midi/hymn-82_bass.mid"
+  }
+}

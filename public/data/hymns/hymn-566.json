@@ -1,0 +1,71 @@
+{
+  "id": "hymn-566",
+  "number": "566",
+  "numberDisplay": "566",
+  "title": "Christ Returneth 530 /",
+  "firstLine": "Db-3,4-DO S-2",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Db-3,4-DO S-2"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "It may be at morn, when the day is awaking,",
+        "When sunlight thru darkness and shadow is breaking,",
+        "That Jesus will come in the fullness of glory",
+        "To receive from the world His own."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "It may be at midday, it may be at twilight,",
+        "It may be, per chance, that the blackness of midnight",
+        "Will burst into light in the blaze of His glory,",
+        "When Jesus receives His own."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O, joy! O, delight! should we go without dying.",
+        "No sickness, no sadness, no dread, and no crying.",
+        "Caught up thru the clouds with our Lord into glory,",
+        "When Jesus receives His own."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, Lord Jesus, how long, how long",
+        "Ere we shout the glad song!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist returneth,",
+        "Hallelujah! Hallelujah! Amen,",
+        "Hallelujah! Amen."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-566_full.mid",
+    "soprano": "/audio/midi/hymn-566_soprano.mid",
+    "alto": "/audio/midi/hymn-566_alto.mid",
+    "tenor": "/audio/midi/hymn-566_tenor.mid",
+    "bass": "/audio/midi/hymn-566_bass.mid"
+  }
+}

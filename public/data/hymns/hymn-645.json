@@ -1,0 +1,78 @@
+{
+  "id": "hymn-645",
+  "number": "645",
+  "numberDisplay": "645",
+  "title": "Hallelujah! We Shall Rise 572 /",
+  "firstLine": "Key; Bb Starting Note: F",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL R-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "R-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Key; Bb Starting Note: F"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "In the resurrection morning,",
+        "When the trump of God shall sound,",
+        "We shall rise, (Hallelujah!) we shall rise!",
+        "Then the saints will come rejoicing,",
+        "And no tears will e'er be found,",
+        "We shall rise (Hallelujah!) we shall rise."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "In the resurrection morning,",
+        "Blessed tho't it is to me,",
+        "We shall rise, We shall rise!",
+        "I shall see my blessed Savior,",
+        "Who so freely died for me,",
+        "We shall rise, we shall rise."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "In the resurrection morning,",
+        "We shall meet Him in the air,",
+        "We shall rise, we shall rise!",
+        "And be carried up to glory,",
+        "To our home so bright and fair,",
+        "We shall rise, we shall rise."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "We shall rise! We shall rise!",
+        "We shall rise!",
+        "In the resurrection morning",
+        "When death's prison bars are broken,",
+        "We shall rise, we shall rise."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-645_full.mid",
+    "soprano": "/audio/midi/hymn-645_soprano.mid",
+    "alto": "/audio/midi/hymn-645_alto.mid",
+    "tenor": "/audio/midi/hymn-645_tenor.mid",
+    "bass": "/audio/midi/hymn-645_bass.mid"
+  }
+}

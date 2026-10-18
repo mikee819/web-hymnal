@@ -1,0 +1,75 @@
+{
+  "id": "hymn-585",
+  "number": "585",
+  "numberDisplay": "585",
+  "title": "Christ Is My Savior * /",
+  "firstLine": "I am not skilled to understand",
+  "pitchInfo": {
+    "raw": "D-3-DO C-10 T-1",
+    "key": "D",
+    "note": "D",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-10 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I am not skilled to understand",
+        "What God has willed, what God has planned;",
+        "I only know at His right hand",
+        "Is One who is my Savior!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I take Him at His word indeed;",
+        "\"Christ died for sinners,\" this I read;",
+        "For in my heart i find a need",
+        "Of Him to be my savior!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "That He should leave His place on high",
+        "And come for sinful man to die,",
+        "You count it strange? So once did I,",
+        "Before I knew my Savior!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "And O, that He fulfilled may see",
+        "The travail of his soul in me,",
+        "And with His work contented be,",
+        "As I with my dear Savior!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Yes, living, dying, let me bring",
+        "My strength, my solace from this spring;",
+        "That He who lives to be my King",
+        "Once died to be my Savir!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-585_full.mid",
+    "soprano": "/audio/midi/hymn-585_soprano.mid",
+    "alto": "/audio/midi/hymn-585_alto.mid",
+    "tenor": "/audio/midi/hymn-585_tenor.mid",
+    "bass": "/audio/midi/hymn-585_bass.mid"
+  }
+}

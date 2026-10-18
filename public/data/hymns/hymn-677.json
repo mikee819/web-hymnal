@@ -1,0 +1,69 @@
+{
+  "id": "hymn-677",
+  "number": "677",
+  "numberDisplay": "677",
+  "title": "Jesus Paid It All 593 /",
+  "firstLine": "Gone is all my debt of sin, A great change is bro't within,",
+  "pitchInfo": {
+    "raw": "C-4-MI C-4 R-1",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-4 R-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Gone is all my debt of sin, A great change is bro't within,",
+        "And to live I now begin, Risen from the fall;",
+        "Yet the debt I did not pay. Someone died for me one day,",
+        "Sweeping all the debt away, Jesus paid it all."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O I hope to please Him now, Light of joy is on my brow",
+        "As at His dear feet I bow, Safe within His love.",
+        "Making His the debt I owed, Freedom true He has bestowed;",
+        "So I'm singing on the Road, To my home above."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Sinner, not for me alone Did the Son of God atone;",
+        "Your debt, too, He made His own, On the cruel tree.",
+        "Come to Him with all your sin; Be as white as snow within;",
+        "Full salvation you my win And rejoice with me."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus died and paid it all,",
+        "Yes, On the cross of Calvary,",
+        "And my stony heart was melted",
+        "At His dying call.",
+        "O His heart was broken",
+        "On the tree for you and me,",
+        "And the debt is cancelled,",
+        "Jesus paid it all.",
+        "Copyright 1944. Renewal. Stamps-Baxter Music, owners"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-677_full.mid",
+    "soprano": "/audio/midi/hymn-677_soprano.mid",
+    "alto": "/audio/midi/hymn-677_alto.mid",
+    "tenor": "/audio/midi/hymn-677_tenor.mid",
+    "bass": "/audio/midi/hymn-677_bass.mid"
+  }
+}

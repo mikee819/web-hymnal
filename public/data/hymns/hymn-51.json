@@ -1,0 +1,67 @@
+{
+  "id": "hymn-51",
+  "number": "51",
+  "numberDisplay": "51",
+  "title": "Our Father And Our God",
+  "firstLine": "G-4-SOL?P-2",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "G-4-SOL?P-2"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "?Our God and Father, Our Lord and King,",
+        "?The heavens and earth Thy glory sing;",
+        "?With loud hosannas, praise they bring",
+        "?Our Father and our God."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "?Our Mighty Consoler, Our glorious Lord,",
+        "?The Spirit guides us thru Thy Word;",
+        "?We humbly serve in one accord",
+        "?Our Father and our god."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "?Our Lord, Creator, Our savior Friend,",
+        "?On thee our strength and hope depend;",
+        "?We praise thy Son Whom Thou did send,",
+        "?Our father and our god."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "?Our graceful master, How great art Thou,",
+        "?Before Thy throne in faith we bow;",
+        "?We worship Thee with praises now,",
+        "?Our Father and our God.",
+        "Copyright 1986, Shepard-Stevens Music, Inc. in \"Hymns For Worship\". Dee Bowman & R.J. Stevens, owners. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-51_full.mid",
+    "soprano": "/audio/midi/hymn-51_soprano.mid",
+    "alto": "/audio/midi/hymn-51_alto.mid",
+    "tenor": "/audio/midi/hymn-51_tenor.mid",
+    "bass": "/audio/midi/hymn-51_bass.mid"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "hymn-108",
+  "number": "108",
+  "numberDisplay": "108",
+  "title": "Something For Jesus 185 /",
+  "firstLine": "Savior, Thy dying love Thou gavest me,",
+  "pitchInfo": {
+    "raw": "G-4-MI D-1",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Savior, Thy dying love Thou gavest me,",
+        "Nor should I aught withhold, Dear Lord, from Thee;",
+        "In love my soul would bow, My heart fulfill its vow,",
+        "Some off'ring bring Thee now, Something for Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Give me a faithful heart, Likeness to Thee,",
+        "That each departing day Henceforth may see",
+        "Some work of love begun, Some deed of kindness done,",
+        "Some wand'rer sought and won, Something for Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "All that I am and have, Thy gifts so free,",
+        "In joy, in grief, thru life, Dear Lord, for Thee!",
+        "And when Thy face I see, My ransomed soul shall be.",
+        "Thru all eternity, Something for Thee."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-108_full.mid",
+    "soprano": "/audio/midi/hymn-108_soprano.mid",
+    "alto": "/audio/midi/hymn-108_alto.mid",
+    "tenor": "/audio/midi/hymn-108_tenor.mid",
+    "bass": "/audio/midi/hymn-108_bass.mid"
+  }
+}

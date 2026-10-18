@@ -1,0 +1,60 @@
+{
+  "id": "hymn-74",
+  "number": "74",
+  "numberDisplay": "74",
+  "title": "Abide With Me",
+  "firstLine": "Abide with me! fast falls the even tide,",
+  "pitchInfo": {
+    "raw": "Eb-4-MI C-14 D-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-14 D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Abide with me! fast falls the even tide,",
+        "The darkness deepens, Lord, with me abide!",
+        "When other helpers fail, and comforts flee,",
+        "Help of the helpless, O, abide with me!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Swift to its close ebbs out life's little day;",
+        "Earth's joys grown dim, its glories pass away;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ange and decay in all around I see;",
+        "O Thou who changest not, abide with me!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I need Thy presence every passing hour,",
+        "What but Thy grace can foil the tempter's power?",
+        "Who, like Thyself, my guide and stay can be?",
+        "Thru clouds and sunshine, O, abide with me!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-74_full.mid",
+    "soprano": "/audio/midi/hymn-74_soprano.mid",
+    "alto": "/audio/midi/hymn-74_alto.mid",
+    "tenor": "/audio/midi/hymn-74_tenor.mid",
+    "bass": "/audio/midi/hymn-74_bass.mid"
+  }
+}

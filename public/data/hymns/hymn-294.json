@@ -1,0 +1,73 @@
+{
+  "id": "hymn-294",
+  "number": "294",
+  "numberDisplay": "294",
+  "title": "Jesus Is Calling",
+  "firstLine": "Jesus is tenderly calling thee home",
+  "pitchInfo": {
+    "raw": "C-2-SOL I-1",
+    "key": "C",
+    "note": "C",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus is tenderly calling thee home",
+        "Calling today, calling today;",
+        "Why from the sunshine of love wilt thou roam,",
+        "Farther and farther away?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Jesus is calling the weary to rest,",
+        "Calling today, calling today;",
+        "Bring Him thy burden, and thou shalt be blest;",
+        "He will not turn you away."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Jesus is waiting, O, come to Him now",
+        "Waiting today, waiting today;",
+        "Come with thy sins, at His feet lowly bow;",
+        "Come, and no longer delay."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Jesus is pleading, O, list to His voice",
+        "Hear Him today, hear Him today;",
+        "They who believe on His name shall rejoice;",
+        "Quickly arise and obey."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Calling today! Calling today!",
+        "Jesus is calling,",
+        "Is tenderly calling today."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-294_full.mid",
+    "soprano": "/audio/midi/hymn-294_soprano.mid",
+    "alto": "/audio/midi/hymn-294_alto.mid",
+    "tenor": "/audio/midi/hymn-294_tenor.mid",
+    "bass": "/audio/midi/hymn-294_bass.mid"
+  }
+}

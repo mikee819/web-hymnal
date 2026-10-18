@@ -1,0 +1,64 @@
+{
+  "id": "hymn-284",
+  "number": "284",
+  "numberDisplay": "284",
+  "title": "What Will Your Answer Be",
+  "firstLine": "Someday you'll stand at the bar on high,",
+  "pitchInfo": {
+    "raw": "Bb-2-SOL J-2 T-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "J-2 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Someday you'll stand at the bar on high,",
+        "Someday your record you'll see;",
+        "Someday you'll answer the question of life,",
+        "What will your answer be?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Sadly you'll stand, if you're unprepared,",
+        "Trembling, you'll fall on your knee;",
+        "Facing the sentence of life or of death,",
+        "What will that sentence be?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Now is the time to prepare, my friend,",
+        "Make your soul spotless and free;",
+        "Washed in the blood of the Crucified One,",
+        "He will your answer be."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "What will it be? What will it be?",
+        "Where will you spend your eternity?",
+        "What will it be? O, what will it be?",
+        "What will your answer be?"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-284_full.mid",
+    "soprano": "/audio/midi/hymn-284_soprano.mid",
+    "alto": "/audio/midi/hymn-284_alto.mid",
+    "tenor": "/audio/midi/hymn-284_tenor.mid",
+    "bass": "/audio/midi/hymn-284_bass.mid"
+  }
+}

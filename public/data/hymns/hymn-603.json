@@ -1,0 +1,72 @@
+{
+  "id": "hymn-603",
+  "number": "603",
+  "numberDisplay": "603",
+  "title": "Burdens Are Lifted At Calvary * /",
+  "firstLine": "Compser: John M. Moore, 1952",
+  "pitchInfo": {
+    "raw": "F-2-MI C-3",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Compser: John M. Moore, 1952",
+        "Scripture; Isaiah 53:4"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Days are filled with sorrow and care,",
+        "Hearts are lonely and drear;",
+        "Burdens are lifted at Calvary,",
+        "Jesus is very near."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Cast your care on Jesus today,",
+        "Leave your worry and fear;",
+        "Burdens are lifted at Calvary,",
+        "Jesus is very near."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Troubled soul, the Savior can see",
+        "Ev'ry heartache and tear",
+        "Burdens are lifted at Calvary,",
+        "Jesus is very near."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Burdens are lifted at Calvary, Calvary, Calvary;",
+        "Burdens are lifted at Calvary,",
+        "Jesus is very near.",
+        "Copyright 1952 Singspiration Music/ASCAP. Ad. The Benson Co. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-603_full.mid",
+    "soprano": "/audio/midi/hymn-603_soprano.mid",
+    "alto": "/audio/midi/hymn-603_alto.mid",
+    "tenor": "/audio/midi/hymn-603_tenor.mid",
+    "bass": "/audio/midi/hymn-603_bass.mid"
+  }
+}

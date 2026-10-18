@@ -1,0 +1,74 @@
+{
+  "id": "hymn-269",
+  "number": "269",
+  "numberDisplay": "269",
+  "title": "Nothing But The Blood",
+  "firstLine": "What can wash away my sins?",
+  "pitchInfo": {
+    "raw": "G-4-DO C-2",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "What can wash away my sins?",
+        "Nothing but the blood of Jesus;",
+        "What can make me whole again?",
+        "Nothing but the blood of Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "For my pardon this I see,",
+        "Nothing but the blood of Jesus;",
+        "For my cleansing, this my plea,",
+        "Nothing but the blood of Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Nothing can for sin atone,",
+        "Nothing but the blood of Jesus;",
+        "Naught of good that I have done,",
+        "Nothing but the blood of Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "This is all my hope and peace,",
+        "Nothing but the blood of Jesus;",
+        "This is all my righteousness,",
+        "Nothing but the blood of Jesus."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O! precious is the flow",
+        "That makes me white as snow;",
+        "No other fount I know,",
+        "Nothing but the blood of Jesus."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-269_full.mid",
+    "soprano": "/audio/midi/hymn-269_soprano.mid",
+    "alto": "/audio/midi/hymn-269_alto.mid",
+    "tenor": "/audio/midi/hymn-269_tenor.mid",
+    "bass": "/audio/midi/hymn-269_bass.mid"
+  }
+}

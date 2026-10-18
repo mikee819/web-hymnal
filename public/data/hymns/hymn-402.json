@@ -1,0 +1,71 @@
+{
+  "id": "hymn-402",
+  "number": "402",
+  "numberDisplay": "402",
+  "title": "Leaning On The Everlasting Arms",
+  "firstLine": "Scriptures: Deuteronomy 33:27",
+  "pitchInfo": {
+    "raw": "A-4-MI C-15 F-2",
+    "key": "A",
+    "note": "A",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-15 F-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scriptures: Deuteronomy 33:27"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "What a fellowship, what a joy divine,",
+        "Leaning on the everlasting arms;",
+        "What a blessedness, what a peace is mine,",
+        "Leaning on the everlasting arms."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O how sweet to walk in this pilgrim way,",
+        "Leaning on the everlasting arms,",
+        "O how bright the path grows from day to day,",
+        "Leaning on the everlasting arms."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "What have I to dread, what have I to fear,",
+        "Leaning on the everlasting arms,",
+        "I have blessed peace with my Lord so near,",
+        "Leaning on the everlasting arms."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Leaning on Jesus, Leaning on Jesus,",
+        "Safe and secure from all alarms;",
+        "Leaning on Jesus, Leaning on Jesus,",
+        "Leaning on the everlasting arms."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-402_full.mid",
+    "soprano": "/audio/midi/hymn-402_soprano.mid",
+    "alto": "/audio/midi/hymn-402_alto.mid",
+    "tenor": "/audio/midi/hymn-402_tenor.mid",
+    "bass": "/audio/midi/hymn-402_bass.mid"
+  }
+}

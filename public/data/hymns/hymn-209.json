@@ -1,0 +1,64 @@
+{
+  "id": "hymn-209",
+  "number": "209",
+  "numberDisplay": "209",
+  "title": "Christ For The World We Sing",
+  "firstLine": "Christ for the world! we sing;",
+  "pitchInfo": {
+    "raw": "G-3-SOL S-4 S-5",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "S-4 S-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Christ for the world! we sing;",
+        "The World to Christ we bring,",
+        "With loving zeal;",
+        "The poor and them that mourn,",
+        "The faint and over borne,",
+        "Sin sick and sorrow worn,",
+        "Whom Christ doth heal."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Christ for the world! we sing;",
+        "The World to Christ we bring,",
+        "With fervent pray'r;",
+        "The wayward and the lost,",
+        "By restless passions tossed,",
+        "Redeemed at countless cost",
+        "From dark despair."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Christ for the world! we sing;",
+        "The World to Christ we bring,",
+        "With one accord,",
+        "With us the work to share,",
+        "With us reproach to dare,",
+        "With us the cross to bear,",
+        "For Christ our Lord."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-209_full.mid",
+    "soprano": "/audio/midi/hymn-209_soprano.mid",
+    "alto": "/audio/midi/hymn-209_alto.mid",
+    "tenor": "/audio/midi/hymn-209_tenor.mid",
+    "bass": "/audio/midi/hymn-209_bass.mid"
+  }
+}

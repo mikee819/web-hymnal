@@ -1,0 +1,64 @@
+{
+  "id": "hymn-19",
+  "number": "19",
+  "numberDisplay": "19",
+  "title": "Heavenly Sunlight",
+  "firstLine": "Walking in sunlight, all of my journey;",
+  "pitchInfo": {
+    "raw": "G-3-SOL F-2 J-1",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "F-2 J-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Walking in sunlight, all of my journey;",
+        "Over the mountains thru the deep vale;",
+        "Jesus has said \"I'll never forsake thee,\"",
+        "Promise divine that never can fail."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Shadows around me, Shadows above me,",
+        "Never conceal my Savior and Guide;",
+        "He is the light in Him is no darkness,",
+        "Ever I'm walking close to His side."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "In the bright sunlight, ever rejoicing,",
+        "Pressing my way to mansions above;",
+        "Singing His praises gladly I'm walking,",
+        "Walking in sunlight, sunlight of love."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Heavenly sunlight, heavenly sunlight;",
+        "Flooding my soul with glory divine:",
+        "Hallelujah! I am rejoicing,",
+        "Singing His praises, Jesus is mine."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-19_full.mid",
+    "soprano": "/audio/midi/hymn-19_soprano.mid",
+    "alto": "/audio/midi/hymn-19_alto.mid",
+    "tenor": "/audio/midi/hymn-19_tenor.mid",
+    "bass": "/audio/midi/hymn-19_bass.mid"
+  }
+}

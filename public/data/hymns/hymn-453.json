@@ -1,0 +1,64 @@
+{
+  "id": "hymn-453",
+  "number": "453",
+  "numberDisplay": "453",
+  "title": "Ye Are The Light Of The World",
+  "firstLine": "O, Christian, do not hide your light!",
+  "pitchInfo": {
+    "raw": "F-2-DO C-12 E-1",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-12 E-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O, Christian, do not hide your light!",
+        "For ye are the light of the world,",
+        "But keep it trimmed and burning bright,",
+        "For ye are the light of the world,"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Go show to all the path of right!",
+        "For ye are the light of the world,",
+        "Go bring the straying back to light,",
+        "For ye are the light of the world,"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O, do not let your light burn low,",
+        "For ye are the light of the world,",
+        "But keep it bright, and onward go,",
+        "For ye are the light of the world,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "For ye are the light of the world,",
+        "For ye are the light of the world,",
+        "Then keep your lamps all burning bright,",
+        "For ye are the light of the world,"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-453_full.mid",
+    "soprano": "/audio/midi/hymn-453_soprano.mid",
+    "alto": "/audio/midi/hymn-453_alto.mid",
+    "tenor": "/audio/midi/hymn-453_tenor.mid",
+    "bass": "/audio/midi/hymn-453_bass.mid"
+  }
+}

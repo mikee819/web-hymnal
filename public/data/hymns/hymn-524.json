@@ -1,0 +1,64 @@
+{
+  "id": "hymn-524",
+  "number": "524",
+  "numberDisplay": "524",
+  "title": "Fear Not, Little Flock 509 /",
+  "firstLine": "Fear not, little flock says the Savior divine,",
+  "pitchInfo": {
+    "raw": "Ab-2-SOL E-1 I-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1 I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Fear not, little flock says the Savior divine,",
+        "The Father has willed that the kingdom be thine;",
+        "O, soil not your garments with sin here below,",
+        "My ship and My lambs must be whiter than snow."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Far whiter than snow, and as fair as the day,",
+        "For Christ is the fountain to wash guilt away;",
+        "O, give Him, poor sinner, that burden of thine,",
+        "And enter the fold with the ninety and nine."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Ride over temptation and cease your alarms,",
+        "Your shepherd is Jesus, your refuge His arms;",
+        "He'll never forsake you a brother and Friend,",
+        "But love you and save you in worlds without end."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Whiter than snow, I long to be, dear Savior,",
+        "Whiter than snow, I long to be,",
+        "Whiter than snow, I long to be, dear Savior,",
+        "Whiter than the snow."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-524_full.mid",
+    "soprano": "/audio/midi/hymn-524_soprano.mid",
+    "alto": "/audio/midi/hymn-524_alto.mid",
+    "tenor": "/audio/midi/hymn-524_tenor.mid",
+    "bass": "/audio/midi/hymn-524_bass.mid"
+  }
+}

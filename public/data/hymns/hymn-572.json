@@ -1,0 +1,65 @@
+{
+  "id": "hymn-572",
+  "number": "572",
+  "numberDisplay": "572",
+  "title": "Wonderful Peace 533 /",
+  "firstLine": "Coming to Jesus my Savior I found,",
+  "pitchInfo": {
+    "raw": "A-2-SOL C-15 P-11",
+    "key": "A",
+    "note": "A",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-15 P-11",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Coming to Jesus my Savior I found,",
+        "Wonderful peace, wonderful peace;",
+        "Storms in their fury may rage all around;",
+        "I have peace, sweet peace."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Peace like a river so deep and so broad,",
+        "Wonderful peace, wonderful peace;",
+        "Resting my soul on the bosom of god,",
+        "I have peace, sweet peace."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Gone is the battle that once raged within,",
+        "Wonderful peace, wonderful peace;",
+        "Jesus has saved me and cleans'd me from sin,",
+        "I have peace, sweet peace."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Peace, peace, wonderful peace;",
+        "Peace, peace, glorious peace;",
+        "Since my Redeemer has ransomed my soul",
+        "I have peace, sweet peace.",
+        "Copyright 1923. Renewal 1950 by Lillenas Publishing Co. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-572_full.mid",
+    "soprano": "/audio/midi/hymn-572_soprano.mid",
+    "alto": "/audio/midi/hymn-572_alto.mid",
+    "tenor": "/audio/midi/hymn-572_tenor.mid",
+    "bass": "/audio/midi/hymn-572_bass.mid"
+  }
+}

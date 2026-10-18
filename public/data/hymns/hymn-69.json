@@ -1,0 +1,67 @@
+{
+  "id": "hymn-69",
+  "number": "69",
+  "numberDisplay": "69",
+  "title": "What A Friend We Have In Jesus",
+  "firstLine": "1 What a friend we have in Jesus,",
+  "pitchInfo": {
+    "raw": "F-4-SOL C-5",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1 What a friend we have in Jesus,",
+        "All our sins and griefs to bear!",
+        "What a privilege to carry",
+        "Everything to God in prayer!",
+        "Oh, what peace we often forfeit,",
+        "Oh, what needless pain we bear,",
+        "All because we do not carry",
+        "Everything to God in prayer!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "2 Have we trials and temptations?",
+        "Is there trouble anywhere?",
+        "We should never be discouraged,",
+        "Take it to the Lord in prayer:",
+        "Can we find a friend so faithful",
+        "Who will all our sorrows share?",
+        "Jesus knows our every weakness,",
+        "Take it to the Lord in prayer."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "3 Are we weak and heavy laden,",
+        "Cumbered with a load of care?",
+        "Precious Savior, still our refuge;",
+        "Take it to the Lord in prayer:",
+        "Do thy friends despise, forsake thee?",
+        "Take it to the Lord in prayer;",
+        "In His arms He'll take and shield thee;",
+        "Thou wilt find a solace there"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-69_full.mid",
+    "soprano": "/audio/midi/hymn-69_soprano.mid",
+    "alto": "/audio/midi/hymn-69_alto.mid",
+    "tenor": "/audio/midi/hymn-69_tenor.mid",
+    "bass": "/audio/midi/hymn-69_bass.mid"
+  }
+}

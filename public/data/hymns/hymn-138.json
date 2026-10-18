@@ -1,0 +1,71 @@
+{
+  "id": "hymn-138",
+  "number": "138",
+  "numberDisplay": "138",
+  "title": "Prince Of Peace! Control My Will",
+  "firstLine": "Prince of peace! control my will,",
+  "pitchInfo": {
+    "raw": "D-3-MI D-1 P-1",
+    "key": "D",
+    "note": "D",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1 P-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Prince of peace! control my will,",
+        "Bid this struggling heart be still;",
+        "Bid my fears and doubtings cease -",
+        "Hush my spirit into peace."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Thou hast bought me with Thy blood,",
+        "Opened wide the gate of God;",
+        "Peace I ask, but peace must be,",
+        "Lord, in being one with Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "My Thy will, not mine be done;",
+        "May thy will and mine be one;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ase these doubtings from my heart;",
+        "Now Thy perfect peace impart."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Savior, at Thy feet I fall;",
+        "Thou my Life, my God, my All;",
+        "Let Thy happy servant be",
+        "One forever-more with Thee.",
+        "Amen."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-138_full.mid",
+    "soprano": "/audio/midi/hymn-138_soprano.mid",
+    "alto": "/audio/midi/hymn-138_alto.mid",
+    "tenor": "/audio/midi/hymn-138_tenor.mid",
+    "bass": "/audio/midi/hymn-138_bass.mid"
+  }
+}

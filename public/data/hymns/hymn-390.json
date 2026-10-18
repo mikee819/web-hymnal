@@ -1,0 +1,71 @@
+{
+  "id": "hymn-390",
+  "number": "390",
+  "numberDisplay": "390",
+  "title": "Anywhere With Jesus",
+  "firstLine": "Anywhere With Jesus 390",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Anywhere With Jesus 390"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "??Adapt by Helen C. Dixon",
+        "D-2-SOL??F-3 G-3"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "?Anywhere with Jesus I can safely go,",
+        "?Anywhere He leads me in this world below,",
+        "?Anywhere without Him dearest joys would fade,",
+        "?Anywhere with Jesus I am not afraid."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "?Anywhere with Jesus I am not alone,",
+        "?Other friends may fail me, He is still my own,",
+        "?Tho' His hand may lead me over drearest ways,",
+        "?Anywhere with Jesus is a house of praise."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "?Anywhere with Jesus, over land and sea,",
+        "?Telling souls in darkness of salvation free,",
+        "?Ready as He summons me to go or stay,",
+        "?Anywhere with Jesus when He points the way."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "?Anywhere, Anywhere! Fear I cannot know;",
+        "?Anywhere with Jesus I can safely go."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-390_full.mid",
+    "soprano": "/audio/midi/hymn-390_soprano.mid",
+    "alto": "/audio/midi/hymn-390_alto.mid",
+    "tenor": "/audio/midi/hymn-390_tenor.mid",
+    "bass": "/audio/midi/hymn-390_bass.mid"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "hymn-33",
+  "number": "33",
+  "numberDisplay": "33",
+  "title": "Mighty Is The Lord",
+  "firstLine": "Composer; Johnny Elmore",
+  "pitchInfo": {
+    "raw": "Eb-4-SOL P-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Johnny Elmore"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Mighty is the Lord, our God,",
+        "Give praise to His great name, great name;",
+        "Saints of earth, and hosts of heaven",
+        "Proclaim abroad His fame;",
+        "Come rejoicing, shout \"Hosanna\"",
+        "That all men might see;",
+        "Mighty is the Lord who lives eternally."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Holy is the Lord of Hosts,",
+        "Whose reign shall never cease,",
+        "He can save the fallen race",
+        "And give His servants peace;",
+        "All the earth should sing His praises,",
+        "For He makes us free;",
+        "Mighty is the Lord who lives eternally."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Mighty is our God, Jehovah,",
+        "Wondrous is His grace,",
+        "He is building now in heaven,",
+        "That we might have a place;",
+        "How He makes us want to serve Him,",
+        "His own people be;",
+        "Mighty is the Lord who lives eternally."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mighty is the Lord,",
+        "The Lord who dwells in the heavens,",
+        "Mighty is the gracious Lord",
+        "Who rules over the sea;",
+        "Mighty is the Lord of Hosts",
+        "Who doth never slumber,",
+        "Mighty is the Lord who lives eternally."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-33_full.mid",
+    "soprano": "/audio/midi/hymn-33_soprano.mid",
+    "alto": "/audio/midi/hymn-33_alto.mid",
+    "tenor": "/audio/midi/hymn-33_tenor.mid",
+    "bass": "/audio/midi/hymn-33_bass.mid"
+  }
+}

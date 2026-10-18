@@ -1,0 +1,76 @@
+{
+  "id": "hymn-639",
+  "number": "639",
+  "numberDisplay": "639",
+  "title": "He's A Wonderful Savior to Me 569 /",
+  "firstLine": "Eb-4-MI??C-10",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Eb-4-MI??C-10"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "?I was lost in sin but Jesus rescued me,",
+        "?He's a wonderful Savior to me;",
+        "?I was bound by fear but Jesus set me free,",
+        "?He's a wonderful Savior to me;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "?He's a Friend so true, so patient and so kind,",
+        "?He's a wonderful Savior to me;",
+        "?Ev'ry thing I need in Him I always find.",
+        "?He's a wonderful Savior to me;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "?He is always near to comfort and to cheer,",
+        "?He's a wonderful Savior to me;",
+        "?He forgive my sins, He dries my ev'ry tear.",
+        "?He's a wonderful Savior to me;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "?Dearer grows the love of Jesus day by day,",
+        "?He's a wonderful Savior to me;",
+        "?Sweeter is HIs grace while pressing on my way,",
+        "?He's a wonderful Savior to me;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "?For He's a wonderful Savior to me;",
+        "?He's a wonderful Savior to me;",
+        "?I was lost in sin, but Jesus took me in,",
+        "?He's a wonderful Savior to me;",
+        "Copyright 1918 by Homer A. Rodeheaver. Renewed 1946 by The Rodeheaver Company. (A Div. of WORD, INC.) All Rights Reserved. International Copyright Secured. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-639_full.mid",
+    "soprano": "/audio/midi/hymn-639_soprano.mid",
+    "alto": "/audio/midi/hymn-639_alto.mid",
+    "tenor": "/audio/midi/hymn-639_tenor.mid",
+    "bass": "/audio/midi/hymn-639_bass.mid"
+  }
+}

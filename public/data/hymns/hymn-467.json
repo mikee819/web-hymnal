@@ -1,0 +1,65 @@
+{
+  "id": "hymn-467",
+  "number": "467",
+  "numberDisplay": "467",
+  "title": "Turn Your Eyes Upon Jesus",
+  "firstLine": "O soul, are you weary and troubled?",
+  "pitchInfo": {
+    "raw": "F-3-MI C-15",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-15",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O soul, are you weary and troubled?",
+        "No light in the darkness you see/",
+        "There's light for a look at the Savior,",
+        "And life more abundant and free!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Thru death into life everlasting",
+        "He passed, and we follow him there;",
+        "Over us sin no more hath dominion",
+        "For more than conq'rors we are!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "His word shall not fail you - He promised;",
+        "Believe him, and all will be well:",
+        "Then go to a world that is tying,",
+        "His perfect salvation to tell!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Turn your eyes upon Jesus,",
+        "Look full in His wonderful face,",
+        "And the things of earth will grow strangely dim",
+        "In the light of His glory and grace.",
+        "Copyright 1922. renewal 1950 by H. H. Lemmel. assigned to Singspiration, Inc. All Rights reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-467_full.mid",
+    "soprano": "/audio/midi/hymn-467_soprano.mid",
+    "alto": "/audio/midi/hymn-467_alto.mid",
+    "tenor": "/audio/midi/hymn-467_tenor.mid",
+    "bass": "/audio/midi/hymn-467_bass.mid"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "hymn-372",
+  "number": "372",
+  "numberDisplay": "372",
+  "title": "We Thank Thee, O Father",
+  "firstLine": "Trans. by Jane M. Campbell, 1861",
+  "pitchInfo": {
+    "raw": "Db-2-DO T-2",
+    "key": "Db",
+    "note": "Db",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "T-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Trans. by Jane M. Campbell, 1861"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "We plow the fields for sowing, The good seed on the land,",
+        "But it is fed and waterd By God's almighty hand.",
+        "He sends the snow in winter, The warmth to swell the grains,",
+        "The breeze and the sunshine, And soft refreshing rain."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "He only is the Maker of all things near and far,",
+        "He paints the wayside flowers, He lights the evening star.",
+        "The wind and waves obey Him, By Him the birds are fed;",
+        "Much more to us His children he gives our daily bread."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "We thank Thee, then, O Father, For all things bright and good;",
+        "The seed time and the harvest, Our life, our health, our food.",
+        "Accept the gifts we offer, For all Thy love imparts,",
+        "And, what Thou must desirest, Our humble thankful hearts.",
+        "Copyright 1986, Shepard-Stevens Music, Inc. in \"Hymns For Worship\", R. J. Stevens, owner. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-372_full.mid",
+    "soprano": "/audio/midi/hymn-372_soprano.mid",
+    "alto": "/audio/midi/hymn-372_alto.mid",
+    "tenor": "/audio/midi/hymn-372_tenor.mid",
+    "bass": "/audio/midi/hymn-372_bass.mid"
+  }
+}

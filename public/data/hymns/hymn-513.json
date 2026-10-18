@@ -1,0 +1,38 @@
+{
+  "id": "hymn-513",
+  "number": "513",
+  "numberDisplay": "513",
+  "title": "Psalm 104:31-35 509a /",
+  "firstLine": "Forever O may the Lord's glory stand! The Lord shall enjoy each work of his hadn. He looks on the earth and it trembles in fear; when He touches mountains, the smoke will appear.",
+  "pitchInfo": {
+    "raw": "A-3-SOL C-6 P-2",
+    "key": "A",
+    "note": "A",
+    "beat": 3,
+    "solfege": "SOL",
+    "inheritedFrom": "35"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "O Worship The King",
+    "number": "35"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Forever O may the Lord's glory stand! The Lord shall enjoy each work of his hadn. He looks on the earth and it trembles in fear; when He touches mountains, the smoke will appear.",
+        "I'll sing to the Lord as long as I live, sing praise to my God while life He will give. My thoughts about him will sweet pleasure afford. For I am rejoicing each day in the Lord.",
+        "Consumed form the earth let sinners then be; the wicked in life no more let us see. And now, O my soul, blessing give to the Lord. Let glad hallelujahs ring; O praise the Lord!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-513_full.mid",
+    "soprano": "/audio/midi/hymn-513_soprano.mid",
+    "alto": "/audio/midi/hymn-513_alto.mid",
+    "tenor": "/audio/midi/hymn-513_tenor.mid",
+    "bass": "/audio/midi/hymn-513_bass.mid"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "hymn-211",
+  "number": "211",
+  "numberDisplay": "211",
+  "title": "Jesus, Meek and Gentle",
+  "firstLine": "Jesus, meek and gentle, Son of God most high,",
+  "pitchInfo": {
+    "raw": "Eb-2-SOL C-10",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-10",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus, meek and gentle, Son of God most high,",
+        "Pitying, loving Savior, Hear Thy children's cry."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Pardon our offenses, Loose our captive chains,",
+        "Break down ev'ry idol Which our soul detains."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Give us holy freedom, Fill our hearts with love;",
+        "Draw us, holy Jesus, To the realms above."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Lead us on our journey, Be Thyself the Way,",
+        "Thru terrestrial darkness To celestial day."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-211_full.mid",
+    "soprano": "/audio/midi/hymn-211_soprano.mid",
+    "alto": "/audio/midi/hymn-211_alto.mid",
+    "tenor": "/audio/midi/hymn-211_tenor.mid",
+    "bass": "/audio/midi/hymn-211_bass.mid"
+  }
+}

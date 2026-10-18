@@ -1,0 +1,40 @@
+{
+  "id": "hymn-574a",
+  "number": "574a",
+  "numberDisplay": "574a",
+  "title": "Jesus, My Savior, Look On Me",
+  "firstLine": "Jesus, my Savior, look on me, for I am weary and oppressed; I come to cast myself on Thee: Thou art my Rest.",
+  "pitchInfo": {
+    "raw": "D-4-SOL D-1",
+    "key": "D",
+    "note": "D",
+    "beat": 4,
+    "solfege": "SOL",
+    "inheritedFrom": "78"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "My God My Father Tho' I Stray -",
+    "number": "78"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus, my Savior, look on me, for I am weary and oppressed; I come to cast myself on Thee: Thou art my Rest.",
+        "Look down on me, for I am weak; I feel the toilsome journey's length: Thine aid omnipotent I seek: Thou art my Strength.",
+        "I am bewildered on my way, dark and tempestuous is the night; O send Thou forth some cheering ray! Thou art my Light.",
+        "When Satan flings his fiery darts, I look to Thee, my terrors cease; Thy Cross a hiding place imparts: Thou art my Peace.",
+        "Thou wilt my every want supply, E'en to the end, what-e'er befall; Through life, in death, eternally, Thou art my All. A-MEN."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-574a_full.mid",
+    "soprano": "/audio/midi/hymn-574a_soprano.mid",
+    "alto": "/audio/midi/hymn-574a_alto.mid",
+    "tenor": "/audio/midi/hymn-574a_tenor.mid",
+    "bass": "/audio/midi/hymn-574a_bass.mid"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "hymn-52",
+  "number": "52",
+  "numberDisplay": "52",
+  "title": "God Is Our Loving Father * /",
+  "firstLine": "Scripture; Psalm 24;1",
+  "pitchInfo": {
+    "raw": "Eb-4-SOL L-5 P-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "L-5 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Psalm 24;1"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Our God, Creator of the universe,",
+        "Our God, the Lord of all the earth,",
+        "We praise and magnify his glorious name;",
+        "He is all the world to you and me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Let ev'ry kneww beofre Him humbly bow;",
+        "He reigns supremely over all.",
+        "Through Him all things created now exist;",
+        "He holds the scepter in His hand."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "For God so loved us, even sinners;",
+        "He gave His only son to die,",
+        "And on the cross our debt was gladly paid;",
+        "Jesus died that you and I might live."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "And at the time of my departure,",
+        "As it must come for ev'ry man,",
+        "Let not my loved ones weep in sorrow;",
+        "My soul is in my Father's hands."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "But * listen to the wondrous story,",
+        "The very tho't will thrill your soul,",
+        "That God, the Ruler of the world",
+        "Is the lovingt Father of us all.",
+        "* 4th time, For",
+        "Copyright 1991 by Eugene W. Sikes. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-52_full.mid",
+    "soprano": "/audio/midi/hymn-52_soprano.mid",
+    "alto": "/audio/midi/hymn-52_alto.mid",
+    "tenor": "/audio/midi/hymn-52_tenor.mid",
+    "bass": "/audio/midi/hymn-52_bass.mid"
+  }
+}

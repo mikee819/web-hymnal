@@ -1,0 +1,72 @@
+{
+  "id": "hymn-699",
+  "number": "699",
+  "numberDisplay": "699",
+  "title": "Will You Forgive Me? * /",
+  "firstLine": "Scripture; Matthew 5:23-24",
+  "pitchInfo": {
+    "raw": "F-4-DO L-2 U-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "L-2 U-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Matthew 5:23-24"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "As I come to offer worhship,",
+        "True devotion to my God,",
+        "Brother will you now forgive me,",
+        "Aught against me in your heart?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Bitter feelings always hinder",
+        "The sweet fellowship divine,",
+        "We're no longer parted by them,",
+        "Now we worship with one mind."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "We are sharing now together,",
+        "Precious kinship in our Lord.",
+        "May our care be true and tender,",
+        "In the harmony of love."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Let us then as one adore him,",
+        "give the Lord our ardent praise.",
+        "Brother will you please forgive me,",
+        "As our voices now we raise.",
+        "Copyright 1987 by Huey Hartsell and R. J. Stevens. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-699_full.mid",
+    "soprano": "/audio/midi/hymn-699_soprano.mid",
+    "alto": "/audio/midi/hymn-699_alto.mid",
+    "tenor": "/audio/midi/hymn-699_tenor.mid",
+    "bass": "/audio/midi/hymn-699_bass.mid"
+  }
+}

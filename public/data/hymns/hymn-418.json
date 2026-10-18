@@ -1,0 +1,71 @@
+{
+  "id": "hymn-418",
+  "number": "418",
+  "numberDisplay": "418",
+  "title": "Sweet Peace, The Gift Of God's Love",
+  "firstLine": "Scripture; Philippians 4:7",
+  "pitchInfo": {
+    "raw": "A-2-SOL L-5 P-1",
+    "key": "A",
+    "note": "A",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "L-5 P-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Philippians 4:7"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There comes to my heart one sweet strain,",
+        "A glad and a joyous refrain,",
+        "I sing it again and again,",
+        "Sweet peace, the gift of God's love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Thru Christ on the cross peace was made,",
+        "My debt by His death was all paid,",
+        "No other foundation is laid,",
+        "For peace, the gift of God's love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "In Jesus for peace I abide,",
+        "And as I keep close to His side,",
+        "There's nothing but peace doth betide,",
+        "Sweet peace, the gift of God's love."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Peace, peace, sweet peace,",
+        "Wonderful peace from above,",
+        "Oh, wonderful, wonderful peace,",
+        "Sweet peace, the gift of God's love."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-418_full.mid",
+    "soprano": "/audio/midi/hymn-418_soprano.mid",
+    "alto": "/audio/midi/hymn-418_alto.mid",
+    "tenor": "/audio/midi/hymn-418_tenor.mid",
+    "bass": "/audio/midi/hymn-418_bass.mid"
+  }
+}

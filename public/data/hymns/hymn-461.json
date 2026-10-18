@@ -1,0 +1,65 @@
+{
+  "id": "hymn-461",
+  "number": "461",
+  "numberDisplay": "461",
+  "title": "He Changes Not",
+  "firstLine": "Amid the changing scenes below,",
+  "pitchInfo": {
+    "raw": "G-3-SOL C-5 C-6",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-5 C-6",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Amid the changing scenes below,",
+        "Where many come and many go,",
+        "My wistful soul will oft cry out",
+        "For one who stays, who changes not."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "The years pass on, a shifting train,",
+        "Of things familiar, few remain,",
+        "How sweet, how comforting the tho't,",
+        "That one remains who changes not."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "As it has been, so will it be",
+        "Till comes life's final hour for me,",
+        "Mine surely is a favored lot -",
+        "I have a Friend who changes not."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He changes not, Christ changes not!",
+        "Though I should be by all forgot,",
+        "He still remains and will remain!",
+        "My precious Lord who changes not.",
+        "copyright 1935 by Gospel Advocate Company. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-461_full.mid",
+    "soprano": "/audio/midi/hymn-461_soprano.mid",
+    "alto": "/audio/midi/hymn-461_alto.mid",
+    "tenor": "/audio/midi/hymn-461_tenor.mid",
+    "bass": "/audio/midi/hymn-461_bass.mid"
+  }
+}

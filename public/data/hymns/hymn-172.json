@@ -1,0 +1,62 @@
+{
+  "id": "hymn-172",
+  "number": "172",
+  "numberDisplay": "172",
+  "title": "Precious Communion",
+  "firstLine": "Precious Communion: The feast of our dear Lord,",
+  "pitchInfo": {
+    "raw": "Db-2-SOL L-1",
+    "key": "Db",
+    "note": "Db",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "L-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Precious Communion: The feast of our dear Lord,",
+        "Shows forth the sacrifice He made;",
+        "His body and His blood."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Precious Communion: Each first day of the week,",
+        "The bread and cup bring to our mind",
+        "The fellowship we keep."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Precious Communion; We all remember Him",
+        "Who gave His life upon the cross,",
+        "Redeeming us from sin."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "In this communion,",
+        "We honor Christ as King,",
+        "And worship Him as Lord of lords",
+        "Until He comes again.",
+        "Copyright 1986 Shepard-Stevens Music, Inc. in \"HYmns For Worship\", R. J. Stevens, owner. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-172_full.mid",
+    "soprano": "/audio/midi/hymn-172_soprano.mid",
+    "alto": "/audio/midi/hymn-172_alto.mid",
+    "tenor": "/audio/midi/hymn-172_tenor.mid",
+    "bass": "/audio/midi/hymn-172_bass.mid"
+  }
+}

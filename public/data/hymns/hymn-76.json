@@ -1,0 +1,58 @@
+{
+  "id": "hymn-76",
+  "number": "76",
+  "numberDisplay": "76",
+  "title": "Closer To Thee",
+  "firstLine": "Closer to Thee, near to Thy side,",
+  "pitchInfo": {
+    "raw": "Bb-2-SOL D-1 F-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "D-1 F-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Closer to Thee, near to Thy side,",
+        "Closer, dear Lord, I would abide;",
+        "Hold me in Thy embrace,",
+        "'Neath every smile of grace,",
+        "Grant me, Thy child, a place Closer to Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Closer to Thee, near to Thy breast,",
+        "Closer to Thee; Lord, let me rest;",
+        "Guide me when I would stray,",
+        "Keep me from sin each day,",
+        "Draw me, dear Lord, I pray, Closer to Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Closer to Thee, happy and free,",
+        "Grant me, O Lord, ever to be;",
+        "Hear me in every cry,",
+        "Stand near when I must die,",
+        "Then take me home on high, Closer to Thee."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-76_full.mid",
+    "soprano": "/audio/midi/hymn-76_soprano.mid",
+    "alto": "/audio/midi/hymn-76_alto.mid",
+    "tenor": "/audio/midi/hymn-76_tenor.mid",
+    "bass": "/audio/midi/hymn-76_bass.mid"
+  }
+}

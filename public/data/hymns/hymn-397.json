@@ -1,0 +1,65 @@
+{
+  "id": "hymn-397",
+  "number": "397",
+  "numberDisplay": "397",
+  "title": "Stand Up, Stand Up For Jesus!",
+  "firstLine": "Stand up, stand up for Jesus! Ye soldiers of the cross;",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL E-1 W-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1 W-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Stand up, stand up for Jesus! Ye soldiers of the cross;",
+        "Lift high His royal banner, it must not suffer loss;",
+        "From victory unto victory His army shall He lead,",
+        "Till every foe is vanquished and Christ is Lord indeed."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Stand up, stand up for Jesus! The trumpet call obey;",
+        "Forth to the mighty conflict, In this His glorious day;",
+        "Ye that are men, now serve Him, Against unnumbered foes;",
+        "Your courage rise with danger, And strength to strength oppose."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Stand up, stand up for Jesus! Stand in His strength alone;",
+        "The arm of flesh will fail you; Ye dare not trust your own;",
+        "Put on the gospel armor, Each piece put on the with prayer;",
+        "Where duty calls, or danger, Be never wanting there."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Stand up, stand up for Jesus! The strife will not be long;",
+        "This day the noise of battle, The next the victor's song;",
+        "To him that overcometh, A crown of life shall be;",
+        "He with the King of glory Shall live eternally."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-397_full.mid",
+    "soprano": "/audio/midi/hymn-397_soprano.mid",
+    "alto": "/audio/midi/hymn-397_alto.mid",
+    "tenor": "/audio/midi/hymn-397_tenor.mid",
+    "bass": "/audio/midi/hymn-397_bass.mid"
+  }
+}

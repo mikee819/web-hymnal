@@ -1,0 +1,64 @@
+{
+  "id": "hymn-320",
+  "number": "320",
+  "numberDisplay": "320",
+  "title": "Will Jesus Find Us Watching",
+  "firstLine": "When Jesus comes to reward His servants,",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL E-1 S-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1 S-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When Jesus comes to reward His servants,",
+        "Whether it be noon or night,",
+        "Faithful to Him will He find us watching,",
+        "With our lamps all trimmed and bright?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "If at the dawn of the early morning,",
+        "He shall call us one by one,",
+        "When to the Lord we restore our talents,",
+        "Will He answer thee, \"Well done?\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Blessed are those whom the Lord finds watching,",
+        "In His Glory they shall share;",
+        "If He shall come at the dawn or midnight,",
+        "Will He find us watching there?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O can we say, we are ready, brother?",
+        "Ready for the soul's bright home?",
+        "Say will He find you and me still watching,",
+        "Waiting, waiting when the Lord shall come?"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-320_full.mid",
+    "soprano": "/audio/midi/hymn-320_soprano.mid",
+    "alto": "/audio/midi/hymn-320_alto.mid",
+    "tenor": "/audio/midi/hymn-320_tenor.mid",
+    "bass": "/audio/midi/hymn-320_bass.mid"
+  }
+}

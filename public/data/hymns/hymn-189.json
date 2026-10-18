@@ -1,0 +1,65 @@
+{
+  "id": "hymn-189",
+  "number": "189",
+  "numberDisplay": "189",
+  "title": "When I Survey The Wondrous Cross",
+  "firstLine": "When I survey the wondrous cross,",
+  "pitchInfo": {
+    "raw": "F-2-DO L-1",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "L-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When I survey the wondrous cross,",
+        "On which the Prince of glory died,",
+        "My richest gain I count but loss,",
+        "And pour contempt on all my pride."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Forbid it Lord that I should boast,",
+        "Save in the death of Christ my God;",
+        "All the vain things that charm me most,",
+        "I sacrifice them to His blood."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "See, from His head, His hands, His feet,",
+        "Sorrow and love flow mingled down;",
+        "Did e'er such love and sorrow meet,",
+        "Or thorns compose so rich a crown?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Were the whole realm of nature mine,",
+        "That were a present far too small;",
+        "Love so amazing, so divine,",
+        "Demands my soul, my life, my all"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-189_full.mid",
+    "soprano": "/audio/midi/hymn-189_soprano.mid",
+    "alto": "/audio/midi/hymn-189_alto.mid",
+    "tenor": "/audio/midi/hymn-189_tenor.mid",
+    "bass": "/audio/midi/hymn-189_bass.mid"
+  }
+}

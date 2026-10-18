@@ -1,0 +1,74 @@
+{
+  "id": "hymn-429",
+  "number": "429",
+  "numberDisplay": "429",
+  "title": "Sunlight",
+  "firstLine": "I wandered in the shades of night,",
+  "pitchInfo": {
+    "raw": "E-4-SOL T-1",
+    "key": "E",
+    "note": "E",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I wandered in the shades of night,",
+        "Till Jesus came to me,",
+        "And with the sunlight of His love",
+        "Bid all my darkness flee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Tho' clouds may gather in the sky,",
+        "And billows 'round me roll,",
+        "However dark the world may be,",
+        "I've sunlight in my soul."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "While walking in the light of God,",
+        "I sweet communion find;",
+        "I press with holy vigor on,",
+        "And leave the world behind."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Soon I shall see Him as He is,",
+        "The light that came to me,",
+        "Behold the brightness of His face,",
+        "Thru-out eternity."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sunlight, sunlight in my soul today,",
+        "Sunlight, sunlight all along the way;",
+        "Since the Savior found me, took away my sin,",
+        "I have had the sunlight of His love within."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-429_full.mid",
+    "soprano": "/audio/midi/hymn-429_soprano.mid",
+    "alto": "/audio/midi/hymn-429_alto.mid",
+    "tenor": "/audio/midi/hymn-429_tenor.mid",
+    "bass": "/audio/midi/hymn-429_bass.mid"
+  }
+}

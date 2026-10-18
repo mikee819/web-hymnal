@@ -1,0 +1,39 @@
+{
+  "id": "hymn-506a",
+  "number": "506a",
+  "numberDisplay": "506a",
+  "title": "Psalm 2",
+  "firstLine": "Why do the heathen nations rage? Why do peoples folly mind? Kings of earth in plots engage, rulers are in league combined; Then against Jehovah high, and against Messiah's sway, \"Let us break their band,\" they cry, \"Let us cast their cords away.\"",
+  "pitchInfo": {
+    "raw": "G-4-SOL C-1 P-2",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "SOL",
+    "inheritedFrom": "46"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Hark, The Herald Angels Sing",
+    "number": "46"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Why do the heathen nations rage? Why do peoples folly mind? Kings of earth in plots engage, rulers are in league combined; Then against Jehovah high, and against Messiah's sway, \"Let us break their band,\" they cry, \"Let us cast their cords away.\"",
+        "But the Lord will scorn them all; He will laugh who sits on high. Then His wrath will on them fall; sore displeased He will reply; \"Yet according to My will I have set my King to reign, and on Zion's holy hill My Anointed I'll maintain.\"",
+        "His decree I will make known: Unto me the Lord did say, \"Thou art my beloved Son; I've begotten Thee this day. Ask of me and thee I'll make heir to earth and nations all; Them with iron thou shalt break, dashing them in pieces small.\"",
+        "Therefore, kings, be wise, give ear; Hearken judges of the earth; Serve the Lord with godly fear; mingle trembling with your mirth. Kiss the Son, His wrath to turn, lest ye perish in the way, For His anger soon will burn. Bless'd are all that on Him stay."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-506a_full.mid",
+    "soprano": "/audio/midi/hymn-506a_soprano.mid",
+    "alto": "/audio/midi/hymn-506a_alto.mid",
+    "tenor": "/audio/midi/hymn-506a_tenor.mid",
+    "bass": "/audio/midi/hymn-506a_bass.mid"
+  }
+}

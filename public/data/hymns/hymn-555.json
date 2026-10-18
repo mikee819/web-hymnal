@@ -1,0 +1,52 @@
+{
+  "id": "hymn-555",
+  "number": "555",
+  "numberDisplay": "555",
+  "title": "Psalm 119:9-16 531a /",
+  "firstLine": "Click Here To Play 1st Edition",
+  "pitchInfo": {
+    "raw": "F-3-DO W-3",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "W-3",
+  "tuneRef": {
+    "title": "O Master, Let Me Walk With Thee",
+    "number": "65"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Click Here To Play 1st Edition"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Composer; R. J. Stevens"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "How shall a young man cleanse his way? Let him with care Thy work observe. With all my heart I have Thee sought; From thy commands let me not swerve.",
+        "Thy word I've treasured in my heart, that I give no offence to Thee. Thou, O Jehovah, blessed art; Thy statutes teach Thou unto me.",
+        "I with my lips have oft declared the judgments which Thy mouth hath shown. More joy Thy testimonies gave than all the riches I have known.",
+        "I'll on Thy precept meditate, and have respect to all Thy ways. I in Thy statutes will delight, Thy word remember all my days."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-555_full.mid",
+    "soprano": "/audio/midi/hymn-555_soprano.mid",
+    "alto": "/audio/midi/hymn-555_alto.mid",
+    "tenor": "/audio/midi/hymn-555_tenor.mid",
+    "bass": "/audio/midi/hymn-555_bass.mid"
+  }
+}

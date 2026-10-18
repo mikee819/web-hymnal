@@ -1,0 +1,64 @@
+{
+  "id": "hymn-424",
+  "number": "424",
+  "numberDisplay": "424",
+  "title": "The Gospel Is For All",
+  "firstLine": "Of one the Lord has made the race,",
+  "pitchInfo": {
+    "raw": "Ab-2-SOL W-3",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "W-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Of one the Lord has made the race,",
+        "Thru one has come the fall;",
+        "Where sin has gone must go His grace;",
+        "The Gospel is for all."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Say not the heathen are at home,",
+        "Beyond we have no call,",
+        "For why should we be blest alone?",
+        "The Gospel is for all."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Received ye freely, freely give,",
+        "From ev'ry land they call;",
+        "Unless they hear they cannot live:",
+        "The Gospel is for all."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "The blessed Gospel is for all,",
+        "The Gospel is for all;",
+        "Where sin has gone must go His grace;",
+        "The Gospel is for all."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-424_full.mid",
+    "soprano": "/audio/midi/hymn-424_soprano.mid",
+    "alto": "/audio/midi/hymn-424_alto.mid",
+    "tenor": "/audio/midi/hymn-424_tenor.mid",
+    "bass": "/audio/midi/hymn-424_bass.mid"
+  }
+}

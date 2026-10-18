@@ -1,0 +1,65 @@
+{
+  "id": "hymn-554",
+  "number": "554",
+  "numberDisplay": "554",
+  "title": "The King's Business 524 /",
+  "firstLine": "I am a stranger here, Within a foreign land;",
+  "pitchInfo": {
+    "raw": "E-4-SOL C-6 S-5",
+    "key": "E",
+    "note": "E",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-6 S-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I am a stranger here, Within a foreign land;",
+        "My home is far away, Upon a golden strand;",
+        "A messenger to be Of realms beyond the sea,",
+        "I'm here on business for my King."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "This is the King's command: That all men, ev'ry where",
+        "Repent and turn away From sin's seductive snare;",
+        "That all who will obey, With Him shall live for aye,",
+        "And that's my business for my King."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "My home is brighter far Than Sharon's rosy plain,",
+        "Eternal life and joy Thru-out its vast domain;",
+        "My Sov'reign bids me tell How mortals there may dwell,",
+        "And that's my business for my King."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "This is the message that I bring,",
+        "A message angels fain would sing:",
+        "\"O, be ye reconciled,\"",
+        "Thus saith my Lord and King,",
+        "\"O, be ye reconciled to God.\""
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-554_full.mid",
+    "soprano": "/audio/midi/hymn-554_soprano.mid",
+    "alto": "/audio/midi/hymn-554_alto.mid",
+    "tenor": "/audio/midi/hymn-554_tenor.mid",
+    "bass": "/audio/midi/hymn-554_bass.mid"
+  }
+}

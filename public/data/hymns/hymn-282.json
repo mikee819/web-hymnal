@@ -1,0 +1,65 @@
+{
+  "id": "hymn-282",
+  "number": "282",
+  "numberDisplay": "282",
+  "title": "Love For All",
+  "firstLine": "Love for all and can it be?",
+  "pitchInfo": {
+    "raw": "A-3-SOL L-5",
+    "key": "A",
+    "note": "A",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "L-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Love for all and can it be?",
+        "Can I hope it is for me -",
+        "I, who strayed so long ago,",
+        "Strayed so far, and fell so low?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I, the disobedient child,",
+        "Wayward, passionate, and wild",
+        "I, who left my Father's home,",
+        "In forbidden ways to roam."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I, who spurned His loving hold;",
+        "I, who would not be controlled",
+        "I, who would not hear His call;",
+        "I, the willful prodigal."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "To my Father can I go?",
+        "At His feet myself I'll throw;",
+        "In His house there yet I see,",
+        "Love for me - yes, even me."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-282_full.mid",
+    "soprano": "/audio/midi/hymn-282_soprano.mid",
+    "alto": "/audio/midi/hymn-282_alto.mid",
+    "tenor": "/audio/midi/hymn-282_tenor.mid",
+    "bass": "/audio/midi/hymn-282_bass.mid"
+  }
+}

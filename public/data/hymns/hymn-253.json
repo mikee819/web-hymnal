@@ -1,0 +1,66 @@
+{
+  "id": "hymn-253",
+  "number": "253",
+  "numberDisplay": "253",
+  "title": "Heaven Will Surely Be Worth It All",
+  "firstLine": "Often I'm hindered on my way;",
+  "pitchInfo": {
+    "raw": "F-3-MI C-15 H-2",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-15 H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Often I'm hindered on my way;",
+        "Burdened so heavy I almost fall;",
+        "Then I hear Jesus sweetly say;",
+        "\"Heaven will surely be worth it all.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Many the trials, toils and tears,",
+        "Many a heart-ache may her appall;",
+        "But the dear Lord so truely says:",
+        "\"Heaven will surely be worth it all.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Toiling and pain I will endure,",
+        "Till I shall hear the death angel call:",
+        "Jesus has promised and I'm sure",
+        "Heaven will surely be worth it all."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Heaven will surely be worth it all.",
+        "Worth all the sorrows that here befall;",
+        "After this life with all its strife;",
+        "Heaven will surely be worth it all.",
+        "Copyright 1945 by A. O Parris. Assigned 1946 to Stamps Quartet. Copyright renewed 1973 by Wendell and Camella Cooper and Minzo C. Jones. Assigned 1976 to M. Lynwood Smith and Minzo C. Jones. All Rights Reserved. Assigned 1979 to M. Lynwood Smith. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-253_full.mid",
+    "soprano": "/audio/midi/hymn-253_soprano.mid",
+    "alto": "/audio/midi/hymn-253_alto.mid",
+    "tenor": "/audio/midi/hymn-253_tenor.mid",
+    "bass": "/audio/midi/hymn-253_bass.mid"
+  }
+}

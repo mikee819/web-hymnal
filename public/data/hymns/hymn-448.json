@@ -1,0 +1,72 @@
+{
+  "id": "hymn-448",
+  "number": "448",
+  "numberDisplay": "448",
+  "title": "To Love The Lord",
+  "firstLine": "R. J. Stevens",
+  "pitchInfo": {
+    "raw": "Ab-2-SOL L-2 L-3",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "L-2 L-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "R. J. Stevens"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "To love the Lord with heart and soul,",
+        "To love Him with the mind,",
+        "Fulfills the first and great command,",
+        "In Him true peace I find."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "To love my neighbor as myself,",
+        "To love Him fervently,",
+        "Fulfills the royal law of love,",
+        "And set my spirit free."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "To love my neighbor and my Lord",
+        "With all my heart and soul,",
+        "Fulfills the prophets and the law",
+        "And makes my spirit whole."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "I love the Lord with heart and soul,",
+        "I love Him with my mind.",
+        "In Him I'll live while ages roll;",
+        "In Him true peace I find.",
+        "Copyright 1986, Shepard-Stevens Music, Inc. in \"Hymns For Worship\", R. J. Stevens & robert Fudge, owners. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-448_full.mid",
+    "soprano": "/audio/midi/hymn-448_soprano.mid",
+    "alto": "/audio/midi/hymn-448_alto.mid",
+    "tenor": "/audio/midi/hymn-448_tenor.mid",
+    "bass": "/audio/midi/hymn-448_bass.mid"
+  }
+}

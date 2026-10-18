@@ -1,0 +1,64 @@
+{
+  "id": "hymn-248",
+  "number": "248",
+  "numberDisplay": "248",
+  "title": "Home On The Banks Of The River",
+  "firstLine": "There's a beautiful home beyond the dark river,",
+  "pitchInfo": {
+    "raw": "A-2-SOL H-2",
+    "key": "A",
+    "note": "A",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There's a beautiful home beyond the dark river,",
+        "There's a mansion by faith I can see;",
+        "And the Savior is there His faithful to welcome,",
+        "There's a beautiful home for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "'Tis a beautiful home, and God is its Maker,",
+        "In a land that no mortal has trod;",
+        "Soon the angels will come and carry me over,",
+        "To that beautiful home of God."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I have followed the way of life to the river,",
+        "I can see the glad portals above,",
+        "I am ready to go and live with my Savior,",
+        "In the beautiful home of love."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Home on the banks of the river,",
+        "Home where the ransomed ones gather,",
+        "Home with the angels for ever,",
+        "On the beautiful banks of the river."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-248_full.mid",
+    "soprano": "/audio/midi/hymn-248_soprano.mid",
+    "alto": "/audio/midi/hymn-248_alto.mid",
+    "tenor": "/audio/midi/hymn-248_tenor.mid",
+    "bass": "/audio/midi/hymn-248_bass.mid"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hymn-463",
+  "number": "463",
+  "numberDisplay": "463",
+  "title": "Hold To God's Unchanging Hand",
+  "firstLine": "Time is filled with swift transition,",
+  "pitchInfo": {
+    "raw": "Ab-4-DO L-6",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "L-6",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Time is filled with swift transition,",
+        "Naught of earth unmoved shall stand,",
+        "Build your hopes on things eternal,",
+        "Hold to God's unchanging hand!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Trust in Him who will not leave you,",
+        "What so ever years may bring,",
+        "If by earthly friends forsaken,",
+        "Still more closely to Him cling!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When your journey is completed,",
+        "If to God you have been true,",
+        "Fair and bright the home in glory,",
+        "Your enraptured soul shall view!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hold to God's unchanging hand!",
+        "Hold to God's unchanging hand!",
+        "Build your hopes on things eternal,",
+        "Hold to God's unchanging hand!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-463_full.mid",
+    "soprano": "/audio/midi/hymn-463_soprano.mid",
+    "alto": "/audio/midi/hymn-463_alto.mid",
+    "tenor": "/audio/midi/hymn-463_tenor.mid",
+    "bass": "/audio/midi/hymn-463_bass.mid"
+  }
+}

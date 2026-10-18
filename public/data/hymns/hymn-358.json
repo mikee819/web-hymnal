@@ -1,0 +1,62 @@
+{
+  "id": "hymn-358",
+  "number": "358",
+  "numberDisplay": "358",
+  "title": "Asleep In Jesus",
+  "firstLine": "Key; D Starting Note: A",
+  "pitchInfo": {
+    "raw": "D-3-SOL C-15 R-2",
+    "key": "D",
+    "note": "D",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-15 R-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Key; D Starting Note: A"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Asleep in Jesus! blessed sleep",
+        "From which none ever wakes to weep?",
+        "A calm and undisturbed repose,",
+        "Unbroken by the last of foes."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Asleep in Jesus! O how sweet",
+        "To be for such a slumber meet!",
+        "With holy confidence to sing,",
+        "That death hath lost its venomed sting."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Asleep in Jesus! peaceful rest,",
+        "Whose waking is supremely blest!",
+        "No fear, no woe, shall dim that hour",
+        "That manifests the Savior's pow'r."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-358_full.mid",
+    "soprano": "/audio/midi/hymn-358_soprano.mid",
+    "alto": "/audio/midi/hymn-358_alto.mid",
+    "tenor": "/audio/midi/hymn-358_tenor.mid",
+    "bass": "/audio/midi/hymn-358_bass.mid"
+  }
+}

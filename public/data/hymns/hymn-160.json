@@ -1,0 +1,74 @@
+{
+  "id": "hymn-160",
+  "number": "160",
+  "numberDisplay": "160",
+  "title": "One Day",
+  "firstLine": "One day when heaven was filled with His praises,",
+  "pitchInfo": {
+    "raw": "Db-3-SOL L-4 R-2",
+    "key": "Db",
+    "note": "Db",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "L-4 R-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "One day when heaven was filled with His praises,",
+        "One day when sin was as black as could be,",
+        "Jesus came forth to be born of a virgin;",
+        "Dwelt among men, my example is He!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "One day they led Him up Calvary's mountain,",
+        "One day they nailed Him to die on the tree,",
+        "Suffering anguish, despised and rejected;",
+        "Bearing our sins, my Redeemer is He!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "One day the grave could conceal Him no longer,",
+        "One day the stone rolled away from the door;",
+        "Then He arose, over death he had conquered;",
+        "Now is ascended, my Lord ever more!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "One day the trumpet will sound for His coming,",
+        "One day the skies with His glory will shine;",
+        "Wonderful day, my Beloved one bringing;",
+        "Glorious Savior, This Jesus is mine!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Living, He love me; dying, He saved me;",
+        "Buried, He carried my sins far away;",
+        "Rising, He justified freely forever;",
+        "One day He's coming - O glorious day!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-160_full.mid",
+    "soprano": "/audio/midi/hymn-160_soprano.mid",
+    "alto": "/audio/midi/hymn-160_alto.mid",
+    "tenor": "/audio/midi/hymn-160_tenor.mid",
+    "bass": "/audio/midi/hymn-160_bass.mid"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "hymn-525",
+  "number": "525",
+  "numberDisplay": "525",
+  "title": "To Be Like Jesus * /",
+  "firstLine": "Scripture; Philippians 2:5",
+  "pitchInfo": {
+    "raw": "Eb-4-DO C-13",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-13",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Philippians 2:5"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "To be like Jesus, to be like Jesus!",
+        "All I ask to be like Him!",
+        "All thru life's journey from earth to glory,",
+        "All I ask to be like Him."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "To be like Jesus, to be like Jesus!",
+        "How I long to be like Him!",
+        "So meek and lowly, so pure and holy,",
+        "How I long to be like Him."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-525_full.mid",
+    "soprano": "/audio/midi/hymn-525_soprano.mid",
+    "alto": "/audio/midi/hymn-525_alto.mid",
+    "tenor": "/audio/midi/hymn-525_tenor.mid",
+    "bass": "/audio/midi/hymn-525_bass.mid"
+  }
+}

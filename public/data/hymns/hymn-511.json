@@ -1,0 +1,63 @@
+{
+  "id": "hymn-511",
+  "number": "511",
+  "numberDisplay": "511",
+  "title": "Visions Of Calvary * /",
+  "firstLine": "arr. by R. J. Stevens",
+  "pitchInfo": {
+    "raw": "Ab-2-MI C-4 L-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-4 L-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "arr. by R. J. Stevens"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Let us hold within us still,",
+        "Visions of dark Calv'ry's hill,",
+        "Where my Lord was led to die,",
+        "Where my Lord was lifted high."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Memories we keep of Thee,",
+        "Precious One that made us free;",
+        "Lord of love and Lord of light,",
+        "Son of God who knows no night."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Worthy One, O glorious King,",
+        "With Thy praise all heaven rings;",
+        "Awesome host with sweetest lays,",
+        "Never cease to give Thee praise.",
+        "Copyright 1995 by O. E. Landrum and R. J. Stevens. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-511_full.mid",
+    "soprano": "/audio/midi/hymn-511_soprano.mid",
+    "alto": "/audio/midi/hymn-511_alto.mid",
+    "tenor": "/audio/midi/hymn-511_tenor.mid",
+    "bass": "/audio/midi/hymn-511_bass.mid"
+  }
+}

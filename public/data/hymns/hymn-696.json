@@ -1,0 +1,64 @@
+{
+  "id": "hymn-696",
+  "number": "696",
+  "numberDisplay": "696",
+  "title": "He Loves Me 612 /",
+  "firstLine": "Why did the Savior heaven leave",
+  "pitchInfo": {
+    "raw": "G-4-SOL L-1 L-4",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "L-1 L-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Why did the Savior heaven leave",
+        "And come to earth below",
+        "Where men His grace would not receive?",
+        "Because He loves me so!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Why did the Savior mark the way,",
+        "And why temptations know?",
+        "Why teach and toil and plead and pray?",
+        "Because He loves me so!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Why feel the garden's dreadful dross?",
+        "Why thru His trials go?",
+        "Why suffer death upon the cross?",
+        "Because He loves me so!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He loves me, He loves me,",
+        "He loves me, this I know:",
+        "He gave Himself to die for me,",
+        "Because He loves me so!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-696_full.mid",
+    "soprano": "/audio/midi/hymn-696_soprano.mid",
+    "alto": "/audio/midi/hymn-696_alto.mid",
+    "tenor": "/audio/midi/hymn-696_tenor.mid",
+    "bass": "/audio/midi/hymn-696_bass.mid"
+  }
+}

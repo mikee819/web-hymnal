@@ -1,0 +1,71 @@
+{
+  "id": "hymn-84",
+  "number": "84",
+  "numberDisplay": "84",
+  "title": "Tarry With Me",
+  "firstLine": "Scripture; Psalms 23:4",
+  "pitchInfo": {
+    "raw": "Eb-3-DO D-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Psalms 23:4"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Tarry with me, O, my Savior,",
+        "For the day is passing by;",
+        "See, the shades of evening gather,",
+        "And the night is drawing nigh."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Deeper, deeper grow the shadows,",
+        "Paler now the glowing west;",
+        "Swift the night of death advances;",
+        "Shall it be the night of rest?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Tarry with me, O, my Savior;",
+        "Lay my head upon thy breast",
+        "Till the morning; then awake me,",
+        "Morning of eternal rest."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tarry with me, blessed Savior;",
+        "Leave me not till morning light;",
+        "For I'm lonely here without Thee:",
+        "Tarry with me thru the night."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-84_full.mid",
+    "soprano": "/audio/midi/hymn-84_soprano.mid",
+    "alto": "/audio/midi/hymn-84_alto.mid",
+    "tenor": "/audio/midi/hymn-84_tenor.mid",
+    "bass": "/audio/midi/hymn-84_bass.mid"
+  }
+}

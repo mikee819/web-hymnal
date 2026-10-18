@@ -1,0 +1,38 @@
+{
+  "id": "hymn-508a",
+  "number": "508a",
+  "numberDisplay": "508a",
+  "title": "My Song Shall Be Of Jesus",
+  "firstLine": "My song shall be of Jesus, His mercy crowns my days, He fills my cup with blessings, and tunes my heart to praise; my song shall be of Jesus, the precious Lamb of God, who gave Himself my ransom, and bought me with His blood.",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL E-1 W-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL",
+    "inheritedFrom": "397"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Stand Up, Stand Up for Jesus!",
+    "number": "397"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "My song shall be of Jesus, His mercy crowns my days, He fills my cup with blessings, and tunes my heart to praise; my song shall be of Jesus, the precious Lamb of God, who gave Himself my ransom, and bought me with His blood.",
+        "My song shall be of Jesus, when sitting at His feet, I call to mind His goodness and know my joy's complete; my song shall be of Jesus, whatever ills befall, I'll sing the grace that saves me, and triumphs over all.",
+        "My song shall be of Jesus, while pressing on my way to where my home shines glorious in pure and perfect day. And when my soul shall enter the many mansions fair, a song of praise to Jesus I'll sing forever there."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-508a_full.mid",
+    "soprano": "/audio/midi/hymn-508a_soprano.mid",
+    "alto": "/audio/midi/hymn-508a_alto.mid",
+    "tenor": "/audio/midi/hymn-508a_tenor.mid",
+    "bass": "/audio/midi/hymn-508a_bass.mid"
+  }
+}

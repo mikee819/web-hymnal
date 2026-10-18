@@ -1,0 +1,54 @@
+{
+  "id": "hymn-632",
+  "number": "632",
+  "numberDisplay": "632",
+  "title": "Come Unto Me 563 /",
+  "firstLine": "Hear the blessed Savior calling the oppressed,",
+  "pitchInfo": {
+    "raw": "C-4-MI I-1",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Hear the blessed Savior calling the oppressed,",
+        "\"O ye heavy laden, come to me and rest;",
+        "Come, no longer tarry, I your load will bear,",
+        "Bring me ev'ry burden, bring me ev'ry care.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Have you cares of bus'ness, cares of pressing debt?",
+        "Cares of social life or cares of hopes unmet?",
+        "Are you by remorse or sense of guilt depressed?",
+        "Come right now to Jesus, He will give you rest."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Come unto me, I will give you rest;",
+        "Take my yoke upon you, hear me and be blest;",
+        "I am meek and lowly, Come and trust my might;",
+        "Come my yoke is easy, And my burden's light."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-632_full.mid",
+    "soprano": "/audio/midi/hymn-632_soprano.mid",
+    "alto": "/audio/midi/hymn-632_alto.mid",
+    "tenor": "/audio/midi/hymn-632_tenor.mid",
+    "bass": "/audio/midi/hymn-632_bass.mid"
+  }
+}

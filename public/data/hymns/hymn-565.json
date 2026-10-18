@@ -1,0 +1,44 @@
+{
+  "id": "hymn-565",
+  "number": "565",
+  "numberDisplay": "565",
+  "title": "He Is Lord * /",
+  "firstLine": "Composer; American Foly Melody",
+  "pitchInfo": {
+    "raw": "F-4-DO C-6",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-6",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; American Foly Melody",
+        "Scripture; 1 Timothy 6:15"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "He is Lord, He is Lord!",
+        "He is risen from the dead and He is Lord!",
+        "Ev'ry knee shall bow,",
+        "Ev'ry tongue confess",
+        "That Jesus Christ is Lord."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-565_full.mid",
+    "soprano": "/audio/midi/hymn-565_soprano.mid",
+    "alto": "/audio/midi/hymn-565_alto.mid",
+    "tenor": "/audio/midi/hymn-565_tenor.mid",
+    "bass": "/audio/midi/hymn-565_bass.mid"
+  }
+}

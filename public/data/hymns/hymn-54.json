@@ -1,0 +1,73 @@
+{
+  "id": "hymn-54",
+  "number": "54",
+  "numberDisplay": "54",
+  "title": "Praise Him! Praise Him!",
+  "firstLine": "Praise Him! Praise Him! Jesus our blessed Redeemer!",
+  "pitchInfo": {
+    "raw": "Ab-2-MI P-2",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Praise Him! Praise Him! Jesus our blessed Redeemer!",
+        "Sing, O earth, His wonderful love proclaim!",
+        "Hail Him! Hail Him! highest archangels in glory,",
+        "Strength and honor give to His holy name!",
+        "Like a shepherd, Jesus will guard His children;",
+        "In His arms He carries them all day long;"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "2 Praise Him! Praise Him! Jesus our blessed Redeemer!",
+        "For our sins, He suffered and bled and died;",
+        "He our Rock, our hope of eternal salvation,",
+        "Hail Him! Hail Him! Jesus the crucified:",
+        "Sound His praises! Jesus who bore our sorrows,",
+        "Love unbounded, wonderful, deep, and strong:"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "3 Praise Him! praise Him! Jesus, our blessed Redeemer!",
+        "Heavenly portals loud with hosannas ring!",
+        "Jesus, Savior, reigneth forever and ever;",
+        "Crown Him! crown Him! prophet and priest and King!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist is coming, over the world victorious,",
+        "Power and glory unto the Lord belong:"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Praise Him! praise Him! tell of His excellent greatness!",
+        "Praise Him! praise Him! ever in joyful song"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-54_full.mid",
+    "soprano": "/audio/midi/hymn-54_soprano.mid",
+    "alto": "/audio/midi/hymn-54_alto.mid",
+    "tenor": "/audio/midi/hymn-54_tenor.mid",
+    "bass": "/audio/midi/hymn-54_bass.mid"
+  }
+}

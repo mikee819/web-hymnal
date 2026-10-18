@@ -1,0 +1,73 @@
+{
+  "id": "hymn-610",
+  "number": "610",
+  "numberDisplay": "610",
+  "title": "Because He Lives 552 /",
+  "firstLine": "Scripture; John 14:19",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL C-12 T-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-12 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; John 14:19",
+        "Key; Bb Starting Note; F"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "God sent His Son, They called him Jesus,",
+        "He came to love heal and forgive;",
+        "He lived and died to buy my pardon,",
+        "An empty grave is there to prove my Savior lives."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "How sweet to hold our newborn baby,",
+        "And feel the pride and joy he gives;",
+        "But greater still, the calm assurance,",
+        "This child can face uncertain days because He lives."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "And then one day I'll cross that river,",
+        "I'll fight life's final war with pain;",
+        "And then as death gives way to vict'ry,",
+        "I'll see the lights of glory and I'll know he reigns."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Because He lives I can face tomorrow,",
+        "Because He lives all fear is gone;",
+        "Because I know He holds the future,",
+        "And life is worth the living, just because He lives.",
+        "Copyright 1971 by William J. Gaither (ASCAP). All Rights Reserved. International copyright secured. Used by permission of Gaither Music company."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-610_full.mid",
+    "soprano": "/audio/midi/hymn-610_soprano.mid",
+    "alto": "/audio/midi/hymn-610_alto.mid",
+    "tenor": "/audio/midi/hymn-610_tenor.mid",
+    "bass": "/audio/midi/hymn-610_bass.mid"
+  }
+}

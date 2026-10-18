@@ -1,0 +1,91 @@
+{
+  "id": "hymn-123",
+  "number": "123",
+  "numberDisplay": "123",
+  "title": "The Ninety and Nine",
+  "firstLine": "There were ninety and nine that safely lay",
+  "pitchInfo": {
+    "raw": "G-2-SOL C-11 E-1",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-11 E-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There were ninety and nine that safely lay",
+        "In the shelter of the fold,",
+        "But one was out on the hills away,",
+        "Far off from the gates of gold;",
+        "Away on the mountains wild and bare,",
+        "Away from the tender Shepherd's care,",
+        "Away from the tender Shepherd's care."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Lord, Thou has here Thy ninety and nine",
+        "Are they not enough for Thee?",
+        "But the shepherd made answer",
+        "This of mine",
+        "Has wandered away from me,",
+        "And altho the road be rough and steep,",
+        "I go to the desert to find my sheep,",
+        "I go to the desert to find my sheep."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "But none of the ransomed ever knew",
+        "How deep were the waters crossed",
+        "Nor how dark was the night that the Lord passed thru",
+        "Ere He found His sheep that was lost.",
+        "Far out in the desert He heard its cry,",
+        "'Twas sick and helpless and ready to die.",
+        "'Twas sick and helpless and ready to die."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Lord, whence are those blood drops all the way",
+        "That marks out the mountain's track?",
+        "They were shed for one who had gone astray",
+        "Ere the Shepherd could bring him back,",
+        "Lord, whence are Thy hands so rent and torn?",
+        "They're pierced tonight by many a thorn,",
+        "They're pierced tonight by many a thorn."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "But all thru the mountains, thunder-riv'n",
+        "And up from the rocky steep,",
+        "There arose a glad cry to the gate of heav'n,",
+        "Rejoice, I have found my sheep,",
+        "And the angels echoed around the throne,",
+        "Rejoice for the Lord brings back His own,",
+        "Rejoice for the Lord brings back His own."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-123_full.mid",
+    "soprano": "/audio/midi/hymn-123_soprano.mid",
+    "alto": "/audio/midi/hymn-123_alto.mid",
+    "tenor": "/audio/midi/hymn-123_tenor.mid",
+    "bass": "/audio/midi/hymn-123_bass.mid"
+  }
+}

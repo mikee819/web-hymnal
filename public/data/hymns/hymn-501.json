@@ -1,0 +1,39 @@
+{
+  "id": "hymn-501",
+  "number": "501",
+  "numberDisplay": "501",
+  "title": "Psalm 51:1-4,9-15 501a /",
+  "firstLine": "God be merciful to me; on Thy grace I rest my plea; in Thy vast abounding grace, my transgressions all erase. Wash me wholly from my sin; cleanse from every ill within.",
+  "pitchInfo": {
+    "raw": "Bb-3-SOL C-9",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 3,
+    "solfege": "SOL",
+    "inheritedFrom": "368"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Rock of Ages",
+    "number": "368"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "God be merciful to me; on Thy grace I rest my plea; in Thy vast abounding grace, my transgressions all erase. Wash me wholly from my sin; cleanse from every ill within.",
+        "For my sins before me rise, ever-present to my eyes. I have sinned 'gainst Thee alone, in Thy sight this evil done; that Thy judgment may be clear, and Thy sentence just appear.",
+        "From my sins hide Thou Thy face; my iniquities erase. O my god, renew my heart, and a spirit right impart. Cast me not away from Thee, nor Thy Spirit take from me.",
+        "Give salvation's joy again, and a willing mind sustain. Then Thy perfect ways I'll show, that transgressors them may know; Open Thou my lips O Lord, then my mouth shall praise accord."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-501_full.mid",
+    "soprano": "/audio/midi/hymn-501_soprano.mid",
+    "alto": "/audio/midi/hymn-501_alto.mid",
+    "tenor": "/audio/midi/hymn-501_tenor.mid",
+    "bass": "/audio/midi/hymn-501_bass.mid"
+  }
+}

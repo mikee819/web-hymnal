@@ -1,0 +1,71 @@
+{
+  "id": "hymn-672",
+  "number": "672",
+  "numberDisplay": "672",
+  "title": "Above All, Love * /",
+  "firstLine": "Key; D Starting Note: F#",
+  "pitchInfo": {
+    "raw": "D-4-MI L-2 L-3",
+    "key": "D",
+    "note": "D",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "L-2 L-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Key; D Starting Note: F#"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "If I speak with tonges of men and angels two;",
+        "If I have the gifts of prophecy and faith;",
+        "If I give all I possess",
+        "And give my body as a sacrifice;",
+        "If I have no love I'm nothing after all."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Love is patient, love is kind and envies not;",
+        "Never boastful, never rude or filled with pride.",
+        "Love is never seeking self",
+        "And is not easily provoked to wrath.",
+        "Love hates evil but rejoices with the truth."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Love protects,and trusts and always perseveres,",
+        "Never failing, love will never pass away",
+        "In the path of love the Savior walked",
+        "And humbly gave Himself to die.",
+        "And the path of love leads straight to Calvary."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Help us, Lord, to love You with our heart and soul.",
+        "Teach us, Lord, to love our neighbors as ourselves.",
+        "Make us understand",
+        "That loving one another is the only way.",
+        "May our hearts be moved to imitate your love.",
+        "Copyright 1994 by Don Alexander. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {}
+}

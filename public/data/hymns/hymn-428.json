@@ -1,0 +1,61 @@
+{
+  "id": "hymn-428",
+  "number": "428",
+  "numberDisplay": "428",
+  "title": "O Happy day",
+  "firstLine": "O, happy day that fixed my choice,",
+  "pitchInfo": {
+    "raw": "G-3-SOL J-1",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "J-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O, happy day that fixed my choice,",
+        "On Thee, my Savior and my God!",
+        "Well may this glowing heart rejoice,",
+        "And tell its raptures all abroad."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "'Tis done this great transaction's done,",
+        "I am the Lord's and He is mine;",
+        "He drew me, and I followed on,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "armed to confess the Lord divine."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Happy day, happy day,",
+        "When Jesus washed my sins away,",
+        "He taught me how to watch and pray,",
+        "And live rejoicing ev'ry day.",
+        "Happy day, happy day,",
+        "When Jesus washed my sins away."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-428_full.mid",
+    "soprano": "/audio/midi/hymn-428_soprano.mid",
+    "alto": "/audio/midi/hymn-428_alto.mid",
+    "tenor": "/audio/midi/hymn-428_tenor.mid",
+    "bass": "/audio/midi/hymn-428_bass.mid"
+  }
+}

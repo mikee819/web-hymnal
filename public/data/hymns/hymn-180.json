@@ -1,0 +1,68 @@
+{
+  "id": "hymn-180",
+  "number": "180",
+  "numberDisplay": "180",
+  "title": "Wonderful Story Of Love",
+  "firstLine": "Wonderful story of love, Tell it to me again,",
+  "pitchInfo": {
+    "raw": "C-2-DO L-4 W-3",
+    "key": "C",
+    "note": "C",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "L-4 W-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Wonderful story of love, Tell it to me again,",
+        "Wonderful story of love, Wake the immortal strain;",
+        "Angels with rapture announce it,",
+        "Shepherds with wonder receive it;",
+        "Sinner, O won't you believe it?",
+        "Wonderful story of love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Wonderful story of love, Tho' you are far away,",
+        "Wonderful story of love, Still He doth call today,",
+        "Calling from Calvary's mountain,",
+        "Down from the crystal bright fountain,",
+        "E'en from the dawn of creation,",
+        "Wonderful story of love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Wonderful story of love, Jesus provides a rest,",
+        "Wonderful story of love, For all the pure and blest;",
+        "Rest in those mansions above us,",
+        "With those who've gone on before us,",
+        "Singing the rapturous chorus,",
+        "Wonderful story of love."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wonderful, Wonderful, Wonderful,",
+        "Wonderful story of love."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-180_full.mid",
+    "soprano": "/audio/midi/hymn-180_soprano.mid",
+    "alto": "/audio/midi/hymn-180_alto.mid",
+    "tenor": "/audio/midi/hymn-180_tenor.mid",
+    "bass": "/audio/midi/hymn-180_bass.mid"
+  }
+}

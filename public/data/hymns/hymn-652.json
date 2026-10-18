@@ -1,0 +1,62 @@
+{
+  "id": "hymn-652",
+  "number": "652",
+  "numberDisplay": "652",
+  "title": "There Is A Green Hill * /",
+  "firstLine": "Scripture; Hebrews 13:12",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Hebrews 13:12",
+        "Eminor-2-LA C-3 C-17"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There is a greenhill far away",
+        "Without a city wall,",
+        "Where our dear lord was crucified,",
+        "Who died to save us all."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "We may not know, we cannot tell",
+        "What pains He had to bear;",
+        "but we believe it was for us",
+        "he hung and suffered there."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "He died that we might be forgiv'n,",
+        "He died to make us good,",
+        "That we might go at last to heav'n,",
+        "Saved by His preciouws blood."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "O, dearly, dearly has He loved,",
+        "And we must love Him, too.",
+        "And trust in His redeeming blood,",
+        "And try His works to do.",
+        "Arr. copyright 1995 by Dane K. Shepard. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {}
+}

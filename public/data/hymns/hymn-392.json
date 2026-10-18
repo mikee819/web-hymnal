@@ -1,0 +1,64 @@
+{
+  "id": "hymn-392",
+  "number": "392",
+  "numberDisplay": "392",
+  "title": "Count Your Blessings",
+  "firstLine": "When upon life's billows you are tempest tossed,",
+  "pitchInfo": {
+    "raw": "Eb-2-MI P-5 T-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "P-5 T-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When upon life's billows you are tempest tossed,",
+        "When you are discouraged, thinking all is lost,",
+        "Count your many blessings, name them one by one,",
+        "And it will surprise you what the Lord hath done."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Are you ever burdened with a load of care?",
+        "Does the cross seem heavy you are called to bear?",
+        "Count your many blessings, ev'ry doubt will fly,",
+        "And you will be singing as the days go by."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "So, amid the conflict, whether great or small,",
+        "Do not be discouraged, God is over all;",
+        "Count your many blessings, angels will attend,",
+        "Help and comfort give you to your journey's end."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Count your blessings, name the one by one;",
+        "Count your blessings, See what God hath done;",
+        "Count your blessings, name the one by one;",
+        "Count your many blessings, See what God hath done."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-392_full.mid",
+    "soprano": "/audio/midi/hymn-392_soprano.mid",
+    "alto": "/audio/midi/hymn-392_alto.mid",
+    "tenor": "/audio/midi/hymn-392_tenor.mid",
+    "bass": "/audio/midi/hymn-392_bass.mid"
+  }
+}

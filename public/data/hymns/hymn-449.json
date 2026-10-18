@@ -1,0 +1,80 @@
+{
+  "id": "hymn-449",
+  "number": "449",
+  "numberDisplay": "449",
+  "title": "Now I Believe In Jesus",
+  "firstLine": "Jesus came down from heaven,",
+  "pitchInfo": {
+    "raw": "Eb-2-MI F-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "F-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus came down from heaven,",
+        "Doing His Father's will;",
+        "He gave His life a ransom",
+        "There upon calv'ry's Hill."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Jesus arose triumphant",
+        "Over the grave for me;",
+        "He took away the death sting,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist won the victory."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Jesus went back to heaven",
+        "To intercede above;",
+        "Oh what a great Redeemer,",
+        "Sharing with me His love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Jesus will come from heaven",
+        "And ev'ry eye shall see;",
+        "Saved ones He'll bless forever,",
+        "In heav'n eternally."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Now I believe in Jesus,",
+        "E'en tho' I did not see",
+        "His nail-scarred hands, His wounded side;",
+        "Jesus is dear to me.",
+        "Copyright 1986 Shepard-Stevens Music, Inc. in \"Hymns For Worship\", R. J. Stevens, owner. All rights reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-449_full.mid",
+    "soprano": "/audio/midi/hymn-449_soprano.mid",
+    "alto": "/audio/midi/hymn-449_alto.mid",
+    "tenor": "/audio/midi/hymn-449_tenor.mid",
+    "bass": "/audio/midi/hymn-449_bass.mid"
+  }
+}

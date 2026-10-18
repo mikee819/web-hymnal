@@ -1,0 +1,69 @@
+{
+  "id": "hymn-688",
+  "number": "688",
+  "numberDisplay": "688",
+  "title": "Paradise Valley 604 /",
+  "firstLine": "As I travel thru life, with its trouble and strife,",
+  "pitchInfo": {
+    "raw": "Db-2-MI H-2",
+    "key": "Db",
+    "note": "Db",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "As I travel thru life, with its trouble and strife,",
+        "I've a glorious hope to give cheer on the way;",
+        "Soon my toil will be o'er and I'll rest on that shore",
+        "Where the night has been turned into day."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "As I roam the hillside, or I list to the tide,",
+        "As I pluck the sweet flowers that grow in the dale;",
+        "A faint picture is there of a land bight and fair",
+        "Where perennial flowers ne'er fail."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Tho' your garden rare, it is naught to compare",
+        "With the flowers that bloom in the garden above,",
+        "In the midst of it grows Sharon's perfect sweet rose",
+        "'Tis the wonderful Flower we love."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Up in paradise valley",
+        "By the side of the river of life,",
+        "Up in paradise valley,",
+        "We'll be free from all pain and all strife;",
+        "There we'll live in the garden,",
+        "'Neath the shade of the evergreen tree,",
+        "How I long for the paradise valley,",
+        "Where the beauty of heaven I'll see.",
+        "Copyright, 1935, Renewal - STAMPS-BAXTER MUSIC, owners."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-688_full.mid",
+    "soprano": "/audio/midi/hymn-688_soprano.mid",
+    "alto": "/audio/midi/hymn-688_alto.mid",
+    "tenor": "/audio/midi/hymn-688_tenor.mid",
+    "bass": "/audio/midi/hymn-688_bass.mid"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "hymn-535a",
+  "number": "535a",
+  "numberDisplay": "535a",
+  "title": "We Are Living, We Are Dwelling",
+  "firstLine": "We are living, we are dwelling in a grand and awful time, in an age on ages telling; to be living is sublime. Hark! the waking up of nations, Hosts advancing to the fray; Hark! what soundeth is creation's groaning for the latter day.",
+  "pitchInfo": {
+    "raw": "F-4-DO K-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO",
+    "inheritedFrom": "143"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Glorious Things Of Thee Are Spoken",
+    "number": "143"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "We are living, we are dwelling in a grand and awful time, in an age on ages telling; to be living is sublime. Hark! the waking up of nations, Hosts advancing to the fray; Hark! what soundeth is creation's groaning for the latter day.",
+        "Will ye play, Then? will ye dally far behind the battle line? Up! it is Jehovah's rally; God's own arm hath need of thine. Worlds are charging, heav'n beholding; Thou hast bet an hour to fight; Now, the blazoned cross unfolding, on, right onward for the right!",
+        "Sworn to yield, to waver, never; consecrated, born again; sworn to be Christ's soldiers ever, on! for Christ at least by men! On! let all the soul within you for the Truth's sake go abroad! Strike! let every nerve and sinew tell on ages, tell for God. A-MEN"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-535a_full.mid",
+    "soprano": "/audio/midi/hymn-535a_soprano.mid",
+    "alto": "/audio/midi/hymn-535a_alto.mid",
+    "tenor": "/audio/midi/hymn-535a_tenor.mid",
+    "bass": "/audio/midi/hymn-535a_bass.mid"
+  }
+}

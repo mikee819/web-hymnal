@@ -1,0 +1,55 @@
+{
+  "id": "hymn-694",
+  "number": "694",
+  "numberDisplay": "694",
+  "title": "Savior, Teach Me 610 /",
+  "firstLine": "Savior, teach me day by day,",
+  "pitchInfo": {
+    "raw": "F-2-MI D-1 L-3",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1 L-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Savior, teach me day by day,",
+        "Love's sweet lesson to obey;",
+        "Sweeter lesson cannot be,",
+        "Loving Him who first loved me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "With a childlike heart of love,",
+        "At thy bidding may I move;",
+        "Prompt to serve and follow thee,",
+        "Loving Him who first loved me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Teach me all Thy steps to trace,",
+        "Strong to follow in Thy grace,",
+        "Learning how to love from Thee",
+        "Loving Him who first loved me."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-694_full.mid",
+    "soprano": "/audio/midi/hymn-694_soprano.mid",
+    "alto": "/audio/midi/hymn-694_alto.mid",
+    "tenor": "/audio/midi/hymn-694_tenor.mid",
+    "bass": "/audio/midi/hymn-694_bass.mid"
+  }
+}

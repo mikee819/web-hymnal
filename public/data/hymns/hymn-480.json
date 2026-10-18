@@ -1,0 +1,77 @@
+{
+  "id": "hymn-480",
+  "number": "480",
+  "numberDisplay": "480",
+  "title": "Dare To Stand Like Joshua",
+  "firstLine": "Key; Bb Starting Note: Bb",
+  "pitchInfo": {
+    "raw": "Bb-4-DO W-4",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "W-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Key; Bb Starting Note: Bb"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "We are bound for Canaan land,",
+        "Tenting by the way.",
+        "Who shall lead us on the road?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "oose your King today."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When the dark Red Sea of doubt",
+        "Billowed in our way,",
+        "Then He parted ev'ry wave -",
+        "So He will today."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Just before us Jordan rolls,",
+        "Just across the way.",
+        "We can safely trust the Lord;",
+        "He shall lead today."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dare to stand like Joshua;",
+        "Dare to say the word.",
+        "As for me and for my house,",
+        "We will serve the Lord.",
+        "Copyright 1986 by Dane K. Shepard in \"Hymns For Worship\". All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-480_full.mid",
+    "soprano": "/audio/midi/hymn-480_soprano.mid",
+    "alto": "/audio/midi/hymn-480_alto.mid",
+    "tenor": "/audio/midi/hymn-480_tenor.mid",
+    "bass": "/audio/midi/hymn-480_bass.mid"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hymn-344",
+  "number": "344",
+  "numberDisplay": "344",
+  "title": "Who At My Door Is Standing",
+  "firstLine": "Who at my door is standing,",
+  "pitchInfo": {
+    "raw": "F-4-MI I-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Who at my door is standing,",
+        "Patiently drawing near,",
+        "Entrance within demanding?",
+        "Whose is the voice I hear?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Lonely without He's staying,",
+        "Lonely within am I;",
+        "While I am still delaying,",
+        "I am condemned to die!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Door of my heart I hasten!",
+        "Thee will I open wide;",
+        "Tho' He rebuke and chasten,",
+        "He shall with me abide."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sweetly the tones are falling;",
+        "Open the door for Me!",
+        "If thou wilt heed My calling,",
+        "I will abide with thee."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-344_full.mid",
+    "soprano": "/audio/midi/hymn-344_soprano.mid",
+    "alto": "/audio/midi/hymn-344_alto.mid",
+    "tenor": "/audio/midi/hymn-344_tenor.mid",
+    "bass": "/audio/midi/hymn-344_bass.mid"
+  }
+}

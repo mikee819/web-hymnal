@@ -1,0 +1,59 @@
+{
+  "id": "hymn-104",
+  "number": "104",
+  "numberDisplay": "104",
+  "title": "Take My Hand, Precious Lord",
+  "firstLine": "When my way groweth drear,",
+  "pitchInfo": {
+    "raw": "Ab-3-MI D-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When my way groweth drear,",
+        "Precious Lord linger near,",
+        "When my life is almost gone;",
+        "Hear my cry, hear my call, hold my hand lest I fall;",
+        "Take my hand, precious Lord, lead me home."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When the shadows appear,",
+        "And the night draweth near,",
+        "And the day is past and gone;",
+        "At the river I stand, guide my feet, hold my hand;",
+        "Take my hand, precious Lord, lead me home."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Precious Lord, take my hand,",
+        "Lead me on, let me stand,",
+        "I am tired, I am weak, I am worn;",
+        "Thru the storm, thru the night, lead me on, to the light;",
+        "Take my hand, precious Lord, lead me home.",
+        "Copyright, 1939, by Hill & Range Songs, Inc. Copyright renewal, all rights controlled by Unichappell Music, Inc. (Rightsong Music, Publisher). International Copyright Secured. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-104_full.mid",
+    "soprano": "/audio/midi/hymn-104_soprano.mid",
+    "alto": "/audio/midi/hymn-104_alto.mid",
+    "tenor": "/audio/midi/hymn-104_tenor.mid",
+    "bass": "/audio/midi/hymn-104_bass.mid"
+  }
+}

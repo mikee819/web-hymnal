@@ -1,0 +1,74 @@
+{
+  "id": "hymn-57",
+  "number": "57",
+  "numberDisplay": "57",
+  "title": "All People That On Earth Do Dwell",
+  "firstLine": "All people that on earth do dwell,",
+  "pitchInfo": {
+    "raw": "G-2-DO P-2 T-2",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-2 T-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "All people that on earth do dwell,",
+        "Sing to the Lord with cheerful voice,",
+        "Him serve with mirth, His praise forth tell,",
+        "Come ye before Him and rejoice."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Know that the Lord is God indeed;",
+        "Without our aid He did us make;",
+        "We are His flock, He doth us feed,",
+        "And for His sheep He doth us take."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O enter then His gates with joy,",
+        "Within His courts His praises proclaim;",
+        "Let thankful songs your tongues employ,",
+        "O bless and magnify His name."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Because the Lord our God is good,",
+        "His mercy is forever sure;",
+        "His truth at all times firmly stood,",
+        "And shall from age to age endure."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Praise God from whom all blessings flow;",
+        "Praise Him all creatures here below;",
+        "Praise Him above ye heavenly hosts;",
+        "Praise Father, Son, and Holy Ghost."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-57_full.mid",
+    "soprano": "/audio/midi/hymn-57_soprano.mid",
+    "alto": "/audio/midi/hymn-57_alto.mid",
+    "tenor": "/audio/midi/hymn-57_tenor.mid",
+    "bass": "/audio/midi/hymn-57_bass.mid"
+  }
+}

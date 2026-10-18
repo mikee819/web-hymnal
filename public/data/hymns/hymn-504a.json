@@ -1,0 +1,39 @@
+{
+  "id": "hymn-504a",
+  "number": "504a",
+  "numberDisplay": "504a",
+  "title": "Adoration And Praise",
+  "firstLine": "Come, sound His praise abroad, and hymns of glory sing; Jehovah is the sovereign God, the universal King.",
+  "pitchInfo": {
+    "raw": "C-3-SOL C-16 L-6",
+    "key": "C",
+    "note": "C",
+    "beat": 3,
+    "solfege": "SOL",
+    "inheritedFrom": "201"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "A Charge To Keep I Have",
+    "number": "201"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Come, sound His praise abroad, and hymns of glory sing; Jehovah is the sovereign God, the universal King.",
+        "He formed the deeps unknown; He gave the seas their bound; The watery worlds are all His own, and all the solid ground.",
+        "Come, worship at His throne, Come bow before the Lord; We are His works, and not our own; He formed us by His word.",
+        "To-day attend His voice, nor dare provoke His rod; Come, like the people of His choice, and own your gracious God."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-504a_full.mid",
+    "soprano": "/audio/midi/hymn-504a_soprano.mid",
+    "alto": "/audio/midi/hymn-504a_alto.mid",
+    "tenor": "/audio/midi/hymn-504a_tenor.mid",
+    "bass": "/audio/midi/hymn-504a_bass.mid"
+  }
+}

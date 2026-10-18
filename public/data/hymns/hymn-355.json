@@ -1,0 +1,56 @@
+{
+  "id": "hymn-355",
+  "number": "355",
+  "numberDisplay": "355",
+  "title": "Break Thou The Bread Of Life",
+  "firstLine": "Eb-2-MI??S-3 W-3",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Eb-2-MI??S-3 W-3"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "?Break Thou the bread of life, Dear Lord, to me,",
+        "?As thou didst break the loaves Beside the sea;",
+        "?Within the sacred page, I seek thee, Lord",
+        "?My spirit pants for Thee, O living Word."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "?Bless Thou the truth, dear Lord, To me, to me,",
+        "?As Thou didst bless the bread By Galilee;",
+        "?Then shall all bondage cease, All fetters fall;",
+        "?And I shall find my peace, My All in All."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "?Thou art the bread of life, O Lord, to me,",
+        "?Thy holy Word the truth That saveth me;",
+        "?Give me to eat and live With Thee above;",
+        "?Teach me to love Thy truth, For Thou art love."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-355_full.mid",
+    "soprano": "/audio/midi/hymn-355_soprano.mid",
+    "alto": "/audio/midi/hymn-355_alto.mid",
+    "tenor": "/audio/midi/hymn-355_tenor.mid",
+    "bass": "/audio/midi/hymn-355_bass.mid"
+  }
+}

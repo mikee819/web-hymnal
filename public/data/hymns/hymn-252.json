@@ -1,0 +1,65 @@
+{
+  "id": "hymn-252",
+  "number": "252",
+  "numberDisplay": "252",
+  "title": "The Home Up There",
+  "firstLine": "This is not our rest, this is not our home,",
+  "pitchInfo": {
+    "raw": "G-4-SOL H-2",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "This is not our rest, this is not our home,",
+        "We are trav'lers bound for a world to come;",
+        "Comes full soon the end of life's little day,",
+        "And our place found empty, for we fly away."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "To the home up there oft we turn our eyes,",
+        "When some joy departs,",
+        "When a dear one dies; Then we vision here of a city fair,",
+        "Where will end the partings in the home up there."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Precious home up there which the Lord prepares",
+        "For the ones whose names in His book appears!",
+        "How our fond hearts yearn for the Lord's return,",
+        "When we'll meet together in the home up there."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O! it won't be long till we reach our home,",
+        "Where no death invades, where no trouble comes;",
+        "Where we'll sigh no more 'Neath the loads we bear,",
+        "Be with Christ forever in the home up there.",
+        "Copyright 1935. Leon B. Sanderson, Owner. All rights reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-252_full.mid",
+    "soprano": "/audio/midi/hymn-252_soprano.mid",
+    "alto": "/audio/midi/hymn-252_alto.mid",
+    "tenor": "/audio/midi/hymn-252_tenor.mid",
+    "bass": "/audio/midi/hymn-252_bass.mid"
+  }
+}

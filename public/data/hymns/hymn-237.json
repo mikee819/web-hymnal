@@ -1,0 +1,64 @@
+{
+  "id": "hymn-237",
+  "number": "237",
+  "numberDisplay": "237",
+  "title": "Let The Lower Lights Be Burning",
+  "firstLine": "Brightly beams our Father's mercy",
+  "pitchInfo": {
+    "raw": "Bb-3-SOL S-5",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "S-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Brightly beams our Father's mercy",
+        "From the lighthouse ever more;",
+        "But to us He gives the keeping",
+        "Of the lights along the shore."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Dark the night of sin has settled,",
+        "Loud the angry billows roar;",
+        "Eager eyes are watching, longing,",
+        "For the lights along the shore."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Trim your feeble lamp, my brother;",
+        "Some poor seaman tempest tossed;",
+        "Trying now to make the harbor,",
+        "In the darkness may be lost."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Let the lower lights be burning!",
+        "Send a gleam across the wave!",
+        "Some poor fainting, struggling seaman",
+        ", You may rescue, you may save."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-237_full.mid",
+    "soprano": "/audio/midi/hymn-237_soprano.mid",
+    "alto": "/audio/midi/hymn-237_alto.mid",
+    "tenor": "/audio/midi/hymn-237_tenor.mid",
+    "bass": "/audio/midi/hymn-237_bass.mid"
+  }
+}

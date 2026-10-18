@@ -1,0 +1,64 @@
+{
+  "id": "hymn-518",
+  "number": "518",
+  "numberDisplay": "518",
+  "title": "Stepping In The Light 506 /",
+  "firstLine": "Trying to walk in the steps of the Savior,",
+  "pitchInfo": {
+    "raw": "Db-4-SOL C-12 F-3",
+    "key": "Db",
+    "note": "Db",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-12 F-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Trying to walk in the steps of the Savior,",
+        "Trying to follow our Savior and King;",
+        "Shaping our lives by His blessed example,",
+        "Happy, how happy, the songs that we bring."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Pressing more closely to Him who is leading",
+        "When we are tempted to turn from the way;",
+        "Trusting the am that is strong to defend us,",
+        "Happy, how happy, our praises each day."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Trying to walk in the steps of the Savior,",
+        "Upward, still upward we’ll follow our Guide;",
+        "When we shall see Him, \"the King in His beauty,\"",
+        "Happy, how happy, our place at His side!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "How beautiful to walk in the steps of the Savior,",
+        "Stepping in the light, stepping in the light,",
+        "How beautiful to walk in the steps of the Savior,",
+        "Led in paths of light"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-518_full.mid",
+    "soprano": "/audio/midi/hymn-518_soprano.mid",
+    "alto": "/audio/midi/hymn-518_alto.mid",
+    "tenor": "/audio/midi/hymn-518_tenor.mid",
+    "bass": "/audio/midi/hymn-518_bass.mid"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "hymn-38",
+  "number": "38",
+  "numberDisplay": "38",
+  "title": "King Most High",
+  "firstLine": "From the earth from the sky",
+  "pitchInfo": {
+    "raw": "F-4-DO C-6 P-2",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-6 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "From the earth from the sky",
+        "Breaks forth the joyful cry,",
+        "\"Our Lord is King most high!\"",
+        "Crucified, ...He revived,",
+        "That's why he's King most high."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Humble birth held no worth",
+        "Till angel voice sang forth,",
+        "\"A King is born this day!\"",
+        "Then the earth was aware",
+        "Its hope had come to stay."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Words He gave me to say,",
+        "By works He led the way -",
+        "This Lord and King to be.",
+        "Then alone, blood atoned,",
+        "His life he gave for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Darkest power He overcame,",
+        "Life for me He regained;",
+        "A prophet never to die;",
+        "Priest forever on His throne:",
+        "Lord, God my King most high."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "My Lord is great and good,",
+        "And He will hear my cry;",
+        "He'll ever live and ever reign,",
+        "My Lord and King most high.",
+        "Copyright 1986 Shepard-Stevens Music, Inc. In \"Hymns For Worship\". James Cope & R.J. Stevens, owners. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-38_full.mid",
+    "soprano": "/audio/midi/hymn-38_soprano.mid",
+    "alto": "/audio/midi/hymn-38_alto.mid",
+    "tenor": "/audio/midi/hymn-38_tenor.mid",
+    "bass": "/audio/midi/hymn-38_bass.mid"
+  }
+}

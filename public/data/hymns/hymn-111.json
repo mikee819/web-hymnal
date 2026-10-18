@@ -1,0 +1,65 @@
+{
+  "id": "hymn-111",
+  "number": "111",
+  "numberDisplay": "111",
+  "title": "Clay In The Potter's Hand",
+  "firstLine": "O Lord, you know my strength indeed is small,",
+  "pitchInfo": {
+    "raw": "Eb-2-MI D-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O Lord, you know my strength indeed is small,",
+        "Lest Thou should lead, I'm prone to slip and fall;",
+        "Guide and direct, over evil help me stand,",
+        "Make me as clay in the potter's hand."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Thou art the Potter, I am the clay,",
+        "Make of my life as pleases Thee each day;",
+        "Weave into beauty as you have it planned,",
+        "Make me as clay in the potter's hand."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Father, we pray for power to be strong,",
+        "Let not our lives be marred by sin, and wrong;",
+        "Lead to Thy throne, by love take full command,",
+        "Make us as clay in the potter's hand."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mold me, make me, as you'd have me be,",
+        "Take me, use me, that the lost may see;",
+        "Guard me, guide me, thru this pilgrim land,",
+        "Make me as clay, in the potter's hand.",
+        "Copyright 1970 by Stamps-Baxter Music."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-111_full.mid",
+    "soprano": "/audio/midi/hymn-111_soprano.mid",
+    "alto": "/audio/midi/hymn-111_alto.mid",
+    "tenor": "/audio/midi/hymn-111_tenor.mid",
+    "bass": "/audio/midi/hymn-111_bass.mid"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "hymn-590",
+  "number": "590",
+  "numberDisplay": "590",
+  "title": "He Will Pilot Me 542 /",
+  "firstLine": "Key; Ab Starting Note: Eb",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL G-3",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "G-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Key; Ab Starting Note: Eb"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Altho' I cannot see the way,",
+        "O'er life's tempestuous sea, (dark sea),",
+        "I know that Jesus is my Friend,",
+        "And that He'll pilot me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Dark clouds may gather in the sky,",
+        "And rough the sea may be,",
+        "His love shall ever be my song,",
+        "I know He'll pilot me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Dear Lord, whate'er the storm may be,",
+        "I'll simply trust in Thee,",
+        "Relying on Thy love so true,",
+        "To safely pilot me."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He'll pilot me from day to day,",
+        "When blinded eyes can't see the way;",
+        "Let come what may on life's dark sea,",
+        "My blessed Lord will pilot me.",
+        "Copyright 1955. Renewal 1983 by Lillenas Publishing Company. All Rights Reserved. Used by permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-590_full.mid",
+    "soprano": "/audio/midi/hymn-590_soprano.mid",
+    "alto": "/audio/midi/hymn-590_alto.mid",
+    "tenor": "/audio/midi/hymn-590_tenor.mid",
+    "bass": "/audio/midi/hymn-590_bass.mid"
+  }
+}

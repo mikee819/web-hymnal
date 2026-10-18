@@ -1,0 +1,65 @@
+{
+  "id": "hymn-92",
+  "number": "92",
+  "numberDisplay": "92",
+  "title": "Others",
+  "firstLine": "Lord, help me live from day to day",
+  "pitchInfo": {
+    "raw": "Eb-3-SOL W-4",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "W-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Lord, help me live from day to day",
+        "In such a self forgetful way",
+        "That even when I kneel to pray",
+        "My prayer shall be for Others."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Help me in all the work I do",
+        "To ever be sincere and true,",
+        "And know that all I'd do for you",
+        "Must needs be done for Others."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Let \"Self\" be crucified and slain",
+        "And buried deep: and all in vain",
+        "May efforts be to rise again,",
+        "Unless to live for Others."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Others, Lord, yes, others,",
+        "Let this my motto be,",
+        "Help me to live for others,",
+        "That I may live like Thee.",
+        "Words copyright by C. D. Meigs, Music Copyright 1917, by Presbyterian Committee of Publication. John Knox Press. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-92_full.mid",
+    "soprano": "/audio/midi/hymn-92_soprano.mid",
+    "alto": "/audio/midi/hymn-92_alto.mid",
+    "tenor": "/audio/midi/hymn-92_tenor.mid",
+    "bass": "/audio/midi/hymn-92_bass.mid"
+  }
+}

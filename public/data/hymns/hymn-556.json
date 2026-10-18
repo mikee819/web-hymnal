@@ -1,0 +1,64 @@
+{
+  "id": "hymn-556",
+  "number": "556",
+  "numberDisplay": "556",
+  "title": "O I Want To See Him 525 /",
+  "firstLine": "As I journey thru the land singing as I go,",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL G-3",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "G-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "As I journey thru the land singing as I go,",
+        "Pointing souls to Calvary, to the crimson flow;",
+        "Many arrows pierce my soul from without, within,",
+        "But my Lord leads me on, thru Him I must win."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When in service for my Lord dark may be the night,",
+        "But I'll cling more close to Him, He will give me light;",
+        "Satan's snares may vex the soul, turn my tho'ts aside,",
+        "But my Lord goes ahead, leads whate'er betide."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When in valleys low I look t'ward the mountain height,",
+        "And behold my Savior there, leading in the fight;",
+        "With a tender hand outstretch'd t'ward the valleys low,",
+        "Guiding me, I can see, as I onward go."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O I want to see Him, look upon His face,",
+        "There to sing forever of his saving grace;",
+        "On the streets of glory let me lift my voice,",
+        "Cares all past, home at last, ever to rejoice."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-556_full.mid",
+    "soprano": "/audio/midi/hymn-556_soprano.mid",
+    "alto": "/audio/midi/hymn-556_alto.mid",
+    "tenor": "/audio/midi/hymn-556_tenor.mid",
+    "bass": "/audio/midi/hymn-556_bass.mid"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hymn-421",
+  "number": "421",
+  "numberDisplay": "421",
+  "title": "Sweeter Than All",
+  "firstLine": "Christ will me His aid afford,",
+  "pitchInfo": {
+    "raw": "E-2-DO A-1",
+    "key": "E",
+    "note": "E",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "A-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Christ will me His aid afford,",
+        "When e'er I call, when e'er I call;",
+        "While I find my precious Lord,",
+        "Sweeter than all, sweeter than all."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I can follow all the way,",
+        "Hearing Him call, hearing Him call;",
+        "Finding Him from day to day,",
+        "Sweeter than all, sweeter than all."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When I reach the crystal sea,",
+        "Voices will call, voices will call;",
+        "But my Savior's voice will be;",
+        "Sweeter than all, sweeter than all."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus is now and ever will be,",
+        "Sweeter than all the world to me,",
+        "Since I heard His loving call,",
+        "Sweeter than all, sweeter than all."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-421_full.mid",
+    "soprano": "/audio/midi/hymn-421_soprano.mid",
+    "alto": "/audio/midi/hymn-421_alto.mid",
+    "tenor": "/audio/midi/hymn-421_tenor.mid",
+    "bass": "/audio/midi/hymn-421_bass.mid"
+  }
+}

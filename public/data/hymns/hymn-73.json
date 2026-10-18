@@ -1,0 +1,67 @@
+{
+  "id": "hymn-73",
+  "number": "73",
+  "numberDisplay": "73",
+  "title": "Sweet Hour Of Prayer",
+  "firstLine": "Sweet hour of prayer! Sweet hour of prayer!",
+  "pitchInfo": {
+    "raw": "D-2-DO P-3",
+    "key": "D",
+    "note": "D",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Sweet hour of prayer! Sweet hour of prayer!",
+        "That calls me from a world of care,",
+        "And bids me at my Father's throne",
+        "Make all my wants and wishes known.",
+        "In seasons of distress and grief,",
+        "My soul has often found relief,",
+        "And oft escaped the tempter's snare",
+        "By thy return, sweet hour of prayer."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Sweet hour of prayer! Sweet hour of prayer!",
+        "The joy I feel, the bliss I share,",
+        "Of those whose anxious spirits burn",
+        "With strong desires for thy return.",
+        "With such I hasten to the lace",
+        "Where God, my Savior, shows His face,",
+        "And gladly take my station there,",
+        "And wait for thee, sweet hour of prayer."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Sweet hour of prayer! Sweet hour of prayer!",
+        "Thy wings shall my petition bear",
+        "To Him whose truth and faithfulness",
+        "Engage the waiting soul to bless",
+        "And since He bids me seek His face,",
+        "Believe His word and trust His grace,",
+        "I'll cast on Him my every care,",
+        "And wait for thee, sweet hour of prayer."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-73_full.mid",
+    "soprano": "/audio/midi/hymn-73_soprano.mid",
+    "alto": "/audio/midi/hymn-73_alto.mid",
+    "tenor": "/audio/midi/hymn-73_tenor.mid",
+    "bass": "/audio/midi/hymn-73_bass.mid"
+  }
+}

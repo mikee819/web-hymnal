@@ -1,0 +1,65 @@
+{
+  "id": "hymn-545",
+  "number": "545",
+  "numberDisplay": "545",
+  "title": "Rise Up, O Child Of God! * /",
+  "firstLine": "Rise up, O child of God!",
+  "pitchInfo": {
+    "raw": "A-4-SOL W-4 E-1",
+    "key": "A",
+    "note": "A",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "W-4 E-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Rise up, O child of God!",
+        "Have done with lesser things;",
+        "Give hear and soul and mind and strength",
+        "To serve the King of kings."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Rise up, O child of God!",
+        "His kingdom tarries long;",
+        "Bring in the day of brotherhood",
+        "And end the night of wrong."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Rise up, O child of God!",
+        "The church for you doth wait,",
+        "Her strength unequal to her task;",
+        "Rise up, and make her great!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Lift high the cross of Christ!",
+        "Tread where His feet have trod;",
+        "As children of the Son of Man,",
+        "Rise up, O child of God!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-545_full.mid",
+    "soprano": "/audio/midi/hymn-545_soprano.mid",
+    "alto": "/audio/midi/hymn-545_alto.mid",
+    "tenor": "/audio/midi/hymn-545_tenor.mid",
+    "bass": "/audio/midi/hymn-545_bass.mid"
+  }
+}

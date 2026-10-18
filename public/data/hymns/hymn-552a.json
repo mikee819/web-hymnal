@@ -1,0 +1,29 @@
+{
+  "id": "hymn-552a",
+  "number": "552a",
+  "numberDisplay": "552a",
+  "title": "Psalm 148",
+  "firstLine": "Click Here to Play Alternate tune suggested in original edition:",
+  "pitchInfo": null,
+  "thematicRef": null,
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Click Here to Play Alternate tune suggested in original edition:",
+        "Praise the Lord, His glories show, Saints within his courts below, Angels round His throne above, all that see and share His love.",
+        "Earth to heav'n and heav'n to earth, tell His wonders, sing His worth, age to age and shore to shore, praise Him, praise him evermore!",
+        "Praise the Lord, His mercies trace, Praise His providence and grace, all that He for man hath done, all He sends us through His Son."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-552a_full.mid",
+    "soprano": "/audio/midi/hymn-552a_soprano.mid",
+    "alto": "/audio/midi/hymn-552a_alto.mid",
+    "tenor": "/audio/midi/hymn-552a_tenor.mid",
+    "bass": "/audio/midi/hymn-552a_bass.mid"
+  }
+}

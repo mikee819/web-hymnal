@@ -1,0 +1,65 @@
+{
+  "id": "hymn-12",
+  "number": "12",
+  "numberDisplay": "12",
+  "title": "He's My King",
+  "firstLine": "All day long of Jesus I am singing,",
+  "pitchInfo": {
+    "raw": "Ab-4-DO C-6 P-2",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-6 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "All day long of Jesus I am singing,",
+        "He my song of joy will ever be;",
+        "All the while He keeps my heartbells ringing,",
+        "For His love is everything to me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Streams of love around my soul are flowing,",
+        "From His heart, love's ever lasting spring;",
+        "That is why my faith in Him I'm showing,",
+        "That is why an endless song I sing."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "In His light, I'm going home to glory,",
+        "With the souls who trust His saving grace;",
+        "Going home to sing and tell His story,",
+        "In the blessed sunshine of His face."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He's my King, and O I dearly love Him;",
+        "He's my King, no other is above Him;",
+        "All day long enraptured praise I sing,",
+        "He's my Savior, He's my King!",
+        "Copyright, 1936, (Renewal 1963) by James D. Vaughan, Music Publisher in \"Hallelujah Voices\". All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-12_full.mid",
+    "soprano": "/audio/midi/hymn-12_soprano.mid",
+    "alto": "/audio/midi/hymn-12_alto.mid",
+    "tenor": "/audio/midi/hymn-12_tenor.mid",
+    "bass": "/audio/midi/hymn-12_bass.mid"
+  }
+}

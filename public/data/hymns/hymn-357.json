@@ -1,0 +1,64 @@
+{
+  "id": "hymn-357",
+  "number": "357",
+  "numberDisplay": "357",
+  "title": "The Hollow Of God's Hand",
+  "firstLine": "I am safe, what ever may betide me;",
+  "pitchInfo": {
+    "raw": "C-4-DO C-15 P-5",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-15 P-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I am safe, what ever may betide me;",
+        "I am safe whoever may deride me;",
+        "I am safe, as long as I confide me",
+        "In the hollow of God's hand."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "What tho' fierce the storm blast roar around me;",
+        "What tho' sore life's trials oft confound me;",
+        "I am safe, for naught of ill can harm me",
+        "In the hollow of God's hand."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Everlasting arms of love enfold me;",
+        "Words of peace the voice divine has told me;",
+        "I am safe, while God Himself doth hold me",
+        "In the hollow of God's hand."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "In the blessed hollow of His hand,",
+        "In the blessed hollow of His hand;",
+        "I am safe while God Himself doth hold me",
+        "In the hollow of His hand."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-357_full.mid",
+    "soprano": "/audio/midi/hymn-357_soprano.mid",
+    "alto": "/audio/midi/hymn-357_alto.mid",
+    "tenor": "/audio/midi/hymn-357_tenor.mid",
+    "bass": "/audio/midi/hymn-357_bass.mid"
+  }
+}

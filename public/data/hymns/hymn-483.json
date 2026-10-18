@@ -1,0 +1,72 @@
+{
+  "id": "hymn-483",
+  "number": "483",
+  "numberDisplay": "483",
+  "title": "Now I Belong To Jesus",
+  "firstLine": "Key; Ab Starting Note: Ab",
+  "pitchInfo": {
+    "raw": "Ab-4-DO A-1 F-2",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "A-1 F-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Key; Ab Starting Note: Ab"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus my Lord will love me forever,",
+        "From Him no pow'r of evil can sever;",
+        "He gave His life to ransom my soul,",
+        "Now I belong to Him!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Once I was lost in sin's degradation,",
+        "Jesus came down to bring me salvation,",
+        "Lifted me up from sorrow and shame,",
+        "Now I belong to Him!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Joy floods my soul, for Jesus has saved me,",
+        "Freed me from sin that long had enslaved me;",
+        "His precious blood He gave to redeem,",
+        "No I belong to Him!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Now I belong to Jesus,",
+        "Jesus belongs to me,",
+        "Not for the years of time alone,",
+        "But for eternity.",
+        "Copyright 1938 and 1943 by Norman J. Clayton. renewed 1966 by norman Clayton Publishing Company (A Div. of WORD, INC.) All Rights Reserved. International Copyright Secured. Used by permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-483_full.mid",
+    "soprano": "/audio/midi/hymn-483_soprano.mid",
+    "alto": "/audio/midi/hymn-483_alto.mid",
+    "tenor": "/audio/midi/hymn-483_tenor.mid",
+    "bass": "/audio/midi/hymn-483_bass.mid"
+  }
+}

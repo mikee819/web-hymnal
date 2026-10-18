@@ -1,0 +1,54 @@
+{
+  "id": "hymn-151",
+  "number": "151",
+  "numberDisplay": "151",
+  "title": "Christ, We Do All Adore Thee",
+  "firstLine": "",
+  "pitchInfo": {
+    "raw": "C-4-DO P-2",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "chorus",
+      "lines": [
+        "rist, we do all adore Thee,",
+        "and we do praise Thee forever;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist, we do all adore Thee,",
+        "and we do praise Thee forever,",
+        "For on the holy cross hast",
+        "Thou the world from sin redeemed;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist, we do all adore Thee,",
+        "and we do praise Thee forever:"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist we do all adore Thee!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-151_full.mid",
+    "soprano": "/audio/midi/hymn-151_soprano.mid",
+    "alto": "/audio/midi/hymn-151_alto.mid",
+    "tenor": "/audio/midi/hymn-151_tenor.mid",
+    "bass": "/audio/midi/hymn-151_bass.mid"
+  }
+}

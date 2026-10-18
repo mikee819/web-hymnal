@@ -1,0 +1,72 @@
+{
+  "id": "hymn-465",
+  "number": "465",
+  "numberDisplay": "465",
+  "title": "Jesus Knows And Cares",
+  "firstLine": "Composer; Paul H. Epps",
+  "pitchInfo": {
+    "raw": "Db-4-MI C-15 L-4",
+    "key": "Db",
+    "note": "Db",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-15 L-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Paul H. Epps"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When the road is rough and the way is dim,",
+        "Jesus know, Jesus cares:",
+        "When the darkness comes we can go to Him,",
+        "Jesus knows, Jesus cares."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When the heart is sad over one untrue,",
+        "Jesus knows, Jesus cares;",
+        "Go to Him in prayer, He will strengthen you,",
+        "Jesus knows, Jesus cares."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When you say goodby to your dearest friend,",
+        "Jesus knows, Jesus cares;",
+        "He will comfort you until life shall end,",
+        "Jesus knows, Jesus cares."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He knows from His throne above;",
+        "He cares with a perfect love!",
+        "Go to Jesus for peace, go to Him for rest;",
+        "Jesus knows, Jesus cares.",
+        "Copyright, 1961 Firm Foundation Publishing House. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-465_full.mid",
+    "soprano": "/audio/midi/hymn-465_soprano.mid",
+    "alto": "/audio/midi/hymn-465_alto.mid",
+    "tenor": "/audio/midi/hymn-465_tenor.mid",
+    "bass": "/audio/midi/hymn-465_bass.mid"
+  }
+}

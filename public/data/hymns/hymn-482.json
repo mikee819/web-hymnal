@@ -1,0 +1,64 @@
+{
+  "id": "hymn-482",
+  "number": "482",
+  "numberDisplay": "482",
+  "title": "Just A Closer Walk With Thee",
+  "firstLine": "I am weak but Thou art strong,",
+  "pitchInfo": {
+    "raw": "C-4-SOL F-2 G-3",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "F-2 G-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I am weak but Thou art strong,",
+        "Jesus keep me from all wrong;",
+        "I'll be satisfied as long",
+        "As I walk close to Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Thro' this world of toils and snares,",
+        "If I falter, Lord, who cares?",
+        "Who with me my burden shares?",
+        "Let me walk close to Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When my feeble life is o'er,",
+        "Time for me will be no more,",
+        "Guide me to that peaceful shore,",
+        "Let me walk close to Thee."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Just a closer walk with Thee,",
+        "Grant it, Jesus, this my plea;",
+        "Daily let it ever be",
+        "Just a closer walk with Thee."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-482_full.mid",
+    "soprano": "/audio/midi/hymn-482_soprano.mid",
+    "alto": "/audio/midi/hymn-482_alto.mid",
+    "tenor": "/audio/midi/hymn-482_tenor.mid",
+    "bass": "/audio/midi/hymn-482_bass.mid"
+  }
+}

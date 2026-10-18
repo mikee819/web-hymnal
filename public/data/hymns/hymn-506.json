@@ -1,0 +1,64 @@
+{
+  "id": "hymn-506",
+  "number": "506",
+  "numberDisplay": "506",
+  "title": "The Kingdoms Of Earth Pass Away 500 /",
+  "firstLine": "The kingdoms of earth pass away one by one,",
+  "pitchInfo": {
+    "raw": "A-4-SOL H-2 R-1",
+    "key": "A",
+    "note": "A",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2 R-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "The kingdoms of earth pass away one by one,",
+        "But the kingdom of heaven remains;",
+        "It is built on a rock and the Lord is its king,",
+        "And forever and ever He reigns."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "The tempest may rage and tits anger acclaim,",
+        "Yea, the wind and the torrents may roar,",
+        "And the strong gates of hell may assail it in vain,",
+        "Still the kingdom shall ever-more."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "The kingdom of God is now open to all,",
+        "E'en the vilest may now enter in;",
+        "There's a welcome for all who will turn to the Lord,",
+        "Full salvation and pardon for sin."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "It shall stand, It shall stand,",
+        "For ever and ever and ever,",
+        "It shall stand, It shall stand,",
+        "For ever and ever. Amen and Amen."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-506_full.mid",
+    "soprano": "/audio/midi/hymn-506_soprano.mid",
+    "alto": "/audio/midi/hymn-506_alto.mid",
+    "tenor": "/audio/midi/hymn-506_tenor.mid",
+    "bass": "/audio/midi/hymn-506_bass.mid"
+  }
+}

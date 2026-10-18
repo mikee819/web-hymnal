@@ -1,0 +1,41 @@
+{
+  "id": "hymn-510a",
+  "number": "510a",
+  "numberDisplay": "510a",
+  "title": "Psalm 8",
+  "firstLine": "O Lord, our Lord, in all the earth how excellent Thy name! Thou hast Thy glory spread afar upon the starry frame.",
+  "pitchInfo": {
+    "raw": "F-3-SOL C-11",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "SOL",
+    "inheritedFrom": "292"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "The Lord's My Shepherd",
+    "number": "292"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O Lord, our Lord, in all the earth how excellent Thy name! Thou hast Thy glory spread afar upon the starry frame.",
+        "When I regard the heav'ns above which Thine own fingers framed, and look upon the moon and stars which were by Thee ordained.",
+        "O what is man, that Thou dost him within thy thought retain? Or what the son of man, that Thou to visit him dost deign.",
+        "For Thou a little lower than the angels made; a crown of glory and renown hast placed upon his head.",
+        "Thou set him lord o'er all Thy works; beneath him all things be; all flocks and herds, all beasts and birds, and fishes of the sea.",
+        "And what-so-ever living thing the paths of ocean claim. O Lord, our Lord, in all the earth -- How very excellent Thy name!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-510a_full.mid",
+    "soprano": "/audio/midi/hymn-510a_soprano.mid",
+    "alto": "/audio/midi/hymn-510a_alto.mid",
+    "tenor": "/audio/midi/hymn-510a_tenor.mid",
+    "bass": "/audio/midi/hymn-510a_bass.mid"
+  }
+}

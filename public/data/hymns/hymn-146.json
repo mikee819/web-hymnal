@@ -1,0 +1,60 @@
+{
+  "id": "hymn-146",
+  "number": "146",
+  "numberDisplay": "146",
+  "title": "Have Thine Own Way Lord",
+  "firstLine": "Have Thine own way, Lord! Have Thine own way!",
+  "pitchInfo": {
+    "raw": "Eb-3-MI B-1 D-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "B-1 D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Have Thine own way, Lord! Have Thine own way!",
+        "Thou art the Potter, I am the clay;",
+        "Mold me and make me, after Thy will,",
+        "While I am waiting, Yielded and still."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        ". Have Thine own way, Lord! Have Thine own way!",
+        "Search me and try me, Master, today!",
+        "Whiter than snow, Lord, Wash me just now,",
+        "As in Thy presence Humbly I bow."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Have Thine own way, Lord! Have Thine own way!",
+        "Hold o'er my being, Absolute sway!",
+        "Fill with Thy Spirit, Till all shall see"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist only, always, Living in Me!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-146_full.mid",
+    "soprano": "/audio/midi/hymn-146_soprano.mid",
+    "alto": "/audio/midi/hymn-146_alto.mid",
+    "tenor": "/audio/midi/hymn-146_tenor.mid",
+    "bass": "/audio/midi/hymn-146_bass.mid"
+  }
+}

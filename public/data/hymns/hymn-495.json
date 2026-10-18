@@ -1,0 +1,81 @@
+{
+  "id": "hymn-495",
+  "number": "495",
+  "numberDisplay": "495",
+  "title": "Joy To The World * /",
+  "firstLine": "Composer; Arr. from George F. Handel",
+  "pitchInfo": {
+    "raw": "D-2-DO C-1 C-6",
+    "key": "D",
+    "note": "D",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-1 C-6",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Arr. from George F. Handel",
+        "Scripture; Psalm 98:4"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Joy to the world! the Lord is come;",
+        "Let earth receive her King;",
+        "Let every heart prepare Him room,",
+        "And heav'n and nature sing,",
+        "And heav'n and nature sing,",
+        "And heav'n and heav'n and nature sing."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Joy to the earth! the Savior reigns;",
+        "Let men their songs employ;",
+        "While fields and floods, rocks, hills and plains",
+        "Repeat the sounding joy,",
+        "Repeat the sounding joy,",
+        "Repeat, repeat the sounding joy."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "No more let sins and sorrows grow,",
+        "Nor thorns infest the ground;",
+        "He comes to make His blessings flow",
+        "Far as the curse is found,",
+        "Far as the curse is found,",
+        "Far as, far as the curse is found."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "He rules the world with truth and grace,",
+        "And makes the nations prove",
+        "The glories of His righteousness,",
+        "And wonders of His love,",
+        "And wonders of His love,",
+        "And wonders and wonders of His love."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-495_full.mid",
+    "soprano": "/audio/midi/hymn-495_soprano.mid",
+    "alto": "/audio/midi/hymn-495_alto.mid",
+    "tenor": "/audio/midi/hymn-495_tenor.mid",
+    "bass": "/audio/midi/hymn-495_bass.mid"
+  }
+}

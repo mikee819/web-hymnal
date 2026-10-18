@@ -1,0 +1,91 @@
+{
+  "id": "hymn-571",
+  "number": "571",
+  "numberDisplay": "571",
+  "title": "Glory! Glory! Hallelujah! 571 / *",
+  "firstLine": "Composer; William Steffe",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL P-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; William Steffe"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Mine eyes have seen the glory of the coming of the Lord;",
+        "He is trampling out the vintage where the grapes of wrath are stored;",
+        "He hath loosed the fateful lightning of His terrible swift sword;",
+        "His truth is marching on."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "He has sounded forth the trumpet that shall never sound retreat;",
+        "He is sifting out the hearts of men before His judgment seat;",
+        "O be swift, my soul, to answer Him! be jubilant, my feet!",
+        "Our God is marching on."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "In the beauty of the lilies Christ was born across the sea,",
+        "With a glory in His bosom that transfigures you and me;",
+        "As He died to make men holy, let us live to make men free;",
+        "While God is marching on."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Glory! glory, hallelujah!",
+        "Glory! glory, hallelujah!",
+        "Glory! glory, hallelujah!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "His truth is marching on."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Our God is marching on."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "While God is marching on."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-571_full.mid",
+    "soprano": "/audio/midi/hymn-571_soprano.mid",
+    "alto": "/audio/midi/hymn-571_alto.mid",
+    "tenor": "/audio/midi/hymn-571_tenor.mid",
+    "bass": "/audio/midi/hymn-571_bass.mid"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "hymn-39",
+  "number": "39",
+  "numberDisplay": "39",
+  "title": "God Of Our Fathers",
+  "firstLine": "God of our fathers, whose almighty hand",
+  "pitchInfo": {
+    "raw": "F-2-DO P-2 P-5",
+    "key": "F",
+    "note": "F",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-2 P-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "God of our fathers, whose almighty hand",
+        "Leads forth in beauty all the starry band",
+        "Of shining worlds in splendor through the skies,",
+        "Our grateful songs before Thy throne arise."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Thy love divine hath led us in the past;",
+        "In this free land by Thee our lot is cast;",
+        "Be Thou our ruler, guardian, guide and stay,",
+        "Thy word our law, Thy path our chosen way."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Refresh Thy people on their toilsome way;",
+        "Lead us from night to never-ending day;",
+        "Fill all our lives with love and grace divine,",
+        "And glory, laud and praise be ever Thine.",
+        "Amen."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-39_full.mid",
+    "soprano": "/audio/midi/hymn-39_soprano.mid",
+    "alto": "/audio/midi/hymn-39_alto.mid",
+    "tenor": "/audio/midi/hymn-39_tenor.mid",
+    "bass": "/audio/midi/hymn-39_bass.mid"
+  }
+}

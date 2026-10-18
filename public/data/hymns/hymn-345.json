@@ -1,0 +1,65 @@
+{
+  "id": "hymn-345",
+  "number": "345",
+  "numberDisplay": "345",
+  "title": "Room At The Cross For You",
+  "firstLine": "The cross upon which Jesus died",
+  "pitchInfo": {
+    "raw": "G-2-SOL C-17 W-4",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-17 W-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "The cross upon which Jesus died",
+        "Is a shelter in which we can hide;",
+        "And its grace so free is sufficient for me,",
+        "And deep is its fountain - as wide as the sea."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Tho' millions have found Him a friend",
+        "And have turned from the sins they have sinned,",
+        "The Savior still waits to open the gates",
+        "And welcome a sinner before it's too late."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "The hand of my Savior is strong,",
+        "And the love of my Savior is long;",
+        "Thru sunshine or rain, thru loss or in gain,",
+        "The blood flows from Calv'ry to cleanse ev'ry stain."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "There's room at the cross for you,",
+        "There's room at the cross for you;",
+        "Tho' millions have come, there's still room for one -",
+        "Yes, there's room at the cross for you.",
+        "Copyright 1946. Renewal 1973 by Ira Stanphill. Assigned to Singspiration (ASCAP). Division of the Zondervan Corporation. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-345_full.mid",
+    "soprano": "/audio/midi/hymn-345_soprano.mid",
+    "alto": "/audio/midi/hymn-345_alto.mid",
+    "tenor": "/audio/midi/hymn-345_tenor.mid",
+    "bass": "/audio/midi/hymn-345_bass.mid"
+  }
+}

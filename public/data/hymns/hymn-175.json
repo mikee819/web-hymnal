@@ -1,0 +1,56 @@
+{
+  "id": "hymn-175",
+  "number": "175",
+  "numberDisplay": "175",
+  "title": "The Breaking Of Bread",
+  "firstLine": "Dear Lord, we break the bread, In memory,",
+  "pitchInfo": {
+    "raw": "Eb-4-MI L-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "L-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Dear Lord, we break the bread, In memory,",
+        "Of that great sacrifice on Calvary;",
+        "This we do each Lord's Day, As Christ hast said,",
+        "Bless all disciples now who break the bread."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Bless Thou the cup dear Lord, To us this day,",
+        "May we with hearts prepared His Word obey;",
+        "We now His death proclaim, In His own way,",
+        "Until He comes again, We keep this day."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Our Savior now doth reign, In heav'n above,",
+        "Death's pow'r He overcame, such matchless love;",
+        "To heav'n He did ascend, There He's enthroned,",
+        "He is our dearest friend, For us atoned.",
+        "Copyright, 1956, by Ellis Crum, in \"Sacred Selections for the Church.\" International Copyright Secured."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-175_full.mid",
+    "soprano": "/audio/midi/hymn-175_soprano.mid",
+    "alto": "/audio/midi/hymn-175_alto.mid",
+    "tenor": "/audio/midi/hymn-175_tenor.mid",
+    "bass": "/audio/midi/hymn-175_bass.mid"
+  }
+}

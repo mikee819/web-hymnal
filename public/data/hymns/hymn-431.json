@@ -1,0 +1,65 @@
+{
+  "id": "hymn-431",
+  "number": "431",
+  "numberDisplay": "431",
+  "title": "None Of Self And All Of Thee",
+  "firstLine": "O, the bitter pain and sorrow That a time could ever be,",
+  "pitchInfo": {
+    "raw": "C-3-MI C-16",
+    "key": "C",
+    "note": "C",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-16",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O, the bitter pain and sorrow That a time could ever be,",
+        "When I proudly said to Jesus \"All of self,and none of Thee,\"",
+        "All of self and none of Thee, All of self and none of Thee,",
+        "When I proudly said to Jesus \"All of self and none of Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Yet He found me; I beheld Him Bleeding on th'accursed tree,",
+        "And my wistful heart said faintly, \"Some of self, and some of Thee,\"",
+        "Some of self and some of Thee, Some of self and some of Thee,",
+        "And my wistful heart said faintly \"Some of self and some of thee\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Day by day His tender mercy Healing, Helping, full and free,",
+        "Bro't me lower while I whispered \"Less of self, and more of Thee,\"",
+        "Less of self and more of Thee, Less of self and more of Thee,",
+        "Bro't me lower while I whispered \"Less of self and more of Thee.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Higher than the highest heavens, Deeper than the deepest sea,",
+        "Lord, Thy love at last has conquered \"None of self, and all of Thee,\"",
+        "None of self and all of Thee, None of self and all of Thee,",
+        "Lord, Thy love at last has conquered \"None of self and all of Thee."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-431_full.mid",
+    "soprano": "/audio/midi/hymn-431_soprano.mid",
+    "alto": "/audio/midi/hymn-431_alto.mid",
+    "tenor": "/audio/midi/hymn-431_tenor.mid",
+    "bass": "/audio/midi/hymn-431_bass.mid"
+  }
+}

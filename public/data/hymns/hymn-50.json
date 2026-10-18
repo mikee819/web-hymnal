@@ -1,0 +1,63 @@
+{
+  "id": "hymn-50",
+  "number": "50",
+  "numberDisplay": "50",
+  "title": "Jesus Is Wonderful",
+  "firstLine": "Jesus is wonderful Savior divine;",
+  "pitchInfo": {
+    "raw": "F-4-DO P-2 T-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-2 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus is wonderful Savior divine;",
+        "Jesus i wonderful and He is mine!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Jesus is wonderful He is my King;",
+        "Jesus is wonderful - Of Him I Sing!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Jesus is wonderful! Blessings, I know,",
+        "Along my daily path He doth bestow."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus is wonderful, Jesus is mine -",
+        "He is the One that I love;",
+        "He is my Lord and King, Savior divine -",
+        "He is the One that I love;",
+        "Blessings, I know, He doth bestow -",
+        "Coming from heaven above;",
+        "Jesus is wonderful, Jesus i mine, -",
+        "He is the one that I love.",
+        "Copyright 1960 by Singspiration, Inc. All rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-50_full.mid",
+    "soprano": "/audio/midi/hymn-50_soprano.mid",
+    "alto": "/audio/midi/hymn-50_alto.mid",
+    "tenor": "/audio/midi/hymn-50_tenor.mid",
+    "bass": "/audio/midi/hymn-50_bass.mid"
+  }
+}

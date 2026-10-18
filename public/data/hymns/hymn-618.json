@@ -1,0 +1,65 @@
+{
+  "id": "hymn-618",
+  "number": "618",
+  "numberDisplay": "618",
+  "title": "Let Me Live Close To Thee 556 /",
+  "firstLine": "In Thy field I would wield sickles brave and true,",
+  "pitchInfo": {
+    "raw": "F-4-MI C-12",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-12",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "In Thy field I would wield sickles brave and true,",
+        "In the fight for the right I would dare and do,",
+        "Spend my days in Thy praise all the journey thru,",
+        "Let me live close to Thee each day."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Not the crown nor renown that the world might see,",
+        "I would work never shirk, blessed Lord, for Thee,",
+        "But to know where I go that my soul is free,",
+        "Let me live close to Thee each day."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Help me bear and to share some poor pilgrim's load,",
+        "Be my friend to the end of the toilsome road,",
+        "I would sing to my King in the soul's abode,",
+        "Let me live close to Thee each day."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Let me live close to Thee,",
+        "Take my hand, dear Lord, and guide me all along the rugged way;",
+        "O Let me live close to Thee,",
+        "Let me walk and talk with Thee, dear Lord, each day.",
+        "Copyright, 1938. Renewal. Stamps-Baxter Music, Owners."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-618_full.mid",
+    "soprano": "/audio/midi/hymn-618_soprano.mid",
+    "alto": "/audio/midi/hymn-618_alto.mid",
+    "tenor": "/audio/midi/hymn-618_tenor.mid",
+    "bass": "/audio/midi/hymn-618_bass.mid"
+  }
+}

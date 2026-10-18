@@ -1,0 +1,43 @@
+{
+  "id": "hymn-503",
+  "number": "503",
+  "numberDisplay": "503",
+  "title": "Enter Into His Gates * /",
+  "firstLine": "Key; Eb Starting Note: Bb",
+  "pitchInfo": {
+    "raw": "Eb-4-SOL T-2 P-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "T-2 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Key; Eb Starting Note: Bb"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Enter into His gates with thanksgiving,",
+        "And into His courts with praise;",
+        "Be thankful unto Him,",
+        "And bless His name,",
+        "For the Lord is good."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-503_full.mid",
+    "soprano": "/audio/midi/hymn-503_soprano.mid",
+    "alto": "/audio/midi/hymn-503_alto.mid",
+    "tenor": "/audio/midi/hymn-503_tenor.mid",
+    "bass": "/audio/midi/hymn-503_bass.mid"
+  }
+}

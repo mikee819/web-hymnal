@@ -1,0 +1,66 @@
+{
+  "id": "hymn-94",
+  "number": "94",
+  "numberDisplay": "94",
+  "title": "Savior, Breathe And Evening Blessing",
+  "firstLine": "Savior, breathe an evening blessing",
+  "pitchInfo": {
+    "raw": "Bb-2-SOL C-14 D-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-14 D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Savior, breathe an evening blessing",
+        "Ere repose our spirits seal;",
+        "Sin and want we come confessing;",
+        "Thou canst save and Thou canst heal."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Tho' destruction walk around us,",
+        "Tho' the arrows past us fly,",
+        "Angel guards from Thee surround us;",
+        "We are safe if Thou art nigh."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Tho' the night be dark and dreary,",
+        "Darkness cannot hide from Thee;",
+        "Thou art He who, never weary,",
+        "Watchest where Thy people be."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Should swift death this night o'er take us,",
+        "And our couch become our tomb,",
+        "May the morn in heav'n awake us,",
+        "Clad in bright and deathless bloom.",
+        "Amen."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-94_full.mid",
+    "soprano": "/audio/midi/hymn-94_soprano.mid",
+    "alto": "/audio/midi/hymn-94_alto.mid",
+    "tenor": "/audio/midi/hymn-94_tenor.mid",
+    "bass": "/audio/midi/hymn-94_bass.mid"
+  }
+}

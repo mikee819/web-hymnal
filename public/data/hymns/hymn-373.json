@@ -1,0 +1,56 @@
+{
+  "id": "hymn-373",
+  "number": "373",
+  "numberDisplay": "373",
+  "title": "Hold Thou My Hand",
+  "firstLine": "Hold Thou my hand, so weak I am, and helpless,",
+  "pitchInfo": {
+    "raw": "Ab-2-SOL D-1 G-3",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "D-1 G-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Hold Thou my hand, so weak I am, and helpless,",
+        "I dare not take one step without Thine aid;",
+        "Hold Thou my hand, for then, O loving Savior,",
+        "No dread of ill shall make my soul afraid."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Hold Thou my hand, and closer, closer draw me",
+        "To Thy dear self, my hope, my joy my all;",
+        "Hold Thou my hand, lest haply I should wander;",
+        "And missing thee, my trembling feet shall fall."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Hold Thou my hand, that when I reach the margin",
+        "Of that lone river Thou didst cross for me;",
+        "A heav'nly light may flash along its waters",
+        "And ev'ry wave like crystal bright shall be.",
+        "Amen"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-373_full.mid",
+    "soprano": "/audio/midi/hymn-373_soprano.mid",
+    "alto": "/audio/midi/hymn-373_alto.mid",
+    "tenor": "/audio/midi/hymn-373_tenor.mid",
+    "bass": "/audio/midi/hymn-373_bass.mid"
+  }
+}

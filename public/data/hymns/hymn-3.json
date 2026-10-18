@@ -1,0 +1,64 @@
+{
+  "id": "hymn-3",
+  "number": "3",
+  "numberDisplay": "3",
+  "title": "Lift Your Voice In Praise 3 /",
+  "firstLine": "Lord, God of all the earth,",
+  "pitchInfo": {
+    "raw": "F-4-DO C-6 P-2",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-6 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Lord, God of all the earth,",
+        "We praise Thy holy name:",
+        "The King of kings and Lord of Lords,",
+        "Shall ever be the same."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Lord, God, Thy grace and power",
+        "Delivers us from sin;",
+        "The Lamb of God and Prince of peace,",
+        "The victory shall win."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Lord, God of faith and love,",
+        "We give our hearts to Thee;",
+        "The Living Word, the great I AM,",
+        "Our hope shall ever be."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "How wonderful, how glorious",
+        "Is Christ our King above.",
+        "Let us all rejoice, O lift your voice",
+        "In praise of his grace and love."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-3_full.mid",
+    "soprano": "/audio/midi/hymn-3_soprano.mid",
+    "alto": "/audio/midi/hymn-3_alto.mid",
+    "tenor": "/audio/midi/hymn-3_tenor.mid",
+    "bass": "/audio/midi/hymn-3_bass.mid"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "hymn-165",
+  "number": "165",
+  "numberDisplay": "165",
+  "title": "Thus Remember Me",
+  "firstLine": "Jesus, on the night betrayed,",
+  "pitchInfo": {
+    "raw": "Ab-3-SOL L-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "L-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus, on the night betrayed,",
+        "Honored God as He blest the bread,",
+        "And to His disciples said:",
+        "\"Thus remember me.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Jesus, given in our stead,",
+        "Blest the fruit of the vine, and said:",
+        "\"This, my blood, for you is shed;",
+        "So, remember me.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Lord, we thank Thee for the bread,",
+        "And the cup from the nameless dread;",
+        "Help us to discern our head;",
+        "And remember Thee.",
+        "Copyright 1971. Leon B. Sanderson, Owner. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-165_full.mid",
+    "soprano": "/audio/midi/hymn-165_soprano.mid",
+    "alto": "/audio/midi/hymn-165_alto.mid",
+    "tenor": "/audio/midi/hymn-165_tenor.mid",
+    "bass": "/audio/midi/hymn-165_bass.mid"
+  }
+}

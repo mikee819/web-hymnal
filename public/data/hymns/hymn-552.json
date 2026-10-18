@@ -1,0 +1,79 @@
+{
+  "id": "hymn-552",
+  "number": "552",
+  "numberDisplay": "552",
+  "title": "Living For Jesus 523 /",
+  "firstLine": "Living for Jesus a life that is true,",
+  "pitchInfo": {
+    "raw": "F-4-MI C-12 D-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-12 D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Living for Jesus a life that is true,",
+        "Striving to please Him in all that I do;",
+        "Yielding allegiance, glad hearted and free,",
+        "This is the pathway of blessing for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Living for Jesus who died in my place,",
+        "Bearing on Calv'ry my sin and disgrace;",
+        "Such love constrains me to answer His call,",
+        "Follow His leading and give Him my all."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Living for Jesus wher'ever I am,",
+        "Doing each duty in His holy name;",
+        "Willing to suffer affliction and loss,",
+        "Deeming each trial a part of my cross."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Living for Jesus thru earth's little while,",
+        "My dearest treasure, the light of His smile;",
+        "Seeking the lost ones He died to redeem,",
+        "Bringing the weary to find rest in Him."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O Jesus, Lord and Savior,",
+        "I give myself to Thee,",
+        "For Thou in Thy atonement,",
+        "Didst give Thyself for me;",
+        "I own no other Master,",
+        "My heart shall be Thy throne;",
+        "My life I give, henceforth to live,",
+        "O Christ, for Thee alone.",
+        "Copyright 1917 by Heidelberg Press. Renewed 1945 by C. Harold Lowden. Assigned to The Rodeheaver Company. (A Div. of WORD, INC.) All Rights Reserved. International Copyright Secured. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-552_full.mid",
+    "soprano": "/audio/midi/hymn-552_soprano.mid",
+    "alto": "/audio/midi/hymn-552_alto.mid",
+    "tenor": "/audio/midi/hymn-552_tenor.mid",
+    "bass": "/audio/midi/hymn-552_bass.mid"
+  }
+}

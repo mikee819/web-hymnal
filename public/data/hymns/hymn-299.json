@@ -1,0 +1,68 @@
+{
+  "id": "hymn-299",
+  "number": "299",
+  "numberDisplay": "299",
+  "title": "Glory To God * /",
+  "firstLine": "Glory to God, yes, glory to You,",
+  "pitchInfo": {
+    "raw": "E-4-MI P-2",
+    "key": "E",
+    "note": "E",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Glory to God, yes, glory to You,",
+        "Splendor and majesty,",
+        "Righteousness too;",
+        "Eternal dominion, the praises of men",
+        "Are yours forever and ever again."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "For Yours is the Kingdom,",
+        "The pow'r and the glory,",
+        "Your is creation, redemption's story;",
+        "Yours is the Love in Christ we see,",
+        "Yours is the beauty of Jesus in me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Lord, give me compassion for souls that are lost,",
+        "Give me a mind that's counted the cost;",
+        "Give me the courage to master my sin,",
+        "Give me the Spirit of Jesus within."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O how can I thank You for all You have done;",
+        "For Christ who died, my heavenly home,",
+        "Love of the faithful, Your Word so true,",
+        "The hope of glory forever with You.",
+        "Copyright 1990 by Steve Kearney & Sammy Stirling. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-299_full.mid",
+    "soprano": "/audio/midi/hymn-299_soprano.mid",
+    "alto": "/audio/midi/hymn-299_alto.mid",
+    "tenor": "/audio/midi/hymn-299_tenor.mid",
+    "bass": "/audio/midi/hymn-299_bass.mid"
+  }
+}

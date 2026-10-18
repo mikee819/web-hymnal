@@ -1,0 +1,74 @@
+{
+  "id": "hymn-624",
+  "number": "624",
+  "numberDisplay": "624",
+  "title": "We'll Be Like Him 559 /",
+  "firstLine": "When the Savior comes for His chosen ones",
+  "pitchInfo": {
+    "raw": "Bb-4-MI S-2",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "S-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When the Savior comes for His chosen ones",
+        "We'll be like Him, We'll be like Him",
+        "When the bright day breaks and the dead awakes;",
+        "We'll be like Him when He comes."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Let the message ring over hill and plain,",
+        "We'll be like Him, We'll be like Him",
+        "Send it far and wide on the gospel tide;",
+        "We'll be like Him when He comes."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "He's the One we love, He's the One we prove,",
+        "We'll be like Him, We'll be like Him",
+        "He's the One who cheers thru the weary years;",
+        "We'll be like Him when He comes."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Tho' He tarry long, this will be our song,",
+        "We'll be like Him, We'll be like Him",
+        "Tho' the path be dim we will cling to Him;",
+        "We'll be like Him when He comes."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "s. We'll be like Him, sing the glad refrain;",
+        "We'll be like Him when He come again;",
+        "Blessed thought to me that His face I'll see,",
+        "And be like Him when He comes."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-624_full.mid",
+    "soprano": "/audio/midi/hymn-624_soprano.mid",
+    "alto": "/audio/midi/hymn-624_alto.mid",
+    "tenor": "/audio/midi/hymn-624_tenor.mid",
+    "bass": "/audio/midi/hymn-624_bass.mid"
+  }
+}

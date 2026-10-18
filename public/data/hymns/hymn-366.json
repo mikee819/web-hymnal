@@ -1,0 +1,67 @@
+{
+  "id": "hymn-366",
+  "number": "366",
+  "numberDisplay": "366",
+  "title": "Rescue The Perishing",
+  "firstLine": "Rescue the perishing, Care for the dying,",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL S-5",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "S-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Rescue the perishing, Care for the dying,",
+        "Snatch them in pity from sin and the grave;",
+        "Weep o'er the erring one, Lift up the fallen,",
+        "Tell them of Jesus the mighty to save."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Down in the human heart, Crushed by the tempter,",
+        "Feelings lie buried that grace can restore;",
+        "Touched by a loving heart, Wakened by kindness,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ords that were broken will vibrate once more."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Rescue the perishing, Duty demands it,",
+        "Strength for thy labor the Lord will provide;",
+        "Back to the narrow way Patiently win them;",
+        "Tell the poor wand'rer a Savior has died."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Rescue the perishing, Care for the dying;",
+        "Jesus is merciful, Jesus will save."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-366_full.mid",
+    "soprano": "/audio/midi/hymn-366_soprano.mid",
+    "alto": "/audio/midi/hymn-366_alto.mid",
+    "tenor": "/audio/midi/hymn-366_tenor.mid",
+    "bass": "/audio/midi/hymn-366_bass.mid"
+  }
+}

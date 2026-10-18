@@ -1,0 +1,38 @@
+{
+  "id": "hymn-550a",
+  "number": "550a",
+  "numberDisplay": "550a",
+  "title": "Psalm 146",
+  "firstLine": "Hallelujah! Praise Jehovah! O my soul, Jehovah praise! while I live I'll praise Jehovah, praise my God through all my days. Put not confidence in princes, nor for help on man depend; He shall die, to dust returning, and his purposes shall end.",
+  "pitchInfo": {
+    "raw": "F-4-SOL C-5",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "SOL",
+    "inheritedFrom": "69"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "What A Friend We Have In Jesus -",
+    "number": "69"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Hallelujah! Praise Jehovah! O my soul, Jehovah praise! while I live I'll praise Jehovah, praise my God through all my days. Put not confidence in princes, nor for help on man depend; He shall die, to dust returning, and his purposes shall end.",
+        "Happy is the man who chooses Jacob's God to be his aid; He is blessed whose hope of blessing on the Lord his God is stayed. He has made the earth and heaven, seas, and all that they contain; He will keep His truth forever, rights of those oppress'd maintain.",
+        "Food Jehovah gives the hungry, sight Jehovah gives the blind, freedom gives He to the pris'ner, cheer to those bowed down in mind. Well Jehovah loves the righteous; through all ages He is King, helps the fatherless and widow, to Jehovah praises sing!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-550a_full.mid",
+    "soprano": "/audio/midi/hymn-550a_soprano.mid",
+    "alto": "/audio/midi/hymn-550a_alto.mid",
+    "tenor": "/audio/midi/hymn-550a_tenor.mid",
+    "bass": "/audio/midi/hymn-550a_bass.mid"
+  }
+}

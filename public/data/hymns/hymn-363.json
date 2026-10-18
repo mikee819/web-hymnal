@@ -1,0 +1,65 @@
+{
+  "id": "hymn-363",
+  "number": "363",
+  "numberDisplay": "363",
+  "title": "He Hideth My Soul",
+  "firstLine": "A wonderful Savior is Jesus my Lord,",
+  "pitchInfo": {
+    "raw": "D-2-SOL C-10",
+    "key": "D",
+    "note": "D",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-10",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "A wonderful Savior is Jesus my Lord,",
+        "A wonderful Savior to me;",
+        "He hideth my soul in the cleft of the rock,",
+        "Where rivers of pleasure I see."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "A wonderful Savior is Jesus my Lord,",
+        "He taketh my burden away;",
+        "He holdeth me up, and I shall not be moved,",
+        "He giveth me strength as my day."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When clothed in His brightness, transported I rise",
+        "To meet Him in clouds of the sky,",
+        "His perfect salvation, His wonderful love",
+        "I'll shout with the millions on high."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He hideth my soul in the cleft of the rock",
+        "That shadows a dry, thirsty land;",
+        "He hideth my life with the depths of His love,",
+        "And covers me there with His hand,",
+        "And covers me there with His hand."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-363_full.mid",
+    "soprano": "/audio/midi/hymn-363_soprano.mid",
+    "alto": "/audio/midi/hymn-363_alto.mid",
+    "tenor": "/audio/midi/hymn-363_tenor.mid",
+    "bass": "/audio/midi/hymn-363_bass.mid"
+  }
+}

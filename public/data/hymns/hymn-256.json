@@ -1,0 +1,55 @@
+{
+  "id": "hymn-256",
+  "number": "256",
+  "numberDisplay": "256",
+  "title": "Each Step Of The Way",
+  "firstLine": "I walk with the Savior each step of the way,",
+  "pitchInfo": {
+    "raw": "Eb-4-MI G-3 H-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "G-3 H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I walk with the Savior each step of the way,",
+        "I trust Him to guide me by night and by day;",
+        "Not dreading tomorrow nor what it may bring,",
+        "I'm safe in the keeping of Jesus the King."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "With joy we shall enter the city, up there,",
+        "Of wonderful beauty and mansions all fair;",
+        "His own shall be changed and make like Him that day,",
+        "Because we've walked with him each step of the way."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Each step of the way, by night and by day;",
+        "Leads nearer the home eternally fair,",
+        "Where we shall meet loved one, awaiting us there,",
+        "Who walked here with Jesus each step of the way.",
+        "Copyright 1962 by Stamps-Baxter Music."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-256_full.mid",
+    "soprano": "/audio/midi/hymn-256_soprano.mid",
+    "alto": "/audio/midi/hymn-256_alto.mid",
+    "tenor": "/audio/midi/hymn-256_tenor.mid",
+    "bass": "/audio/midi/hymn-256_bass.mid"
+  }
+}

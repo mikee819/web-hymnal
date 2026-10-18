@@ -1,0 +1,46 @@
+{
+  "id": "hymn-670",
+  "number": "670",
+  "numberDisplay": "670",
+  "title": "The Lord Bless You And Keep You 588 /",
+  "firstLine": "Composer; Peter C. Lutkin",
+  "pitchInfo": {
+    "raw": "C-4-SOL W-2",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "W-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Peter C. Lutkin"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "The Lord bless you and keep you,",
+        "The Lord lift his countenance upon you,",
+        "And give you peace, and give your peace.",
+        "The Lord make his face to shine upon you",
+        "And be gracious unto you, be gracious",
+        "The Lord be gracious, gracious unto you. A-men",
+        "Seven-fold Amen",
+        "Amen, Amen, Amen, Amen, Amen, Amen, Amen."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-670_full.mid",
+    "soprano": "/audio/midi/hymn-670_soprano.mid",
+    "alto": "/audio/midi/hymn-670_alto.mid",
+    "tenor": "/audio/midi/hymn-670_tenor.mid",
+    "bass": "/audio/midi/hymn-670_bass.mid"
+  }
+}

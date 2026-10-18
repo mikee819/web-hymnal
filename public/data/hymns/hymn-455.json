@@ -1,0 +1,64 @@
+{
+  "id": "hymn-455",
+  "number": "455",
+  "numberDisplay": "455",
+  "title": "Take My Hand And Lead Me",
+  "firstLine": "I want to live, dear Lord for Thee,",
+  "pitchInfo": {
+    "raw": "Bb-3-MI F-2 H-4",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "F-2 H-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I want to live, dear Lord for Thee,",
+        "O! keep me ev'ry day;",
+        "A faithful servant let me be,",
+        "Along life's rugged way."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When Satan would my hopes alarm,",
+        "O! shelter Thou, my soul;",
+        "Protect me with Thy mighty arm,",
+        "Thy strength will keep me whole."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Let me each day, Thy spirit feel;",
+        "Increase my courage, Lord",
+        "To walk by faith, endowed with zeal,",
+        "Directed by Thy Word."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Take my hand and lead me,",
+        "Anywhere you need me;",
+        "With Thy Spirit feed me,",
+        "Till I'm safe at home."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-455_full.mid",
+    "soprano": "/audio/midi/hymn-455_soprano.mid",
+    "alto": "/audio/midi/hymn-455_alto.mid",
+    "tenor": "/audio/midi/hymn-455_tenor.mid",
+    "bass": "/audio/midi/hymn-455_bass.mid"
+  }
+}

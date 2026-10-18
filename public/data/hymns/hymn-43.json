@@ -1,0 +1,55 @@
+{
+  "id": "hymn-43",
+  "number": "43",
+  "numberDisplay": "43",
+  "title": "God Is The Fountain Whence",
+  "firstLine": "God is the fountain whence",
+  "pitchInfo": {
+    "raw": "F-3-DO P-2",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "God is the fountain whence",
+        "Ten thousand blessings flow;",
+        "To him my life, my health, and friends,",
+        "And every good I owe."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "The comforts He affords",
+        "Are neither few nor small;",
+        "He is the source of fresh delights,",
+        "My portion and my all."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "He fills my heart with joy,",
+        "My lips attunes for praise;",
+        "And to His glory I'll devote",
+        "The remnant of my days."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-43_full.mid",
+    "soprano": "/audio/midi/hymn-43_soprano.mid",
+    "alto": "/audio/midi/hymn-43_alto.mid",
+    "tenor": "/audio/midi/hymn-43_tenor.mid",
+    "bass": "/audio/midi/hymn-43_bass.mid"
+  }
+}

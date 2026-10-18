@@ -1,0 +1,63 @@
+{
+  "id": "hymn-539",
+  "number": "539",
+  "numberDisplay": "539",
+  "title": "Share My Burdens, Lord * /",
+  "firstLine": "Dear Lord, I pray that Thou wilt help me bear my heavy load;",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL P-3",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Dear Lord, I pray that Thou wilt help me bear my heavy load;",
+        "Please share it with me, precious Lord,",
+        "'till I walk heaven's road."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "For in this world I know I need a thorn within my side.",
+        "On Thee, my God, I will depend,",
+        "And in Thy grace abide."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "If in this life I had no care to burden me each day,",
+        "I may not long for heaven's home",
+        "As I pass by this way."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "So, my dear God, I do not askthat I be burden free;",
+        "Just hold my hand in thine, dear Lord,",
+        "and lead me home to Thee.",
+        "Amen",
+        "Copyright 1991 by Floyd D. Chappelear. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-539_full.mid",
+    "soprano": "/audio/midi/hymn-539_soprano.mid",
+    "alto": "/audio/midi/hymn-539_alto.mid",
+    "tenor": "/audio/midi/hymn-539_tenor.mid",
+    "bass": "/audio/midi/hymn-539_bass.mid"
+  }
+}

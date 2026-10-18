@@ -1,0 +1,64 @@
+{
+  "id": "hymn-404",
+  "number": "404",
+  "numberDisplay": "404",
+  "title": "Harvest Time",
+  "firstLine": "Arise the Master calls for thee, The harvest days are here!",
+  "pitchInfo": {
+    "raw": "G-2-SOL S-5 W-4",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "S-5 W-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Arise the Master calls for thee, The harvest days are here!",
+        "No longer sit with folded hands, But gather far and near.",
+        "The noble ranks of volunteers Are daily growing ev'rywhere,",
+        "But still there's work for millions more! Then for the field prepare."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Go seek the lost and erring ones, Who never knew the Lord;",
+        "Go, lead them from the ways of sin, And thou shalt have reward.",
+        "Go out into the hedges, where The careless drift upon the tide,",
+        "And from the highways bring them in Let no one be denied."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "The message bear to distant lands Beyond the rolling sea;",
+        "Go, tell them of a Savior's love the Lamb of Calvary",
+        "Arise! the Master calls for Thee! Salvation full and free proclaim,",
+        "'Til ev'ry kindred, tribe and tongue Exalt the Savior's name!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Arise! arise! The Master calls for thee,",
+        "Arise! Arise! A faithful reaper be,",
+        "Arise! The field is white and days are going by,",
+        "Awake! Awake! And answer: \"Here am I!\""
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-404_full.mid",
+    "soprano": "/audio/midi/hymn-404_soprano.mid",
+    "alto": "/audio/midi/hymn-404_alto.mid",
+    "tenor": "/audio/midi/hymn-404_tenor.mid",
+    "bass": "/audio/midi/hymn-404_bass.mid"
+  }
+}

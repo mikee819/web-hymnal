@@ -1,0 +1,69 @@
+{
+  "id": "hymn-488",
+  "number": "488",
+  "numberDisplay": "488",
+  "title": "Jesus Paid It All",
+  "firstLine": "1 I hear the Savior say,",
+  "pitchInfo": {
+    "raw": "Eb-3-DO I-1 T-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "I-1 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1 I hear the Savior say,",
+        "\"Thy strength indeed is small,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ild of weakness watch and pray,",
+        "Find in Me thine all in all.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "2 Lord, now indeed I find",
+        "Thy pow'r and Thine alone,",
+        "Can change the leper's spots",
+        "And melt the heart of stone."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "And when, before the throne,",
+        "I stand in Him complete,",
+        "\"Jesus died my soul to save,\"",
+        "My lips shall still repeat."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus paid it all,",
+        "All to Him I owe;",
+        "Sin had left a crimson stain,",
+        "He washed it white as snow."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-488_full.mid",
+    "soprano": "/audio/midi/hymn-488_soprano.mid",
+    "alto": "/audio/midi/hymn-488_alto.mid",
+    "tenor": "/audio/midi/hymn-488_tenor.mid",
+    "bass": "/audio/midi/hymn-488_bass.mid"
+  }
+}

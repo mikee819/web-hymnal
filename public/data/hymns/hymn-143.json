@@ -1,0 +1,67 @@
+{
+  "id": "hymn-143",
+  "number": "143",
+  "numberDisplay": "143",
+  "title": "Glorious Things Of Thee Are Spoken",
+  "firstLine": "Glorious things of thee are spoken,",
+  "pitchInfo": {
+    "raw": "F-4-DO K-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "K-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Glorious things of thee are spoken,",
+        "Zion, city of our God!",
+        "He whose word cannot be broken",
+        "Formed thee for His own abode:",
+        "On the rock of ages founded,",
+        "What can shake thy sure repose?",
+        "With salvation's walls surrounded,",
+        "Thou may'st smile at all thy foes."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "See, the streams of living waters,",
+        "Springing, from eternal love,",
+        "Well supply thy sons and daughters,",
+        "And all fear of want remove:",
+        "Who can faint while such a river",
+        "Ever flows their thirst t' assuage?",
+        "Grace, which, like the Lord the giver,",
+        "Never fails from age to age."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Savior, since of Zion's city",
+        "I, through grace a member am,",
+        "Let the world deride or pity,",
+        "I will glory in Thy name,",
+        "Fading is the worldling's pleasure,",
+        "All his boasted pomp and show;",
+        "Solid joys and lasting treasure",
+        "None but Zion's children know."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-143_full.mid",
+    "soprano": "/audio/midi/hymn-143_soprano.mid",
+    "alto": "/audio/midi/hymn-143_alto.mid",
+    "tenor": "/audio/midi/hymn-143_tenor.mid",
+    "bass": "/audio/midi/hymn-143_bass.mid"
+  }
+}

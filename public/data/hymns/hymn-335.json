@@ -1,0 +1,64 @@
+{
+  "id": "hymn-335",
+  "number": "335",
+  "numberDisplay": "335",
+  "title": "Live For Jesus",
+  "firstLine": "Live for Jesus, O my brother,",
+  "pitchInfo": {
+    "raw": "E-3-MI C-12 L-6",
+    "key": "E",
+    "note": "E",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-12 L-6",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Live for Jesus, O my brother,",
+        "His disciple ever be;",
+        "Render not to any other,",
+        "What alone the Lord's should be."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Live for Jesus, wand'ring sinner,",
+        "Under Satan serve no more;",
+        "Of the promised prize a winner",
+        "Thou may'st be, when life is o'er."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "3 Live for Jesus, in life's morning",
+        "At the noontide hour be His,",
+        "And at eve, when day is turning,",
+        "And inherit endless bliss."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Live for Jesus, live for Jesus;",
+        "Give Him all thou hast to give;",
+        "On the cross the world's Redeemer,",
+        "Gave His life that thou mights live."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-335_full.mid",
+    "soprano": "/audio/midi/hymn-335_soprano.mid",
+    "alto": "/audio/midi/hymn-335_alto.mid",
+    "tenor": "/audio/midi/hymn-335_tenor.mid",
+    "bass": "/audio/midi/hymn-335_bass.mid"
+  }
+}

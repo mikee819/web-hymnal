@@ -1,0 +1,79 @@
+{
+  "id": "hymn-472",
+  "number": "472",
+  "numberDisplay": "472",
+  "title": "God Give Us Christian Homes",
+  "firstLine": "God, give us Christian homes!",
+  "pitchInfo": {
+    "raw": "Eb-2-MI H-5",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "H-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "God, give us Christian homes!",
+        "Homes where the Bible is loved and taught,",
+        "Homes where the Master's will is sought,",
+        "Homes crowned with beauty Thy love hath wrought;",
+        "God, give us Christian homes;",
+        "God, give us Christian homes!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "God, give us Christian homes!",
+        "Homes where the father is true and strong,",
+        "Homes that are free from the blight of wrong,",
+        "Homes that are joyous with love and song;",
+        "God, give us Christian homes;",
+        "God give us Christian homes!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "God, give us Christian homes!",
+        "Homes where the mother, in queenly quest,",
+        "Strives to show others Thy way is best,",
+        "Homes where the Lord is an honored guest;",
+        "God, give us Christian homes;",
+        "God, give us Christian homes!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "God, give us Christian homes!",
+        "Homes where the children are led to know"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist in His beauty Who loves them so,",
+        "Homes where the altar fires burn and glow;",
+        "God, give us Christian homes;",
+        "God, give us Christian homes!",
+        "Amen."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-472_full.mid",
+    "soprano": "/audio/midi/hymn-472_soprano.mid",
+    "alto": "/audio/midi/hymn-472_alto.mid",
+    "tenor": "/audio/midi/hymn-472_tenor.mid",
+    "bass": "/audio/midi/hymn-472_bass.mid"
+  }
+}

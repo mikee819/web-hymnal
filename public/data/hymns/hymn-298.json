@@ -1,0 +1,55 @@
+{
+  "id": "hymn-298",
+  "number": "298",
+  "numberDisplay": "298",
+  "title": "O Perfect Love",
+  "firstLine": "O perfect Love, all human tho't transcending,",
+  "pitchInfo": {
+    "raw": "Eb-4-DO H-5 W-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "H-5 W-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O perfect Love, all human tho't transcending,",
+        "Lowly we kneel in prayer before Thy throne,",
+        "That theirs may be the love which knows no ending,",
+        "Whom Thou forevermore dost join in one."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O perfect Life, be Thou their full assurance",
+        "Of tender charity and steadfast faith,",
+        "Of patient hope and quiet, brave endurance,",
+        "With child-like trust that fears no pain nor death."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Grant them the joy which brightens earthly sorrow;",
+        "Grant them the peace which calms all earthly strife,",
+        "And to life's day the glorious unknown morrow",
+        "That dawns upon eternal love and life."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-298_full.mid",
+    "soprano": "/audio/midi/hymn-298_soprano.mid",
+    "alto": "/audio/midi/hymn-298_alto.mid",
+    "tenor": "/audio/midi/hymn-298_tenor.mid",
+    "bass": "/audio/midi/hymn-298_bass.mid"
+  }
+}

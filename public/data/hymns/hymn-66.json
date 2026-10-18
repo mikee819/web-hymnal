@@ -1,0 +1,52 @@
+{
+  "id": "hymn-66",
+  "number": "66",
+  "numberDisplay": "66",
+  "title": "God Bless You, Go With God",
+  "firstLine": "This is my daily prayer, God bless you, go with God,",
+  "pitchInfo": {
+    "raw": "Bb-4-MI C-14 E-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-14 E-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "This is my daily prayer, God bless you, go with God,",
+        "Hold fast His mighty hand, through the day;",
+        "His grace your heart sustain, His power relieve your pain,",
+        "Your prayer be not in vain, as you travel His way.",
+        "In spite of all the lies, that some may hurl,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist is the only hope of all the world;",
+        "God bless you, go with God,",
+        "Thru all eternity, My prayer will always be,",
+        "May you go with God"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Copyright 1959 by Lillenas Publishing Company. all Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-66_full.mid",
+    "soprano": "/audio/midi/hymn-66_soprano.mid",
+    "alto": "/audio/midi/hymn-66_alto.mid",
+    "tenor": "/audio/midi/hymn-66_tenor.mid",
+    "bass": "/audio/midi/hymn-66_bass.mid"
+  }
+}

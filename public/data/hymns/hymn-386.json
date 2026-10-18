@@ -1,0 +1,65 @@
+{
+  "id": "hymn-386",
+  "number": "386",
+  "numberDisplay": "386",
+  "title": "Jesus Is Coming Soon",
+  "firstLine": "Troublesome times are her, filling men's hearts with fear,",
+  "pitchInfo": {
+    "raw": "Eb-4-DO S-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "S-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Troublesome times are her, filling men's hearts with fear,",
+        "Freedom we all hold dear now is at stake;",
+        "Humb'ling your heart to God, saves from the chast'ning rod,",
+        "Seek the way pilgrims trod, Christians awake."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Love of so many cold, losing their home of gold,",
+        "Tis in God's Word is told, evils abound,",
+        "When all has come to pass, nearing the end at last,",
+        "It will come very fast, trumpets will sound."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Troubles will soon be o'er, happy forever more;",
+        "When we meet on that shore free from all care;",
+        "Rising up in the sky; telling this world goodby,",
+        "Homeward we then shall fly, glory to share."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus is coming soon, morning or night or noon,",
+        "Many will meet their doom, Trumpets will sound,",
+        "All of the dead shall rise, Righteous meet in the skies,",
+        "Going where no one dies, Heavenward bound.",
+        "Copyright, 1942, In \"Joys Supernal\", Arr. Copyright, 1968 By R. E. Winsett, Arr. Copyright, 1980, By Ellis J. Crum, Kendallville, Indiana 46755. Used By Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-386_full.mid",
+    "soprano": "/audio/midi/hymn-386_soprano.mid",
+    "alto": "/audio/midi/hymn-386_alto.mid",
+    "tenor": "/audio/midi/hymn-386_tenor.mid",
+    "bass": "/audio/midi/hymn-386_bass.mid"
+  }
+}

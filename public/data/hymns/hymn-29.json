@@ -1,0 +1,75 @@
+{
+  "id": "hymn-29",
+  "number": "29",
+  "numberDisplay": "29",
+  "title": "How Good Is The God We Adore",
+  "firstLine": "How good is the God we adore,",
+  "pitchInfo": {
+    "raw": "G-2-SOL P-2",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "How good is the God we adore,",
+        "Our faithful unchangeable Friend,",
+        "Whose love is as great as His power",
+        "And knows neither measure nor end."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "How boundless the grace He hath shown",
+        "In giving Himself on the tree",
+        "For sinners condemned and undone,",
+        "Unworthy of mercy so Free!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "How glorious to walk in the light",
+        "He sendest from heaven above,",
+        "To lean on His infinite might",
+        "And rest in His unfailing love!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "'Tis Jesus, the First and the Last,",
+        "Whose Spirit shall guide us safe home;",
+        "We'll praise Him for all that is past",
+        "And trust him for all that's to come."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "How great is Thy goodness, O Lord!",
+        "How grand and how glorious Thy name!",
+        "In earth and in heaven adored,",
+        "Redeemer and Savior of men!",
+        "Copyright 1963 by Singspiration, Inc. All Rights Reserved. used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-29_full.mid",
+    "soprano": "/audio/midi/hymn-29_soprano.mid",
+    "alto": "/audio/midi/hymn-29_alto.mid",
+    "tenor": "/audio/midi/hymn-29_tenor.mid",
+    "bass": "/audio/midi/hymn-29_bass.mid"
+  }
+}

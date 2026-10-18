@@ -1,0 +1,64 @@
+{
+  "id": "hymn-4",
+  "number": "4",
+  "numberDisplay": "4",
+  "title": "Blessed Assurance",
+  "firstLine": "1 Blessed assurance, Jesus is mine!",
+  "pitchInfo": {
+    "raw": "D-3-MI A-1 T-1",
+    "key": "D",
+    "note": "D",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "A-1 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1 Blessed assurance, Jesus is mine!",
+        "Oh, what a foretaste of glory divine!",
+        "Heir of salvation, purchase of God,",
+        "Born of His Spirit, washed in His blood."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "2 Perfect submission, perfect delight,",
+        "Visions of rapture now burst on my sight",
+        "Angels descending bring from above",
+        "Echoes of mercy, whispers of love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "3 Perfect submission, all is at rest,",
+        "I, in my Savior am happy and blest:",
+        "Watching and waiting, looking above,",
+        "Filled with His goodness, lost in His love."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "s This is my story, this is my song,",
+        "Praising my Savior all the day long;",
+        "This is my story, this is my song,",
+        "Praising my Savior all the day long."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-4_full.mid",
+    "soprano": "/audio/midi/hymn-4_soprano.mid",
+    "alto": "/audio/midi/hymn-4_alto.mid",
+    "tenor": "/audio/midi/hymn-4_tenor.mid",
+    "bass": "/audio/midi/hymn-4_bass.mid"
+  }
+}

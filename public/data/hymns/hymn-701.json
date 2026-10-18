@@ -1,0 +1,76 @@
+{
+  "id": "hymn-701",
+  "number": "701",
+  "numberDisplay": "701",
+  "title": "Walk Beside Me * /",
+  "firstLine": "Walk beside me, O my Savior,",
+  "pitchInfo": {
+    "raw": "G-3-MI G-3",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "G-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Walk beside me, O my Savior,",
+        "While life's morning sky is bright;",
+        "Grant me now Thy loving favor,",
+        "Flood my path with heav'nly light.",
+        "Whether good or ill betide me,",
+        "Whether skies be dark or clear",
+        "Ever stay so close beside me,",
+        "I may know and feel Thee near."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When the noon-tide's glowing splendor",
+        "Brings its weight of toil and care,",
+        "May Thy love, so pure and tender,",
+        "All my heavy burdens bear.",
+        "In a weary land, provide me",
+        "Shelt'ring rock and cooling spring.",
+        "When the tempest rages, hide me",
+        "Underneath Thy folded wing."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When the twilight shades descending,",
+        "Warn my soul that night is near,",
+        "With the hues of sunset blending,",
+        "Let the light of heav'n appear.",
+        "Thru the valley, savior take me,",
+        "Close my eyes when night shall come,",
+        "Then bid angel voices wake me,",
+        "Sweetly singing, \"Welcome home.\""
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Blesse Savior, walk with me;",
+        "Take away all anxious fear,",
+        "Ever stay so close beside me,",
+        "I may know and feel thee near."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-701_full.mid",
+    "soprano": "/audio/midi/hymn-701_soprano.mid",
+    "alto": "/audio/midi/hymn-701_alto.mid",
+    "tenor": "/audio/midi/hymn-701_tenor.mid",
+    "bass": "/audio/midi/hymn-701_bass.mid"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "hymn-544",
+  "number": "544",
+  "numberDisplay": "544",
+  "title": "Send The Light 519 /",
+  "firstLine": "There's a call come ringing o'er the restless waves,",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL S-5",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "S-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There's a call come ringing o'er the restless waves,",
+        "\"Send the light! Send the light!\"",
+        "There are souls to rescue, there are souls to save,",
+        "Send the light! Send the light!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "We have heard the Macedonian call today,",
+        "\"Send the light! Send the light!\"",
+        "And a golden off'ring at the cross we lay,",
+        "Send the light! Send the light!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Let us pray that grace may ev'ry where abound;",
+        "\"Send the light! Send the light!\"",
+        "And a Christ-like spirit ev'rywhere be found",
+        "Send the light! Send the light!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Let us not grow weary in the work of love,",
+        "\"Send the light! Send the light!\"",
+        "Let us gather jewels for a crown above,",
+        "Send the light! Send the light!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Send the light! the blessed gospel light;",
+        "Let it shine from shore to shore!",
+        "Sent the light! the blessed gospel light;",
+        "Let it shine for evermore."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-544_full.mid",
+    "soprano": "/audio/midi/hymn-544_soprano.mid",
+    "alto": "/audio/midi/hymn-544_alto.mid",
+    "tenor": "/audio/midi/hymn-544_tenor.mid",
+    "bass": "/audio/midi/hymn-544_bass.mid"
+  }
+}

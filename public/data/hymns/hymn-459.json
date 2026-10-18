@@ -1,0 +1,72 @@
+{
+  "id": "hymn-459",
+  "number": "459",
+  "numberDisplay": "459",
+  "title": "The Precious Book Divine",
+  "firstLine": "Composer; L. O. Sanderson",
+  "pitchInfo": {
+    "raw": "Eb-2-DO W-3 W-4",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "W-3 W-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; L. O. Sanderson"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "How precious is the Book divine,",
+        "By inspiration giv'n!",
+        "Bright as a lamp its precepts shine,",
+        "To guide my soul to heav'n."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "It sweetly cheers my drooping heart,",
+        "In this dark vale of tears;",
+        "Light to my life it still imparts,",
+        "And quells my rising fears."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "This lamp, thro' all the tedious night",
+        "Of life, shall guide my way.",
+        "Till I behold the clearer light",
+        "Of an eternal day."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Holy book divine!",
+        "Precious treasure mine!",
+        "Lamp to my feet and a light to my way",
+        "To guide me safely home.",
+        "Copyright 1963, Renewal. Leon B. Sanderson, owner. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-459_full.mid",
+    "soprano": "/audio/midi/hymn-459_soprano.mid",
+    "alto": "/audio/midi/hymn-459_alto.mid",
+    "tenor": "/audio/midi/hymn-459_tenor.mid",
+    "bass": "/audio/midi/hymn-459_bass.mid"
+  }
+}

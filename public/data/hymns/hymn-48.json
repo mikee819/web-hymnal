@@ -1,0 +1,66 @@
+{
+  "id": "hymn-48",
+  "number": "48",
+  "numberDisplay": "48",
+  "title": "On Zion's Glorious Summit",
+  "firstLine": "On Zion's glorious summit stood",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL H-2, P-2",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2, P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "On Zion's glorious summit stood",
+        "A numerous host redeemed by blood!",
+        "They hymned their King in strains divine;",
+        "I heard the song, and strove to join,",
+        "I heard the song, and strove to join."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Here all who suffered sword or flame",
+        "For truth, or Jesus' lovely name,",
+        "Shout victory now and hail the Lamb,",
+        "And bow before the great I AM,",
+        "And bow before the great I AM."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "While everlasting ages roll,",
+        "Eternal love shall feast their soul,",
+        "And scenes of bliss, forever new,",
+        "Rise in succession to their view,",
+        "Rise in succession to their view.",
+        "SANCTUS (to be sung at the close of hymn)",
+        "Holy, Holy, Holy Lord,",
+        "God of hosts, on high adored!",
+        "Who like me Thy praise should sing,",
+        "O almighty King!",
+        "Holy, Holy, Holy Lord,",
+        "God of hosts, on high adored!",
+        "Holy, Holy, Holy."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-48_full.mid",
+    "soprano": "/audio/midi/hymn-48_soprano.mid",
+    "alto": "/audio/midi/hymn-48_alto.mid",
+    "tenor": "/audio/midi/hymn-48_tenor.mid",
+    "bass": "/audio/midi/hymn-48_bass.mid"
+  }
+}

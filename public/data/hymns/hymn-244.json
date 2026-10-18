@@ -1,0 +1,65 @@
+{
+  "id": "hymn-244",
+  "number": "244",
+  "numberDisplay": "244",
+  "title": "Over The Sunset Sea",
+  "firstLine": "Darkness is falling, the night draweth nigh,",
+  "pitchInfo": {
+    "raw": "Eb-2-MI C-15 H-2",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-15 H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Darkness is falling, the night draweth nigh,",
+        "Shadows fall dark on the lea;",
+        "Voices of saved ones are beckoning come,",
+        "Over the sunset sea."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Our hearts are heavy as they journey on,",
+        "Leaving a dear memory;",
+        "Jesus is waiting to welcome them home,",
+        "Over the sunset sea."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When my long journey on this earth is o'er,",
+        "Dear Lord, I'm coming to Thee;",
+        "Ever to rest in that heavenly home,",
+        "Over the sunset sea."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Soon I shall journey to heaven my home,",
+        "And from all sorrow be free;",
+        "Harbor lights gleaming are lighting the way.",
+        "Over the sunset sea.",
+        "Copyright, 1956, by Ellis Crum, in \"Sacred Selections for the Church.\" International Copyright secured. all rights reserved. Used by permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-244_full.mid",
+    "soprano": "/audio/midi/hymn-244_soprano.mid",
+    "alto": "/audio/midi/hymn-244_alto.mid",
+    "tenor": "/audio/midi/hymn-244_tenor.mid",
+    "bass": "/audio/midi/hymn-244_bass.mid"
+  }
+}

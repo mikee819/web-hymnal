@@ -1,0 +1,65 @@
+{
+  "id": "hymn-96",
+  "number": "96",
+  "numberDisplay": "96",
+  "title": "Our Heavenly Father Understands",
+  "firstLine": "I need the prayers of those who love me,",
+  "pitchInfo": {
+    "raw": "Ab-4-SOL C-15",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-15",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "I need the prayers of those who love me,",
+        "I need the prayers of those who care;",
+        "I need the help of every Christian,",
+        "To take God's message everywhere."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "I cannot walk the straight and narrow,",
+        "Without my Savior's guiding hand;",
+        "He'll light the way and make it fairer,",
+        "For all the faithful in this land."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "He'll hold your hand when you are dying,",
+        "Give strength to cross the Jordan wide;",
+        "He'll help you answer at the judgment,",
+        "If in His love you will abide."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He answers prayer for all the faithful,",
+        "He holds the future in his hand;",
+        "He'll guide us safely over Jordan,",
+        "Our heavenly Father understands.",
+        "Copyright 1972 by B. E. Smith, Route 2, Farmerville, Louisiana 71241. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-96_full.mid",
+    "soprano": "/audio/midi/hymn-96_soprano.mid",
+    "alto": "/audio/midi/hymn-96_alto.mid",
+    "tenor": "/audio/midi/hymn-96_tenor.mid",
+    "bass": "/audio/midi/hymn-96_bass.mid"
+  }
+}

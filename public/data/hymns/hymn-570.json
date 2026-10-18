@@ -1,0 +1,62 @@
+{
+  "id": "hymn-570",
+  "number": "570",
+  "numberDisplay": "570",
+  "title": "As The Life Of A Flower 532 /",
+  "firstLine": "As the life of a flow'r, As a breath or a sigh,",
+  "pitchInfo": {
+    "raw": "Bb-4-MI C-12",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-12",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "As the life of a flow'r, As a breath or a sigh,",
+        "So the years that we live As a dream hasten by;",
+        "True, today we are here, but tomorrow may see",
+        "Just a grave in the vale, and a mem'ry of me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "As the life of a flow'r, Be our lives pure and sweet;",
+        "May we brighten the way For the friends that we greet;",
+        "And sweet incense arise, From our heart as we live",
+        "Close to Him who doth teach Us to love and forgive."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "While we tarry below Let us trust and adore",
+        "Him who leads us each day T'ward the radiant shore",
+        "Where the sun never sets, And the flow'rs never fade,",
+        "Where no sorrow or death May its borders invade."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "As the life of a flow'r, As a breath or a sigh,",
+        "So the years glide away and alas, we must die."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-570_full.mid",
+    "soprano": "/audio/midi/hymn-570_soprano.mid",
+    "alto": "/audio/midi/hymn-570_alto.mid",
+    "tenor": "/audio/midi/hymn-570_tenor.mid",
+    "bass": "/audio/midi/hymn-570_bass.mid"
+  }
+}

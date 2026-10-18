@@ -1,0 +1,66 @@
+{
+  "id": "hymn-72",
+  "number": "72",
+  "numberDisplay": "72",
+  "title": "Be With Me, Lord",
+  "firstLine": "Be with me, Lord, I cannot live without Thee,",
+  "pitchInfo": {
+    "raw": "Eb-4-MI C-14 D-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-14 D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Be with me, Lord, I cannot live without Thee,",
+        "I dare not try to take one step alone;",
+        "I cannot bear the loads of life unaided,",
+        "I need Thy strength to lean myself upon."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Be with me, Lord, and then if dangers threaten,",
+        "If storms of trial burst above my head;",
+        "If lashing seas leap every where about me,",
+        "They cannot harm or make my heart afraid."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Be with me, Lord, no other gift or blessing,",
+        "Thou couldst bestow could with this one compare;",
+        "A constant sense of Thy abiding presence,",
+        "Where'er I am to feel that Thou art near."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Be with me, Lord, when loneliness o'er takes me,",
+        "When I must weep amid the fires of pain,",
+        "And when shall come the hour of \"my departure\"",
+        "For \"worlds unknown,\" O Lord, be with me then.",
+        "Copyright, 1963. Renewal. Leon B. Sanderson, owner. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-72_full.mid",
+    "soprano": "/audio/midi/hymn-72_soprano.mid",
+    "alto": "/audio/midi/hymn-72_alto.mid",
+    "tenor": "/audio/midi/hymn-72_tenor.mid",
+    "bass": "/audio/midi/hymn-72_bass.mid"
+  }
+}

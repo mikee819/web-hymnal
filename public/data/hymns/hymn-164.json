@@ -1,0 +1,65 @@
+{
+  "id": "hymn-164",
+  "number": "164",
+  "numberDisplay": "164",
+  "title": "The Depth Of God's Love",
+  "firstLine": "Oh, the depth and the riches of God's saving grace",
+  "pitchInfo": {
+    "raw": "Bb-2-MI L-5",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "L-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Oh, the depth and the riches of God's saving grace",
+        "Flowing down from the cross for me!",
+        "There the debt for my sins by the Savior was paid",
+        "In His suff'ring on Calvary!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "How my heart humbly bows in His presence today,",
+        "When I think of His agony,",
+        "By His stripes I am freed from the bondage of sin",
+        "Thru His suff'ring on Calvary!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O, what marvelous mercy, what infinite love!",
+        "What immeasurable grace I see!",
+        "By His blood I am cleansed; I am happy and free",
+        "Thru His suff'ring on Calvary!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, the depth of such wonderful love,",
+        "Flowing boundless and full and free!",
+        "And the debt for my sins was all paid",
+        "In His suff'ring on Calvary!",
+        "Copyright, 1938, by Tillit S. Teddlie. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-164_full.mid",
+    "soprano": "/audio/midi/hymn-164_soprano.mid",
+    "alto": "/audio/midi/hymn-164_alto.mid",
+    "tenor": "/audio/midi/hymn-164_tenor.mid",
+    "bass": "/audio/midi/hymn-164_bass.mid"
+  }
+}

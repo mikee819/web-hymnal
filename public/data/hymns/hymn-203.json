@@ -1,0 +1,64 @@
+{
+  "id": "hymn-203",
+  "number": "203",
+  "numberDisplay": "203",
+  "title": "Above The Bright Blue",
+  "firstLine": "There's a beautiful place called heaven,",
+  "pitchInfo": {
+    "raw": "A-2-MI H-2",
+    "key": "A",
+    "note": "A",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There's a beautiful place called heaven,",
+        "It is hidden above the bright blue,",
+        "Where the good, who from earth-ties are riven,",
+        "Live and love an eternity thru."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "This land of sweet rest awaits us,",
+        "Someday it will break on our view,",
+        "'Tis promised by Christ the Redeemer,",
+        "To His followers, faithful and true."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "We know not when He shall call us,",
+        "Whether soon, the glad summons shall be,",
+        "But we know, when we pass o'er the river,",
+        "The glory of Jesus we'll see."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Above the bright blue, the beautiful blue,",
+        "Jesus is waiting for me and for you;",
+        "Heaven is there, not far from our sight,",
+        "Beautiful city of light."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-203_full.mid",
+    "soprano": "/audio/midi/hymn-203_soprano.mid",
+    "alto": "/audio/midi/hymn-203_alto.mid",
+    "tenor": "/audio/midi/hymn-203_tenor.mid",
+    "bass": "/audio/midi/hymn-203_bass.mid"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "hymn-487",
+  "number": "487",
+  "numberDisplay": "487",
+  "title": "A New Creature",
+  "firstLine": "Buried with Christ, my blessed Redeemer,",
+  "pitchInfo": {
+    "raw": "Ab-3-MI B-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "B-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Buried with Christ, my blessed Redeemer,",
+        "Dead to the old life of folly and sin;",
+        "Satan may call, the world may entreat me,",
+        "There is no voice that answers within."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Dead unto sin, alive thru the Spirit,",
+        "Risen with Him from the gloom of the grave,",
+        "All things are new, and I am rejoicing,",
+        "In His great love, His power to save."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Sin hath no more its cruel dominion,",
+        "Walking in \"newness of life,\" I am free",
+        "Glorious life of Christ my Redeemer,",
+        "Which He so richly shareth with me."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dead to the world, to voices that call me,",
+        "Living a new, obed'ent but free;",
+        "Dead to the joys that once did enthrall me",
+        "Yet 'tis not I, Christ liveth in me.",
+        "Copyright, 1963, Renewal. Leon B. Sanderson, owner. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-487_full.mid",
+    "soprano": "/audio/midi/hymn-487_soprano.mid",
+    "alto": "/audio/midi/hymn-487_alto.mid",
+    "tenor": "/audio/midi/hymn-487_tenor.mid",
+    "bass": "/audio/midi/hymn-487_bass.mid"
+  }
+}

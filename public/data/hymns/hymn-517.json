@@ -1,0 +1,63 @@
+{
+  "id": "hymn-517",
+  "number": "517",
+  "numberDisplay": "517",
+  "title": "Quiet Joy * /",
+  "firstLine": "arr. by G.B.S. & R. J. Stevens",
+  "pitchInfo": {
+    "raw": "Eb-3-DO J-1",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 3,
+    "solfege": "DO"
+  },
+  "thematicRef": "J-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "arr. by G.B.S. & R. J. Stevens"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Oh joy that soars above my ways,",
+        "In ev'ry song of praise,",
+        "Borne high with rev'rent awe,",
+        "To touch the hem of God."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "My joy springs from humility,",
+        "It's held secure in trust.",
+        "My joy grows strong in suff'ring,",
+        "It's kept in thankfulness."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Oh, quiet joy from knowing God;",
+        "A precious inner peace,",
+        "Reveals eternal glory,",
+        "Where joy will never cease.",
+        "Copyright 1995 by Glenda Barnhart Schales. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-517_full.mid",
+    "soprano": "/audio/midi/hymn-517_soprano.mid",
+    "alto": "/audio/midi/hymn-517_alto.mid",
+    "tenor": "/audio/midi/hymn-517_tenor.mid",
+    "bass": "/audio/midi/hymn-517_bass.mid"
+  }
+}

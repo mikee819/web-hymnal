@@ -1,0 +1,75 @@
+{
+  "id": "hymn-177",
+  "number": "177",
+  "numberDisplay": "177",
+  "title": "Upon The First Day Of The Week",
+  "firstLine": "Upon the first day of the week,",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL L-1 W-5",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "L-1 W-5",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Upon the first day of the week,",
+        "Our Savior came forth from the grave,",
+        "He died, was buried, then arose,",
+        "To reign, to triumph, and to save!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Upon the first day of the week,",
+        "Disciples met to break the bread,",
+        "And drink the cup in memory,",
+        "Of Him whose blood for us was shed!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Upon the first day of the week,",
+        "Let each of us lay by in store,",
+        "As blessed and prospered by the Lord,",
+        "The King of kings whom we adore!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Upon this day \"beloved\" John,",
+        "Saw Christ, and heard His trumpet voice;",
+        "We, too, in spirit worship Him,",
+        "With prayer and song our hearts rejoice!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "s: Though others may forsake the Lord,",
+        "Yet, we are here Thy truth to seek:",
+        "Thy holy presence comforts us, dear Lord,",
+        "Upon the first day of the week.",
+        "Copyright, 1931, by GOSPEL ADVOCATE PUBLISHING CO. B.M TAYLOR, Owner. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-177_full.mid",
+    "soprano": "/audio/midi/hymn-177_soprano.mid",
+    "alto": "/audio/midi/hymn-177_alto.mid",
+    "tenor": "/audio/midi/hymn-177_tenor.mid",
+    "bass": "/audio/midi/hymn-177_bass.mid"
+  }
+}

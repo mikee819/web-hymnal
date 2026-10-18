@@ -1,0 +1,61 @@
+{
+  "id": "hymn-348",
+  "number": "348",
+  "numberDisplay": "348",
+  "title": "Almost Persuaded",
+  "firstLine": "\"Almost persuaded\" now to believe;",
+  "pitchInfo": {
+    "raw": "G-2-MI I-1",
+    "key": "G",
+    "note": "G",
+    "beat": 2,
+    "solfege": "MI"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "\"Almost persuaded\" now to believe;",
+        "\"Almost persuaded\" Christ to receive;",
+        "Seems now some soul to say,",
+        "\"Go, Spirit, go Thy way;",
+        "Some more convenient day",
+        "On Thee I'll call.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "\"Almost persuaded,\" come, come today;",
+        "\"Almost persuaded,\" turn not away;",
+        "Jesus invites you here,",
+        "Angels are ling'ring near,",
+        "Prayers rise from hearts so dear,",
+        "O wand'rer, come."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "\"Almost persuaded,\" harvest is past!",
+        "\"Almost persuaded,\" doom comes at last!",
+        "\"Almost\" cannot avail;",
+        "\"Almost\" is but to fail;",
+        "Sad, sad, that bitter wail",
+        "\"Almost but lost!\""
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-348_full.mid",
+    "soprano": "/audio/midi/hymn-348_soprano.mid",
+    "alto": "/audio/midi/hymn-348_alto.mid",
+    "tenor": "/audio/midi/hymn-348_tenor.mid",
+    "bass": "/audio/midi/hymn-348_bass.mid"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "hymn-247",
+  "number": "247",
+  "numberDisplay": "247",
+  "title": "Wounded For Me",
+  "firstLine": "Gladys Watkin Roberts",
+  "pitchInfo": {
+    "raw": "D-3-SOL E-1",
+    "key": "D",
+    "note": "D",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Gladys Watkin Roberts"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Wounded for me, wounded for me,",
+        "There on the cross He was wounded for me;",
+        "Gone my transgressions, and now I am free,",
+        "All because Jesus was wounded for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Dying for me, dying for me,",
+        "There on the cross He was dying for me;",
+        "Now in His death my redemption I see,",
+        "All because Jesus was dying for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Risen for me, risen for me,",
+        "Up from the grave He has risen for me;",
+        "Now evermore from death's sting I am free,",
+        "All because Jesus has risen for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Living for me, living for me,",
+        "Up in the skies He is living for me;",
+        "Daily He's pleading and praying for me",
+        "All because Jesus is living for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Coming for me, coming for me,",
+        "One glorious day He is coming for me;",
+        "Then with what joy His dear face I shall see,",
+        "Oh, how I praise Him, He's coming for me."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-247_full.mid",
+    "soprano": "/audio/midi/hymn-247_soprano.mid",
+    "alto": "/audio/midi/hymn-247_alto.mid",
+    "tenor": "/audio/midi/hymn-247_tenor.mid",
+    "bass": "/audio/midi/hymn-247_bass.mid"
+  }
+}

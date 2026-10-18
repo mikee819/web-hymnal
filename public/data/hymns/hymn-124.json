@@ -1,0 +1,63 @@
+{
+  "id": "hymn-124",
+  "number": "124",
+  "numberDisplay": "124",
+  "title": "Nearer My God To Thee",
+  "firstLine": "1 Nearer, my God, to Thee,",
+  "pitchInfo": {
+    "raw": "G-4-MI D-1",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "1 Nearer, my God, to Thee,",
+        "Nearer to Thee!",
+        "E\"en tho\" it be a cross",
+        "That raiseth me;",
+        "Still all my song shall be,",
+        "Nearer, my God, to Thee!",
+        "Nearer, my God to Thee,",
+        "Nearer to Thee!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "2 Though like a wanderer,",
+        "The sun gone down,",
+        "Darkness be over me,",
+        "My rest a stone,",
+        "Yet in my dreams I'd be,",
+        "Nearer, my God to thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Or if, on joyful wing,",
+        "Cleaving the sky,",
+        "Sun, moon and stars forgot,",
+        "Upward I fly,",
+        "Still all my song shall be,",
+        "Nearer, my God, to Thee!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-124_full.mid",
+    "soprano": "/audio/midi/hymn-124_soprano.mid",
+    "alto": "/audio/midi/hymn-124_alto.mid",
+    "tenor": "/audio/midi/hymn-124_tenor.mid",
+    "bass": "/audio/midi/hymn-124_bass.mid"
+  }
+}

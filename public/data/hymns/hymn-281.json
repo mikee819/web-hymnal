@@ -1,0 +1,55 @@
+{
+  "id": "hymn-281",
+  "number": "281",
+  "numberDisplay": "281",
+  "title": "A Savior Is Waiting",
+  "firstLine": "The Savior is waiting to enter your heart",
+  "pitchInfo": {
+    "raw": "F-3-SOL I-1",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "The Savior is waiting to enter your heart",
+        "Why don't you let him come in?",
+        "There's nothing in this world to keep you apart",
+        "What is your answer to Him?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "If you'll take one step toward the Savior, my friend,",
+        "You'll find His arms open wide;",
+        "Receive Him and all of your darkness will end,",
+        "within your heart He'll abide."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Time after time he has waited before,",
+        "And now He is waiting again",
+        "To see if you're willing to open the door -",
+        "O how He wants to come in!",
+        "Copyright 1958 by Sacred Songs (A Div. of WORD, INC.) All Rights Reserved. International Copyright Secured. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-281_full.mid",
+    "soprano": "/audio/midi/hymn-281_soprano.mid",
+    "alto": "/audio/midi/hymn-281_alto.mid",
+    "tenor": "/audio/midi/hymn-281_tenor.mid",
+    "bass": "/audio/midi/hymn-281_bass.mid"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "hymn-122",
+  "number": "122",
+  "numberDisplay": "122",
+  "title": "Now The Day Is Over",
+  "firstLine": "Now the day is over,",
+  "pitchInfo": {
+    "raw": "A-4-SOL D-1",
+    "key": "A",
+    "note": "A",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Now the day is over,",
+        "Night is drawing nigh,",
+        "Shadows of the evening",
+        "Steal across the sky."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Jesus, give the weary,",
+        "Calm and sweet repose;",
+        "With Thy tenderest blessing",
+        "May our eyelids close."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When the morning wakens,",
+        "Then may I arise,",
+        "Pure and fresh and sinless",
+        "In Thy holy eyes.",
+        "Amen"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-122_full.mid",
+    "soprano": "/audio/midi/hymn-122_soprano.mid",
+    "alto": "/audio/midi/hymn-122_alto.mid",
+    "tenor": "/audio/midi/hymn-122_tenor.mid",
+    "bass": "/audio/midi/hymn-122_bass.mid"
+  }
+}

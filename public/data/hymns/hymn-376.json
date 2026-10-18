@@ -1,0 +1,67 @@
+{
+  "id": "hymn-376",
+  "number": "376",
+  "numberDisplay": "376",
+  "title": "Onward, Christian Soldiers",
+  "firstLine": "Onward, Christian soldiers, Marching as to war,",
+  "pitchInfo": {
+    "raw": "E-4-SOL U-1 W-1",
+    "key": "E",
+    "note": "E",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "U-1 W-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Onward, Christian soldiers, Marching as to war,",
+        "With the cross of Jesus going on before;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "rist, the royal Master, Leads against the foe;",
+        "Forward into battle, See, His banners go."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Crowns and thrones may perish, Kingdoms rise and wane,",
+        "But the Church of Jesus Constant will remain;",
+        "Gates of hell can never 'Gainst that Church prevail;",
+        "We have Christ's own promise, And that cannot fail."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Onward, then, ye people, Join our happy throng;",
+        "Blend with ours your voices In the triumph song;",
+        "Glory, laud and honor, Unto Christ the King;",
+        "This thru countless ages, Men and angels sing."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Onward, Christian soldiers, Marching as to war,",
+        "With the cross of Jesus, Going on before."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-376_full.mid",
+    "soprano": "/audio/midi/hymn-376_soprano.mid",
+    "alto": "/audio/midi/hymn-376_alto.mid",
+    "tenor": "/audio/midi/hymn-376_tenor.mid",
+    "bass": "/audio/midi/hymn-376_bass.mid"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "hymn-219",
+  "number": "219",
+  "numberDisplay": "219",
+  "title": "How Sweet, How Heavenly",
+  "firstLine": "How sweet, how heav'nly, is the sight,",
+  "pitchInfo": {
+    "raw": "Bb-4-SOL L-2 U-1",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "L-2 U-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "How sweet, how heav'nly, is the sight,",
+        "When those that love the Lord",
+        "In one another's peace delight,",
+        "And so fulfill the Word."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When each can reel his brother's sigh,",
+        "And with him bear apart;",
+        "When sorrow flows from eye to eye,",
+        "And joy from heart to heart."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When, free from envy, scorn and pride,",
+        "Our wishes all above,",
+        "Each can his brother's failing hide,",
+        "And show a brother's love."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "When love in one delightful stream",
+        "Thro' ev'ry bosom flows;",
+        "When union sweet and dear esteem",
+        "In ev'ry action glows."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Love is the golden chain that binds",
+        "The happy souls above;",
+        "And he's an heir of heav'n who finds",
+        "His bosom glows with love."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-219_full.mid",
+    "soprano": "/audio/midi/hymn-219_soprano.mid",
+    "alto": "/audio/midi/hymn-219_alto.mid",
+    "tenor": "/audio/midi/hymn-219_tenor.mid",
+    "bass": "/audio/midi/hymn-219_bass.mid"
+  }
+}

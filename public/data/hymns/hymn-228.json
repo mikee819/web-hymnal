@@ -1,0 +1,64 @@
+{
+  "id": "hymn-228",
+  "number": "228",
+  "numberDisplay": "228",
+  "title": "The Christian's Welcome Home",
+  "firstLine": "How sweet will be the welcome home,",
+  "pitchInfo": {
+    "raw": "C-4-SOL H-2",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "How sweet will be the welcome home,",
+        "When this short life is o'er;",
+        "When pain and sorrow, grief and care,",
+        "Shall trouble us no more."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "When we the lovely promised land,",
+        "With spirit eyes shall see;",
+        "We'll join the holy angel band,",
+        "In praise, dear Lord, to Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "If we are faithful we shall gain,",
+        "The land of promised rest;",
+        "Where with the Savior we shall live,",
+        "And be forever blest."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Welcome home, sweet welcome home,",
+        "My home, sweet home.",
+        "Welcome home, sweet welcome home,",
+        "The Christian's welcome home."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-228_full.mid",
+    "soprano": "/audio/midi/hymn-228_soprano.mid",
+    "alto": "/audio/midi/hymn-228_alto.mid",
+    "tenor": "/audio/midi/hymn-228_tenor.mid",
+    "bass": "/audio/midi/hymn-228_bass.mid"
+  }
+}

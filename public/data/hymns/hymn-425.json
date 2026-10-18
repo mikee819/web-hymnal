@@ -1,0 +1,64 @@
+{
+  "id": "hymn-425",
+  "number": "425",
+  "numberDisplay": "425",
+  "title": "Sunshine In My Soul",
+  "firstLine": "There's sunshine in my soul today,",
+  "pitchInfo": {
+    "raw": "Ab-4-DO F-2 J-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "F-2 J-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There's sunshine in my soul today,",
+        "More glorious and bright,",
+        "Than glows in any earthly skies,",
+        "For Jesus is my light."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "There's music in my soul today,",
+        "A carol to the King,",
+        "And Jesus, listening can hear",
+        "The songs I cannot sing."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "There's gladness in my soul today,",
+        "And hope, and praise, and love,",
+        "For blessings which He gives me now,",
+        "For joys \"laid up\" above."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, there's sunshine, blessed sunshine,",
+        "When the peaceful happy moments roll;",
+        "When Jesus shows Hi smiling face",
+        "There is sunshine in my soul."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-425_full.mid",
+    "soprano": "/audio/midi/hymn-425_soprano.mid",
+    "alto": "/audio/midi/hymn-425_alto.mid",
+    "tenor": "/audio/midi/hymn-425_tenor.mid",
+    "bass": "/audio/midi/hymn-425_bass.mid"
+  }
+}

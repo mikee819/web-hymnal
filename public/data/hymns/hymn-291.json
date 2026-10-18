@@ -1,0 +1,76 @@
+{
+  "id": "hymn-291",
+  "number": "291",
+  "numberDisplay": "291",
+  "title": "Let Him Make Your Heart His Own 291 / *",
+  "firstLine": "Scripture; Revelation 3:20",
+  "pitchInfo": {
+    "raw": "F-4-DO E-1 I-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "E-1 I-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Revelation 3:20"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus is standing beside you,",
+        "Waiting to enter your heart;",
+        "Meekly and humbly entreating,",
+        "While He is tenderly pleading,",
+        "Don't let the Savior depart."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Why must you wait 'til the judgment,",
+        "So heavy laden with sin?",
+        "Sinner, there is no tomorrow,",
+        "Waiting will bring you but sorrow;",
+        "Open and let Him come in."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Open the door ere He leaves you,",
+        "Soon now His calling will cease.",
+        "While on you mercy is falling,",
+        "Answer to His gentle calling;",
+        "Now let your soul find release"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Spurn not His last invitation,",
+        "Hear him before He is gone,",
+        "Do not forsake Him,",
+        "O sinner, Let your heart break, let him enter,",
+        "Let Him make your heart His own.",
+        "Copyright 1986, Shepard-Stevens Music, Inc. in \"Hymns For Worship\". Harry Presley & R. J. Stevens, owners. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-291_full.mid",
+    "soprano": "/audio/midi/hymn-291_soprano.mid",
+    "alto": "/audio/midi/hymn-291_alto.mid",
+    "tenor": "/audio/midi/hymn-291_tenor.mid",
+    "bass": "/audio/midi/hymn-291_bass.mid"
+  }
+}

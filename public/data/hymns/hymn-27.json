@@ -1,0 +1,86 @@
+{
+  "id": "hymn-27",
+  "number": "27",
+  "numberDisplay": "27",
+  "title": "Joyful, Joyful We Adore Thee",
+  "firstLine": "Joyful, joyful, we adore Thee,",
+  "pitchInfo": {
+    "raw": "G-4-MI J-1 P-2",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "J-1 P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Joyful, joyful, we adore Thee,",
+        "God of glory, Lord of love:",
+        "Hearts unfold like flowers before Thee,",
+        "Opening to the sun above,",
+        "Melt the clouds of sin and sadness;",
+        "Drive the dark of doubt away;",
+        "Giver of immortal gladness,",
+        "Fill us with the light of day!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "All Thy works with joy surround Thee,",
+        "Earth and heaven reflect Thy rays,",
+        "Stars and angels sing around Thee,",
+        "Center of unbroken praise;",
+        "Field and forest, vale and mountain,",
+        "Flowery meadow, flashing sea,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "anting bird and flowing fountain",
+        "Call us to rejoice in Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Thou art giving and forgiving,",
+        "Ever blessing, ever blest,",
+        "Well-spring of the joy of living,",
+        "Ocean depth of happy rest.",
+        "Thou our Father, Christ our Brother,",
+        "All who live in love are Thine;",
+        "Teach us how to love each other,",
+        "Lift us to the joy divine."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Mortals join the mighty chorus,",
+        "Which the morning stars began;",
+        "Father love is reigning over us,",
+        "Brother love binds man to man,",
+        "Ever singing, march we onward,",
+        "Victors in the midst of strife;",
+        "Joyful music leads us sunward",
+        "In the triumph song of life."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-27_full.mid",
+    "soprano": "/audio/midi/hymn-27_soprano.mid",
+    "alto": "/audio/midi/hymn-27_alto.mid",
+    "tenor": "/audio/midi/hymn-27_tenor.mid",
+    "bass": "/audio/midi/hymn-27_bass.mid"
+  }
+}

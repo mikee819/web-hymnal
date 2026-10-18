@@ -1,0 +1,38 @@
+{
+  "id": "hymn-526a",
+  "number": "526a",
+  "numberDisplay": "526a",
+  "title": "Sweet Is The Solemn Voice That Calls",
+  "firstLine": "Sweet is the solemn voice that calls the Christian to the house of prayer; I love to stand within its walls, For Thou, O Lord, art present there.",
+  "pitchInfo": {
+    "raw": "F-3-DO F-2 P-5",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "DO",
+    "inheritedFrom": "17"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Sun Of My Soul",
+    "number": "17"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Sweet is the solemn voice that calls the Christian to the house of prayer; I love to stand within its walls, For Thou, O Lord, art present there.",
+        "I love to tread the hallowed courts where two or three for worship meet; for thither Christ Himself resorts, and makes the little band complete.",
+        "'Tis sweet to raise the common song, to join in holy praise and love; and imitate the blessed throng that mingle hearts and songs above."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-526a_full.mid",
+    "soprano": "/audio/midi/hymn-526a_soprano.mid",
+    "alto": "/audio/midi/hymn-526a_alto.mid",
+    "tenor": "/audio/midi/hymn-526a_tenor.mid",
+    "bass": "/audio/midi/hymn-526a_bass.mid"
+  }
+}

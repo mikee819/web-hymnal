@@ -1,0 +1,64 @@
+{
+  "id": "hymn-221",
+  "number": "221",
+  "numberDisplay": "221",
+  "title": "The Unclouded Day",
+  "firstLine": "O, they tell me of a home far beyond the skies,",
+  "pitchInfo": {
+    "raw": "G-4-SOL H-2",
+    "key": "G",
+    "note": "G",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O, they tell me of a home far beyond the skies,",
+        "O, they tell me of a home far away;",
+        "O, they tell me of a home where no storm clouds rise,",
+        "O, they tell me of an unclouded day."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "O, they tell me of a home where the saints have gone,",
+        "O, they tell me of that land far away,",
+        "Where the tree of life in eternal bloom",
+        "Sheds its fragrance thru the unclouded day."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "O, they tell me that He smiles on His children there,",
+        "And His smile drives their sorrows all away;",
+        "And they tell me that no tears ever come again,",
+        "In that lovely land of unclouded day."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, the land of cloudless day,",
+        "O, the land of an unclouded sky;",
+        "O, they tell me of a home, where no storm clouds rise,",
+        "O, they tell me of an unclouded day."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-221_full.mid",
+    "soprano": "/audio/midi/hymn-221_soprano.mid",
+    "alto": "/audio/midi/hymn-221_alto.mid",
+    "tenor": "/audio/midi/hymn-221_tenor.mid",
+    "bass": "/audio/midi/hymn-221_bass.mid"
+  }
+}

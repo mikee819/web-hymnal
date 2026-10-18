@@ -1,0 +1,64 @@
+{
+  "id": "hymn-560",
+  "number": "560",
+  "numberDisplay": "560",
+  "title": "More Like The Master 527 /",
+  "firstLine": "More like the Master I would ever be",
+  "pitchInfo": {
+    "raw": "Db-2-SOL C-13 C-16",
+    "key": "Db",
+    "note": "Db",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-13 C-16",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "More like the Master I would ever be",
+        "More of His meekness, more humility;",
+        "More zeal to labor, more courage to be true,",
+        "More consecration for work He bids me do."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "More like the Master Is my daily prayer;",
+        "More strength to carry crosses I must bear.",
+        "More earnest effort His kingdom to increase,",
+        "More of His Spirit, the wanderer to win."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "More like the Master I would live and grow;",
+        "More of His love to others I would show;",
+        "More self denial like His in Galilee,",
+        "More like the Master; I long to ever be."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Take Thou my heart, I would be Thine alone,",
+        "Take Thou my heart and make it all Thine own;",
+        "Purge me from sin, O Lord, I now implore,",
+        "Wash me and keep me Thine forever more."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-560_full.mid",
+    "soprano": "/audio/midi/hymn-560_soprano.mid",
+    "alto": "/audio/midi/hymn-560_alto.mid",
+    "tenor": "/audio/midi/hymn-560_tenor.mid",
+    "bass": "/audio/midi/hymn-560_bass.mid"
+  }
+}

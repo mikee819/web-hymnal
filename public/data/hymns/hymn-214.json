@@ -1,0 +1,74 @@
+{
+  "id": "hymn-214",
+  "number": "214",
+  "numberDisplay": "214",
+  "title": "No Tears In Heaven",
+  "firstLine": "Composer; Robert S. Arnold",
+  "pitchInfo": {
+    "raw": "F-4-DO C-15 H-2",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-15 H-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Robert S. Arnold"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "No tears in heaven, no sorrows given,",
+        "All will be glory in that land;",
+        "There'll be no sadness, all will be gladness,",
+        "When we shall join that happy band."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Glory is waiting, waiting up yonder,",
+        "Where we shall spend and endless day;",
+        "There with our Savior, we'll be for ever,",
+        "Where no more sorrow can dismay."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Some morning yonder, we'll cease to ponder",
+        "O'er things this life has bro't to view;",
+        "All will be clearer, saved ones be dearer,",
+        "In heav'n where all will be made new."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "No tears, in heaven fair,",
+        "No tears, no tears up there,",
+        "Sorrow and pain will all have flown;",
+        "No tears, in heaven fair,",
+        "No tear, no tears up there,",
+        "No tears in heaven will be known.",
+        "Copyright, 1935, by The Stamps-Baxter Music Company, Copyright Renewal 1963 by national Music Company. All Rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-214_full.mid",
+    "soprano": "/audio/midi/hymn-214_soprano.mid",
+    "alto": "/audio/midi/hymn-214_alto.mid",
+    "tenor": "/audio/midi/hymn-214_tenor.mid",
+    "bass": "/audio/midi/hymn-214_bass.mid"
+  }
+}

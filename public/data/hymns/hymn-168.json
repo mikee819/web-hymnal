@@ -1,0 +1,65 @@
+{
+  "id": "hymn-168",
+  "number": "168",
+  "numberDisplay": "168",
+  "title": "Beneath The Cross of Jesus",
+  "firstLine": "Scripture; Philippians 2:8",
+  "pitchInfo": {
+    "raw": "Db-4-SOL C-16 C-17",
+    "key": "Db",
+    "note": "Db",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-16 C-17",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Scripture; Philippians 2:8"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Beneath the cross of Jesus I fain would take my stand,",
+        "The shadow of a might rock within a weary land;",
+        "A home within the wilderness, A rest upon the way,",
+        "From the burning of the noontime heat,",
+        "And the burden of the day."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Upon that cross of Jesus Mine eye it seems can see",
+        "The very dying form of One Who suffered there for me;",
+        "And from my smitten heart with tears Two wonders I confess,",
+        "The wonders of His glor'ous love",
+        "And my unworthiness."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "I take, O cross, thy shadow For my abiding place;",
+        "I ask no other sunshine than the sunshine of His face;",
+        "Content to let the world go by, To know no gain or loss,",
+        "My sinful self my only shame,",
+        "My glory all the cross."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-168_full.mid",
+    "soprano": "/audio/midi/hymn-168_soprano.mid",
+    "alto": "/audio/midi/hymn-168_alto.mid",
+    "tenor": "/audio/midi/hymn-168_tenor.mid",
+    "bass": "/audio/midi/hymn-168_bass.mid"
+  }
+}

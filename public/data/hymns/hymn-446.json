@@ -1,0 +1,55 @@
+{
+  "id": "hymn-446",
+  "number": "446",
+  "numberDisplay": "446",
+  "title": "Jesus, My Precious Savior",
+  "firstLine": "Jesus, my precious Savior,",
+  "pitchInfo": {
+    "raw": "Bb-2-SOL C-10",
+    "key": "Bb",
+    "note": "Bb",
+    "beat": 2,
+    "solfege": "SOL"
+  },
+  "thematicRef": "C-10",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jesus, my precious Savior,",
+        "Jesus the Lamb of Light,",
+        "Jesus, who came to save me,",
+        "Jesus, the Author: of right.",
+        "Jesus, whose love is greater,",
+        "Jesus of galilee,",
+        "Let me be worthy,",
+        "Oh Master, of all that",
+        "You've done for me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Jesus, my great Redeemer,",
+        "Thou who hast shown the way,",
+        "Jesus, my hope and refuge,",
+        "Guiding me day after day.",
+        "Jesus, who stands beside me,",
+        "Jesus of calvary,",
+        "Let me be worthy, Oh Savior,",
+        "Of heaven's eternity.",
+        "Copyright 1984 by D. Joyce Elliott. arranged by R. J. Stevens in \"Hymns For Worship\", 1986. D. Joyce Elliott, owner. All Rights Reserved."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-446_full.mid",
+    "soprano": "/audio/midi/hymn-446_soprano.mid",
+    "alto": "/audio/midi/hymn-446_alto.mid",
+    "tenor": "/audio/midi/hymn-446_tenor.mid",
+    "bass": "/audio/midi/hymn-446_bass.mid"
+  }
+}

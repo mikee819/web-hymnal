@@ -1,0 +1,66 @@
+{
+  "id": "hymn-30",
+  "number": "30",
+  "numberDisplay": "30",
+  "title": "All Things Praise Thee",
+  "firstLine": "All things praise Thee, Lord most high,",
+  "pitchInfo": {
+    "raw": "A-4-DO P-2",
+    "key": "A",
+    "note": "A",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "P-2",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "All things praise Thee, Lord most high,",
+        "Heaven and earth, and sea and sky;",
+        "All were for Thy glory made,",
+        "That Thy greatness, thus displayed,",
+        "Should all worship bring to Thee;",
+        "All things praise Thee - Lord, may we!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "All things praise Thee - night to night",
+        "Sings in silent hymns of light;",
+        "All things praise Thee - day by day"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ants Thy power in burning ray;",
+        "Time and space are praising Thee;",
+        "All things praise Thee - Lord, may we!"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "All things praise Thee: heaven's high shrine",
+        "Rings with melody divine;",
+        "Lowly bending at Thy feet,",
+        "Seraph and archangel meet;",
+        "This their highest bliss, to be",
+        "Ever praising - Lord, may we!"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-30_full.mid",
+    "soprano": "/audio/midi/hymn-30_soprano.mid",
+    "alto": "/audio/midi/hymn-30_alto.mid",
+    "tenor": "/audio/midi/hymn-30_tenor.mid",
+    "bass": "/audio/midi/hymn-30_bass.mid"
+  }
+}

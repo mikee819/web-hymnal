@@ -1,0 +1,74 @@
+{
+  "id": "hymn-395",
+  "number": "395",
+  "numberDisplay": "395",
+  "title": "A Beautiful Life",
+  "firstLine": "Each day I'll do a golden deed,",
+  "pitchInfo": {
+    "raw": "C-4-DO C-12 W-4",
+    "key": "C",
+    "note": "C",
+    "beat": 4,
+    "solfege": "DO"
+  },
+  "thematicRef": "C-12 W-4",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Each day I'll do a golden deed,",
+        "By helping those who are in need;",
+        "My life on earth is but a span,",
+        "And so I'll do the best I can."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "To be a child of God each day,",
+        "My light must shine along the way;",
+        "I'll sing His praise while ages roll",
+        "And strive to help some troubled soul."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "The only life that will endure,",
+        "Is one that's kind and good and pure;",
+        "And so for God I'll take my stand,",
+        "Each day I'll lend a helping hand."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "While going down life's weary road,",
+        "I'll try to life some trav'ler's load;",
+        "I'll try to turn the night to day,",
+        "Make flowers bloom along the way."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Life's evening sun is sinking low,",
+        "A few more days and I must go",
+        "To meet the deeds that I have done",
+        "Where there will be no setting sun."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-395_full.mid",
+    "soprano": "/audio/midi/hymn-395_soprano.mid",
+    "alto": "/audio/midi/hymn-395_alto.mid",
+    "tenor": "/audio/midi/hymn-395_tenor.mid",
+    "bass": "/audio/midi/hymn-395_bass.mid"
+  }
+}

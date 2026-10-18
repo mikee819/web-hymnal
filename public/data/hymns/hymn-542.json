@@ -1,0 +1,74 @@
+{
+  "id": "hymn-542",
+  "number": "542",
+  "numberDisplay": "542",
+  "title": "He Lifted Me 518 /",
+  "firstLine": "In loving kindness, Jesus came",
+  "pitchInfo": {
+    "raw": "G-3-SOL S-1",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "SOL"
+  },
+  "thematicRef": "S-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "In loving kindness, Jesus came",
+        "My soul in mercy to reclaim",
+        "And from the depths of sin and shame",
+        "Thro' grace He lifted me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "He called me long before I heard,",
+        "Before my sinful heart was stirred,",
+        "But when I took Him at His word,",
+        "Forgiv'n He lifted me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "His brow was pierced with many a thorn,",
+        "His hands by cruel nails were torn,",
+        "When from my guilt and grief,forlorn,",
+        "In love He lifted me."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Now on a higher plane I dwell,",
+        "And with my soul I know 'tis well,",
+        "Yet how or why, I cannot tell,",
+        "He should have lifted me."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "From sinking sand He lifted me,",
+        "With tender hand He lifted me,",
+        "From shades of night to plains of light,",
+        "O praise His name, He lifted me."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-542_full.mid",
+    "soprano": "/audio/midi/hymn-542_soprano.mid",
+    "alto": "/audio/midi/hymn-542_alto.mid",
+    "tenor": "/audio/midi/hymn-542_tenor.mid",
+    "bass": "/audio/midi/hymn-542_bass.mid"
+  }
+}

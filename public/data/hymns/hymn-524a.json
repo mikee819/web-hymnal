@@ -1,0 +1,41 @@
+{
+  "id": "hymn-524a",
+  "number": "524a",
+  "numberDisplay": "524a",
+  "title": "Psalm 1",
+  "firstLine": "O greatly blessed is the man, who walketh not astray in counsel of ungodly men, nor stands in sinners way.",
+  "pitchInfo": {
+    "raw": "G-3-DO L-6 W-1",
+    "key": "G",
+    "note": "G",
+    "beat": 3,
+    "solfege": "DO",
+    "inheritedFrom": "275"
+  },
+  "thematicRef": null,
+  "tuneRef": {
+    "title": "Am I A Soldier of the Cross",
+    "number": "275"
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "O greatly blessed is the man, who walketh not astray in counsel of ungodly men, nor stands in sinners way.",
+        "Nor sitteth in the scorner's chair, but placeth his delight upon god's law and meditates on His law day and night.",
+        "He shall be like a tree that grows, set by the waterside which in its season yields its fruit, and green its leaves abide.",
+        "And all he does shall prosper well. the wicked are not so but are like chaff which by the wind is driven to and fro.",
+        "In judgment therefore shall not stand such as ungodly are nor in th'assembly of the just shall wicked men appear.",
+        "Because the way of godly men is to Jehovah known whereas the way of wicked men shall be quite overthrown."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-524a_full.mid",
+    "soprano": "/audio/midi/hymn-524a_soprano.mid",
+    "alto": "/audio/midi/hymn-524a_alto.mid",
+    "tenor": "/audio/midi/hymn-524a_tenor.mid",
+    "bass": "/audio/midi/hymn-524a_bass.mid"
+  }
+}

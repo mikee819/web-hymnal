@@ -1,0 +1,65 @@
+{
+  "id": "hymn-198",
+  "number": "198",
+  "numberDisplay": "198",
+  "title": "An Empty Mansion",
+  "firstLine": "Here I labor and toil as I look for a home,",
+  "pitchInfo": {
+    "raw": "Eb-2-DO H-2 R-3",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 2,
+    "solfege": "DO"
+  },
+  "thematicRef": "H-2 R-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Here I labor and toil as I look for a home,",
+        "Just an humble abode among men,",
+        "While in heaven a mansion is waiting for me",
+        "And a gentle voice pleading, \"come in.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Ever thankful am I that my Savior and Lord",
+        "Promised unto the weary sweet rest;",
+        "Nothing more could I ask than a mansion above,",
+        "There to live with the saved and the blest."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "When my labor and toiling have ended below",
+        "And my hands shall lie folded in rest.",
+        "I'll exchange this old home for a mansion up there",
+        "And invite the arch-angel as guest."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "There's a mansion now empty, just waiting for me,",
+        "At the end of life's troublesome way,",
+        "And I know that the Savior will welcome me there",
+        "Near the door of that mansion someday.",
+        "Copyright, 1939, by Stamps-Baxter Music Company. Renewed 1966. Assigned to M. Lynwood Smith Publications. All rights Reserved. Used by Permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-198_full.mid",
+    "soprano": "/audio/midi/hymn-198_soprano.mid",
+    "alto": "/audio/midi/hymn-198_alto.mid",
+    "tenor": "/audio/midi/hymn-198_tenor.mid",
+    "bass": "/audio/midi/hymn-198_bass.mid"
+  }
+}

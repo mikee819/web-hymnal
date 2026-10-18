@@ -1,0 +1,55 @@
+{
+  "id": "hymn-100",
+  "number": "100",
+  "numberDisplay": "100",
+  "title": "Take My Life, O Father, Mould It",
+  "firstLine": "Take my life, O Father; mould it",
+  "pitchInfo": {
+    "raw": "F-3-MI C-12 D-1",
+    "key": "F",
+    "note": "F",
+    "beat": 3,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-12 D-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Take my life, O Father; mould it",
+        "In obedience to Thy will;",
+        "And as ripening years unfold it,",
+        "Help me keep it childlike still."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Father, keep it pure and holy,",
+        "Strong and brave, yet free from strife;",
+        "Turning from the paths unholy",
+        "Of a vain or sinful life."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Ever let Thy might surround it;",
+        "Girding well the inner mind,",
+        "Till the cords of love have bound it",
+        "Father, wholly unto Thine."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-100_full.mid",
+    "soprano": "/audio/midi/hymn-100_soprano.mid",
+    "alto": "/audio/midi/hymn-100_alto.mid",
+    "tenor": "/audio/midi/hymn-100_tenor.mid",
+    "bass": "/audio/midi/hymn-100_bass.mid"
+  }
+}

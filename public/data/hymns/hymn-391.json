@@ -1,0 +1,81 @@
+{
+  "id": "hymn-391",
+  "number": "391",
+  "numberDisplay": "391",
+  "title": "Savior, Like A Shepherd Lead Us",
+  "firstLine": "Savior, like a shepherd lead us,",
+  "pitchInfo": {
+    "raw": "Eb-4-MI C-11 G-3",
+    "key": "Eb",
+    "note": "Eb",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "C-11 G-3",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Savior, like a shepherd lead us,",
+        "Much we need Thy tender care;",
+        "In Thy pleasant pastures feed us,",
+        "For our use Thy folds prepare:",
+        "Blessed Jesus, blessed Jesus,",
+        "Thou hast bought us, Thine we are;",
+        "Blessed Jesus, blessed Jesus,",
+        "Thou hast bought us, Thine we are."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "We are Thine; do Thou befriend us,",
+        "Be the guardian of our way;",
+        "Keep Thy flock, from sin defend us,",
+        "Seek us when we go astray:",
+        "Blessed Jesus, blessed Jesus,",
+        "Hear Thy children when we pray;",
+        "Jesus, blessed Jesus,",
+        "Hear Thy children when we pray."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Thou hast promised to receive us,",
+        "Poor and sinful though we be;",
+        "Thou hast mercy to relieve us,",
+        "Grace to cleanse, and pow'r to free:",
+        "Blessed Jesus, blessed Jesus,",
+        "Early let us turn to Thee;",
+        "Blessed Jesus, blessed Jesus,",
+        "Early let us turn to Thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Early let us seek Thy favor;",
+        "Early let us do Thy will;",
+        "Blessed Lord and only Savior,",
+        "With Thy love our bosoms fill:",
+        "Blessed Jesus, blessed Jesus,",
+        "Thou hast loved us, love us still;",
+        "Blessed Jesus, blessed Jesus,",
+        "Thou hast loved us, love us still"
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-391_full.mid",
+    "soprano": "/audio/midi/hymn-391_soprano.mid",
+    "alto": "/audio/midi/hymn-391_alto.mid",
+    "tenor": "/audio/midi/hymn-391_tenor.mid",
+    "bass": "/audio/midi/hymn-391_bass.mid"
+  }
+}

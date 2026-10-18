@@ -1,0 +1,75 @@
+{
+  "id": "hymn-9",
+  "number": "9",
+  "numberDisplay": "9",
+  "title": "Our God, He Is Alive",
+  "firstLine": "There is beyond the azure blue,",
+  "pitchInfo": {
+    "raw": "Db-4-SOL P-2 T-1",
+    "key": "Db",
+    "note": "Db",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "P-2 T-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "There is beyond the azure blue,",
+        "A God concealed from human sight,",
+        "He tinted skies with heavenly hue",
+        "And framed the worlds with His great might."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "There was, a long, long time ago,",
+        "A God whose voice the prophets heard,",
+        "He is the God that we should know,",
+        "Who speaks from His inspired Word."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Secure, is life from mortal mind,",
+        "God holds the germ within His hand,",
+        "Tho' men may search, they cannot find,",
+        "For God alone does understand."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Our God, whose Son upon a tree,",
+        "A life was willing there to give,",
+        "That He from sin might set men free,",
+        "And ever more with Him could live."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "There is a God, He is alive,",
+        "In Him we live, and we survive;",
+        "From dust our God created man,",
+        "He is our God, the great I AM!",
+        "Copyright, 1966, by A. W. DICUS. International copyright secured. Assigned 1973 to Sacred Selections, Inc., Kendallville, Ind. 46755. All rights reserved. Used by permission."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-9_full.mid",
+    "soprano": "/audio/midi/hymn-9_soprano.mid",
+    "alto": "/audio/midi/hymn-9_alto.mid",
+    "tenor": "/audio/midi/hymn-9_tenor.mid",
+    "bass": "/audio/midi/hymn-9_bass.mid"
+  }
+}

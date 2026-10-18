@@ -1,0 +1,72 @@
+{
+  "id": "hymn-655",
+  "number": "655",
+  "numberDisplay": "655",
+  "title": "The Walls Came Tumbling Down 577 /",
+  "firstLine": "Key; F Starting Note: C",
+  "pitchInfo": {
+    "raw": "F-4-SOL E-1",
+    "key": "F",
+    "note": "F",
+    "beat": 4,
+    "solfege": "SOL"
+  },
+  "thematicRef": "E-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Key; F Starting Note: C"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "The Lord told Joshua to go to jericho,",
+        "And to march sev'n times around;",
+        "He followed faithfully the blessed Lord's command,",
+        "And the walls came tumbling down."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "If you are trusting in the power of the blood,",
+        "And you hope to wear a crown;",
+        "Go forward quickly, and obey the holy word,",
+        "Walls of doubt will tumble down."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "The Lord is calling, sinner, come to Him today,",
+        "Turn from this vain world's renown;",
+        "If you will follow Him in faith, like Joshua,",
+        "Walls of sin will tumble down."
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yes, the walls came tumbling down;",
+        "Joshua, marched seven times 'round",
+        "Then the walls came tumbling down.",
+        "And the walls came tumbling down.",
+        "Copyright 1949. renewal Stamps-Baxter Music, owners."
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-655_full.mid",
+    "soprano": "/audio/midi/hymn-655_soprano.mid",
+    "alto": "/audio/midi/hymn-655_alto.mid",
+    "tenor": "/audio/midi/hymn-655_tenor.mid",
+    "bass": "/audio/midi/hymn-655_bass.mid"
+  }
+}

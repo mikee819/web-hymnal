@@ -1,0 +1,71 @@
+{
+  "id": "hymn-171",
+  "number": "171",
+  "numberDisplay": "171",
+  "title": "The Lord's Supper",
+  "firstLine": "Composer; Tillit S. Teddlie",
+  "pitchInfo": {
+    "raw": "Ab-4-MI L-1",
+    "key": "Ab",
+    "note": "Ab",
+    "beat": 4,
+    "solfege": "MI"
+  },
+  "thematicRef": "L-1",
+  "tuneRef": null,
+  "sections": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Composer; Tillit S. Teddlie"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "When we meet in sweet communion",
+        "Where the feast divine is spread;",
+        "Hearts are brought in closer union",
+        "While partaking of the bread."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "\"God so loved\" what wondrous measure",
+        "Loved and gave the best of heav'n;",
+        "Bought us with that matchless treasure,",
+        "Yea, for us His life was giv'n."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Feast divine, all else surpassing,",
+        "Precious blood for you and me;",
+        "While we sup, Christ gently whispers;",
+        "\"Do this in my memory.\""
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Precious feast, all else surpassing,",
+        "Wondrous love for you and me;",
+        "While we feast Christ gently whispers;",
+        "\"Do this in my memory.\""
+      ]
+    }
+  ],
+  "tracks": {
+    "full": "/audio/midi/hymn-171_full.mid",
+    "soprano": "/audio/midi/hymn-171_soprano.mid",
+    "alto": "/audio/midi/hymn-171_alto.mid",
+    "tenor": "/audio/midi/hymn-171_tenor.mid",
+    "bass": "/audio/midi/hymn-171_bass.mid"
+  }
+}
