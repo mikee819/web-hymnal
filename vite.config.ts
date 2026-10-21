@@ -1,4 +1,4 @@
-﻿import { defineConfig } from 'vite';
+import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import tailwindcss from '@tailwindcss/vite';
 import { VitePWA } from 'vite-plugin-pwa';
@@ -41,7 +41,8 @@ export default defineConfig({
             // Cache hymn JSON metadata and local MIDI stems
             urlPattern: ({ url }) =>
               url.pathname.includes('/data/hymns/') ||
-              url.pathname.includes('/audio/midi/'),
+              url.pathname.includes('/audio/midi/') ||
+                url.pathname.includes('/audio/soundfonts/'),
             handler: 'CacheFirst',
             options: {
               cacheName: 'hymn-data-and-audio',
