@@ -98,10 +98,10 @@ export class HymnAudioPlayer {
     this.initContext();
     return await Soundfont.instrument(this.ctx!, name, {
       soundfont: 'MusyngKite',
-      soundfontUrl: `${import.meta.env.BASE_URL}audio/soundfonts/MusyngKite/`,
-      from: `${import.meta.env.BASE_URL}audio/soundfonts/MusyngKite/`,
       format: 'mp3',
       destination,
+      nameToUrl: (instrumentName: string, sf: string, format: string) =>
+        `${import.meta.env.BASE_URL}audio/soundfonts/${sf}/${instrumentName}-${format}.js`,
     } as any);
   }
 
