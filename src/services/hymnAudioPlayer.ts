@@ -1,4 +1,4 @@
-﻿import { Midi } from '@tonejs/midi';
+import { Midi } from '@tonejs/midi';
 import Soundfont from 'soundfont-player';
 
 export type PartName = 'full' | 'soprano' | 'alto' | 'tenor' | 'bass';
@@ -98,9 +98,11 @@ export class HymnAudioPlayer {
     this.initContext();
     return await Soundfont.instrument(this.ctx!, name, {
       soundfont: 'MusyngKite',
+      soundfontUrl: `${import.meta.env.BASE_URL}audio/soundfonts/MusyngKite/`,
+      from: `${import.meta.env.BASE_URL}audio/soundfonts/MusyngKite/`,
       format: 'mp3',
       destination,
-    });
+    } as any);
   }
 
   async loadHymnTracks(trackUrls: Partial<Record<PartName, string>>) {
