@@ -35,8 +35,10 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,ico,png,svg}'],
+        maximumFileSizeToCacheInBytes: 15 * 1024 * 1024, // 15MB limit for large audio soundfont packs
         runtimeCaching: [
           {
+            // Cache hymn JSON metadata and local MIDI stems
             urlPattern: ({ url }) =>
               url.pathname.includes('/data/hymns/') ||
               url.pathname.includes('/audio/midi/'),
@@ -53,12 +55,15 @@ export default defineConfig({
             },
           },
           {
-            urlPattern: /^https:\/\/raw\.githubusercontent\.com\/.*soundfont.*/i,
+            // Cache Gleitz midi-js soundfonts from any subdomain or path
+            urlPattern: ({ url }) =>
+              url.origin === 'https://gleitz.github.io' ||
+              url.href.includes('midi-js-soundfonts'),
             handler: 'CacheFirst',
             options: {
               cacheName: 'soundfont-instruments',
               expiration: {
-                maxEntries: 100,
+                maxEntries: 50,
                 maxAgeSeconds: 60 * 60 * 24 * 365,
               },
               cacheableResponse: {
