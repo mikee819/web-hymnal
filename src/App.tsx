@@ -83,7 +83,14 @@ export default function App() {
         if (data.tracks && Object.keys(data.tracks).length > 0) {
           setAudioLoading(true);
           try {
-            await audioPlayer.loadHymnTracks(data.tracks);
+            const resolvedTracks: Partial<Record<PartName, string>> = Object.fromEntries(
+              Object.entries(data.tracks).map(([part, path]) => [
+                part,
+                `${import.meta.env.BASE_URL}${typeof path === 'string' ? path.replace(/^\/+/, '') : path}`,
+              ])
+            );
+
+            await audioPlayer.loadHymnTracks(resolvedTracks);
             audioPlayer.setActiveParts(initialParts);
           } catch (err) {
             console.error('Failed to load audio tracks:', err);
